@@ -1,0 +1,12 @@
+{
+  "name": "@junaidqadir/publications",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "build-index": "node scripts/build-index.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

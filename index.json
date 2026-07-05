@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "placeholder-ai-education",
+    "title": "[PLACEHOLDER] Flagship paper on AI and engineering education — replace with a real entry",
+    "authors": [
+      "Junaid Qadir"
+    ],
+    "year": 2023,
+    "venue": "[venue TBD]",
+    "doi": null,
+    "oa_url": null,
+    "pdf": null,
+    "bibtex": null,
+    "abstract": "This is a schema-demonstration placeholder, not a real citation. Replace this file with a real flagship paper on AI-era engineering/computing education once the curated list is confirmed.\n",
+    "tags": [
+      "responsible-ai",
+      "engineering-education"
+    ],
+    "themes": [
+      "ai",
+      "education"
+    ],
+    "featured": true,
+    "status": "placeholder"
+  },
+  {
+    "slug": "placeholder-multiplexity",
+    "title": "[PLACEHOLDER] Flagship paper on multiplexity — replace with a real entry",
+    "authors": [
+      "Junaid Qadir"
+    ],
+    "year": 2022,
+    "venue": "[venue TBD]",
+    "doi": null,
+    "oa_url": null,
+    "pdf": null,
+    "bibtex": null,
+    "abstract": "This is a schema-demonstration placeholder, not a real citation. Replace this file with a real flagship paper on multiplexity/systems thinking once the curated list is confirmed. This theme is shared with the Ihsan Initiative site's Research Library.\n",
+    "tags": [
+      "multiplexity",
+      "systems-thinking"
+    ],
+    "themes": [
+      "multiplexity"
+    ],
+    "featured": true,
+    "status": "placeholder"
+  },
+  {
+    "slug": "placeholder-health-psychology",
+    "title": "[PLACEHOLDER] Flagship paper on digital health/psychology — replace with a real entry",
+    "authors": [
+      "Junaid Qadir"
+    ],
+    "year": 2021,
+    "venue": "[venue TBD]",
+    "doi": null,
+    "oa_url": null,
+    "pdf": null,
+    "bibtex": null,
+    "abstract": "This is a schema-demonstration placeholder, not a real citation. Replace this file with a real flagship paper on digital health, psychology, or well-being once the curated list is confirmed.\n",
+    "tags": [
+      "digital-health",
+      "psychology"
+    ],
+    "themes": [
+      "health-psychology"
+    ],
+    "featured": false,
+    "status": "placeholder"
+  },
+  {
+    "slug": "placeholder-ict4d",
+    "title": "[PLACEHOLDER] Flagship paper on networks/ICT4D — replace with a real entry",
+    "authors": [
+      "Junaid Qadir"
+    ],
+    "year": 2020,
+    "venue": "[venue TBD]",
+    "doi": null,
+    "oa_url": null,
+    "pdf": null,
+    "bibtex": null,
+    "abstract": "This is a schema-demonstration placeholder, not a real citation. Replace this file with a real flagship paper on networks, cybersecurity, IoT, or ICT for development once the curated list is confirmed.\n",
+    "tags": [
+      "networks",
+      "ict4d"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "featured": false,
+    "status": "placeholder"
+  },
+  {
+    "slug": "spiritual-excellence-ihsan",
+    "title": "[VERIFY DETAILS] Spiritual Excellence (Ihsan) for Professionals",
+    "authors": [
+      "Junaid Qadir"
+    ],
+    "year": null,
+    "venue": "[venue TBD]",
+    "doi": null,
+    "oa_url": null,
+    "pdf": null,
+    "bibtex": null,
+    "abstract": "Explains Ihsan as spiritual excellence — doing things beautifully, sincerely, and in accordance with Allah's ordainment, to please Allah and benefit humanity. Core reference text for the Ihsan Initiative's \"What is Ihsan?\" page. Title carried over from the source PDF filename; please confirm/complete year, venue, DOI, and abstract wording before marking this entry \"final\".\n",
+    "tags": [
+      "ihsan",
+      "spiritual-excellence",
+      "islamic-ethics"
+    ],
+    "themes": [
+      "ihsan-ethics"
+    ],
+    "featured": true,
+    "status": "placeholder"
+  }
+]

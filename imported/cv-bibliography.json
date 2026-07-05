@@ -484,10 +484,24 @@
     "slug": "2025-journal-161",
     "title": "Digital Twins for the Era of Personalized Surgery,",
     "authors": [
-      "Junaid Qadir"
+      "Y. M. Mekki",
+      "G. Luijten",
+      "E. Hagert",
+      "S. Belkhair",
+      "C. Varghese",
+      "J. Qadir",
+      "B. Solaiman",
+      "M. Bilal",
+      "J. Dhanda",
+      "J. Egger",
+      "J. Deng",
+      "V. Khanduja",
+      "A. Frangi",
+      "S. Zughaier",
+      "M. Stotland"
     ],
     "year": 2025,
-    "venue": "\"Digital Twins for the Era of Personalized Surgery",
+    "venue": "npj Digital Medicine. Accepted for publication",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -537,7 +551,15 @@
     "slug": "2025-journal-159",
     "title": "Safeguarding Connected Autonomous Vehicle Communication: Protocols, Intra- and Inter-Vehicular Attacks and Defenses,",
     "authors": [
-      "Junaid Qadir"
+      "M. Aledhari",
+      "R. Razzak",
+      "M. Rahouti",
+      "A. Yazdinejad",
+      "R. M. Parizi",
+      "B. Qolomany",
+      "M. Guizani",
+      "J. Qadir",
+      "A. Al-Fuqaha"
     ],
     "year": 2025,
     "venue": "Computers &amp; Security",
@@ -600,7 +622,8 @@
       "A. Qayyum",
       "A. Johri",
       "A. Al-Fuqaha",
-      "J. Qadir"
+      "J. Qadir",
+      "Computers"
     ],
     "year": 2025,
     "venue": "Computers and Education: Artificial Intelligence",
@@ -782,7 +805,8 @@
     "slug": "2024-journal-151",
     "title": "Internet of Everything Meets the Metaverse: Bridging Physical and Virtual Worlds with Blockchain",
     "authors": [
-      "Junaid Qadir"
+      "W. Rafique",
+      "J. Qadir"
     ],
     "year": 2024,
     "venue": "Computer Science Review",
@@ -818,7 +842,7 @@
       "J. Qadir"
     ],
     "year": 2024,
-    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "venue": "IEEE Transactions on Dependable",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -1027,10 +1051,12 @@
     "slug": "2024-journal-142",
     "title": "Editorial - Metaverse in Education: Opportunities and Challenges",
     "authors": [
-      "S. Hussain"
+      "S. Hussain",
+      "K. Meehan",
+      "J. Qadir"
     ],
     "year": 2024,
-    "venue": "K. Meehan and J. Qadir",
+    "venue": "Frontiers in Education",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -1204,7 +1230,7 @@
       "R. Buyya"
     ],
     "year": 2024,
-    "venue": "Elsevier Telematics and Informatics Reports",
+    "venue": "Elsevier Telematics",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -1379,7 +1405,8 @@
     "slug": "2023-journal-131",
     "title": "How to Program Autonomous Vehicle (AV) Crash Algorithms: An Islamic Ethical Perspective",
     "authors": [
-      "Junaid Qadir"
+      "E. Elmahjub",
+      "J. Qadir"
     ],
     "year": 2023,
     "venue": "Journal of Information, Communication and Ethics in Society",
@@ -1922,7 +1949,7 @@
       "J. Qadir"
     ],
     "year": 2022,
-    "venue": "Elsevier Computers in Biology and Medicine",
+    "venue": "Elsevier Computers in Biology",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -2080,7 +2107,7 @@
       "J. Qadir"
     ],
     "year": 2022,
-    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "venue": "IEEE Transactions on Pattern Analysis",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -2111,7 +2138,7 @@
       "J. Qadir"
     ],
     "year": 2022,
-    "venue": "Elsevier Computers in Biology and Medicine",
+    "venue": "Elsevier Computers in Biology",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -2198,7 +2225,7 @@
       "Q. H. Abbasi"
     ],
     "year": 2022,
-    "venue": "Frontiers in Communications and Networks",
+    "venue": "Frontiers in Communications",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -2252,7 +2279,7 @@
       "J. Qadir"
     ],
     "year": 2022,
-    "venue": "Journal of Network and Computer Applications (JNCA)",
+    "venue": "Journal of Network",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -2677,7 +2704,7 @@
       "D. Benhaddou"
     ],
     "year": 2021,
-    "venue": "Elsevier Renewable and Sustainable Energy Reviews",
+    "venue": "Elsevier Renewable",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -3074,7 +3101,7 @@
       "J. Qadir"
     ],
     "year": 2020,
-    "venue": "Inderscience International Journal of Pluralism and Economics Education (IJPEE) Vol. 11",
+    "venue": "Inderscience International Journal of Pluralism",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -3252,7 +3279,7 @@
       "A. Al-Fuqaha"
     ],
     "year": 2020,
-    "venue": "accepted in IEEE Communications Surveys and Tutorial",
+    "venue": "accepted in IEEE Communications Surveys",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -3430,7 +3457,7 @@
       "M. Shahzad"
     ],
     "year": 2019,
-    "venue": "IEEE Technology and Society Magazine",
+    "venue": "IEEE Technology",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -3452,10 +3479,11 @@
     "slug": "2019-journal-62",
     "title": "Sustainable Development Viewed from the Lens of Islam",
     "authors": [
-      "Junaid Qadir"
+      "J. Qadir",
+      "A. Zaman"
     ],
     "year": 2019,
-    "venue": "J. Qadir and A. Zaman",
+    "venue": "Inderscience International Journal of Pluralism",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -4541,7 +4569,7 @@
       "U. Younis"
     ],
     "year": 2016,
-    "venue": "accepted in Journal of Information Science and Engineering",
+    "venue": "accepted in Journal of Information Science",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -4915,7 +4943,7 @@
       "J. Crowcroft"
     ],
     "year": 2015,
-    "venue": "IEEE Communications Surveys and Tutorials",
+    "venue": "IEEE Communications Surveys",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -5021,7 +5049,7 @@
       "U. Ullah"
     ],
     "year": 2015,
-    "venue": "Elsevier Journal of Network and Computer Applications (JNCA)",
+    "venue": "Elsevier Journal of Network",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -5047,7 +5075,7 @@
       "O. Hasan"
     ],
     "year": 2015,
-    "venue": "IEEE Communications Surveys and Tutorials",
+    "venue": "IEEE Communications Surveys",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -5074,7 +5102,7 @@
       "A. Baig"
     ],
     "year": 2015,
-    "venue": "IEEE Journal of Communications and Networks (JCN)",
+    "venue": "IEEE Journal of Communications",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -5103,7 +5131,7 @@
       "N. Ahad"
     ],
     "year": 2014,
-    "venue": "EURASIP Journal on Wireless Communications and Networking (JWCN)",
+    "venue": "EURASIP Journal on Wireless Communications",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -5131,7 +5159,7 @@
       "Q. Shafi"
     ],
     "year": 2014,
-    "venue": "Elsevier Journal of Network and Computer Applications (JNCA)",
+    "venue": "Elsevier Journal of Network",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -5953,10 +5981,12 @@
       "M. Hadi",
       "P. Capik",
       "M. Caputo",
-      "H. Vohra"
+      "H. Vohra",
+      "A. Al-Fuqaha",
+      "J. Qadir"
     ],
     "year": 2023,
-    "venue": "A. Al-Fuqaha and J. Qadir",
+    "venue": "IEEE MetaCom 2023",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -6069,10 +6099,12 @@
     "title": "Jamming Detection in IoT Wireless Networks: An Edge-AI Based Approach",
     "authors": [
       "A. Hussain",
-      "N. Abughanam"
+      "N. Abughanam",
+      "J. Qadir",
+      "A. Mohamed"
     ],
     "year": 2022,
-    "venue": "J. Qadir and A. Mohamed",
+    "venue": "12th International Conference on the Internet of Things",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -6097,7 +6129,7 @@
       "J. Qadir"
     ],
     "year": 2022,
-    "venue": "Proceedings of 29th ISTE hosted by MIT System Design and Management",
+    "venue": "Proceedings of 29th ISTE hosted by MIT System Design",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -6307,7 +6339,7 @@
       "J. Qadir"
     ],
     "year": 2020,
-    "venue": "2nd Truth and Trust Online Conference 2020.",
+    "venue": "2nd Truth",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -6931,7 +6963,7 @@
       "M. A. Imran"
     ],
     "year": 2019,
-    "venue": "University of Glasgow Learning and Teaching Conference",
+    "venue": "University of Glasgow Learning",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8183,10 +8215,11 @@
     "slug": "2026-book-chapter-7",
     "title": "An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom",
     "authors": [
-      "Junaid Qadir"
+      "J. Qadir",
+      "R. Senturk"
     ],
     "year": 2026,
-    "venue": "J. Qadir and R. Senturk",
+    "venue": "in Handbook of Critical Studies of Artificial Intelligence",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8212,10 +8245,11 @@
     "slug": "2026-book-chapter-6",
     "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
     "authors": [
-      "Junaid Qadir"
+      "J. Qadir",
+      "R. Senturk"
     ],
     "year": 2026,
-    "venue": "J. Qadir and R. Senturk",
+    "venue": "in AI for Inclusive Education",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8239,10 +8273,11 @@
     "slug": "2026-book-chapter-5",
     "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
     "authors": [
-      "Junaid Qadir"
+      "J. Qadir",
+      "R. Senturk"
     ],
     "year": 2026,
-    "venue": "J. Qadir and R. Senturk",
+    "venue": "Taylor & Francis",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8264,10 +8299,11 @@
     "slug": "2026-book-chapter-4",
     "title": "Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development",
     "authors": [
-      "Junaid Qadir"
+      "J. Qadir",
+      "M. R. Arshad"
     ],
     "year": 2026,
-    "venue": "J. Qadir and M. R. Arshad",
+    "venue": "in Ghazali on Education",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8328,7 +8364,7 @@
       "M. A. Imran"
     ],
     "year": 2018,
-    "venue": "in Mobile Applications and Solutions for Social Inclusion",
+    "venue": "in Mobile Applications",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8386,7 +8422,7 @@
       "J. Qadir"
     ],
     "year": 2019,
-    "venue": "\"Islam and Civilization Renewal",
+    "venue": "\"Islam",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8417,7 +8453,7 @@
       "H. Saeed"
     ],
     "year": 2019,
-    "venue": "in Handbook of Ethics of Islamic Economics and Finance",
+    "venue": "in Handbook of Ethics of Islamic Economics",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8439,10 +8475,11 @@
     "slug": "2019-misc-4",
     "title": "Sustainable Development Viewed from the Lens of Islam",
     "authors": [
-      "Junaid Qadir"
+      "J. Qadir",
+      "A. Zaman"
     ],
     "year": 2019,
-    "venue": "J. Qadir and A. Zaman",
+    "venue": "Inderscience International Journal of Pluralism",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8471,7 +8508,7 @@
       "A. Zaman"
     ],
     "year": 2018,
-    "venue": "Journal of Islamic Banking and Finance",
+    "venue": "Journal of Islamic Banking",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8498,7 +8535,7 @@
       "J. Qadir"
     ],
     "year": 2018,
-    "venue": "Journal of Islamic Banking and Finance",
+    "venue": "Journal of Islamic Banking",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -8608,7 +8645,7 @@
       "J. Qadir"
     ],
     "year": 2017,
-    "venue": "IEEE ComSoc blog on Cognitive Radio Networking and Security",
+    "venue": "IEEE ComSoc blog on Cognitive Radio Networking",
     "volume": null,
     "issue": null,
     "pages": null,

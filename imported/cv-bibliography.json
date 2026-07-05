@@ -2385,7 +2385,7 @@
     "section": "journal",
     "tags": [],
     "themes": [],
-    "featured": false,
+    "featured": true,
     "best_paper_award": false,
     "status": "final"
   },
@@ -3063,7 +3063,7 @@
       "education",
       "health-psychology"
     ],
-    "featured": false,
+    "featured": true,
     "best_paper_award": false,
     "status": "final"
   },
@@ -6710,7 +6710,7 @@
       "education",
       "networks-ict4d"
     ],
-    "featured": false,
+    "featured": true,
     "best_paper_award": true,
     "status": "final"
   },
@@ -6948,7 +6948,7 @@
     "themes": [
       "education"
     ],
-    "featured": false,
+    "featured": true,
     "best_paper_award": true,
     "status": "final"
   },
@@ -7182,7 +7182,7 @@
       "education",
       "ihsan-ethics"
     ],
-    "featured": false,
+    "featured": true,
     "best_paper_award": true,
     "status": "final"
   },

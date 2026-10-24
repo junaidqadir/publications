@@ -1,1 +1,5 @@
 node_modules/
+logs/
+.DS_Store
+# PDFs you may read but may NOT redistribute (e.g. downloaded via your university) — never commit these
+private-archive/

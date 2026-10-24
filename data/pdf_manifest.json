@@ -1,0 +1,80 @@
+{
+  "2026-khan-surgical-scene-understanding-era": {
+    "path": "pdf/2026/2026-khan-surgical-scene-understanding-era.pdf",
+    "bytes": 6214213,
+    "sha256": "6d6b67a32c2a1f2cc37082934009c4ba076595e680de6bd8bb582105201fa19d",
+    "source": "arxiv",
+    "url": "https://arxiv.org/pdf/2502.14886",
+    "landing": "https://arxiv.org/abs/2502.14886",
+    "version": "preprint",
+    "license": "arXiv",
+    "verified": "title",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
+  },
+  "2026-almaliki-budget-constrained-online-retrieval": {
+    "path": "pdf/2026/2026-almaliki-budget-constrained-online-retrieval.pdf",
+    "bytes": 4318951,
+    "sha256": "d7c4b004b19a2ae8495c5d01c8874e9108322f4ba18bfe17e278d41d69394108",
+    "source": "s2-arxiv-id",
+    "url": "https://arxiv.org/pdf/2604.26981",
+    "landing": "https://arxiv.org/abs/2604.26981",
+    "version": "preprint",
+    "license": "arXiv",
+    "verified": "title",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
+  },
+  "2026-mushtaq-worldview-bench-benchmark-evaluating": {
+    "path": "pdf/2026/2026-mushtaq-worldview-bench-benchmark-evaluating.pdf",
+    "bytes": 7787576,
+    "sha256": "7f14a9166a50c7820c56705e61f937da153a13d4ff277fa67e8b16fe4fda3fa9",
+    "source": "arxiv",
+    "url": "https://arxiv.org/pdf/2505.09595",
+    "landing": "https://arxiv.org/abs/2505.09595",
+    "version": "preprint",
+    "license": "arXiv",
+    "verified": "title",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
+  },
+  "2025-qadir-multiplex-health-integrating-complexity": {
+    "path": "pdf/2025/2025-qadir-multiplex-health-integrating-complexity.pdf",
+    "bytes": 516426,
+    "sha256": "eb9d2590781b5ad616d988f153522208caf533ad290ec73634f1ffc7ef35e580",
+    "source": "openalex",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1603474/pdf",
+    "landing": "https://doi.org/10.3389/fpsyg.2025.1603474",
+    "version": "publishedVersion",
+    "license": "cc-by",
+    "verified": "title",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
+  },
+  "2025-aledhari-safeguarding-connected-autonomous-vehicle": {
+    "path": "pdf/2025/2025-aledhari-safeguarding-connected-autonomous-vehicle.pdf",
+    "bytes": 4553050,
+    "sha256": "ebf4a58bc561c898c136111f360913afc4be506b26a3901087608032ed4a935e",
+    "source": "openalex",
+    "url": "https://arxiv.org/pdf/2502.04201",
+    "landing": "http://arxiv.org/abs/2502.04201",
+    "version": "submittedVersion",
+    "license": "cc-by",
+    "verified": "title",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
+  },
+  "2024-ullah-privacy-preserving-large-language": {
+    "path": "pdf/2024/2024-ullah-privacy-preserving-large-language.pdf",
+    "bytes": 631481,
+    "sha256": "b83b952993650651ce7c6960c8453d279dd16f5d09af9f95705159827c3e04c4",
+    "source": "openalex",
+    "url": "https://arxiv.org/pdf/2310.12523",
+    "landing": "http://arxiv.org/abs/2310.12523",
+    "version": "submittedVersion",
+    "license": "cc-by",
+    "verified": "title",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
+  }
+}

@@ -1,26 +1,32 @@
-# publications
+# Publications — Junaid Qadir
 
-Structured metadata for Junaid Qadir's publications. Consumed at build time by both
-[`junaidqadir-site`](https://github.com/junaidqadir/junaidqadir-site) (personal site)
-and [`ihsan-initiative-site`](https://github.com/junaidqadir/ihsan-initiative-site)
-(filtered to the `ihsan-ethics` / `multiplexity` themes).
+**6 / 298 PDFs archived.** An organized, regularly synced archive of my publications, derived from my CV.
 
-## Scope
+- [`index.json`](index.json) — every publication with authors, venue, DOI, tags, BibTeX and (where shareable) a PDF path
+- [`pdf/`](pdf/) — open-access / author copies, filed by year
+- [`MISSING.md`](MISSING.md) — what is not archived, and why
+- [`REVIEW.md`](REVIEW.md) — CV entries worth double-checking
+- Browse and search on the website: <https://junaidqadir.com/publications> (placeholder domain)
 
-This repo holds a **curated subset** of flagship papers, not the full 250+ publication
-record. The full record lives on [Google Scholar](https://scholar.google.com/citations?user=EdPPQToAAAAJ&hl=en);
-both sites link out to it for the complete list. Entries here are added by hand as they're
-curated — see `papers/_schema.md` for the format.
+| Type | Entries | With PDF |
+|---|---|---|
+| journal | 178 | 6 |
+| conference | 103 | 0 |
+| book-chapter | 7 | 0 |
+| misc | 6 | 0 |
+| informal | 4 | 0 |
 
-## Copyright note
+## What is hosted here, and what is not
 
-Do not add a `pdf` path unless the file is a preprint/author's-accepted-manuscript or
-otherwise confirmed redistributable — publisher copyright (IEEE, Elsevier, Springer, ACM,
-etc.) varies per paper. Default to linking `doi` / `oa_url` (arXiv or the journal's own OA
-link) instead of self-hosting the PDF.
+I host only copies I am entitled to share: **author-posted preprints** (arXiv, SSRN, OSF, TechRxiv, …), **publisher versions under an open (Creative Commons) licence**, and **accepted manuscripts where the publisher's self-archiving policy allows**. Every file records its source, version and licence in `data/pdf_manifest.json`. For closed-access papers this repository links to the publisher (DOI) instead. Copyright in each paper remains with its owner; the version of record is always the DOI.
 
-## Structure
+## How it works
 
-- `papers/<slug>.yaml` — one file per paper (see `papers/_schema.md`)
-- `index.json` — generated list of slugs + themes, read by both sites at build time
-  (regenerate with `node scripts/build-index.mjs` after adding/editing a paper)
+```
+QadirCV.tex ─ tools/parse_cv.mjs ─▶ data/cv_entries.json
+                tools/find_oa.mjs ─▶ data/oa.json          (arXiv, Semantic Scholar, Crossref, OpenAlex, Europe PMC)
+              tools/fetch_pdfs.mjs ─▶ pdf/<year>/<slug>.pdf + data/pdf_manifest.json   (verifies page 1 title)
+              tools/build_index.mjs ─▶ index.json, MISSING.md, REVIEW.md, README.md
+```
+
+The CV stays canonical: a paper enters the archive only when it is in the CV. Re-sync after editing the CV with `npm run sync -- /path/to/QadirCV.tex`.

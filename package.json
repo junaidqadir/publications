@@ -2,11 +2,16 @@
   "name": "@junaidqadir/publications",
   "private": true,
   "type": "module",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "CV-derived, regularly synced archive of Junaid Qadir's publications",
   "scripts": {
-    "build-index": "node scripts/build-index.mjs"
+    "sync": "node tools/sync.mjs",
+    "parse": "node tools/parse_cv.mjs",
+    "discover": "node tools/find_oa.mjs",
+    "fetch": "node tools/fetch_pdfs.mjs",
+    "index": "node tools/build_index.mjs"
   },
-  "dependencies": {
-    "js-yaml": "^4.1.0"
+  "devDependencies": {
+    "pdfjs-dist": "^6.4.299"
   }
 }

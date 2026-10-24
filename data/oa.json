@@ -1,0 +1,4965 @@
+{
+  "2026-khan-surgical-scene-understanding-era": {
+    "cv_label": "J178",
+    "title": "Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review",
+    "doi": "10.1109/access.2026.3729436",
+    "status": "hostable",
+    "best": {
+      "source": "arxiv",
+      "url": "https://arxiv.org/pdf/2502.14886",
+      "landing": "https://arxiv.org/abs/2502.14886",
+      "version": "preprint",
+      "license": "arXiv",
+      "confidence": 1
+    },
+    "candidates": [
+      {
+        "source": "arxiv",
+        "url": "https://arxiv.org/pdf/2502.14886",
+        "landing": "https://arxiv.org/abs/2502.14886",
+        "version": "preprint",
+        "license": "arXiv",
+        "confidence": 1
+      },
+      {
+        "source": "semanticscholar",
+        "url": "https://doi.org/10.1109/access.2026.3729436",
+        "landing": "https://doi.org/10.1109/access.2026.3729436",
+        "version": "publishedVersion",
+        "license": "CCBY",
+        "oaStatus": "GOLD",
+        "confidence": 0.9
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/access.2026.3729436",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Access",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2502.14886",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/access.2026.3729436",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/4d1aee8bb4c045b3b7ae3184ebaf0df1",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-dribi-real-time-traffic-management": {
+    "cv_label": "J177",
+    "title": "Real-Time Traffic Management in Smart Cities: A Systematic Literature Review of Application Paradigms, Control Architectures, and Implementation Barriers",
+    "doi": "10.3390/app16126241",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.3390/app16126241",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Applied Sciences",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3390/app16126241",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/8f5ae89cada34a559c15bbbd5190d20b",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-machlovi-multi-perspective-benchmark-dataset": {
+    "cv_label": "J176",
+    "title": "A Multi-Perspective Benchmark Dataset and Moderation Model for LLM Safety Evaluation with Adversarial Robustness Analysis",
+    "doi": "10.1145/3815159",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1145/3815159",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "ACM Transactions on Social Computing",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1145/3815159",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-almaliki-budget-constrained-online-retrieval": {
+    "cv_label": "J175",
+    "title": "Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model",
+    "doi": "10.1109/TAI.2026.3666170",
+    "status": "hostable",
+    "best": {
+      "source": "s2-arxiv-id",
+      "url": "https://arxiv.org/pdf/2604.26981",
+      "landing": "https://arxiv.org/abs/2604.26981",
+      "version": "preprint",
+      "license": "arXiv",
+      "confidence": 0.95
+    },
+    "candidates": [
+      {
+        "source": "s2-arxiv-id",
+        "url": "https://arxiv.org/pdf/2604.26981",
+        "landing": "https://arxiv.org/abs/2604.26981",
+        "version": "preprint",
+        "license": "arXiv",
+        "confidence": 0.95
+      },
+      {
+        "source": "semanticscholar",
+        "url": "https://doi.org/10.1109/tai.2026.3666170",
+        "landing": "https://doi.org/10.1109/tai.2026.3666170",
+        "version": "publishedVersion",
+        "license": "CCBY",
+        "oaStatus": "HYBRID",
+        "confidence": 0.9
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tai.2026.3666170",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Transactions on Artificial Intelligence",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/TAI.2026.3666170",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/10576/73202",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2604.26981",
+        "version": "unknown",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-moustafa-generative-ai-learning-teaching": {
+    "cv_label": "J174",
+    "title": "Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations",
+    "doi": "10.1109/access.2026.3651864",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/access.2026.3651864",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Access",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/access.2026.3651864",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1109/ACCESS.2026.3651864",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-mushtaq-worldview-bench-benchmark-evaluating": {
+    "cv_label": "J173",
+    "title": "WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models",
+    "doi": "10.1613/jair.1.19001",
+    "status": "hostable",
+    "best": {
+      "source": "arxiv",
+      "url": "https://arxiv.org/pdf/2505.09595",
+      "landing": "https://arxiv.org/abs/2505.09595",
+      "version": "preprint",
+      "license": "arXiv",
+      "confidence": 1
+    },
+    "candidates": [
+      {
+        "source": "arxiv",
+        "url": "https://arxiv.org/pdf/2505.09595",
+        "landing": "https://arxiv.org/abs/2505.09595",
+        "version": "preprint",
+        "license": "arXiv",
+        "confidence": 1
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1613/jair.1.19001",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Journal of Artificial Intelligence Research",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2505.09595",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1613/jair.1.19001",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-arshad-adversarial-attacks-person-image": {
+    "cv_label": "J172",
+    "title": "Adversarial Attacks on Person Image Synthesis: Leveraging Pose and Appearance Controls in Denoising Diffusion Models",
+    "doi": "10.1109/ojcs.2025.3637052",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3637052",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/6123d54502554997850a9a4db5d97ed9",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3637052",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023174347&origin=inward",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-rafique-trustworthy-iot-services-blockchain": {
+    "cv_label": "J171",
+    "title": "Trustworthy IoT Services with Blockchain and Information-Centric Networking: A Survey",
+    "doi": "10.1109/comst.2025.3631362",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/comst.2025.3631362",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Communications Surveys & Tutorials",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/70387",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-qayyum-generative-ai-driven-metaverse": {
+    "cv_label": "J170",
+    "title": "Generative AI-Driven Metaverse: The Promises and Challenges of AI-Generated Content",
+    "doi": "10.1109/ojcs.2025.3616501",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3616501",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.174062953.37029023/v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/fac98bbaecd6482e93c718c89a1e1f6a",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3616501",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/70388",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-qayyum-llm-driven-multi-agent": {
+    "cv_label": "J169",
+    "title": "LLM-Driven Multi-Agent Architectures for Intelligent Self-Organizing Networks",
+    "doi": "10.1109/mnet.2025.3605319",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mnet.2025.3605319",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Network",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mnet.2025.3605319",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/70390",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-qadir-multiplex-health-integrating-complexity": {
+    "cv_label": "J168",
+    "title": "Toward Multiplex Health: Integrating Complexity, Normativity, and Open Science",
+    "doi": "10.3389/fpsyg.2025.1603474",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1603474/pdf",
+      "landing": "https://doi.org/10.3389/fpsyg.2025.1603474",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Frontiers in Psychology",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1603474/pdf",
+        "landing": "https://doi.org/10.3389/fpsyg.2025.1603474",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Frontiers in Psychology",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12450879",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Europe PMC (PubMed Central)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/10b76d31d69c4b5eb92de8e08f38c72b",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12450879/",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3389/fpsyg.2025.1603474",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/40989280",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-nasir-ai-sdg-nexus-revisited": {
+    "cv_label": "J167",
+    "title": "The AI–SDG Nexus Revisited: Critical Reflections and Future Directions",
+    "doi": "10.1016/j.socimp.2025.100142",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.socimp.2025.100142",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Societal Impacts",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/54b2b77fe56543118cacbe190888b6e1",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.socimp.2025.100142",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-padela-assisting-replicating-or-autonomously": {
+    "cv_label": "J166",
+    "title": "Assisting, Replicating, or Autonomously Acting? An Ethical Framework for Integrating AI Tools and Technologies in Healthcare",
+    "doi": "10.1111/bioe.70019",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1111/bioe.70019",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Bioethics",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/40679067",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/70392",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-latif-transformers-speech-processing-overcoming": {
+    "cv_label": "J165",
+    "title": "Transformers in Speech Processing: Overcoming Challenges and Paving the Future",
+    "doi": "10.1016/j.cosrev.2025.100768",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cosrev.2025.100768",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computer Science Review",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1016/j.cosrev.2025.100768",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-khan-cooperative-offloading-multi-access": {
+    "cv_label": "J164",
+    "title": "Cooperative Offloading Multi-Access Edge Computing (COMEC) for Cell-Edge Users in Heterogeneous Dense Networks",
+    "doi": "10.1016/j.comnet.2025.111332",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.comnet.2025.111332",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computer Networks",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1016/j.comnet.2025.111332",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-hameed-large-language-model-enhanced": {
+    "cv_label": "J163",
+    "title": "Large Language Model Enhanced Particle Swarm Optimization for Hyperparameter Tuning for Deep Learning Models",
+    "doi": "10.1109/ojcs.2025.3564493",
+    "status": "free-to-read-link-only",
+    "best": {
+      "source": "openalex",
+      "url": "http://qspace.qu.edu.qa/bitstream/10576/66083/1/Large_Language_Model_Enhanced_Particle_Swarm_Optimization_for_Hyperparameter_Tuning_for_Deep_Learning_Models.pdf",
+      "landing": "http://hdl.handle.net/10576/66083",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "Qatar University QSpace (Qatar University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3564493",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66083/1/Large_Language_Model_Enhanced_Particle_Swarm_Optimization_for_Hyperparameter_Tuning_for_Deep_Learning_Models.pdf",
+        "landing": "http://hdl.handle.net/10576/66083",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/a17cbfe57b2540318ef06814b6d13a2c",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Large_Language_Model_Enhanced_Particle_Swarm_Optimization_for_Hyperparameter_Tuning_for_Deep_Learning_Models/30406186",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3564493",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-solaiman-true-lifecycle-approach-governing": {
+    "cv_label": "J162",
+    "title": "A `True Lifecycle Approach' towards Governing Healthcare-AI with the GCC as a Global Governance Model",
+    "doi": "10.1038/s41746-025-01614-1",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://www.nature.com/articles/s41746-025-01614-1.pdf",
+      "landing": "https://doi.org/10.1038/s41746-025-01614-1",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://www.nature.com/articles/s41746-025-01614-1.pdf",
+        "landing": "https://doi.org/10.1038/s41746-025-01614-1",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12141507",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/96f207a7a1334a96a4934215a9b1c96c",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1038/s41746-025-01614-1",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/40473925",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1038/s41746-025-01614-1",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-mulahuwaish-survey-social-cybersecurity-techniques": {
+    "cv_label": "J161",
+    "title": "A Survey of Social Cybersecurity: Techniques for Attack Detection, Evaluations, Challenges, and Future Prospects",
+    "doi": "10.1016/j.chbr.2025.100668",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.chbr.2025.100668",
+        "version": "publishedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "Computers in Human Behavior Reports",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/5d6028e496484a1686a5d60f1bbf0321",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1016/j.chbr.2025.100668",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.chbr.2025.100668",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-mekki-digital-twins-era-personalized": {
+    "cv_label": "J160",
+    "title": "Digital Twins for the Era of Personalized Surgery",
+    "doi": "10.1038/s41746-025-01575-5",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://www.nature.com/articles/s41746-025-01575-5.pdf",
+      "landing": "https://doi.org/10.1038/s41746-025-01575-5",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://www.nature.com/articles/s41746-025-01575-5.pdf",
+        "landing": "https://doi.org/10.1038/s41746-025-01575-5",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.repository.cam.ac.uk/bitstreams/c9f22603-4c2e-4ef7-9fc3-2ebb46a14fc1/download",
+        "landing": "https://www.repository.cam.ac.uk/handle/1810/384177",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "Apollo (University of Cambridge)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://research.manchester.ac.uk/en/publications/7f2c50cc-09cd-4599-b59f-8a8b469492eb",
+        "version": "publishedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "Research Explorer (The University of Manchester)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.open-access.bcu.ac.uk/16384/1/s41746-025-01575-5.pdf",
+        "landing": "https://www.open-access.bcu.ac.uk/16384/1/s41746-025-01575-5.pdf",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "BCU Open Access Repository (Birmingham City University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12081715",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/8863ebce1b264384a9f463276e09108c",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-mekki-medical-education-metaverses-meded": {
+    "cv_label": "J159",
+    "title": "Medical Education Metaverses (MedEd Metaverses): Opportunities, Use Case, and Guidelines",
+    "doi": "10.1109/mc.2024.3474033",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mc.2024.3474033",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computer",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Medical_Education_Metaverses_MedEd_Metaverses_Opportunities_Use_Case_and_Guidelines/30094258",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mc.2024.3474033",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-aledhari-safeguarding-connected-autonomous-vehicle": {
+    "cv_label": "J158",
+    "title": "Safeguarding Connected Autonomous Vehicle Communication: Protocols, Intra- and Inter-Vehicular Attacks and Defenses",
+    "doi": "10.1016/j.cose.2025.104352",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2502.04201",
+      "landing": "http://arxiv.org/abs/2502.04201",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2502.04201",
+        "landing": "http://arxiv.org/abs/2502.04201",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2502.04201",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cose.2025.104352",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computers & Security",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1016/j.cose.2025.104352",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-tabassum-generative-ai-metaverse-scoping": {
+    "cv_label": "J157",
+    "title": "Generative AI and the Metaverse: A Scoping Review of Ethical and Legal Challenges",
+    "doi": "10.1109/ojcs.2025.3536082",
+    "status": "free-to-read-link-only",
+    "best": {
+      "source": "openalex",
+      "url": "http://qspace.qu.edu.qa/bitstream/10576/66084/1/Generative_AI_and_the_Metaverse_A_Scoping_Review_of_Ethical_and_Legal_Challenges.pdf",
+      "landing": "http://hdl.handle.net/10576/66084",
+      "version": "submittedVersion",
+      "license": "other-oa",
+      "host": "Qatar University QSpace (Qatar University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3536082",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66084/1/Generative_AI_and_the_Metaverse_A_Scoping_Review_of_Ethical_and_Legal_Challenges.pdf",
+        "landing": "http://hdl.handle.net/10576/66084",
+        "version": "submittedVersion",
+        "license": "other-oa",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/3c4d4b475c604af29d3cc777b1efb121",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Generative_AI_and_the_Metaverse_A_Scoping_Review_of_Ethical_and_Legal_Challenges/30233725",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://research.rug.nl/en/publications/e3baef88-b8ae-4c1b-ad3d-a872e9557333",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2025.3536082",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-nofal-ai-enhanced-interview-simulation": {
+    "cv_label": "J156",
+    "title": "AI-Enhanced Interview Simulation in the Metaverse: Transforming Professional Skills Training through VR and Generative Conversational AI",
+    "doi": "10.1016/j.caeai.2024.100347",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.caeai.2024.100347",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computers and Education Artificial Intelligence",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/4a3fc1fdc5664f67819ab67f43c474b6",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1016/j.caeai.2024.100347",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.caeai.2024.100347",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-qayyum-robust-multi-label-surgical": {
+    "cv_label": "J155",
+    "title": "Robust Multi-Label Surgical Tool Classification in Noisy Endoscopic Videos",
+    "doi": "10.1038/s41598-024-82351-5",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://www.nature.com/articles/s41598-024-82351-5.pdf",
+      "landing": "https://doi.org/10.1038/s41598-024-82351-5",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://www.nature.com/articles/s41598-024-82351-5.pdf",
+        "landing": "https://doi.org/10.1038/s41598-024-82351-5",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": "https://uwe-repository.worktribe.com/preview/13979671/Robust%20multi-label%20surgical%20tool%20classification%20in%20noisy%20endoscopic%20videos.pdf",
+        "landing": "https://uwe-repository.worktribe.com/output/13784986",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "UWE Research Repository (UWE Bristol)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.open-access.bcu.ac.uk/16211/1/s41598-024-82351-5.pdf",
+        "landing": "https://www.open-access.bcu.ac.uk/16211/1/s41598-024-82351-5.pdf",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "BCU Open Access Repository (Birmingham City University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/11828880",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/70c36401b4824e6dad0f83ad46c04866",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://research-information.bris.ac.uk/en/publications/12a9b1a5-3bd1-484a-ae35-ae017e73e2da",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Bristol Research (University of Bristol)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-ullah-privacy-preserving-large-language": {
+    "cv_label": "J154",
+    "title": "Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework",
+    "doi": "10.1049/blc2.12091",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2310.12523",
+      "landing": "http://arxiv.org/abs/2310.12523",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2310.12523",
+        "landing": "http://arxiv.org/abs/2310.12523",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://qmro.qmul.ac.uk/xmlui/bitstream/123456789/101542/2/Gill%20Privacy%20preserving%20large%20language%20models%3a%20ChatGPT%20case%20study%20based%20vision%20and%20framework%202024%20Published.pdf",
+        "landing": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/101542",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Queen Mary Research Online (Queen Mary University of London)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1049/blc2.12091",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IET Blockchain",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66085/1/IET%20Blockchain%20-%202024%20-%20Ullah%20-%20Privacy%20preserving%20large%20language%20models%20%20ChatGPT%20case%20study%20based%20vision%20and%20framework.pdf",
+        "landing": "http://hdl.handle.net/10576/66085",
+        "version": "submittedVersion",
+        "license": "public-domain",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/083d4bb6719c4be7a748c6bd8452924b",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2310.12523",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-zaidi-enhancing-cross-language-multimodal": {
+    "cv_label": "J153",
+    "title": "Enhancing Cross-Language Multimodal Emotion Recognition with Dual Attention Transformers",
+    "doi": "10.1109/ojcs.2024.3486904",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "http://qspace.qu.edu.qa/bitstream/10576/66082/1/Enhancing_Cross-Language_Multimodal_Emotion_Recognition_With_Dual_Attention_Transformers.pdf",
+      "landing": "http://hdl.handle.net/10576/66082",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "Qatar University QSpace (Qatar University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66082/1/Enhancing_Cross-Language_Multimodal_Emotion_Recognition_With_Dual_Attention_Transformers.pdf",
+        "landing": "http://hdl.handle.net/10576/66082",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2024.3486904",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/42bd9d1f55eb489b89c3b5b09c73388a",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Enhancing_Cross-Language_Multimodal_Emotion_Recognition_With_Dual_Attention_Transformers/30095002",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2024.3486904",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-malik-ai-higher-education-unveiling": {
+    "cv_label": "J152",
+    "title": "AI in Higher Education: Unveiling Academicians' Perspectives on Teaching, Research, and Ethics in the age of ChatGPT",
+    "doi": "10.1080/10494820.2024.2409407",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1080/10494820.2024.2409407",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Interactive Learning Environments",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-shoukat-medicine-s-new-rhythm": {
+    "cv_label": "J151",
+    "title": "Medicine's New Rhythm: Harnessing Acoustic Sensing via the Internet of Audio Things",
+    "doi": null,
+    "doi_inferred": {
+      "doi": "10.1109/ojcs.2024.3462812",
+      "title": "Medicine's New Rhythm: Harnessing Acoustic Sensing via the Internet of Audio Things for Healthcare",
+      "venue": "IEEE Open Journal of the Computer Society",
+      "year": 2024,
+      "similarity": 0.85,
+      "preprint": false,
+      "needs_review": true,
+      "preprint_dois": []
+    },
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2024.3462812",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/a8876a063d6349caa8fd92f52b6470fc",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2024.3462812",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-rafique-internet-everything-meets-metaverse": {
+    "cv_label": "J150",
+    "title": "Internet of Everything Meets the Metaverse: Bridging Physical and Virtual Worlds with Blockchain",
+    "doi": "10.1016/j.cosrev.2024.100678",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://figshare.com/articles/journal_contribution/Internet_of_everything_meets_the_metaverse_Bridging_physical_and_virtual_worlds_with_blockchain/27130107",
+      "landing": "https://figshare.com/articles/journal_contribution/Internet_of_everything_meets_the_metaverse_Bridging_physical_and_virtual_worlds_with_blockchain/27130107",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "Figshare",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://figshare.com/articles/journal_contribution/Internet_of_everything_meets_the_metaverse_Bridging_physical_and_virtual_worlds_with_blockchain/27130107",
+        "landing": "https://figshare.com/articles/journal_contribution/Internet_of_everything_meets_the_metaverse_Bridging_physical_and_virtual_worlds_with_blockchain/27130107",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cosrev.2024.100678",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computer Science Review",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/65985",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cosrev.2024.100678",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-ali-robust-encrypted-inference-deep": {
+    "cv_label": "J149",
+    "title": "Robust Encrypted Inference in Deep Learning: A Pathway to Secure Misinformation Detection",
+    "doi": "10.1109/tdsc.2024.3447629",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tdsc.2024.3447629",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Dependable and Secure Computing",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66065",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-alkaeed-privacy-preservation-artificial-intelligence": {
+    "cv_label": "J148",
+    "title": "Privacy Preservation in Artificial Intelligence and Extended Reality (AI-XR) Metaverses: A Survey",
+    "doi": "10.1016/j.jnca.2024.103989",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2310.10665",
+      "landing": "http://arxiv.org/abs/2310.10665",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2310.10665",
+        "landing": "http://arxiv.org/abs/2310.10665",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.jnca.2024.103989",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Journal of Network and Computer Applications",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Privacy_preservation_in_Artificial_Intelligence_and_Extended_Reality_AI-XR_metaverses_A_survey/27108601",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/65998",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2310.10665",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.jnca.2024.103989",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-butt-r2s100k-road-region-segmentation": {
+    "cv_label": "J147",
+    "title": "R2S100K: Road-Region Segmentation Dataset For Semi-Supervised Autonomous Driving in the Wild",
+    "doi": "10.1007/s11263-024-02207-3",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2308.06393",
+      "landing": "http://arxiv.org/abs/2308.06393",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2308.06393",
+        "landing": "http://arxiv.org/abs/2308.06393",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-link",
+        "url": "https://link.springer.com/content/pdf/10.1007/s11263-024-02207-3.pdf",
+        "landing": "https://doi.org/10.1007/s11263-024-02207-3",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/R_sup_2_sup_S100K_Road-Region_Segmentation_Dataset_for_Semi-supervised_Autonomous_Driving_in_the_Wild/29907188",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2308.06393",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s11263-024-02207-3",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-eltanbouly-avatar-privacy-challenges-metaverse": {
+    "cv_label": "J146",
+    "title": "Avatar Privacy Challenges in the Metaverse: A Comprehensive Review and Future Directions",
+    "doi": "10.1080/10447318.2024.2374091",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1080/10447318.2024.2374091",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "International Journal of Human-Computer Interaction",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-qadir-learning-101-reloaded-revisiting": {
+    "cv_label": "J145",
+    "title": "Learning 101 Reloaded: Revisiting the Basics for the GenAI Era",
+    "doi": "10.1109/mpot.2024.3405111",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mpot.2024.3405111",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Potentials",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66068",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-junaid-compliance-ranking-certificate-authorities": {
+    "cv_label": "J144",
+    "title": "A Compliance-Based Ranking of Certificate Authorities using Probabilistic Approaches",
+    "doi": "10.1007/s10207-024-00867-3",
+    "status": "free-to-read-link-only",
+    "best": {
+      "source": "openalex",
+      "url": "http://qspace.qu.edu.qa/bitstream/10576/66073/1/s10207-024-00867-3.pdf",
+      "landing": "http://hdl.handle.net/10576/66073",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "Qatar University QSpace (Qatar University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66073/1/s10207-024-00867-3.pdf",
+        "landing": "http://hdl.handle.net/10576/66073",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s10207-024-00867-3",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "International Journal of Information Security",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-bukhari-secure-storage-crypto-wallet": {
+    "cv_label": "J143",
+    "title": "Secure Storage of Crypto Wallet Seed Phrase Using ECC and Splitting Technique",
+    "doi": "10.1109/ojcs.2024.3398794",
+    "status": "free-to-read-link-only",
+    "best": {
+      "source": "openalex",
+      "url": "http://qspace.qu.edu.qa/bitstream/10576/66081/1/Secure_Storage_of_Crypto_Wallet_Seed_Phrase_Using_ECC_and_Splitting_Technique.pdf",
+      "landing": "http://hdl.handle.net/10576/66081",
+      "version": "submittedVersion",
+      "license": "other-oa",
+      "host": "Qatar University QSpace (Qatar University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2024.3398794",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66081/1/Secure_Storage_of_Crypto_Wallet_Seed_Phrase_Using_ECC_and_Splitting_Technique.pdf",
+        "landing": "http://hdl.handle.net/10576/66081",
+        "version": "submittedVersion",
+        "license": "other-oa",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/ab1ab48c549a463d98127b5cf2876455",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Secure_Storage_of_Crypto_Wallet_Seed_Phrase_Using_ECC_and_Splitting_Technique/29715584",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2024.3398794",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.60692/wmq4j-77020",
+        "version": "unknown",
+        "license": null,
+        "host": "Greater South Information System",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-pervez-affective-computing-road-emotionally": {
+    "cv_label": "J142",
+    "title": "Affective Computing and the Road to an Emotionally Intelligent Metaverse",
+    "doi": "10.1109/ojcs.2024.3389462",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://ieeexplore.ieee.org/ielx7/8782664/9024218/10504882.pdf",
+      "landing": "https://doi.org/10.1109/ojcs.2024.3389462",
+      "version": "publishedVersion",
+      "license": "cc-by-nc-nd",
+      "host": "IEEE Open Journal of the Computer Society",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://ieeexplore.ieee.org/ielx7/8782664/9024218/10504882.pdf",
+        "landing": "https://doi.org/10.1109/ojcs.2024.3389462",
+        "version": "publishedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66079/1/Affective_Computing_and_the_Road_to_an_Emotionally_Intelligent_Metaverse.pdf",
+        "landing": "http://hdl.handle.net/10576/66079",
+        "version": "submittedVersion",
+        "license": "other-oa",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/2919b198b46340149ab0791cbfa0899e",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2024.3389462",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-hussain-editorial-metaverse-education-opportunities": {
+    "cv_label": "J141",
+    "title": "Editorial — Metaverse in Education: Opportunities and Challenges",
+    "doi": "10.3389/feduc.2024.1411841",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2024.1411841/pdf?isPublishedV2=False",
+      "landing": "https://doi.org/10.3389/feduc.2024.1411841",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Frontiers in Education",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.frontiersin.org/articles/10.3389/feduc.2024.1411841/pdf?isPublishedV2=False",
+        "landing": "https://doi.org/10.3389/feduc.2024.1411841",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Frontiers in Education",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://eprints.gla.ac.uk/324079/1/324079.pdf",
+        "landing": "https://eprints.gla.ac.uk/324079/1/324079.pdf",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3389/feduc.2024.1411841",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/67edf448fdec48739f94cd7bf2d2c1e6",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-almaliki-adversarial-machine-learning-social": {
+    "cv_label": "J140",
+    "title": "Adversarial Machine Learning for Social Good: Reframing the Adversary as an Ally",
+    "doi": "10.1109/tai.2024.3383407",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2310.03614",
+      "landing": "http://arxiv.org/abs/2310.03614",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2310.03614",
+        "landing": "http://arxiv.org/abs/2310.03614",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2310.03614",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tai.2024.3383407",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Artificial Intelligence",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/10356/231898",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "DR-NTU (Nanyang Technological University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-jagatheesaperumal-advancing-education-through-extended": {
+    "cv_label": "J139",
+    "title": "Advancing Education Through Extended Reality and Internet of Everything Enabled Metaverses: Applications, Challenges, and Open Issues",
+    "doi": "10.1109/tlt.2024.3358859",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2207.01512",
+      "landing": "http://arxiv.org/abs/2207.01512",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2207.01512",
+        "landing": "http://arxiv.org/abs/2207.01512",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://ieeexplore.ieee.org/ielx7/4620076/4620077/10415252.pdf",
+        "landing": "https://doi.org/10.1109/tlt.2024.3358859",
+        "version": "publishedVersion",
+        "license": "other-oa",
+        "host": "IEEE Transactions on Learning Technologies",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66080/1/Advancing_Education_Through_Extended_Reality_and_Internet_of_Everything_Enabled_Metaverses_Applications_Challenges_and_Open_Issues.pdf",
+        "landing": "http://hdl.handle.net/10576/66080",
+        "version": "submittedVersion",
+        "license": "other-oa",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Advancing_Education_Through_Extended_Reality_and_Internet_of_Everything_Enabled_Metaverses_Applications_Challenges_and_Open_Issues/26404096",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2207.01512",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tlt.2024.3358859",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-basyoni-navigating-privacy-challenges-metaverse": {
+    "cv_label": "J138",
+    "title": "Navigating Privacy Challenges in the Metaverse: A Comprehensive Examination of Current Technologies and Platforms",
+    "doi": "10.1109/iotm.001.2300197",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/iotm.001.2300197",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Internet of Things Magazine",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/60937",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-usman-intelligent-healthcare-system-iomt": {
+    "cv_label": "J137",
+    "title": "Intelligent Healthcare System for IoMT-Integrated Sonography: Leveraging Multi-Scale Self-Guided Attention Networks with Dynamic Self-Distillation",
+    "doi": "10.1016/j.iot.2024.101065",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "http://qspace.qu.edu.qa/bitstream/10576/65982/1/1-s2.0-S2542660524000076-main.pdf",
+      "landing": "https://www.sciencedirect.com/science/article/pii/S2542660524000076/pdf",
+      "version": "submittedVersion",
+      "license": "cc-by-nc-nd",
+      "host": "Qatar University QSpace (Qatar University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/65982/1/1-s2.0-S2542660524000076-main.pdf",
+        "landing": "https://www.sciencedirect.com/science/article/pii/S2542660524000076/pdf",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.iot.2024.101065",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Internet of Things",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-gill-modern-computing-vision-challenges": {
+    "cv_label": "J136",
+    "title": "Modern computing: Vision and challenges",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
+  },
+  "2023-hameed-deep-learning-multimodal-urban": {
+    "cv_label": "J135",
+    "title": "Deep Learning Based Multimodal Urban Air Quality Prediction and Traffic Analytics",
+    "doi": "10.1038/s41598-023-49296-7",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://www.nature.com/articles/s41598-023-49296-7.pdf",
+      "landing": "https://doi.org/10.1038/s41598-023-49296-7",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://www.nature.com/articles/s41598-023-49296-7.pdf",
+        "landing": "https://doi.org/10.1038/s41598-023-49296-7",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10719392/pdf/41598_2023_Article_49296.pdf",
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/10719392",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66086/1/s41598-023-49296-7.pdf",
+        "landing": "http://hdl.handle.net/10576/66086",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/da5974e72a1341e9ac1fd5bb986adc5c",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Deep_learning_based_multimodal_urban_air_quality_prediction_and_traffic_analytics/26772190",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1038/s41598-023-49296-7",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-ali-consistent-valid-physically-realizable": {
+    "cv_label": "J134",
+    "title": "Consistent Valid Physically-Realizable Adversarial Attack against Crowd-flow Prediction Models",
+    "doi": "10.1109/TITS.2023.3343971",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2303.02669",
+      "landing": "http://arxiv.org/abs/2303.02669",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2303.02669",
+        "landing": "http://arxiv.org/abs/2303.02669",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://ieeexplore.ieee.org/ielx7/6979/4358928/10375906.pdf",
+        "landing": "http://dx.doi.org/10.1109/tits.2023.3343971",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Transactions on Intelligent Transportation Systems",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Consistent_Valid_Physically-Realizable_Adversarial_Attack_Against_Crowd-Flow_Prediction_Models/26393263",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2303.02669",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/TITS.2023.3343971",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/59517",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-ahmad-data-driven-artificial-intelligence": {
+    "cv_label": "J133",
+    "title": "Data-Driven Artificial Intelligence in Education: A Comprehensive Review",
+    "doi": null,
+    "doi_inferred": {
+      "doi": "10.1109/tlt.2023.3314610",
+      "title": "Data-Driven Artificial Intelligence in Education: A Comprehensive Review",
+      "venue": "IEEE Transactions on Learning Technologies",
+      "year": 2024,
+      "similarity": 1,
+      "preprint": false,
+      "needs_review": false,
+      "preprint_dois": []
+    },
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.35542/osf.io/zvu2n",
+        "version": "acceptedVersion",
+        "license": "cc-by-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://osf.io/zvu2n",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "EdArXiv (OSF Preprints)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tlt.2023.3314610",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Learning Technologies",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://edarxiv.org/zvu2n/",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "EdArXiv (OSF Preprints)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66057",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-almaliki-addressing-data-distribution-shifts": {
+    "cv_label": "J132",
+    "title": "Addressing Data Distribution Shifts in Online Machine Learning Powered Smart City Applications Using Augmented Test-Time Adaptation",
+    "doi": "10.1109/iotm.001.2300135",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2211.01315",
+      "landing": "http://arxiv.org/abs/2211.01315",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2211.01315",
+        "landing": "http://arxiv.org/abs/2211.01315",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2211.01315",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://dx.doi.org/10.1109/iotm.001.2300135",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Internet of Things Magazine",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66067",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-ali-systematic-review-federated-learning": {
+    "cv_label": "J131",
+    "title": "A Systematic Review of Federated Learning Incentive Mechanisms and Associated Security Challenges",
+    "doi": "10.1016/j.cosrev.2023.100593",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "http://qspace.qu.edu.qa/bitstream/10576/65986/1/1-s2.0-S1574013723000606-main.pdf",
+      "landing": "https://www.sciencedirect.com/science/article/pii/S1574013723000606/pdf",
+      "version": "submittedVersion",
+      "license": "cc-by-nc-nd",
+      "host": "Qatar University QSpace (Qatar University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/65986/1/1-s2.0-S1574013723000606-main.pdf",
+        "landing": "https://www.sciencedirect.com/science/article/pii/S1574013723000606/pdf",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cosrev.2023.100593",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computer Science Review",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-elmahjub-program-autonomous-vehicle-av": {
+    "cv_label": "J130",
+    "title": "How to Program Autonomous Vehicle (AV) Crash Algorithms: An Islamic Ethical Perspective",
+    "doi": "10.1108/jices-02-2023-0015",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1108/jices-02-2023-0015",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Journal of Information Communication and Ethics in Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85166753977&origin=inward",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-eliyan-informed-consent-iot-environments": {
+    "cv_label": "J129",
+    "title": "Informed Consent in IoT Environments: Challenges and a Futuristic Incentives-Based Model",
+    "doi": "10.1109/iotm.001.2300060",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/iotm.001.2300060",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Internet of Things Magazine",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66066",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-ali-con-detect-detecting-adversarially": {
+    "cv_label": "J128",
+    "title": "Con-Detect: Detecting Adversarially Perturbed Natural Language Inputs to Deep Classifiers Through Holistic Analysis",
+    "doi": "10.1016/j.cose.2023.103367",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.techrxiv.org/articles/preprint/Con-Detect_Detecting_Adversarially_Perturbed_Natural_Language_Inputs_to_Deep_Classifiers_Through_Holistic_Analysis/19295534/1/files/34270553.pdf",
+      "landing": "https://doi.org/10.36227/techrxiv.19295534.v1",
+      "version": "acceptedVersion",
+      "license": "cc-by",
+      "host": null,
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/Con-Detect_Detecting_Adversarially_Perturbed_Natural_Language_Inputs_to_Deep_Classifiers_Through_Holistic_Analysis/19295534/1/files/34270553.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.19295534.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/65987/1/1-s2.0-S0167404823002778-main.pdf",
+        "landing": "http://hdl.handle.net/10576/65987",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cose.2023.103367",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computers & Security",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.19295534",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/preprint/Con-Detect_Detecting_Adversarially_Perturbed_Natural_Language_Inputs_to_Deep_Classifiers_Through_Holistic_Analysis/19295534",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Con-Detect_Detecting_Adversarially_Perturbed_Natural_Language_Inputs_to_Deep_Classifiers_Through_Holistic_Analysis/23627976",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-aledhari-motion-comfort-optimization-autonomous": {
+    "cv_label": "J127",
+    "title": "Motion Comfort Optimization for Autonomous Vehicles: Concepts, Methods, and Techniques",
+    "doi": "10.1109/jiot.2023.3287489",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2306.09462",
+      "landing": "http://arxiv.org/abs/2306.09462",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2306.09462",
+        "landing": "http://arxiv.org/abs/2306.09462",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2306.09462",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/jiot.2023.3287489",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Internet of Things Journal",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66060",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-johri-generative-ai-engineering-education": {
+    "cv_label": "J126",
+    "title": "Generative AI and Engineering Education",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
+  },
+  "2024-qayyum-secure-trustworthy-artificial-intelligence": {
+    "cv_label": "J125",
+    "title": "Secure and Trustworthy Artificial Intelligence-Extended Reality (AI-XR) for Metaverses",
+    "doi": "10.1145/3614426",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2210.13289",
+      "landing": "http://arxiv.org/abs/2210.13289",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2210.13289",
+        "landing": "http://arxiv.org/abs/2210.13289",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://eprints.gla.ac.uk/304036/2/304036.pdf",
+        "landing": "https://eprints.gla.ac.uk/304036/2/304036.pdf",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3614426",
+        "landing": "https://doi.org/10.1145/3614426",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "ACM Computing Surveys",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://researchonline.gcu.ac.uk/ws/files/86956601/86454467.pdf",
+        "landing": "https://researchonline.gcu.ac.uk/en/publications/000d7003-be7f-4bd4-aaed-332b0a3dd8c6",
+        "version": "submittedVersion",
+        "license": "other-oa",
+        "host": "ResearchOnline (Glasgow Caledonian University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2210.13289",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://researchonline.gcu.ac.uk/en/publications/000d7003-be7f-4bd4-aaed-332b0a3dd8c6",
+        "version": "acceptedVersion",
+        "license": "other-oa",
+        "host": "ResearchOnline",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-latif-generative-emotional-ai-speech": {
+    "cv_label": "J124",
+    "title": "Generative Emotional AI for Speech Emotion Recognition The Case for Synthetic Emotional Speech Augmentation",
+    "doi": "10.1016/j.apacoust.2023.109425",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.apacoust.2023.109425",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Applied Acoustics",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45566",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-ahmad-leveraging-6g-extended-reality": {
+    "cv_label": "J123",
+    "title": "Leveraging 6G, Extended Reality, and IoT Big Data Analytics for Healthcare: A Review",
+    "doi": "10.1016/j.cosrev.2023.100558",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cosrev.2023.100558",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computer Science Review",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45574",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-khalid-privacy-preserving-artificial-intelligence": {
+    "cv_label": "J122",
+    "title": "Privacy-Preserving Artificial Intelligence in Healthcare: Techniques and Applications",
+    "doi": "10.1016/j.compbiomed.2023.106848",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://uwe-repository.worktribe.com/preview/10732370/Privacy-preserving%20artificial%20intelligence%20in%20healthcare%20Techniques%20and%20applications.pdf",
+      "landing": "https://uwe-repository.worktribe.com/10723634/1/Privacy-preserving%20artificial%20intelligence%20in%20healthcare%3A%20Techniques%20and%20applications",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "UWE Research Repository (UWE Bristol)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://uwe-repository.worktribe.com/preview/10732370/Privacy-preserving%20artificial%20intelligence%20in%20healthcare%20Techniques%20and%20applications.pdf",
+        "landing": "https://uwe-repository.worktribe.com/10723634/1/Privacy-preserving%20artificial%20intelligence%20in%20healthcare%3A%20Techniques%20and%20applications",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "UWE Research Repository (UWE Bristol)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.compbiomed.2023.106848",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computers in Biology and Medicine",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Privacy-preserving_artificial_intelligence_in_healthcare_Techniques_and_applications/25018835",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.compbiomed.2023.106848",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/37044052",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45567",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-rasool-quantum-computing-healthcare-review": {
+    "cv_label": "J121",
+    "title": "Quantum Computing for Healthcare: A Review",
+    "doi": null,
+    "doi_inferred": {
+      "doi": "10.3390/fi15030094",
+      "title": "Quantum Computing for Healthcare: A Review",
+      "venue": "Future Internet",
+      "year": 2023,
+      "similarity": 1,
+      "preprint": false,
+      "needs_review": false,
+      "preprint_dois": [
+        "10.36227/techrxiv.17198702.v3",
+        "10.36227/techrxiv.17198702.v4",
+        "10.36227/techrxiv.17198702"
+      ]
+    },
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.mdpi.com/1999-5903/15/3/94/pdf?version=1677666349",
+      "landing": "https://doi.org/10.3390/fi15030094",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Future Internet",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.mdpi.com/1999-5903/15/3/94/pdf?version=1677666349",
+        "landing": "https://doi.org/10.3390/fi15030094",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Future Internet",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/601c64f0163140168da412af5c172ffc",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3390/fi15030094",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45585",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "preprint-doi",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.17198702.v3",
+        "version": "preprint",
+        "license": null,
+        "confidence": 0.5,
+        "note": "Preprint DOI; download manually if no direct PDF URL"
+      },
+      {
+        "source": "preprint-doi",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.17198702.v4",
+        "version": "preprint",
+        "license": null,
+        "confidence": 0.5,
+        "note": "Preprint DOI; download manually if no direct PDF URL"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-rehman-selective-deeply-supervised-multi": {
+    "cv_label": "J120",
+    "title": "Selective Deeply Supervised Multi-Scale Attention Network for Brain Tumor Segmentation",
+    "doi": "10.3390/s23042346",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.mdpi.com/1424-8220/23/4/2346/pdf?version=1676892865",
+      "landing": "https://doi.org/10.3390/s23042346",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Sensors",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.mdpi.com/1424-8220/23/4/2346/pdf?version=1676892865",
+        "landing": "https://doi.org/10.3390/s23042346",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Sensors",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9964702/pdf/sensors-23-02346.pdf",
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9964702",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/c05c132ac7514c1ca1cb0fd5db2af4f6",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3390/s23042346",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/36850942",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45586",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-maayah-limitaccess-device-tinyml-robust": {
+    "cv_label": "J119",
+    "title": "LimitAccess: On-device TinyML Based Robust Speech Recognition and Age Classification",
+    "doi": "10.1007/s44163-023-00051-x",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://link.springer.com/content/pdf/10.1007/s44163-023-00051-x.pdf",
+      "landing": "https://doi.org/10.1007/s44163-023-00051-x",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://link.springer.com/content/pdf/10.1007/s44163-023-00051-x.pdf",
+        "landing": "https://doi.org/10.1007/s44163-023-00051-x",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": "http://qspace.qu.edu.qa/bitstream/10576/66089/1/s44163-023-00051-x.pdf",
+        "landing": "http://hdl.handle.net/10576/66089",
+        "version": "submittedVersion",
+        "license": "other-oa",
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/de1cc550307e4741b3bab6acaf1706e2",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/LimitAccess_on-device_TinyML_based_robust_speech_recognition_and_age_classification/25018010",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s44163-023-00051-x",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-nasir-artificial-intelligence-sustainable-development": {
+    "cv_label": "J118",
+    "title": "Artificial Intelligence and Sustainable Development Goals Nexus Via Four Vantage Points",
+    "doi": "10.1016/j.techsoc.2022.102171",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.techsoc.2022.102171",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Technology in Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Artificial_intelligence_and_sustainable_development_goals_nexus_via_four_vantage_points/24501079",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.techsoc.2022.102171",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://www.sciencedirect.com/science/article/pii/S0160791X22003128",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "RePEc: Research Papers in Economics",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45569",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-butt-secure-private-trustworthy-human": {
+    "cv_label": "J117",
+    "title": "Towards Secure Private and Trustworthy Human-Centric Embedded Machine Learning: An Emotion-Aware Facial Recognition Case Study",
+    "doi": "10.1016/j.cose.2022.103058",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cose.2022.103058",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computers & Security",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Towards_secure_private_and_trustworthy_human-centric_embedded_machine_learning_An_emotion-aware_facial_recognition_case_study/24501046",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cose.2022.103058",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45568",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-rafiq-developing-smart-city-services": {
+    "cv_label": "J116",
+    "title": "Developing Smart City Services Using Intent-Aware Recommendation Systems: A Survey",
+    "doi": "10.1002/ett.4728",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1002/ett.4728",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Transactions on Emerging Telecommunications Technologies",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45584",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-qayyum-dental-caries-detection-semi": {
+    "cv_label": "J115",
+    "title": "Dental Caries Detection using a Semi-Supervised Learning Approach",
+    "doi": "10.1038/s41598-023-27808-9",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://www.nature.com/articles/s41598-023-27808-9.pdf",
+      "landing": "https://doi.org/10.1038/s41598-023-27808-9",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://www.nature.com/articles/s41598-023-27808-9.pdf",
+        "landing": "https://doi.org/10.1038/s41598-023-27808-9",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": "https://eprints.gla.ac.uk/289320/1/289320.pdf",
+        "landing": "http://eprints.gla.ac.uk/view/author/66621.html>,",
+        "version": "acceptedVersion",
+        "license": "cc-by-sa",
+        "host": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9839770/pdf/41598_2023_Article_27808.pdf",
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9839770",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/9bffdfc6316c4864a9ed6331c50075f6",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1038/s41598-023-27808-9",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/36639724",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-bashir-arabic-natural-language-processing": {
+    "cv_label": "J114",
+    "title": "Arabic Natural Language Processing for Qur'anic Research: A Systematic Review",
+    "doi": "10.1007/s10462-022-10313-2",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10313-2.pdf",
+      "landing": "https://doi.org/10.1007/s10462-022-10313-2",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10313-2.pdf",
+        "landing": "https://doi.org/10.1007/s10462-022-10313-2",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/Arabic_Natural_Language_Processing_for_Qur_anic_Research_A_Systematic_Review/14381891/files/27476858.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14381891",
+        "version": "acceptedVersion",
+        "license": "cc-by-nc-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://figshare.com/articles/preprint/Arabic_Natural_Language_Processing_for_Qur_anic_Research_A_Systematic_Review/14381891",
+        "landing": "https://figshare.com/articles/preprint/Arabic_Natural_Language_Processing_for_Qur_anic_Research_A_Systematic_Review/14381891",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-sa",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.14381891.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by-nc-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Arabic_natural_language_processing_for_Qur_anic_research_a_systematic_review/26808481",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s10462-022-10313-2",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-zubair-secure-bluetooth-communication-smart": {
+    "cv_label": "J113",
+    "title": "Secure Bluetooth Communication in Smart Healthcare Systems: A Novel Community Dataset and Intrusion Detection System",
+    "doi": "10.3390/s22218280",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.mdpi.com/1424-8220/22/21/8280/pdf?version=1667188410",
+      "landing": "https://doi.org/10.3390/s22218280",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Sensors",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.mdpi.com/1424-8220/22/21/8280/pdf?version=1667188410",
+        "landing": "https://doi.org/10.3390/s22218280",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Sensors",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://nrl.northumbria.ac.uk/id/eprint/50866/1/sensors-22-08280-v2.pdf",
+        "landing": "https://nrl.northumbria.ac.uk/id/eprint/50866/1/sensors-22-08280-v2.pdf",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "Northumbria Research Link (Northumbria University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://uhra.herts.ac.uk/id/eprint/10055/1/sensors-22-08280-v2.pdf",
+        "landing": "https://uhra.herts.ac.uk/view/author_id/g=2Ealinier=40herts=2Eac=2Euk.html>,",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "University of Hertfordshire Research Archive (University of Hertfordshire)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9655402",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/f8040099f8e64140b33efaeb2fab57dd",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/2299/25869",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "University of Hertfordshire Research Archive (University of Hertfordshire)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-rasheed-explainable-trustworthy-ethical-machine": {
+    "cv_label": "J112",
+    "title": "Explainable, Trustworthy, and Ethical Machine Learning for Healthcare: A Survey",
+    "doi": "10.1016/j.compbiomed.2022.106043",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0010482522007569/pdf",
+      "landing": "https://doi.org/10.1016/j.compbiomed.2022.106043",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Computers in Biology and Medicine",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0010482522007569/pdf",
+        "landing": "https://doi.org/10.1016/j.compbiomed.2022.106043",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computers in Biology and Medicine",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/Explainable_Trustworthy_and_Ethical_Machine_Learning_for_Healthcare_A_Survey/14376179/1/files/27461585.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14376179",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.14376179.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/preprint/Explainable_Trustworthy_and_Ethical_Machine_Learning_for_Healthcare_A_Survey/14376179",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Explainable_trustworthy_and_ethical_machine_learning_for_healthcare_A_survey/24551488",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.compbiomed.2022.106043",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-qayyum-making-federated-learning-robust": {
+    "cv_label": "J111",
+    "title": "Making Federated Learning Robust To Adversarial Attacks By Learning Data and Model Association",
+    "doi": "10.1016/j.cose.2022.102827",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cose.2022.102827",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computers & Security",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45571",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-benaddi-robust-enhancement-intrusion-detection": {
+    "cv_label": "J110",
+    "title": "Robust Enhancement of Intrusion Detection Systems Using Deep Reinforcement Learning and Stochastic Games",
+    "doi": "10.1109/tvt.2022.3186834",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tvt.2022.3186834",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Vehicular Technology",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45578",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-qayyum-collaborative-federated-learning-healthcare": {
+    "cv_label": "J109",
+    "title": "Collaborative Federated Learning For Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge",
+    "doi": "10.1109/ojcs.2022.3206407",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2101.07511",
+      "landing": "http://arxiv.org/abs/2101.07511",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2101.07511",
+        "landing": "http://arxiv.org/abs/2101.07511",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2022.3206407",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Open Journal of the Computer Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/dbf5c51653ad4f6cb546975f80737ae2",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Collaborative_Federated_Learning_for_Healthcare_Multi-Modal_COVID-19_Diagnosis_at_the_Edge/24056352",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2101.07511",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ojcs.2022.3206407",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-ali-tamp-x-attacking-explainable": {
+    "cv_label": "J108",
+    "title": "Tamp-X: Attacking Explainable Natural Language Classifiers Through Tampered Activations",
+    "doi": "10.1016/j.cose.2022.102791",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167404822001857/pdf",
+      "landing": "https://doi.org/10.1016/j.cose.2022.102791",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Computers & Security",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167404822001857/pdf",
+        "landing": "https://doi.org/10.1016/j.cose.2022.102791",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Computers & Security",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/Tamp-X_Attacking_Explainable_Natural_Language_Classifiers_Through_Tampered_Activations/19351670/1/files/34371773.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.19351670",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.19351670.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/preprint/Tamp-X_Attacking_Explainable_Natural_Language_Classifiers_Through_Tampered_Activations/19351670",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Tamp-X_Attacking_explainable_natural_language_classifiers_through_tampered_activations/24745086",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cose.2022.102791",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-qayyum-untrained-neural-network-priors": {
+    "cv_label": "J107",
+    "title": "Untrained Neural Network Priors for Inverse Imaging Problems: A Survey",
+    "doi": "10.1109/tpami.2022.3204527",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://ieeexplore.ieee.org/ielx7/34/4359286/09878048.pdf",
+      "landing": "https://doi.org/10.1109/tpami.2022.3204527",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://ieeexplore.ieee.org/ielx7/34/4359286/09878048.pdf",
+        "landing": "https://doi.org/10.1109/tpami.2022.3204527",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/Untrained_Neural_Network_Priors_for_Inverse_Imaging_Problems_A_Survey/14208215/1/files/26798939.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14208215",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.14208215.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://research-repository.uwa.edu.au/en/publications/069dc279-89ba-48d8-967c-5a6127ba81bb",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "UWA Profiles and Research Repository (UWA)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/preprint/Untrained_Neural_Network_Priors_for_Inverse_Imaging_Problems_A_Survey/14208215",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Untrained_Neural_Network_Priors_for_Inverse_Imaging_Problems_A_Survey/24056355",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-qayyum-single-shot-retinal-image": {
+    "cv_label": "J106",
+    "title": "Single-Shot Retinal Image Enhancement Using Untrained and Pretrained Neural Networks Priors Integrated with Analytical Image Priors",
+    "doi": "10.1016/j.compbiomed.2022.105879",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.techrxiv.org/articles/preprint/Single-Shot_Retinal_Image_Enhancement_Using_Untrained_and_Pretrained_Neural_Networks_Priors_Integrated_with_Analytical_Image_Priors/14931999/1/files/28756695.pdf",
+      "landing": "https://doi.org/10.36227/techrxiv.14931999.v1",
+      "version": "acceptedVersion",
+      "license": "cc-by",
+      "host": null,
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/Single-Shot_Retinal_Image_Enhancement_Using_Untrained_and_Pretrained_Neural_Networks_Priors_Integrated_with_Analytical_Image_Priors/14931999/1/files/28756695.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14931999.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.14931999",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/preprint/Single-Shot_Retinal_Image_Enhancement_Using_Untrained_and_Pretrained_Neural_Networks_Priors_Integrated_with_Analytical_Image_Priors/14931999",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.compbiomed.2022.105879",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computers in Biology and Medicine",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/35863248",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45572",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-ahsan-active-learning-method-diabetic": {
+    "cv_label": "J105",
+    "title": "An Active Learning Method for Diabetic Retinopathy Classification with Uncertainty Quantification",
+    "doi": "10.1007/s11517-022-02633-w",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2012.13325",
+      "landing": "http://arxiv.org/abs/2012.13325",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2012.13325",
+        "landing": "http://arxiv.org/abs/2012.13325",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2012.13325",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s11517-022-02633-w",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Medical & Biological Engineering & Computing",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/35859243",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45591",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-raquib-islamic-virtue-ethics-artificial": {
+    "cv_label": "J104",
+    "title": "Islamic Virtue-Based Ethics for Artificial Intelligence",
+    "doi": "10.1007/s44163-022-00028-2",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://link.springer.com/content/pdf/10.1007/s44163-022-00028-2.pdf",
+      "landing": "https://doi.org/10.1007/s44163-022-00028-2",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://link.springer.com/content/pdf/10.1007/s44163-022-00028-2.pdf",
+        "landing": "https://doi.org/10.1007/s44163-022-00028-2",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/606be36a59bd4ee99dc7155b2d025f6b",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s44163-022-00028-2",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-zoha-editorial-research-topic-ai": {
+    "cv_label": "J103",
+    "title": "Editorial for the Research Topic: AI-powered IoT for Intelligent Systems and Smart Applications",
+    "doi": null,
+    "doi_inferred": {
+      "doi": "10.3389/frcmn.2022.959303",
+      "title": "Editorial: AI-Powered IoT for Intelligent Systems and Smart Applications",
+      "venue": "Frontiers in Communications and Networks",
+      "year": 2022,
+      "similarity": 0.75,
+      "preprint": false,
+      "needs_review": true,
+      "preprint_dois": []
+    },
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.frontiersin.org/articles/10.3389/frcmn.2022.959303/pdf",
+      "landing": "https://doi.org/10.3389/frcmn.2022.959303",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Frontiers in Communications and Networks",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.frontiersin.org/articles/10.3389/frcmn.2022.959303/pdf",
+        "landing": "https://doi.org/10.3389/frcmn.2022.959303",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Frontiers in Communications and Networks",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://eprints.gla.ac.uk/273753/1/273753.pdf",
+        "landing": "http://eprints.gla.ac.uk/273753/1/273753.pdf",
+        "version": "acceptedVersion",
+        "license": "cc-by-sa",
+        "host": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/ccb90f729c7945788982552b913d3629",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3389/frcmn.2022.959303",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-ammara-smart-cities-through-perspective": {
+    "cv_label": "J102",
+    "title": "Smart Cities Through the Perspective of Systems",
+    "doi": null,
+    "doi_inferred": {
+      "doi": "10.3390/systems10030077",
+      "title": "Smart Cities from the Perspective of Systems",
+      "venue": "Systems",
+      "year": 2022,
+      "similarity": 0.71,
+      "preprint": false,
+      "needs_review": true,
+      "preprint_dois": []
+    },
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.mdpi.com/2079-8954/10/3/77/pdf?version=1654760443",
+      "landing": "https://doi.org/10.3390/systems10030077",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Systems",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.mdpi.com/2079-8954/10/3/77/pdf?version=1654760443",
+        "landing": "https://doi.org/10.3390/systems10030077",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Systems",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/7cb5d78eafb64dc7ac8894be33a4bc05",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Smart_Cities_from_the_Perspective_of_Systems/25679877",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3390/systems10030077",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45588",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=LinksAMR&SrcApp=PARTNER_APP&DestLinkType=FullRecord&DestApp=WOS&KeyUT=000818330700001",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Rare & Special e-Zone (The Hong Kong University of Science and Technology)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-rasool-security-privacy-internet-medical": {
+    "cv_label": "J101",
+    "title": "Security and Privacy of Internet of Medical Things: A Contemporary Review in the Age of Surveillance, Botnets, and Adversarial ML",
+    "doi": "10.1016/j.jnca.2022.103332",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.jnca.2022.103332",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Journal of Network and Computer Applications",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45564",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-ahmad-global-user-level-perception": {
+    "cv_label": "J100",
+    "title": "Global User-Level Perception of COVID-19 Contact Tracing Applications: A Data-Driven Approach Using Natural Language Processing",
+    "doi": "10.2196/36238",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://formative.jmir.org/2022/5/e36238/PDF",
+      "landing": "https://doi.org/10.2196/36238",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "JMIR Formative Research",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://formative.jmir.org/2022/5/e36238/PDF",
+        "landing": "https://doi.org/10.2196/36238",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "JMIR Formative Research",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.2196/preprints.36238",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/9097863",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Global_User-Level_Perception_of_COVID-19_Contact_Tracing_Applications_Data-Driven_Approach_Using_Natural_Language_Processing/25611627",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/35389357",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/50a606c0dce1438a98b9049511aee8cb",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-javed-get-out-bag-silos": {
+    "cv_label": "J99",
+    "title": "Get out of the BAG! Silos in AI Ethics Education",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
+  },
+  "2022-qadir-accountable-human-centered-ai": {
+    "cv_label": "J98",
+    "title": "Towards Accountable Human-Centered AI: Rationale and Promising Directions",
+    "doi": "10.1108/jices-06-2021-0059",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1108/jices-06-2021-0059",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Journal of Information Communication and Ethics in Society",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45576",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-ahmad-developing-future-human-centered": {
+    "cv_label": "J97",
+    "title": "Developing Future Human-Centered Smart Cities: Critical Analysis of Smart City Security, Data Management, and Ethical Challenges",
+    "doi": "10.1016/j.cosrev.2021.100452",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.cosrev.2021.100452",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Computer Science Review",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.1016/j.cosrev.2021.100452",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-yousaf-fake-visual-content-detection": {
+    "cv_label": "J96",
+    "title": "Fake Visual Content Detection Using Two-Stream Convolutional Neural Networks",
+    "doi": "10.1007/s00521-022-06902-5",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2101.00676",
+      "landing": "http://arxiv.org/abs/2101.00676",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2101.00676",
+        "landing": "http://arxiv.org/abs/2101.00676",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2101.00676",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s00521-022-06902-5",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Neural Computing and Applications",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45592",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-qadir-network-service-new-vista": {
+    "cv_label": "J95",
+    "title": "Network as a Service: A New Vista of Opportunities",
+    "doi": "10.1109/MPOT.2014.2377249",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/1606.03060",
+      "landing": "http://arxiv.org/abs/1606.03060",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/1606.03060",
+        "landing": "http://arxiv.org/abs/1606.03060",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mpot.2014.2377249",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Potentials",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://arxiv.org/pdf/1606.03060.pdf",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.1606.03060",
+        "version": "unknown",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-rasheed-generative-model-synthesize-eeg": {
+    "cv_label": "J94",
+    "title": "A Generative Model to Synthesize EEG Data for Epileptic Seizure Prediction",
+    "doi": "10.1109/tnsre.2021.3125023",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2012.00430",
+      "landing": "http://arxiv.org/abs/2012.00430",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2012.00430",
+        "landing": "http://arxiv.org/abs/2012.00430",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tnsre.2021.3125023",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/11343/296447",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Minerva Access (University of Melbourne)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2012.00430",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tnsre.2021.3125023",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/34727036",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-javed-deep-dive-covid-19": {
+    "cv_label": "J93",
+    "title": "A Deep Dive into COVID-19 Related Messages on WhatsApp in Pakistan",
+    "doi": "10.1007/s13278-021-00833-0",
+    "status": "free-to-read-link-only",
+    "best": {
+      "source": "openalex",
+      "url": "https://link.springer.com/content/pdf/10.1007/s13278-021-00833-0.pdf",
+      "landing": "https://doi.org/10.1007/s13278-021-00833-0",
+      "version": "publishedVersion",
+      "license": null,
+      "host": "Social Network Analysis and Mining",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://link.springer.com/content/pdf/10.1007/s13278-021-00833-0.pdf",
+        "landing": "https://doi.org/10.1007/s13278-021-00833-0",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Social Network Analysis and Mining",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/1721.1/138127",
+        "version": "submittedVersion",
+        "license": "cc-by-nc",
+        "host": "DSpace@MIT (Massachusetts Institute of Technology)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/1721.1/138127.2",
+        "version": "submittedVersion",
+        "license": "cc-by-nc",
+        "host": "DSpace@MIT (Massachusetts Institute of Technology)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/34804253",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8590927",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://repository.hkust.edu.hk/ir/Record/1783.1-157401",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Rare & Special e-Zone (The Hong Kong University of Science and Technology)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2023-latif-survey-deep-representation-learning": {
+    "cv_label": "J92",
+    "title": "Survey of Deep Representation Learning for Speech Emotion Recognition",
+    "doi": "10.1109/taffc.2021.3114365",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.techrxiv.org/articles/preprint/Survey_of_Deep_Representation_Learning_for_Speech_Emotion_Recognition/16689484/1/files/30930331.pdf",
+      "landing": "https://doi.org/10.36227/techrxiv.16689484",
+      "version": "acceptedVersion",
+      "license": "cc-by",
+      "host": null,
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/Survey_of_Deep_Representation_Learning_for_Speech_Emotion_Recognition/16689484/1/files/30930331.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.16689484",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://eprints.qut.edu.au/213410/1/Emotional_Representations_Review_minor_revision_2_3.pdf",
+        "landing": "https://eprints.qut.edu.au/213410/1/Emotional_Representations_Review_minor_revision_2_3.pdf",
+        "version": "submittedVersion",
+        "license": "cc-by-nc",
+        "host": "QUT ePrints (Queensland University of Technology)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.16689484.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://opus.bibliothek.uni-augsburg.de/opus4/files/91554/91554.pdf",
+        "landing": "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/91554",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "OPUS (Augsburg University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/preprint/Survey_of_Deep_Representation_Learning_for_Speech_Emotion_Recognition/16689484",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/taffc.2021.3114365",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Affective Computing",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2022-ilahi-challenges-countermeasures-adversarial-attacks": {
+    "cv_label": "J91",
+    "title": "Challenges and Countermeasures for Adversarial Attacks on Deep Reinforcement Learning",
+    "doi": "10.1109/tai.2021.3111139",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2001.09684",
+      "landing": "http://arxiv.org/abs/2001.09684",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2001.09684",
+        "landing": "http://arxiv.org/abs/2001.09684",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tai.2021.3111139",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Artificial Intelligence",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/10356/163971",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "DR-NTU (Nanyang Technological University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/45579",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2001.09684",
+        "version": "unknown",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-ali-all-your-fake-detector": {
+    "cv_label": "J90",
+    "title": "All Your Fake Detector Are Belong to Us: Evaluating Adversarial Robustness of Fake-news Detectors Under Black-Box Settings",
+    "doi": "10.1109/access.2021.3085875",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://ieeexplore.ieee.org/ielx7/6287639/9312710/09446139.pdf",
+      "landing": "https://doi.org/10.1109/access.2021.3085875",
+      "version": "publishedVersion",
+      "license": "cc-by-nc-nd",
+      "host": "IEEE Access",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/9312710/09446139.pdf",
+        "landing": "https://doi.org/10.1109/access.2021.3085875",
+        "version": "publishedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "IEEE Access",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/All_Your_Fake_Detector_Are_Belong_to_Us_Evaluating_Adversarial_Robustness_of_Fake-news_Detectors_Under_Black-Box_Settings/14329976/files/28205151.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14329976",
+        "version": "acceptedVersion",
+        "license": "cc-by-nc-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/All_Your_Fake_Detector_Are_Belong_to_Us_Evaluating_Adversarial_Robustness_of_Fake-news_Detectors_Under_Black-Box_Settings/14329976/1/files/27327038.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14329976.v1",
+        "version": "acceptedVersion",
+        "license": "cc-by-nc-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/All_Your_Fake_Detector_Are_Belong_to_Us_Evaluating_Adversarial_Robustness_of_Fake-news_Detectors_Under_Black-Box_Settings/14329976/files/27380462.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14329976.v2",
+        "version": "acceptedVersion",
+        "license": "cc-by-nc-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.techrxiv.org/articles/preprint/All_Your_Fake_Detector_Are_Belong_to_Us_Evaluating_Adversarial_Robustness_of_Fake-news_Detectors_Under_Black-Box_Settings/14329976/3/files/28205151.pdf",
+        "landing": "https://doi.org/10.36227/techrxiv.14329976.v3",
+        "version": "acceptedVersion",
+        "license": "cc-by-nc-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/4b05e66a03f749f598f6c00a58e6da06",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-shahroz-digital-contact-tracing-applications": {
+    "cv_label": "J89",
+    "title": "Digital Contact Tracing Applications and Techniques: A Review Post Initial Deployments",
+    "doi": "10.1016/j.treng.2021.100072",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2103.01766",
+      "landing": "http://arxiv.org/abs/2103.01766",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2103.01766",
+        "landing": "http://arxiv.org/abs/2103.01766",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666691X21000282/pdf",
+        "landing": "https://doi.org/10.1016/j.treng.2021.100072",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Transportation Engineering",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/2b7b3629d4554451a81d8a9265f5dcb8",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2103.01766",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.treng.2021.100072",
+        "version": "publishedVersion",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/8132499",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "PubMed Central",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-ashraf-wimesh-leveraging-mesh-networking": {
+    "cv_label": "J88",
+    "title": "WiMesh: Leveraging Mesh Networking For Disaster Communication in Resource-Constrained Settings",
+    "doi": "10.1007/s11276-021-02621-2",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s11276-021-02621-2",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Wireless Networks",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-merabet-intelligent-building-control-systems": {
+    "cv_label": "J87",
+    "title": "Intelligent Building Control Systems for Human Comfort and Efficient Energy Management: A Systematic Review of Artificial Intelligence-Assisted Techniques",
+    "doi": null,
+    "doi_inferred": {
+      "doi": "10.1016/j.rser.2021.110969",
+      "title": "Intelligent building control systems for thermal comfort and energy-efficiency: A systematic review of artificial intelligence-assisted techniques",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2021,
+      "similarity": 0.74,
+      "preprint": false,
+      "needs_review": true,
+      "preprint_dois": []
+    },
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.rser.2021.110969",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Renewable and Sustainable Energy Reviews",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-haider-energy-efficient-mac-cellular": {
+    "cv_label": "J86",
+    "title": "Energy-Efficient MAC for Cellular IoT: State-of-the-Art, Challenges, and Standardization",
+    "doi": "10.1109/tgcn.2021.3062093",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2103.05311",
+      "landing": "http://arxiv.org/abs/2103.05311",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2103.05311",
+        "landing": "http://arxiv.org/abs/2103.05311",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2103.05311",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tgcn.2021.3062093",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Green Communications and Networking",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-rais-employing-industrial-quality-management": {
+    "cv_label": "J85",
+    "title": "Employing Industrial Quality Management Systems for Quality Assurance in Outcome-Based Engineering Education: A Review",
+    "doi": "10.3390/educsci11020045",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://www.mdpi.com/2227-7102/11/2/45/pdf?version=1611656775",
+      "landing": "https://doi.org/10.3390/educsci11020045",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Education Sciences",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://www.mdpi.com/2227-7102/11/2/45/pdf?version=1611656775",
+        "landing": "https://doi.org/10.3390/educsci11020045",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Education Sciences",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://eprints.gla.ac.uk/232690/1/232690.pdf",
+        "landing": "http://eprints.gla.ac.uk/232690/1/232690.pdf",
+        "version": "acceptedVersion",
+        "license": "cc-by-sa",
+        "host": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/a8e400909d81437cbefc03035c606787",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3390/educsci11020045",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-usama-examining-machine-learning-5g": {
+    "cv_label": "J84",
+    "title": "Examining Machine Learning for 5G and Beyond through an Adversarial Lens",
+    "doi": "10.1109/mic.2021.3049190",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2009.02473",
+      "landing": "http://arxiv.org/abs/2009.02473",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2009.02473",
+        "landing": "http://arxiv.org/abs/2009.02473",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mic.2021.3049190",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Internet Computing",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://export.arxiv.org/pdf/2009.02473",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/20.500.11820/1fc78bbd-9a74-437b-822e-487d52902374",
+        "version": "submittedVersion",
+        "license": "other-oa",
+        "host": "Edinburgh Research Explorer (University of Edinburgh)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2009.02473",
+        "version": "unknown",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2020-ahmed-active-learning-federated-learning": {
+    "cv_label": "J83",
+    "title": "Active Learning Based Federated Learning for Waste and Natural Disaster Image Classification",
+    "doi": "10.1109/access.2020.3038676",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09261337.pdf",
+      "landing": "https://doi.org/10.1109/access.2020.3038676",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "IEEE Access",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09261337.pdf",
+        "landing": "https://doi.org/10.1109/access.2020.3038676",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Access",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/7154c84a710a4d90b91edb92c96026e0",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://figshare.com/articles/journal_contribution/Active_Learning_Based_Federated_Learning_for_Waste_and_Natural_Disaster_Image_Classification/24015858",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Figshare",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/access.2020.3038676",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.60692/47zjz-3wh79",
+        "version": "unknown",
+        "license": null,
+        "host": "Greater South Information System",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.60692/sz8fs-k6372",
+        "version": "unknown",
+        "license": null,
+        "host": "Greater South Information System",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  }
+}

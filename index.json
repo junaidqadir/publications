@@ -4819,10 +4819,12 @@
     "cv_label": "C76",
     "title": "Robotics Primer for Independent Learners: Background, Curriculum, Resources, and Tips",
     "authors": [
-      "R. A. Gull"
+      "R. A. Gull",
+      "M. D. B. M. Izham",
+      "J. Qadir"
     ],
     "year": 2023,
-    "venue": "M. D. B. M. Izham, J. Qadir",
+    "venue": "2023 IEEE Global Engineering Education Conference (EDUCON) - Special Session: Internet of Things Education for Engineering Practitioners (IoTEd'23)",
     "volume": null,
     "issue": null,
     "pages": "1–9",
@@ -4832,10 +4834,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "education"
+      "education",
+      "networking"
     ],
     "themes": [
-      "education"
+      "education",
+      "networks-ict4d"
     ],
     "featured": false,
     "access_note": null,
@@ -4847,7 +4851,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{gull2023robotics,\n  title     = {{Robotics Primer for Independent Learners: Background, Curriculum, Resources, and Tips}},\n  author    = {Gull, R. A.},\n  booktitle = {M. D. B. M. Izham, J. Qadir},\n  pages     = {1--9},\n  year      = {2023},\n  doi       = {10.1109/educon54358.2023.10125209}\n}"
+    "bibtex": "@inproceedings{gull2023robotics,\n  title     = {{Robotics Primer for Independent Learners: Background, Curriculum, Resources, and Tips}},\n  author    = {Gull, R. A. and Izham, M. D. B. M. and Qadir, J.},\n  booktitle = {2023 IEEE Global Engineering Education Conference (EDUCON) - Special Session: Internet of Things Education for Engineering Practitioners (IoTEd'23)},\n  pages     = {1--9},\n  year      = {2023},\n  doi       = {10.1109/educon54358.2023.10125209}\n}"
   },
   {
     "slug": "2023-qayyum-segcrop-segmentation-dynamic-cropping",
@@ -7571,10 +7575,12 @@
     "authors": [
       "A. Qayyum",
       "W. Sultani",
-      "F. Shamshad"
+      "F. Shamshad",
+      "J. Qadir",
+      "R. Tufail"
     ],
     "year": 2020,
-    "venue": "J. Qadir & R. Tufail, Medical Image Computing and Computer Assisted Intervention (MICCAI)",
+    "venue": "Medical Image Computing and Computer Assisted Intervention (MICCAI)",
     "volume": null,
     "issue": null,
     "pages": "636–646",
@@ -7601,7 +7607,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{qayyum2020single,\n  title     = {{Single-Shot Retinal Image Enhancement Using Deep Image Priors}},\n  author    = {Qayyum, A. and Sultani, W. and Shamshad, F.},\n  booktitle = {J. Qadir \\& R. Tufail, Medical Image Computing and Computer Assisted Intervention (MICCAI)},\n  pages     = {636--646},\n  year      = {2020},\n  doi       = {10.1007/978-3-030-59722-1_61}\n}"
+    "bibtex": "@inproceedings{qayyum2020single,\n  title     = {{Single-Shot Retinal Image Enhancement Using Deep Image Priors}},\n  author    = {Qayyum, A. and Sultani, W. and Shamshad, F. and Qadir, J. and Tufail, R.},\n  booktitle = {Medical Image Computing and Computer Assisted Intervention (MICCAI)},\n  pages     = {636--646},\n  year      = {2020},\n  doi       = {10.1007/978-3-030-59722-1_61}\n}"
   },
   {
     "slug": "2020-irteza-remote-learning-networking-education",
@@ -9121,10 +9127,11 @@
       "T. Mu",
       "A. Al-Fuqaha",
       "K. Shuaib",
-      "F. M. Sallabi"
+      "F. M. Sallabi",
+      "J. Qadir"
     ],
     "year": 2018,
-    "venue": "J. Qadir in ACM Transactions on Autonomous and Adaptive Systems",
+    "venue": "ACM Transactions on Autonomous and Adaptive Systems",
     "volume": "13",
     "issue": "2",
     "pages": "1–23",
@@ -9152,7 +9159,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{mu2018flow,\n  title     = {{SDN Flow Entry Management Using Reinforcement Learning}},\n  author    = {Mu, T. and Al-Fuqaha, A. and Shuaib, K. and Sallabi, F. M.},\n  journal = {J. Qadir in ACM Transactions on Autonomous and Adaptive Systems},\n  volume    = {13},\n  number    = {2},\n  pages     = {1--23},\n  year      = {2018},\n  doi       = {10.1145/3281032}\n}"
+    "bibtex": "@article{mu2018flow,\n  title     = {{SDN Flow Entry Management Using Reinforcement Learning}},\n  author    = {Mu, T. and Al-Fuqaha, A. and Shuaib, K. and Sallabi, F. M. and Qadir, J.},\n  journal = {ACM Transactions on Autonomous and Adaptive Systems},\n  volume    = {13},\n  number    = {2},\n  pages     = {1--23},\n  year      = {2018},\n  doi       = {10.1145/3281032}\n}"
   },
   {
     "slug": "2018-latif-phonocardiographic-sensing-deep-learning",
@@ -10915,10 +10922,11 @@
       "S. A. Hassan",
       "M. Shahmeer Omar",
       "M. A. Imran",
-      "N. K. Jayakody"
+      "N. K. Jayakody",
+      "J. Qadir"
     ],
     "year": 2017,
-    "venue": "J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley",
+    "venue": "5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -10946,7 +10954,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{hassan2017universal,\n  title     = {{Universal Access in 5G Networks: Potential Challenges and Opportunities for Urban and Rural Environments}},\n  author    = {Hassan, S. A. and Omar, M. Shahmeer and Imran, M. A. and Jayakody, N. K.},\n  booktitle = {J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley},\n  year      = {2017},\n  doi       = {10.1002/9781119333142.ch8}\n}"
+    "bibtex": "@incollection{hassan2017universal,\n  title     = {{Universal Access in 5G Networks: Potential Challenges and Opportunities for Urban and Rural Environments}},\n  author    = {Hassan, S. A. and Omar, M. Shahmeer and Imran, M. A. and Jayakody, N. K. and Qadir, J.},\n  booktitle = {5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley},\n  year      = {2017},\n  doi       = {10.1002/9781119333142.ch8}\n}"
   },
   {
     "slug": "2016-zaman-putting-social-justice-first",

@@ -3716,9 +3716,10 @@
       "T. Mu",
       "A. Al-Fuqaha",
       "K. Shuaib",
-      "F. M. Sallabi"
+      "F. M. Sallabi",
+      "J. Qadir"
     ],
-    "venue": "J. Qadir in ACM Transactions on Autonomous and Adaptive Systems",
+    "venue": "ACM Transactions on Autonomous and Adaptive Systems",
     "year": 2018,
     "volume": "13",
     "issue": "2",
@@ -5786,9 +5787,11 @@
     "cv_label": "C76",
     "title": "Robotics Primer for Independent Learners: Background, Curriculum, Resources, and Tips",
     "authors": [
-      "R. A. Gull"
+      "R. A. Gull",
+      "M. D. B. M. Izham",
+      "J. Qadir"
     ],
-    "venue": "M. D. B. M. Izham, J. Qadir",
+    "venue": "2023 IEEE Global Engineering Education Conference (EDUCON) - Special Session: Internet of Things Education for Engineering Practitioners (IoTEd'23)",
     "year": 2023,
     "volume": null,
     "issue": null,
@@ -6155,9 +6158,11 @@
     "authors": [
       "A. Qayyum",
       "W. Sultani",
-      "F. Shamshad"
+      "F. Shamshad",
+      "J. Qadir",
+      "R. Tufail"
     ],
-    "venue": "J. Qadir & R. Tufail, Medical Image Computing and Computer Assisted Intervention (MICCAI)",
+    "venue": "Medical Image Computing and Computer Assisted Intervention (MICCAI)",
     "year": 2020,
     "volume": null,
     "issue": null,
@@ -7979,9 +7984,10 @@
       "S. A. Hassan",
       "M. Shahmeer Omar",
       "M. A. Imran",
-      "N. K. Jayakody"
+      "N. K. Jayakody",
+      "J. Qadir"
     ],
-    "venue": "J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley",
+    "venue": "5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley",
     "year": 2017,
     "volume": null,
     "issue": null,

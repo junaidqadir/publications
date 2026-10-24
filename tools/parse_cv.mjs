@@ -112,10 +112,10 @@ function parseEntry(raw, code, section, number) {
     t.length < 40 &&
     !/\d/.test(t) &&
     !/\b(IEEE|ACM|Elsevier|Springer|MDPI|Wiley|Nature|Taylor|Francis|Frontiers|Journal|Transactions|Proceedings|Conference|International|Symposium|Workshop|Magazine|Review|Reports|npj|Emerald|IET|JMIR|Society|Access|Systems|Computing|Letters|Science|accepted|published|forthcoming|Volume|Impact)\b/i.test(t) &&
-    /^[A-ZÀ-Ý][\p{L}.'’-]*(\s+(?:[A-ZÀ-Ý][\p{L}.'’-]*|[a-z]\.)){0,3}$/u.test(t);
+    /^[A-ZÀ-Ý][\p{L}.'’-]*(\s+(?:[A-ZÀ-Ý][\p{L}.'’-]*|[a-z]\.)){0,6}$/u.test(t);
 
   const splitAuthors = (s) =>
-    s.split(/,\s*|\s+and\s+|;\s*/i).map((x) => x.replace(/^(and|by)\s+/i, "").trim()).filter(Boolean);
+    s.split(/,\s*|\s+and\s+|\s*&\s*|;\s*/i).map((x) => x.replace(/^(and|by)\s+/i, "").trim()).filter(Boolean);
 
   let authors = [];
   let rest = after;
@@ -124,7 +124,8 @@ function parseEntry(raw, code, section, number) {
     authors = splitAuthors(before.replace(/^by\s+/i, ""));
   } else {
     // title-first form: walk tokens after the title while they look like names
-    const toks = splitAuthors(after);
+    // "…, J. Qadir in ACM Trans…" has no comma before the venue; insert one so the last author is separated
+    const toks = splitAuthors(after.replace(/(\b[A-Z]\. [A-ZÀ-Ý][\p{L}'’-]+)\s+in\s+(?=[A-Z0-9\\])/u, "$1, "));
     let i = 0;
     while (i < toks.length && looksLikeAuthor(toks[i])) authors.push(toks[i++]);
     // rebuild the remainder from the first non-author token on

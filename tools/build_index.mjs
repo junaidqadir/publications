@@ -17,6 +17,7 @@ const oa = rd("data/oa.json", {});
 const manifest = rd("data/pdf_manifest.json", {});
 const preprintLinks = rd("data/preprint_links.json", {}); // { slug: { url, host } } author-posted preprints on SSRN/OSF/etc. (linked, not mirrored)
 const featuredList = rd("data/featured.json", []); // extra featured slugs (besides overrides.json)
+const venueFixes = rd("data/venue_fixes.json", {});
 const accessNotes = rd("data/access_notes.json", {}); // { slug: "why no PDF is hosted / how to get a copy" }
 const curated = rd("data/curated_themes.json", {}); // { theme: [slug,...] } hand-picked theme membership (e.g. multiplexity)
 const overrides = rd("data/overrides.json", {}); // { slug: { tags:[], themes:[], featured:bool, note, doi } }
@@ -101,7 +102,7 @@ const out = entries.map((e) => {
     title: e.title,
     authors: e.authors,
     year: e.year,
-    venue: e.venue,
+    venue: venueFixes[e.slug] || e.venue,
     volume: e.volume,
     issue: e.issue,
     pages: e.pages,

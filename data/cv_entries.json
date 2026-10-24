@@ -4085,12 +4085,12 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1145/3027947.3027953",
     "arxiv": null,
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Resource Pooling for Wireless Networks: Solutions for the Developing World”, J. Qadir, A. Sathiaseelan, L. Wang, J. Crowcroft, Editorial Note published in ACM Computer Communication Review (CCR), October, 2016.",
+    "plain": "“Resource Pooling for Wireless Networks: Solutions for the Developing World”, J. Qadir, A. Sathiaseelan, L. Wang, J. Crowcroft, Editorial Note published in ACM Computer Communication Review (CCR), October, 2016. .",
     "slug": "2016-qadir-resource-pooling-wireless-networks"
   },
   {
@@ -4787,12 +4787,12 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3233/shti260175",
     "arxiv": null,
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes”, S. W. F. Rizvi, M. Alkhateeb, F. Mohsen, J. Qadir, A. Ahmed, A. Abd-alrazaq, Medical Informatics Europe (MIE 2026), 2026.",
+    "plain": "“Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes”, S. W. F. Rizvi, M. Alkhateeb, F. Mohsen, J. Qadir, A. Ahmed, A. Abd-alrazaq, Medical Informatics Europe (MIE 2026), 2026. .",
     "slug": "2026-rizvi-artificial-intelligence-predicting-transition"
   },
   {
@@ -7593,12 +7593,12 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1002/9781119333142.ch8",
     "arxiv": null,
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage”, S. A. Hassan, M. Shahmeer Omar, M. A. Imran, N. K. Jayakody, J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley, 2017.",
+    "plain": "“5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage”, S. A. Hassan, M. Shahmeer Omar, M. A. Imran, N. K. Jayakody, J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley, 2017. .",
     "slug": "2017-hassan-5g-universal-access-challenges"
   },
   {

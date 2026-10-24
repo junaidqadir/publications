@@ -1038,5 +1038,18 @@
     "verified": "title",
     "title_match": 1,
     "fetched_at": "2026-10-24"
+  },
+  "2026-qadir-multiplex-systemics-wholeness-making": {
+    "path": "pdf/2026/2026-qadir-multiplex-systemics-wholeness-making.pdf",
+    "bytes": 368353,
+    "sha256": "98befb3ac7cd575aaebac234bad1bead716cc5a8d310af4963424a5dfb535da8",
+    "source": "author-provided",
+    "url": null,
+    "landing": null,
+    "version": "preprint",
+    "license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
+    "verified": "author-supplied",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
   }
 }

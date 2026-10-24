@@ -34,9 +34,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2026/2026-qadir-multiplex-systemics-wholeness-making.pdf",
+    "pdf_version": "preprint",
+    "pdf_license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
     "oa_url": null,
     "oa_status": "none-found",
     "bibtex": "@incollection{qadir2027multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2027}\n}"
@@ -524,7 +524,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3233/shti260175",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -547,7 +547,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@inproceedings{rizvi2026artificial,\n  title     = {{Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes}},\n  author    = {Rizvi, S. W. F. and Alkhateeb, M. and Mohsen, F. and Qadir, J. and Ahmed, A. and Abd-alrazaq, A.},\n  booktitle = {Medical Informatics Europe (MIE 2026)},\n  year      = {2026}\n}"
+    "bibtex": "@inproceedings{rizvi2026artificial,\n  title     = {{Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes}},\n  author    = {Rizvi, S. W. F. and Alkhateeb, M. and Mohsen, F. and Qadir, J. and Ahmed, A. and Abd-alrazaq, A.},\n  booktitle = {Medical Informatics Europe (MIE 2026)},\n  year      = {2026},\n  doi       = {10.3233/shti260175}\n}"
   },
   {
     "slug": "2026-khan-generative-ai-signal-processing",
@@ -10142,7 +10142,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1002/9781119333142.ch8",
     "section": "book-chapter",
     "status": "final",
     "awards": [],
@@ -10168,7 +10168,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{hassan2017universal,\n  title     = {{5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage}},\n  author    = {Hassan, S. A. and Omar, M. Shahmeer and Imran, M. A. and Jayakody, N. K.},\n  booktitle = {J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley},\n  year      = {2017}\n}"
+    "bibtex": "@incollection{hassan2017universal,\n  title     = {{5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage}},\n  author    = {Hassan, S. A. and Omar, M. Shahmeer and Imran, M. A. and Jayakody, N. K.},\n  booktitle = {J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley},\n  year      = {2017},\n  doi       = {10.1002/9781119333142.ch8}\n}"
   },
   {
     "slug": "2016-zaman-putting-social-justice-first",
@@ -10301,7 +10301,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1145/3027947.3027953",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -10323,7 +10323,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@article{qadir2016resource,\n  title     = {{Resource Pooling for Wireless Networks: Solutions for the Developing World}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Wang, L. and Crowcroft, J.},\n  journal = {Editorial Note published in ACM Computer Communication Review (CCR)},\n  year      = {2016}\n}"
+    "bibtex": "@article{qadir2016resource,\n  title     = {{Resource Pooling for Wireless Networks: Solutions for the Developing World}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Wang, L. and Crowcroft, J.},\n  journal = {Editorial Note published in ACM Computer Communication Review (CCR)},\n  year      = {2016},\n  doi       = {10.1145/3027947.3027953}\n}"
   },
   {
     "slug": "2016-riaz-intrusion-detection-systems-cloud",

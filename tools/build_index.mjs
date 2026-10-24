@@ -15,6 +15,7 @@ const rd = (p, d) => (existsSync(join(root, p)) ? JSON.parse(readFileSync(join(r
 const entries = rd("data/cv_entries.json", []);
 const oa = rd("data/oa.json", {});
 const manifest = rd("data/pdf_manifest.json", {});
+const accessNotes = rd("data/access_notes.json", {}); // { slug: "why no PDF is hosted / how to get a copy" }
 const curated = rd("data/curated_themes.json", {}); // { theme: [slug,...] } hand-picked theme membership (e.g. multiplexity)
 const overrides = rd("data/overrides.json", {}); // { slug: { tags:[], themes:[], featured:bool, note, doi } }
 const fetchErrors = rd("data/fetch_errors.json", {});
@@ -108,6 +109,7 @@ const out = entries.map((e) => {
     tags: [...new Set([...(ov.tags || []), ...tags])],
     themes: [...new Set([...(ov.themes || []), ...Object.entries(curated).filter(([k, v]) => !k.startsWith("_") && v.includes(e.slug)).map(([k]) => k), ...themes])],
     featured: ov.featured ?? false,
+    access_note: accessNotes[e.slug] || null,
     links: e.links || [],
     // open-access copy
     pdf: m ? m.path : null,

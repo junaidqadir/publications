@@ -36,6 +36,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2026/2026-khan-surgical-scene-understanding-era.pdf",
     "pdf_version": "preprint",
@@ -71,6 +72,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -111,6 +113,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -149,6 +152,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2026/2026-almaliki-budget-constrained-online-retrieval.pdf",
     "pdf_version": "preprint",
@@ -188,6 +192,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -226,6 +231,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2026/2026-mushtaq-worldview-bench-benchmark-evaluating.pdf",
     "pdf_version": "preprint",
@@ -264,6 +270,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -304,6 +311,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -342,6 +350,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -378,6 +387,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -417,6 +427,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -456,6 +467,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -493,6 +505,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -529,6 +542,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -566,6 +580,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -605,6 +620,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": "The publisher (Edward Elgar) does not permit this chapter to be shared openly. To request a copy, email jqadir@qu.edu.qa.",
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -644,6 +660,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -681,6 +698,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -720,6 +738,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -755,6 +774,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -793,6 +813,7 @@
       "health-psychology"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2025/2025-qadir-multiplex-health-integrating-complexity.pdf",
     "pdf_version": "publishedVersion",
@@ -830,6 +851,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -869,6 +891,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -906,6 +929,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -941,6 +965,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -979,6 +1004,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1020,6 +1046,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1061,6 +1088,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1107,6 +1135,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1145,6 +1174,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1187,6 +1217,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2025/2025-aledhari-safeguarding-connected-autonomous-vehicle.pdf",
     "pdf_version": "submittedVersion",
@@ -1227,6 +1258,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1270,6 +1302,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1314,6 +1347,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1355,6 +1389,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1405,6 +1440,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1444,6 +1480,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2025/2025-mushtaq-harnessing-multi-agent-llms.pdf",
     "pdf_version": "submittedVersion",
@@ -1479,6 +1516,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1520,6 +1558,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1560,6 +1599,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-ullah-privacy-preserving-large-language.pdf",
     "pdf_version": "submittedVersion",
@@ -1594,6 +1634,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1634,6 +1675,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1676,6 +1718,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1712,6 +1755,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1753,6 +1797,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1792,6 +1837,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-alkaeed-privacy-preservation-artificial-intelligence.pdf",
     "pdf_version": "submittedVersion",
@@ -1827,6 +1873,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-butt-r2s100k-road-region-segmentation.pdf",
     "pdf_version": "submittedVersion",
@@ -1861,6 +1908,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1889,6 +1937,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1921,6 +1970,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1951,6 +2001,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1989,6 +2040,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-pervez-affective-computing-road-emotionally.pdf",
     "pdf_version": "publishedVersion",
@@ -2024,6 +2076,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-hussain-editorial-metaverse-education-opportunities.pdf",
     "pdf_version": "publishedVersion",
@@ -2065,6 +2118,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-almaliki-adversarial-machine-learning-social.pdf",
     "pdf_version": "submittedVersion",
@@ -2103,6 +2157,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-jagatheesaperumal-advancing-education-through-extended.pdf",
     "pdf_version": "submittedVersion",
@@ -2143,6 +2198,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2181,6 +2237,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2229,6 +2286,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2265,6 +2323,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-ali-consistent-valid-physically-realizable.pdf",
     "pdf_version": "submittedVersion",
@@ -2304,6 +2363,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-almaliki-addressing-data-distribution-shifts.pdf",
     "pdf_version": "submittedVersion",
@@ -2339,6 +2399,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2377,6 +2438,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-aledhari-motion-comfort-optimization-autonomous.pdf",
     "pdf_version": "submittedVersion",
@@ -2419,6 +2481,7 @@
       "ai"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-qayyum-secure-trustworthy-artificial-intelligence.pdf",
     "pdf_version": "submittedVersion",
@@ -2454,6 +2517,7 @@
       "education"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2490,6 +2554,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2526,6 +2591,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2569,6 +2635,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2024/2024-byfield-medisure-assuring-machine-learning.pdf",
     "pdf_version": "submittedVersion",
@@ -2603,6 +2670,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2641,6 +2709,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2682,6 +2751,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2721,6 +2791,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2756,6 +2827,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2795,6 +2867,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2833,6 +2906,7 @@
       "education"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2870,6 +2944,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2911,6 +2986,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2950,6 +3026,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -2989,6 +3066,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3028,6 +3106,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3066,6 +3145,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3105,6 +3185,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3145,6 +3226,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3178,6 +3260,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3219,6 +3302,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3258,6 +3342,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3299,6 +3384,7 @@
       "health-psychology"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2023/2023-qayyum-secure-robust-machine-learning.pdf",
     "pdf_version": "submittedVersion",
@@ -3338,6 +3424,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3373,6 +3460,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3410,6 +3498,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3446,6 +3535,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3488,6 +3578,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3525,6 +3616,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3562,6 +3654,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3604,6 +3697,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3643,6 +3737,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3684,6 +3779,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3726,6 +3822,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2023/2023-qayyum-we-revitalize-interventional-healthcare.pdf",
     "pdf_version": "submittedVersion",
@@ -3762,6 +3859,7 @@
       "education"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3794,6 +3892,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3837,6 +3936,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3878,6 +3978,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3922,6 +4023,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -3964,6 +4066,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4000,6 +4103,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4038,6 +4142,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4076,6 +4181,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2022/2022-qayyum-collaborative-federated-learning-healthcare.pdf",
     "pdf_version": "submittedVersion",
@@ -4113,6 +4219,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4151,6 +4258,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4190,6 +4298,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4225,6 +4334,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2022/2022-ahsan-active-learning-method-diabetic.pdf",
     "pdf_version": "submittedVersion",
@@ -4263,6 +4373,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4299,6 +4410,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2022/2022-zoha-editorial-research-topic-ai.pdf",
     "pdf_version": "publishedVersion",
@@ -4333,6 +4445,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4376,6 +4489,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4419,6 +4533,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4461,6 +4576,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4497,6 +4613,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4538,6 +4655,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4575,6 +4693,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2022/2022-yousaf-fake-visual-content-detection.pdf",
     "pdf_version": "submittedVersion",
@@ -4610,6 +4729,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2022/2022-qadir-network-service-new-vista.pdf",
     "pdf_version": "submittedVersion",
@@ -4650,6 +4770,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2022/2022-ilahi-challenges-countermeasures-adversarial-attacks.pdf",
     "pdf_version": "submittedVersion",
@@ -4688,6 +4809,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4722,6 +4844,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4758,6 +4881,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-rasheed-generative-model-synthesize-eeg.pdf",
     "pdf_version": "submittedVersion",
@@ -4796,6 +4920,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4835,6 +4960,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-ali-all-your-fake-detector.pdf",
     "pdf_version": "publishedVersion",
@@ -4871,6 +4997,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-shahroz-digital-contact-tracing-applications.pdf",
     "pdf_version": "submittedVersion",
@@ -4907,6 +5034,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4949,6 +5077,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -4987,6 +5116,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-haider-energy-efficient-mac-cellular.pdf",
     "pdf_version": "submittedVersion",
@@ -5025,6 +5155,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5064,6 +5195,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-usama-examining-machine-learning-5g.pdf",
     "pdf_version": "submittedVersion",
@@ -5102,6 +5234,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5142,6 +5275,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-mohammed-budgeted-online-selection-candidate.pdf",
     "pdf_version": "submittedVersion",
@@ -5181,6 +5315,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-qolomany-trust-cloud-machine-learning.pdf",
     "pdf_version": "submittedVersion",
@@ -5218,6 +5353,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5260,6 +5396,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-rasheed-machine-learning-predicting-epileptic.pdf",
     "pdf_version": "submittedVersion",
@@ -5297,6 +5434,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-mcquistin-characterising-ietf-through-lens.pdf",
     "pdf_version": "submittedVersion",
@@ -5335,6 +5473,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5375,6 +5514,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2021/2021-ali-privacy-enhanced-speech-emotion.pdf",
     "pdf_version": "submittedVersion",
@@ -5412,6 +5552,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5450,6 +5591,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5491,6 +5633,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-qayyum-securing-machine-learning-ml.pdf",
     "pdf_version": "publishedVersion",
@@ -5536,6 +5679,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5574,6 +5718,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5609,6 +5754,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "https://doi.org/10.35542/osf.io/eupdm"
     ],
@@ -5643,6 +5789,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5679,6 +5826,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5711,6 +5859,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-yau-smart-port-infrastructures-enhancing.pdf",
     "pdf_version": "publishedVersion",
@@ -5752,6 +5901,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-usman-retrospective-motion-correction-multishot.pdf",
     "pdf_version": "submittedVersion",
@@ -5790,6 +5940,7 @@
       "ai"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-qayyum-securing-connected-autonomous-vehicles.pdf",
     "pdf_version": "submittedVersion",
@@ -5826,6 +5977,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5865,6 +6017,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-usama-adversarial-machine-learning-conundrum.pdf",
     "pdf_version": "submittedVersion",
@@ -5902,6 +6055,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -5941,6 +6095,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-javed-first-look-covid-19.pdf",
     "pdf_version": "submittedVersion",
@@ -5976,6 +6131,7 @@
       "multiplexity"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6018,6 +6174,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-hussain-assessment-feedback-under-disruptive.pdf",
     "pdf_version": "submittedVersion",
@@ -6056,6 +6213,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-qolomany-particle-swarm-optimized-federated.pdf",
     "pdf_version": "submittedVersion",
@@ -6094,6 +6252,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6129,6 +6288,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6165,6 +6325,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6205,6 +6366,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6240,6 +6402,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6283,6 +6446,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6321,6 +6485,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-qadir-leveraging-force-formative-assessment.pdf",
     "pdf_version": "submittedVersion",
@@ -6356,6 +6521,7 @@
       "education"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-qadir-engineering-education-moving-2020s.pdf",
     "pdf_version": "acceptedVersion",
@@ -6387,6 +6553,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2020/2020-tabatabai-opportunistic-selection-vehicular-data.pdf",
     "pdf_version": "submittedVersion",
@@ -6427,6 +6594,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6465,6 +6633,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6500,6 +6669,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6538,6 +6708,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6575,6 +6746,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-alsarem-deep-learning-rumor-detection.pdf",
     "pdf_version": "publishedVersion",
@@ -6611,6 +6783,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6647,6 +6820,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6684,6 +6858,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-latif-caveat-emptor-risks-big.pdf",
     "pdf_version": "submittedVersion",
@@ -6722,6 +6897,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6764,6 +6940,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-qolomany-leveraging-machine-learning-big.pdf",
     "pdf_version": "submittedVersion",
@@ -6801,6 +6978,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-rana-soft-computing-techniques-dependable.pdf",
     "pdf_version": "submittedVersion",
@@ -6840,6 +7018,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-usama-unsupervised-machine-learning-networking.pdf",
     "pdf_version": "submittedVersion",
@@ -6872,6 +7051,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6905,6 +7085,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -6938,6 +7119,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-qayyum-blockchain-rein-new-post.pdf",
     "pdf_version": "submittedVersion",
@@ -6974,6 +7156,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-iqbal-bibliometric-analysis-publications-computer.pdf",
     "pdf_version": "publishedVersion",
@@ -7011,6 +7194,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-liaqat-socially-aware-congestion-control.pdf",
     "pdf_version": "submittedVersion",
@@ -7049,6 +7233,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7086,6 +7271,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-latif-unsupervised-adversarial-domain-adaptation.pdf",
     "pdf_version": "submittedVersion",
@@ -7117,6 +7303,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-mohammad-opportunistic-data-ferrying-areas.pdf",
     "pdf_version": "submittedVersion",
@@ -7154,6 +7341,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-usama-adversarial-machine-learning-attack.pdf",
     "pdf_version": "submittedVersion",
@@ -7192,6 +7380,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-farooq-adversarial-ml-attack-self.pdf",
     "pdf_version": "submittedVersion",
@@ -7227,6 +7416,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7266,6 +7456,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7306,6 +7497,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7343,6 +7535,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7379,6 +7572,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7416,6 +7610,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2019/2019-khalid-fademl-understanding-impact-pre.pdf",
     "pdf_version": "submittedVersion",
@@ -7452,6 +7647,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7487,6 +7683,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7521,6 +7718,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7559,6 +7757,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7596,6 +7795,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7631,6 +7831,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-latif-phonocardiographic-sensing-deep-learning.pdf",
     "pdf_version": "submittedVersion",
@@ -7666,6 +7867,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7704,6 +7906,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-aman-impersonation-detection-line-sight.pdf",
     "pdf_version": "submittedVersion",
@@ -7741,6 +7944,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-yau-cognition-inspired-5g-cellular.pdf",
     "pdf_version": "acceptedVersion",
@@ -7773,6 +7977,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-pervez-memory-user-centric-backhaul.pdf",
     "pdf_version": "acceptedVersion",
@@ -7808,6 +8013,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-saleh-shedding-light-dark-corners.pdf",
     "pdf_version": "submittedVersion",
@@ -7846,6 +8052,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7883,6 +8090,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7923,6 +8131,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7959,6 +8168,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7991,6 +8201,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-qayyum-exploring-media-bias-toxicity.pdf",
     "pdf_version": "submittedVersion",
@@ -8031,6 +8242,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8069,6 +8281,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8105,6 +8318,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8144,6 +8358,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8180,6 +8395,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-farooq-user-transmit-power-minimization.pdf",
     "pdf_version": "submittedVersion",
@@ -8216,6 +8432,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-usama-adversarial-attacks-cognitive-self.pdf",
     "pdf_version": "submittedVersion",
@@ -8252,6 +8469,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2018/2018-latif-variational-autoencoders-learning-latent.pdf",
     "pdf_version": "submittedVersion",
@@ -8289,6 +8507,7 @@
       "health-psychology"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8324,6 +8543,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8366,6 +8586,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8410,6 +8631,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8451,6 +8673,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8487,6 +8710,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2017/2017-harris-persuasive-technology-human-development.pdf",
     "pdf_version": "submittedVersion",
@@ -8526,6 +8750,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8565,6 +8790,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8602,6 +8828,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8644,6 +8871,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8673,6 +8901,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [
       "https://ssrn.com/abstract=2916505"
     ],
@@ -8714,6 +8943,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8747,6 +8977,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8782,6 +9013,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2017/2017-ahmed-reliability-modeling-analysis-communication.pdf",
     "pdf_version": "submittedVersion",
@@ -8816,6 +9048,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8854,6 +9087,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8889,6 +9123,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8922,6 +9157,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8960,6 +9196,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8990,6 +9227,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2017/2017-latif-deep-autoencoders-facial-expression.pdf",
     "pdf_version": "submittedVersion",
@@ -9034,6 +9272,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9068,6 +9307,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9106,6 +9346,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9143,6 +9384,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2017/2017-khalil-feasibility-architecture-cost-considerations.pdf",
     "pdf_version": "submittedVersion",
@@ -9182,6 +9424,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9215,6 +9458,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9252,6 +9496,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9288,6 +9533,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9324,6 +9570,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9360,6 +9607,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9395,6 +9643,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9432,6 +9681,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9473,6 +9723,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9511,6 +9762,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9548,6 +9800,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9583,6 +9836,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2016/2016-mehboob-genetic-algorithms-wireless-networking.pdf",
     "pdf_version": "submittedVersion",
@@ -9619,6 +9873,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9655,6 +9910,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9691,6 +9947,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9731,6 +9988,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9764,6 +10022,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://blogs.biomedcentral.com/on-biology/2016/07/01/big-data-human-development/"
     ],
@@ -9800,6 +10059,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9835,6 +10095,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9870,6 +10131,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9905,6 +10167,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://dx.doi.org/2940157.2940158",
       "http://dl.acm.org/citation.cfm?id=2940158"
@@ -9939,6 +10202,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://dl.acm.org/citation.cfm?id=2926678"
     ],
@@ -9977,6 +10241,7 @@
       "ai"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -10016,6 +10281,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -10053,6 +10319,7 @@
       "networks-ict4d"
     ],
     "featured": true,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2015/2015-qadir-exploiting-power-multiplicity-holistic.pdf",
     "pdf_version": "submittedVersion",
@@ -10087,6 +10354,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2015/2015-qadir-artificial-intelligence-cognitive-routing.pdf",
     "pdf_version": "submittedVersion",
@@ -10121,6 +10389,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -10153,6 +10422,7 @@
       "education"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -10190,6 +10460,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2015/2015-malik-qos-ieee-802-11.pdf",
     "pdf_version": "submittedVersion",
@@ -10221,6 +10492,7 @@
     ],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2015/2015-qadir-applying-formal-methods-networking.pdf",
     "pdf_version": "submittedVersion",
@@ -10255,6 +10527,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -10290,6 +10563,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2014/2014-qadir-building-programmable-wireless-networks.pdf",
     "pdf_version": "submittedVersion",
@@ -10325,6 +10599,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [],
     "pdf": "pdf/2014/2014-qadir-multicasting-cognitive-radio-networks.pdf",
     "pdf_version": "submittedVersion",
@@ -10362,6 +10637,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/document/7118368/"
     ],
@@ -10394,6 +10670,7 @@
     "tags": [],
     "themes": [],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/document/7096903/"
     ],
@@ -10432,6 +10709,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://dl.acm.org/citation.cfm?id=2584935"
     ],
@@ -10468,6 +10746,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/document/6731335/"
     ],
@@ -10506,6 +10785,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/document/6761275/"
     ],
@@ -10543,6 +10823,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/document/6550447/?reload=true\\&arnumber=6550447"
     ],
@@ -10583,6 +10864,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpl/abstractKeywords.jsp?arnumber=6375468"
     ],
@@ -10622,6 +10904,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6424066"
     ],
@@ -10659,6 +10942,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://link.springer.com/chapter/10.1007\\%2F978-3-642-31137-6_27"
     ],
@@ -10697,6 +10981,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6149816"
     ],
@@ -10735,6 +11020,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/document/5638455/"
     ],
@@ -10773,6 +11059,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5638501"
     ],
@@ -10812,6 +11099,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5638377"
     ],
@@ -10849,6 +11137,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4815250"
     ],
@@ -10888,6 +11177,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://dl.acm.org/citation.cfm?id=1838016"
     ],
@@ -10926,6 +11216,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://dl.acm.org/citation.cfm?id=1838015"
     ],
@@ -10965,6 +11256,7 @@
       "ihsan-ethics"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5353126"
     ],
@@ -11004,6 +11296,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4594835"
     ],
@@ -11040,6 +11333,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4378325"
     ],
@@ -11077,6 +11371,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=4351766"
     ],
@@ -11113,6 +11408,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1717622"
     ],
@@ -11149,6 +11445,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4116561"
     ],
@@ -11185,6 +11482,7 @@
       "networks-ict4d"
     ],
     "featured": false,
+    "access_note": null,
     "links": [
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4068110"
     ],

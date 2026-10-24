@@ -15,6 +15,7 @@ const rd = (p, d) => (existsSync(join(root, p)) ? JSON.parse(readFileSync(join(r
 const entries = rd("data/cv_entries.json", []);
 const oa = rd("data/oa.json", {});
 const manifest = rd("data/pdf_manifest.json", {});
+const curated = rd("data/curated_themes.json", {}); // { theme: [slug,...] } hand-picked theme membership (e.g. multiplexity)
 const overrides = rd("data/overrides.json", {}); // { slug: { tags:[], themes:[], featured:bool, note, doi } }
 const fetchErrors = rd("data/fetch_errors.json", {});
 
@@ -33,6 +34,7 @@ const RULES = [
   [/multiplex|marātib|systemics|systems thinking/, ["multiplexity"], ["multiplexity"]],
   [/islam|ihsan|iḥsān|quran|qur.an|hadith|ghaz|shariah|maqasid|virtue/, ["islamic-ethics"], ["ihsan-ethics"]],
   [/ethic|moral|normative|governance|regulat/, ["ai-ethics"], []],
+  [/governance|regulat|polic(y|ies)|standard|p3722|accountab/, ["ai-governance"], []],
   [/health|medical|clinical|surg|patient|disease|diagnos|dental|retinal|tumor|epilep|cancer|\bmri\b|biomedical|sonograph|diabetes|covid|digital twin/, ["healthcare"], ["health-psychology"]],
   [/emotion|psycholog|mental|well-?being|ocd|spiritual care/, ["psychology"], ["health-psychology"]],
   [/speech|audio|acoustic|\bvoice\b|reciter/, ["speech-audio"], []],
@@ -104,7 +106,7 @@ const out = entries.map((e) => {
     awards: e.awards,
     best_paper_award: e.awards.some((a) => /best paper/i.test(a)),
     tags: [...new Set([...(ov.tags || []), ...tags])],
-    themes: [...new Set([...(ov.themes || []), ...themes])],
+    themes: [...new Set([...(ov.themes || []), ...Object.entries(curated).filter(([k, v]) => !k.startsWith("_") && v.includes(e.slug)).map(([k]) => k), ...themes])],
     featured: ov.featured ?? false,
     links: e.links || [],
     // open-access copy

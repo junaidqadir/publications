@@ -1,7 +1,7 @@
 [
   {
-    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
-    "cv_label": "BC6",
+    "slug": "2027-qadir-multiplex-systemics-wholeness-making",
+    "cv_label": "BC7",
     "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
     "authors": [
       "J. Qadir",
@@ -24,9 +24,9 @@
       "healthcare"
     ],
     "themes": [
-      "multiplexity",
       "ai",
       "education",
+      "multiplexity",
       "health-psychology"
     ],
     "featured": false,
@@ -34,16 +34,61 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": "pdf/2026/2026-qadir-multiplex-systemics-wholeness-making.pdf",
-    "pdf_version": "preprint",
-    "pdf_license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
     "bibtex": "@incollection{qadir2027multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2027}\n}"
   },
   {
+    "slug": "2026-poulett-muba-assuring-medical-image",
+    "cv_label": "J188",
+    "title": "MUBA: Assuring medical image classifiers with Mix-Up Boundary Analysis",
+    "authors": [
+      "W. Poulett",
+      "A. Byfield",
+      "B. Wallace",
+      "A. Jose",
+      "A. Qayyum",
+      "E. I. Cohen",
+      "S. Ashraf",
+      "J. Qadir",
+      "M. Bilal"
+    ],
+    "year": 2026,
+    "venue": "Biomedical Signal Processing and Control",
+    "volume": "127",
+    "issue": null,
+    "pages": null,
+    "doi": "10.1016/j.bspc.2026.111107",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "healthcare",
+      "computer-vision"
+    ],
+    "themes": [
+      "health-psychology",
+      "ml"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{poulett2026muba,\n  title     = {{MUBA: Assuring medical image classifiers with Mix-Up Boundary Analysis}},\n  author    = {Poulett, W. and Byfield, A. and Wallace, B. and Jose, A. and Qayyum, A. and Cohen, E. I. and Ashraf, S. and Qadir, J. and Bilal, M.},\n  journal = {Biomedical Signal Processing and Control},\n  volume    = {127},\n  year      = {2026},\n  doi       = {10.1016/j.bspc.2026.111107}\n}"
+  },
+  {
     "slug": "2026-jose-innovation-implementation-global-scoping",
-    "cv_label": "J180",
+    "cv_label": "J187",
     "title": "From innovation to implementation: a global scoping review of artificial intelligence applications, governance, and challenges in humanitarian contexts",
     "authors": [
       "M. Jose",
@@ -90,8 +135,177 @@
     "bibtex": "@article{jose2026from,\n  title     = {{From innovation to implementation: a global scoping review of artificial intelligence applications, governance, and challenges in humanitarian contexts}},\n  author    = {Jose, M. and Mueen, F. and Qadir, J. and Abd-Alrazaq, A. and Kwalombota, K. and Maddah, D.},\n  journal = {Journal of Global Health},\n  volume    = {16},\n  year      = {2026},\n  doi       = {10.7189/jogh.16.04359}\n}"
   },
   {
+    "slug": "2026-elmahjub-islamiclegalbench-evaluating-llms-knowledge",
+    "cv_label": "J186",
+    "title": "IslamicLegalBench: Evaluating LLMs knowledge and reasoning of islamic law across 1,200 years of Islamic pluralist legal traditions",
+    "authors": [
+      "E. Elmahjub",
+      "J. Qadir",
+      "A. Mushtaq",
+      "R. Naeem",
+      "I. Ghaznavi",
+      "W. Iqbal"
+    ],
+    "year": 2026,
+    "venue": "Artificial Intelligence and Law",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": "10.1007/s10506-026-09535-4",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "generative-ai",
+      "responsible-ai",
+      "islamic-ethics"
+    ],
+    "themes": [
+      "ai",
+      "ihsan-ethics"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": "pdf/2026/2026-elmahjub-islamiclegalbench-evaluating-llms-knowledge.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": null,
+    "oa_url": "http://arxiv.org/abs/2602.21226",
+    "oa_status": "hostable",
+    "bibtex": "@article{elmahjub2026islamiclegalbench,\n  title     = {{IslamicLegalBench: Evaluating LLMs knowledge and reasoning of islamic law across 1,200 years of Islamic pluralist legal traditions}},\n  author    = {Elmahjub, E. and Qadir, J. and Mushtaq, A. and Naeem, R. and Ghaznavi, I. and Iqbal, W.},\n  journal = {Artificial Intelligence and Law},\n  year      = {2026},\n  doi       = {10.1007/s10506-026-09535-4}\n}"
+  },
+  {
+    "slug": "2026-abdalrazaq-performance-ai-predicting-progression",
+    "cv_label": "J185",
+    "title": "Performance of AI in Predicting the Progression of Gestational Diabetes to Type 2 Diabetes: Systematic Review and Meta-Analysis",
+    "authors": [
+      "A. Abd-Alrazaq",
+      "S. P. Mohamed",
+      "M. Alajlani",
+      "A. Tabassum",
+      "J. M. Ordó\\ nez-Mena",
+      "S. Yoosuf",
+      "M. Alkhateeb",
+      "A. Ahmed",
+      "M. Bashir",
+      "J. Qadir",
+      "A. AlSanousi",
+      "J. Sheikh"
+    ],
+    "year": 2026,
+    "venue": "Journal of Medical Internet Research",
+    "volume": "28",
+    "issue": null,
+    "pages": null,
+    "doi": "10.2196/87882",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "healthcare",
+      "survey-review"
+    ],
+    "themes": [
+      "ai",
+      "health-psychology"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{abdalrazaq2026performance,\n  title     = {{Performance of AI in Predicting the Progression of Gestational Diabetes to Type 2 Diabetes: Systematic Review and Meta-Analysis}},\n  author    = {Abd-Alrazaq, A. and Mohamed, S. P. and Alajlani, M. and Tabassum, A. and nez-Mena, J. M. Ordó\\ and Yoosuf, S. and Alkhateeb, M. and Ahmed, A. and Bashir, M. and Qadir, J. and AlSanousi, A. and Sheikh, J.},\n  journal = {Journal of Medical Internet Research},\n  volume    = {28},\n  year      = {2026},\n  doi       = {10.2196/87882}\n}"
+  },
+  {
+    "slug": "2026-alwajih-phog-net-interpretable-efficient",
+    "cv_label": "J184",
+    "title": "PHOG-Net: An interpretable and efficient hybrid CNN framework for medical image classification using gradient histogram integration",
+    "authors": [
+      "E. Al-Wajih",
+      "M. Usman",
+      "J. Qadir"
+    ],
+    "year": 2026,
+    "venue": "Applied Soft Computing",
+    "volume": "196",
+    "issue": null,
+    "pages": null,
+    "doi": "10.1016/j.asoc.2026.115104",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "healthcare",
+      "computer-vision"
+    ],
+    "themes": [
+      "health-psychology",
+      "ml"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{alwajih2026phog,\n  title     = {{PHOG-Net: An interpretable and efficient hybrid CNN framework for medical image classification using gradient histogram integration}},\n  author    = {Al-Wajih, E. and Usman, M. and Qadir, J.},\n  journal = {Applied Soft Computing},\n  volume    = {196},\n  year      = {2026},\n  doi       = {10.1016/j.asoc.2026.115104}\n}"
+  },
+  {
+    "slug": "2026-hamad-teeth-annotation-intraoral-videos",
+    "cv_label": "J183",
+    "title": "Teeth annotation of intraoral videos: preliminary data for mixed reality applications",
+    "authors": [
+      "K. Q. Al Hamad",
+      "M. Bilal",
+      "J. Qadir",
+      "B. Khalouf"
+    ],
+    "year": 2026,
+    "venue": "Journal of Dentistry",
+    "volume": "167",
+    "issue": null,
+    "pages": null,
+    "doi": "10.1016/j.jdent.2026.106471",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "computer-vision"
+    ],
+    "themes": [
+      "ml"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{hamad2026teeth,\n  title     = {{Teeth annotation of intraoral videos: preliminary data for mixed reality applications}},\n  author    = {Hamad, K. Q. Al and Bilal, M. and Qadir, J. and Khalouf, B.},\n  journal = {Journal of Dentistry},\n  volume    = {167},\n  year      = {2026},\n  doi       = {10.1016/j.jdent.2026.106471}\n}"
+  },
+  {
     "slug": "2026-qadir-craft-ed-framework-effective",
-    "cv_label": "J179",
+    "cv_label": "J182",
     "title": "The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity",
     "authors": [
       "J. Qadir"
@@ -128,7 +342,7 @@
   },
   {
     "slug": "2026-khan-surgical-scene-understanding-era",
-    "cv_label": "J178",
+    "cv_label": "J181",
     "title": "Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review",
     "authors": [
       "U. Khan",
@@ -176,7 +390,7 @@
   },
   {
     "slug": "2026-dribi-real-time-traffic-management",
-    "cv_label": "J177",
+    "cv_label": "J180",
     "title": "Real-Time Traffic Management in Smart Cities: A Systematic Literature Review of Application Paradigms, Control Architectures, and Implementation Barriers",
     "authors": [
       "A. Dribi",
@@ -216,7 +430,7 @@
   },
   {
     "slug": "2026-machlovi-multi-perspective-benchmark-dataset",
-    "cv_label": "J176",
+    "cv_label": "J179",
     "title": "A Multi-Perspective Benchmark Dataset and Moderation Model for LLM Safety Evaluation with Adversarial Robustness Analysis",
     "authors": [
       "N. Machlovi",
@@ -263,7 +477,7 @@
   },
   {
     "slug": "2026-almaliki-budget-constrained-online-retrieval",
-    "cv_label": "J175",
+    "cv_label": "J178",
     "title": "Budget-Constrained Online Retrieval-Augmented Generation: The Chunk-as-a-Service Model",
     "authors": [
       "S. Al-Maliki",
@@ -304,7 +518,7 @@
   },
   {
     "slug": "2026-moustafa-generative-ai-learning-teaching",
-    "cv_label": "J174",
+    "cv_label": "J177",
     "title": "Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations",
     "authors": [
       "A. H. A. Moustafa",
@@ -347,7 +561,7 @@
   },
   {
     "slug": "2026-mushtaq-worldview-bench-benchmark-evaluating",
-    "cv_label": "J173",
+    "cv_label": "J176",
     "title": "WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models",
     "authors": [
       "A. Mushtaq",
@@ -388,7 +602,7 @@
   },
   {
     "slug": "2026-rafique-trustworthy-iot-services-blockchain",
-    "cv_label": "J171",
+    "cv_label": "J174",
     "title": "Trustworthy IoT Services with Blockchain and Information-Centric Networking: A Survey",
     "authors": [
       "W. Rafique",
@@ -428,7 +642,7 @@
   },
   {
     "slug": "2026-qayyum-generative-ai-driven-metaverse",
-    "cv_label": "J170",
+    "cv_label": "J173",
     "title": "Generative AI-Driven Metaverse: The Promises and Challenges of AI-Generated Content",
     "authors": [
       "A. Qayyum",
@@ -471,7 +685,7 @@
   },
   {
     "slug": "2026-qayyum-llm-driven-multi-agent",
-    "cv_label": "J169",
+    "cv_label": "J172",
     "title": "LLM-Driven Multi-Agent Architectures for Intelligent Self-Organizing Networks",
     "authors": [
       "A. Qayyum",
@@ -560,7 +774,7 @@
   },
   {
     "slug": "2026-ahmed-defeat-stitching-fragmented-file",
-    "cv_label": "C103",
+    "cv_label": "C106",
     "title": "DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection",
     "authors": [
       "M. E. Ahmed",
@@ -600,8 +814,99 @@
     "bibtex": "@inproceedings{ahmed2026defeat,\n  title     = {{DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection}},\n  author    = {Ahmed, M. E. and Kim, H. and Awami, M. Al and Abuadbba, A. and Camtepe, S. and Nepal, S. and Qadir, J.},\n  booktitle = {Annual Computer Security Applications Conference (ACSAC 2026)},\n  year      = {2026}\n}"
   },
   {
+    "slug": "2026-khan-calibration-aware-semi-supervised",
+    "cv_label": "C105",
+    "title": "Calibration-Aware Semi-Supervised Fetal Head Segmentation with Boundary-Positive Contrast",
+    "authors": [
+      "U. Khan",
+      "U. Nawaz",
+      "T. Ashraf",
+      "T. J. Saleem",
+      "M. Caputo",
+      "S. A. Narayan",
+      "M. Bilal",
+      "J. Qadir",
+      "M. Haris"
+    ],
+    "year": 2026,
+    "venue": "Medical Imaging with Deep Learning (MIDL 2026), Proceedings of Machine Learning Research",
+    "volume": "315",
+    "issue": null,
+    "pages": "2738–2756",
+    "doi": null,
+    "section": "conference",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "machine-learning",
+      "healthcare",
+      "computer-vision"
+    ],
+    "themes": [
+      "ai",
+      "ml",
+      "health-psychology"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [
+      "https://proceedings.mlr.press/v315/khan26a.html"
+    ],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "none-found",
+    "bibtex": "@inproceedings{khan2026calibration,\n  title     = {{Calibration-Aware Semi-Supervised Fetal Head Segmentation with Boundary-Positive Contrast}},\n  author    = {Khan, U. and Nawaz, U. and Ashraf, T. and Saleem, T. J. and Caputo, M. and Narayan, S. A. and Bilal, M. and Qadir, J. and Haris, M.},\n  booktitle = {Medical Imaging with Deep Learning (MIDL 2026), Proceedings of Machine Learning Research},\n  volume    = {315},\n  pages     = {2738--2756},\n  year      = {2026}\n}"
+  },
+  {
+    "slug": "2026-khan-keep-it-frozen-domain",
+    "cv_label": "C104",
+    "title": "Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers",
+    "authors": [
+      "U. Khan",
+      "U. Nawaz",
+      "M. Caputo",
+      "M. Bilal",
+      "J. Qadir",
+      "M. H. Khan"
+    ],
+    "year": 2026,
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
+    "volume": null,
+    "issue": null,
+    "pages": "21016–21025",
+    "doi": null,
+    "section": "conference",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "computer-vision"
+    ],
+    "themes": [
+      "ml"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [
+      "https://openaccess.thecvf.com/content/CVPR2026/html/Khan_Keep_It_Frozen_Domain-Routed_Conditional_Residual_Modulation_for_Multi-Domain_Vision_CVPR_2026_paper.html"
+    ],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "none-found",
+    "bibtex": "@inproceedings{khan2026keep,\n  title     = {{Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers}},\n  author    = {Khan, U. and Nawaz, U. and Caputo, M. and Bilal, M. and Qadir, J. and Khan, M. H.},\n  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)},\n  pages     = {21016--21025},\n  year      = {2026}\n}"
+  },
+  {
     "slug": "2026-rizvi-artificial-intelligence-prediction-progression",
-    "cv_label": "C102",
+    "cv_label": "C103",
     "title": "Artificial Intelligence–Based Prediction of Progression from Gestational Diabetes to Type 2 Diabetes",
     "authors": [
       "S. W. F. Rizvi",
@@ -643,7 +948,7 @@
   },
   {
     "slug": "2026-khan-generative-ai-signal-processing",
-    "cv_label": "C101",
+    "cv_label": "C102",
     "title": "Generative AI in Signal Processing Education: An Audio Foundation Model Based Approach",
     "authors": [
       "M. S. Khan",
@@ -685,7 +990,7 @@
   },
   {
     "slug": "2026-qadir-ai-chatbots-provide-coaching",
-    "cv_label": "C100",
+    "cv_label": "C101",
     "title": "Can AI Chatbots Provide Coaching in Engineering Education? Beyond Information Processing Toward Mastery",
     "authors": [
       "J. Qadir",
@@ -724,7 +1029,7 @@
   },
   {
     "slug": "2026-qadir-individual-prompts-collective-intelligence",
-    "cv_label": "C99",
+    "cv_label": "C100",
     "title": "From Individual Prompts to Collective Intelligence: Mainstreaming Generative AI in the Classroom",
     "authors": [
       "J. Qadir",
@@ -763,7 +1068,7 @@
   },
   {
     "slug": "2026-qadir-psychology-learning-machines-anthropomorphic",
-    "cv_label": "C98",
+    "cv_label": "C99",
     "title": "The Psychology of Learning from Machines: Anthropomorphic AI and the Paradox of Automation in Education",
     "authors": [
       "J. Qadir",
@@ -803,7 +1108,7 @@
   },
   {
     "slug": "2026-qadir-islamically-inspired-critical-pedagogy",
-    "cv_label": "BC7",
+    "cv_label": "BC8",
     "title": "An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom",
     "authors": [
       "J. Qadir",
@@ -844,8 +1149,8 @@
     "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026},\n  doi       = {10.4337/9781035335879.00017}\n}"
   },
   {
-    "slug": "2026-qadir-educating-ai-era-harnessing",
-    "cv_label": "BC5",
+    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
+    "cv_label": "BC6",
     "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
     "authors": [
       "J. Qadir",
@@ -862,34 +1167,32 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "education",
       "responsible-ai",
       "multiplexity",
       "islamic-ethics"
     ],
     "themes": [
-      "education",
       "multiplexity",
       "ai",
       "ihsan-ethics"
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": "https://ssrn.com/abstract=5015109",
-    "preprint_host": "SSRN",
+    "preprint_url": null,
+    "preprint_host": null,
     "links": [
       "https://ssrn.com/abstract=5015109"
     ],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2026/2026-qadir-multiplex-systemics-wholeness-making.pdf",
+    "pdf_version": "preprint",
+    "pdf_license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
     "oa_url": null,
     "oa_status": "none-found",
     "bibtex": "@incollection{qadir2026educating,\n  title     = {{Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {Taylor \\& Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)},\n  year      = {2026}\n}"
   },
   {
     "slug": "2026-qadir-ghazalian-project-ai-era",
-    "cv_label": "BC4",
+    "cv_label": "BC5",
     "title": "Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development",
     "authors": [
       "J. Qadir",
@@ -931,7 +1234,7 @@
   },
   {
     "slug": "2025-arshad-adversarial-attacks-person-image",
-    "cv_label": "J172",
+    "cv_label": "J175",
     "title": "Adversarial Attacks on Person Image Synthesis: Leveraging Pose and Appearance Controls in Denoising Diffusion Models",
     "authors": [
       "N. Arshad",
@@ -970,8 +1273,106 @@
     "bibtex": "@article{arshad2025adversarial,\n  title     = {{Adversarial Attacks on Person Image Synthesis: Leveraging Pose and Appearance Controls in Denoising Diffusion Models}},\n  author    = {Arshad, N. and Qureshi, H. K. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society},\n  volume    = {6},\n  pages     = {1934--1945},\n  year      = {2025},\n  doi       = {10.1109/ojcs.2025.3637052}\n}"
   },
   {
+    "slug": "2025-tabassum-exploring-application-ai-extended",
+    "cv_label": "J171",
+    "title": "Exploring the Application of AI and Extended Reality Technologies in Metaverse-Driven Mental Health Solutions: Scoping Review",
+    "authors": [
+      "A. Tabassum",
+      "I. Ghaznavi",
+      "A. Abd-Alrazaq",
+      "J. Qadir"
+    ],
+    "year": 2025,
+    "venue": "Journal of Medical Internet Research",
+    "volume": "27",
+    "issue": null,
+    "pages": null,
+    "doi": "10.2196/72400",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "healthcare",
+      "psychology",
+      "metaverse-xr",
+      "survey-review"
+    ],
+    "themes": [
+      "ai",
+      "health-psychology"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": "pdf/2025/2025-tabassum-exploring-application-ai-extended.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "https://doi.org/10.2196/72400",
+    "oa_status": "hostable",
+    "bibtex": "@article{tabassum2025exploring,\n  title     = {{Exploring the Application of AI and Extended Reality Technologies in Metaverse-Driven Mental Health Solutions: Scoping Review}},\n  author    = {Tabassum, A. and Ghaznavi, I. and Abd-Alrazaq, A. and Qadir, J.},\n  journal = {Journal of Medical Internet Research},\n  volume    = {27},\n  year      = {2025},\n  doi       = {10.2196/72400}\n}"
+  },
+  {
+    "slug": "2025-bilal-temset-24k-densely-annotated",
+    "cv_label": "J170",
+    "title": "TEMSET-24K: Densely Annotated Dataset for Indexing Multipart Endoscopic Videos using Surgical Timeline Segmentation",
+    "authors": [
+      "M. Bilal",
+      "M. Alam",
+      "D. Bapu",
+      "S. Korsgen",
+      "N. Lal",
+      "S. Bach",
+      "A. M. Hajiyavand",
+      "M. Ali",
+      "K. Soomro",
+      "I. Qasim",
+      "P. Capik",
+      "A. Khan",
+      "Z. Khan",
+      "H. Vohra",
+      "M. Caputo",
+      "A. D. Beggs",
+      "A. Qayyum",
+      "J. Qadir",
+      "S. Q. Ashraf"
+    ],
+    "year": 2025,
+    "venue": "Scientific Data",
+    "volume": "12",
+    "issue": null,
+    "pages": null,
+    "doi": "10.1038/s41597-025-05646-w",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "healthcare",
+      "computer-vision"
+    ],
+    "themes": [
+      "health-psychology",
+      "ml"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": "pdf/2025/2025-bilal-temset-24k-densely-annotated.pdf",
+    "pdf_version": "preprint",
+    "pdf_license": "arXiv",
+    "oa_url": "https://arxiv.org/abs/2502.06708",
+    "oa_status": "hostable",
+    "bibtex": "@article{bilal2025temset,\n  title     = {{TEMSET-24K: Densely Annotated Dataset for Indexing Multipart Endoscopic Videos using Surgical Timeline Segmentation}},\n  author    = {Bilal, M. and Alam, M. and Bapu, D. and Korsgen, S. and Lal, N. and Bach, S. and Hajiyavand, A. M. and Ali, M. and Soomro, K. and Qasim, I. and Capik, P. and Khan, A. and Khan, Z. and Vohra, H. and Caputo, M. and Beggs, A. D. and Qayyum, A. and Qadir, J. and Ashraf, S. Q.},\n  journal = {Scientific Data},\n  volume    = {12},\n  year      = {2025},\n  doi       = {10.1038/s41597-025-05646-w}\n}"
+  },
+  {
     "slug": "2025-qadir-multiplex-health-integrating-complexity",
-    "cv_label": "J168",
+    "cv_label": "J169",
     "title": "Toward Multiplex Health: Integrating Complexity, Normativity, and Open Science",
     "authors": [
       "J. Qadir",
@@ -1012,7 +1413,7 @@
   },
   {
     "slug": "2025-nasir-ai-sdg-nexus-revisited",
-    "cv_label": "J167",
+    "cv_label": "J168",
     "title": "The AI–SDG Nexus Revisited: Critical Reflections and Future Directions",
     "authors": [
       "O. Nasir",
@@ -1053,7 +1454,7 @@
   },
   {
     "slug": "2025-padela-assisting-replicating-or-autonomously",
-    "cv_label": "J166",
+    "cv_label": "J167",
     "title": "Assisting, Replicating, or Autonomously Acting? An Ethical Framework for Integrating AI Tools and Technologies in Healthcare",
     "authors": [
       "A. Padela",
@@ -1096,7 +1497,7 @@
   },
   {
     "slug": "2025-latif-transformers-speech-processing-overcoming",
-    "cv_label": "J165",
+    "cv_label": "J166",
     "title": "Transformers in Speech Processing: Overcoming Challenges and Paving the Future",
     "authors": [
       "S. Latif",
@@ -1138,7 +1539,7 @@
   },
   {
     "slug": "2025-khan-cooperative-offloading-multi-access",
-    "cv_label": "J164",
+    "cv_label": "J165",
     "title": "Cooperative Offloading Multi-Access Edge Computing (COMEC) for Cell-Edge Users in Heterogeneous Dense Networks",
     "authors": [
       "M. S. Khan",
@@ -1176,7 +1577,7 @@
   },
   {
     "slug": "2025-hameed-large-language-model-enhanced",
-    "cv_label": "J163",
+    "cv_label": "J164",
     "title": "Large Language Model Enhanced Particle Swarm Optimization for Hyperparameter Tuning for Deep Learning Models",
     "authors": [
       "S. Hameed",
@@ -1218,7 +1619,7 @@
   },
   {
     "slug": "2025-solaiman-true-lifecycle-approach-governing",
-    "cv_label": "J162",
+    "cv_label": "J163",
     "title": "A `True Lifecycle Approach' towards Governing Healthcare-AI with the GCC as a Global Governance Model",
     "authors": [
       "B. Solaiman",
@@ -1263,7 +1664,7 @@
   },
   {
     "slug": "2025-mulahuwaish-survey-social-cybersecurity-techniques",
-    "cv_label": "J161",
+    "cv_label": "J162",
     "title": "A Survey of Social Cybersecurity: Techniques for Attack Detection, Evaluations, Challenges, and Future Prospects",
     "authors": [
       "A. Mulahuwaish",
@@ -1308,7 +1709,7 @@
   },
   {
     "slug": "2025-mekki-digital-twins-era-personalized",
-    "cv_label": "J160",
+    "cv_label": "J161",
     "title": "Digital Twins for the Era of Personalized Surgery",
     "authors": [
       "Y. M. Mekki",
@@ -1357,7 +1758,7 @@
   },
   {
     "slug": "2025-mekki-medical-education-metaverses-meded",
-    "cv_label": "J159",
+    "cv_label": "J160",
     "title": "Medical Education Metaverses (MedEd Metaverses): Opportunities, Use Case, and Guidelines",
     "authors": [
       "Y. Mekki",
@@ -1398,7 +1799,7 @@
   },
   {
     "slug": "2025-aledhari-safeguarding-connected-autonomous-vehicle",
-    "cv_label": "J158",
+    "cv_label": "J159",
     "title": "Safeguarding Connected Autonomous Vehicle Communication: Protocols, Intra- and Inter-Vehicular Attacks and Defenses",
     "authors": [
       "M. Aledhari",
@@ -1444,7 +1845,7 @@
   },
   {
     "slug": "2025-tabassum-generative-ai-metaverse-scoping",
-    "cv_label": "J157",
+    "cv_label": "J158",
     "title": "Generative AI and the Metaverse: A Scoping Review of Ethical and Legal Challenges",
     "authors": [
       "A. Tabassum",
@@ -1488,7 +1889,7 @@
   },
   {
     "slug": "2025-nofal-ai-enhanced-interview-simulation",
-    "cv_label": "J156",
+    "cv_label": "J157",
     "title": "AI-Enhanced Interview Simulation in the Metaverse: Transforming Professional Skills Training through VR and Generative Conversational AI",
     "authors": [
       "A. B. Nofal",
@@ -1534,7 +1935,7 @@
   },
   {
     "slug": "2025-qayyum-robust-multi-label-surgical",
-    "cv_label": "J155",
+    "cv_label": "J156",
     "title": "Robust Multi-Label Surgical Tool Classification in Noisy Endoscopic Videos",
     "authors": [
       "A. Qayyum",
@@ -1619,7 +2020,7 @@
   },
   {
     "slug": "2025-mushtaq-llms-write-faithfully-agent",
-    "cv_label": "C97",
+    "cv_label": "C98",
     "title": "Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content",
     "authors": [
       "A. Mushtaq",
@@ -1668,7 +2069,7 @@
   },
   {
     "slug": "2025-abioye-raptor-generative-ai-parsing",
-    "cv_label": "C96",
+    "cv_label": "C97",
     "title": "RAPTOR: Generative AI for Parsing Colorectal Cancer Referrals to Streamline Faster Diagnostic Standard Pathways",
     "authors": [
       "S. Abioye",
@@ -1719,7 +2120,7 @@
   },
   {
     "slug": "2025-mushtaq-harnessing-multi-agent-llms",
-    "cv_label": "C95",
+    "cv_label": "C96",
     "title": "Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: a Framework for Senior Design Projects",
     "authors": [
       "A. Mushtaq",
@@ -1761,7 +2162,7 @@
   },
   {
     "slug": "2025-qadir-generative-ai-undergraduate-classrooms",
-    "cv_label": "C94",
+    "cv_label": "C95",
     "title": "Generative AI in Undergraduate Classrooms: Lessons From Implementing a Customized GPT Chatbot for Learning Enhancement",
     "authors": [
       "J. Qadir"
@@ -1799,7 +2200,7 @@
   },
   {
     "slug": "2025-mushtaq-inclusive-educational-ai-auditing",
-    "cv_label": "C93",
+    "cv_label": "C94",
     "title": "Towards Inclusive Educational AI: Auditing Frontier LLMs for Cultural Biases through a Multiplexity Lens",
     "authors": [
       "A. Mushtaq",
@@ -1840,6 +2241,97 @@
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{mushtaq2025towards,\n  title     = {{Towards Inclusive Educational AI: Auditing Frontier LLMs for Cultural Biases through a Multiplexity Lens}},\n  author    = {Mushtaq, A. and Naeem, R. and Taj, M. I. and Ghaznavi, I. and Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025},\n  doi       = {10.1109/educon62633.2025.11016405}\n}"
+  },
+  {
+    "slug": "2025-hatay-top-research-priorities-quantum",
+    "cv_label": "BC4",
+    "title": "Top research priorities in quantum computing",
+    "authors": [
+      "E. S. Hatay",
+      "M. Golec",
+      "H. T. Nguyen",
+      "S. S. Gill",
+      "P. Patros",
+      "M. Xu",
+      "M. Singh",
+      "O. Rana",
+      "A. Abraham",
+      "J. Qadir",
+      "S. K. Ghosh",
+      "H. Lutfiyya",
+      "R. Sakellariou",
+      "S. S. Kanhere",
+      "R. Bahsoon",
+      "S. Uhlig",
+      "Y. Mao",
+      "R. Buyya"
+    ],
+    "year": 2025,
+    "venue": "Quantum Computing, Elsevier",
+    "volume": null,
+    "issue": null,
+    "pages": "221–239",
+    "doi": "10.1016/B978-0-443-29096-1.00011-8",
+    "section": "book-chapter",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "quantum"
+    ],
+    "themes": [],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@incollection{hatay2025research,\n  title     = {{Top research priorities in quantum computing}},\n  author    = {Hatay, E. S. and Golec, M. and Nguyen, H. T. and Gill, S. S. and Patros, P. and Xu, M. and Singh, M. and Rana, O. and Abraham, A. and Qadir, J. and Ghosh, S. K. and Lutfiyya, H. and Sakellariou, R. and Kanhere, S. S. and Bahsoon, R. and Uhlig, S. and Mao, Y. and Buyya, R.},\n  booktitle = {Quantum Computing, Elsevier},\n  pages     = {221--239},\n  year      = {2025},\n  doi       = {10.1016/B978-0-443-29096-1.00011-8}\n}"
+  },
+  {
+    "slug": "2024-iqbal-cryptocurrency-market-volatility-forecasting",
+    "cv_label": "J155",
+    "title": "Cryptocurrency Market Volatility and Forecasting: A Comparative Analysis of Modern Machine Learning Models for Cryptocurrencies Predicting Accuracy",
+    "authors": [
+      "R. Iqbal",
+      "M. Riaz",
+      "G. Sorwar",
+      "J. Qadir"
+    ],
+    "year": 2024,
+    "venue": "Review of Pacific Basin Financial Markets and Policies",
+    "volume": "27",
+    "issue": "4",
+    "pages": null,
+    "doi": "10.1142/S0219091524500280",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "machine-learning",
+      "ai-governance"
+    ],
+    "themes": [
+      "ai",
+      "ml",
+      "ai-ethics"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{iqbal2024cryptocurrency,\n  title     = {{Cryptocurrency Market Volatility and Forecasting: A Comparative Analysis of Modern Machine Learning Models for Cryptocurrencies Predicting Accuracy}},\n  author    = {Iqbal, R. and Riaz, M. and Sorwar, G. and Qadir, J.},\n  journal = {Review of Pacific Basin Financial Markets and Policies},\n  volume    = {27},\n  number    = {4},\n  year      = {2024},\n  doi       = {10.1142/S0219091524500280}\n}"
   },
   {
     "slug": "2024-ullah-privacy-preserving-large-language",
@@ -2896,6 +3388,47 @@
     "oa_url": "http://arxiv.org/abs/2210.13289",
     "oa_status": "hostable",
     "bibtex": "@article{qayyum2024secure,\n  title     = {{Secure and Trustworthy Artificial Intelligence-Extended Reality (AI-XR) for Metaverses}},\n  author    = {Qayyum, A. and Butt, M. A. and Ali, H. and Usman, M. and Halabi, O. and Al-Fuqaha, A. and Abbasi, Q. H. and Imran, M. A. and Qadir, J.},\n  journal = {ACM Computing Surveys},\n  volume    = {56},\n  number    = {7},\n  pages     = {1--38},\n  year      = {2024},\n  doi       = {10.1145/3614426}\n}"
+  },
+  {
+    "slug": "2024-gambhir-perceptions-engineering-college-instructors",
+    "cv_label": "C93",
+    "title": "Perceptions of Engineering College Instructors and Their Students Towards Generative Artificial Intelligence (GenAI) Tools: A Preliminary Qualitative Analysis",
+    "authors": [
+      "D. Gambhir",
+      "Y. Xie",
+      "I. H. Yeter",
+      "J. Qadir",
+      "A. Khong"
+    ],
+    "year": 2024,
+    "venue": "American Society for Engineering Education (ASEE) Annual Conference & Exposition",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": "10.18260/1-2--47840",
+    "section": "conference",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "education"
+    ],
+    "themes": [
+      "ai",
+      "education"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": "https://doi.org/10.18260/1-2--47840",
+    "oa_status": "free-to-read-link-only",
+    "bibtex": "@inproceedings{gambhir2024perceptions,\n  title     = {{Perceptions of Engineering College Instructors and Their Students Towards Generative Artificial Intelligence (GenAI) Tools: A Preliminary Qualitative Analysis}},\n  author    = {Gambhir, D. and Xie, Y. and Yeter, I. H. and Qadir, J. and Khong, A.},\n  booktitle = {American Society for Engineering Education (ASEE) Annual Conference \\& Exposition},\n  year      = {2024},\n  doi       = {10.18260/1-2--47840}\n}"
   },
   {
     "slug": "2024-qadir-guides-framework-enhancing-engineering",
@@ -5905,6 +6438,45 @@
     "bibtex": "@article{qayyum2021secure,\n  title     = {{Secure and Robust Machine Learning for Healthcare: A Survey}},\n  author    = {Qayyum, A. and Qadir, J. and Bilal, M. and Al-Fuqaha, A.},\n  journal = {IEEE Reviews in Biomedical Engineering (RBME)},\n  volume    = {14},\n  pages     = {156--180},\n  year      = {2021},\n  doi       = {10.1109/rbme.2020.3013489}\n}"
   },
   {
+    "slug": "2021-qadir-online-teaching-during-covid",
+    "cv_label": "J74",
+    "title": "Online teaching during COVID-19: the triple imperatives",
+    "authors": [
+      "J. Qadir"
+    ],
+    "year": 2021,
+    "venue": "Inderscience International Journal of Pluralism and Economics Education (IJPEE)",
+    "volume": "12",
+    "issue": "1",
+    "pages": "28–38",
+    "doi": "10.35542/osf.io/zjdc7",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "education",
+      "healthcare"
+    ],
+    "themes": [
+      "education",
+      "health-psychology"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [
+      "https://doi.org/10.1504/ijpee.2021.118143"
+    ],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{qadir2021online,\n  title     = {{Online teaching during COVID-19: the triple imperatives}},\n  author    = {Qadir, J.},\n  journal = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {12},\n  number    = {1},\n  pages     = {28--38},\n  year      = {2021},\n  doi       = {10.35542/osf.io/zjdc7}\n}"
+  },
+  {
     "slug": "2021-latif-speech-technology-healthcare-opportunities",
     "cv_label": "J73",
     "title": "Speech Technology for Healthcare: Opportunities, Challenges, and State of the Art",
@@ -6161,6 +6733,85 @@
     "bibtex": "@inproceedings{tallal2021pedagogy,\n  title     = {{Pedagogy of Engineering Ethics: A Bibliometric and Curricular Analysis}},\n  author    = {Tallal, R. and Nasir, O. and Muntaha, S. and Qadir, J.},\n  booktitle = {IEEE EDUCON 2021},\n  year      = {2021},\n  doi       = {10.1109/educon46332.2021.9453923}\n}"
   },
   {
+    "slug": "2020-zaman-islamic-approaches-sustainable-development",
+    "cv_label": "MI6",
+    "title": "Islamic Approaches to Sustainable Development",
+    "authors": [
+      "A. Zaman",
+      "J. Qadir"
+    ],
+    "year": 2020,
+    "venue": "Islamic Perspective for Sustainable Financial System, Istanbul University Press",
+    "volume": null,
+    "issue": null,
+    "pages": "53–70",
+    "doi": "10.26650/B/SS10.2020.017.03",
+    "section": "misc",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "islamic-ethics",
+      "smart-cities-sustainability",
+      "ict4d"
+    ],
+    "themes": [
+      "ihsan-ethics",
+      "sustainability",
+      "networks-ict4d"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": "https://doi.org/10.26650/b/ss10.2020.017.03",
+    "oa_status": "free-to-read-link-only",
+    "bibtex": "@misc{zaman2020islamic,\n  title     = {{Islamic Approaches to Sustainable Development}},\n  author    = {Zaman, A. and Qadir, J.},\n  howpublished = {Islamic Perspective for Sustainable Financial System, Istanbul University Press},\n  pages     = {53--70},\n  year      = {2020},\n  doi       = {10.26650/B/SS10.2020.017.03}\n}"
+  },
+  {
+    "slug": "2020-raquib-central-role-spirituality-ethics",
+    "cv_label": "MI5",
+    "title": "The Central Role of Spirituality and Ethics in Islamic Economics and Finance",
+    "authors": [
+      "A. Raquib",
+      "J. Qadir",
+      "B. S. Channa"
+    ],
+    "year": 2020,
+    "venue": "Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter",
+    "volume": null,
+    "issue": null,
+    "pages": "65–90",
+    "doi": "10.1515/9783110593419-004",
+    "section": "misc",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "islamic-ethics",
+      "ai-ethics"
+    ],
+    "themes": [
+      "ihsan-ethics",
+      "ai-ethics"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@misc{raquib2020central,\n  title     = {{The Central Role of Spirituality and Ethics in Islamic Economics and Finance}},\n  author    = {Raquib, A. and Qadir, J. and Channa, B. S.},\n  howpublished = {Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter},\n  pages     = {65--90},\n  year      = {2020},\n  doi       = {10.1515/9783110593419-004}\n}"
+  },
+  {
     "slug": "2020-qadir-spiritual-excellence-ihsan-professionals",
     "cv_label": "MI4",
     "title": "Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective",
@@ -6410,41 +7061,6 @@
     "oa_url": "https://doi.org/10.3390/educsci10090236",
     "oa_status": "hostable",
     "bibtex": "@article{qadir2020student,\n  title     = {{A Student Primer on How to Thrive in Engineering Education During and Beyond COVID-19}},\n  author    = {Qadir, J. and Al-Fuqaha, A.},\n  journal = {MDPI Education Sciences, Special Issue on COVID-2019 Impacts on Education Systems and Future of Higher Education},\n  volume    = {10},\n  number    = {9},\n  year      = {2020},\n  doi       = {10.3390/educsci10090236}\n}"
-  },
-  {
-    "slug": "2020-qadir-triple-imperatives-online-teaching",
-    "cv_label": "J74",
-    "title": "The Triple Imperatives of Online Teaching: Equity, Inclusion, and Effectiveness",
-    "authors": [
-      "J. Qadir"
-    ],
-    "year": 2020,
-    "venue": "Inderscience International Journal of Pluralism and Economics Education (IJPEE) Vol. 11, nos. 2-3",
-    "volume": "11",
-    "issue": null,
-    "pages": null,
-    "doi": "10.35542/osf.io/zjdc7",
-    "section": "journal",
-    "status": "final",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [
-      "education"
-    ],
-    "themes": [
-      "education"
-    ],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{qadir2020triple,\n  title     = {{The Triple Imperatives of Online Teaching: Equity, Inclusion, and Effectiveness}},\n  author    = {Qadir, J.},\n  journal = {Inderscience International Journal of Pluralism and Economics Education (IJPEE) Vol. 11, nos. 2-3},\n  volume    = {11},\n  year      = {2020},\n  doi       = {10.35542/osf.io/zjdc7}\n}"
   },
   {
     "slug": "2020-wu-guest-editorial-special-issue",
@@ -7316,7 +7932,7 @@
   },
   {
     "slug": "2019-zubair-combating-fake-news-misinformation",
-    "cv_label": "MI5",
+    "cv_label": "MI7",
     "title": "Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition",
     "authors": [
       "T. Zubair",

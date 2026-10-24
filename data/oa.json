@@ -12972,5 +12972,585 @@
     "best": null,
     "candidates": [],
     "checked_at": "2026-10-24"
+  },
+  "2026-poulett-muba-assuring-medical-image": {
+    "cv_label": "J188",
+    "title": "MUBA: Assuring medical image classifiers with Mix-Up Boundary Analysis",
+    "doi": "10.1016/j.bspc.2026.111107",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.bspc.2026.111107",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Biomedical Signal Processing and Control",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.bspc.2026.111107.",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-elmahjub-islamiclegalbench-evaluating-llms-knowledge": {
+    "cv_label": "J186",
+    "title": "IslamicLegalBench: Evaluating LLMs knowledge and reasoning of islamic law across 1,200 years of Islamic pluralist legal traditions",
+    "doi": "10.1007/s10506-026-09535-4",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://arxiv.org/pdf/2602.21226",
+      "landing": "http://arxiv.org/abs/2602.21226",
+      "version": "submittedVersion",
+      "license": null,
+      "host": "arXiv (Cornell University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://arxiv.org/pdf/2602.21226",
+        "landing": "http://arxiv.org/abs/2602.21226",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-link",
+        "url": "https://link.springer.com/content/pdf/10.1007/s10506-026-09535-4.pdf",
+        "landing": "https://doi.org/10.1007/s10506-026-09535-4",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s10506-026-09535-4",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Artificial Intelligence and Law",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.48550/arxiv.2602.21226",
+        "version": "unknown",
+        "license": "cc-by",
+        "host": "arXiv (Cornell University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1007/s10506-026-09535-4",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-abdalrazaq-performance-ai-predicting-progression": {
+    "cv_label": "J185",
+    "title": "Performance of AI in Predicting the Progression of Gestational Diabetes to Type 2 Diabetes: Systematic Review and Meta-Analysis",
+    "doi": "10.2196/87882",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.2196/87882",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Journal of Medical Internet Research",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13349230/",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/42424585",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/b99f7ca653e046a8b548c701c97a755a",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/10576/73171",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-alwajih-phog-net-interpretable-efficient": {
+    "cv_label": "J184",
+    "title": "PHOG-Net: An interpretable and efficient hybrid CNN framework for medical image classification using gradient histogram integration",
+    "doi": "10.1016/j.asoc.2026.115104",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.asoc.2026.115104",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Applied Soft Computing",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/10576/73172",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-hamad-teeth-annotation-intraoral-videos": {
+    "cv_label": "J183",
+    "title": "Teeth annotation of intraoral videos: preliminary data for mixed reality applications",
+    "doi": "10.1016/j.jdent.2026.106471",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/j.jdent.2026.106471",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Journal of Dentistry",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-tabassum-exploring-application-ai-extended": {
+    "cv_label": "J171",
+    "title": "Exploring the Application of AI and Extended Reality Technologies in Metaverse-Driven Mental Health Solutions: Scoping Review",
+    "doi": "10.2196/72400",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-72400-accepted.pdf",
+      "landing": "https://doi.org/10.2196/72400",
+      "version": "publishedVersion",
+      "license": "cc-by",
+      "host": "Journal of Medical Internet Research",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-72400-accepted.pdf",
+        "landing": "https://doi.org/10.2196/72400",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Journal of Medical Internet Research",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.2196/preprints.72400",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.ncbi.nlm.nih.gov/pmc/articles/12405795",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Europe PMC (PubMed Central)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doaj.org/article/06b06892dc4f4325b81c9f72ccc97fb2",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405795/",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/40829151",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2025-bilal-temset-24k-densely-annotated": {
+    "cv_label": "J170",
+    "title": "TEMSET-24K: Densely Annotated Dataset for Indexing Multipart Endoscopic Videos using Surgical Timeline Segmentation",
+    "doi": "10.1038/s41597-025-05646-w",
+    "status": "hostable",
+    "best": {
+      "source": "arxiv",
+      "url": "https://arxiv.org/pdf/2502.06708",
+      "landing": "https://arxiv.org/abs/2502.06708",
+      "version": "preprint",
+      "license": "arXiv",
+      "confidence": 1
+    },
+    "candidates": [
+      {
+        "source": "arxiv",
+        "url": "https://arxiv.org/pdf/2502.06708",
+        "landing": "https://arxiv.org/abs/2502.06708",
+        "version": "preprint",
+        "license": "arXiv",
+        "confidence": 1
+      },
+      {
+        "source": "crossref-link",
+        "url": "https://www.nature.com/articles/s41597-025-05646-w.pdf",
+        "landing": "https://doi.org/10.1038/s41597-025-05646-w",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": "https://uwe-repository.worktribe.com/preview/14829259/TEMSET-24K%20Densely%20annotated%20dataset%20for%20indexing%20multipart%20endoscopic%20videos%20using%20surgical%20timeline%20segmentation.pdf",
+        "landing": "https://uwe-repository.worktribe.com/14823553/1/TEMSET-24K%3A%20Densely%20annotated%20dataset%20for%20indexing%20multipart%20endoscopic%20videos%20using%20surgical%20timeline%20segmentation",
+        "version": "submittedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "UWE Research Repository (UWE Bristol)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://research.birmingham.ac.uk/en/publications/7e23baf9-6b27-4148-a78d-f353a19795c4",
+        "version": "publishedVersion",
+        "license": "cc-by-nc-nd",
+        "host": "University of Birmingham Research Portal (University of Birmingham)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://uhra.herts.ac.uk/id/eprint/25979/1/41597_2025_Article_5646.pdf",
+        "landing": "https://uhra.herts.ac.uk/id/eprint/25979/1/41597_2025_Article_5646.pdf",
+        "version": "acceptedVersion",
+        "license": "other-oa",
+        "host": "University of Hertfordshire Research Archive (University of Hertfordshire)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "https://www.open-access.bcu.ac.uk/17210/1/s41597-025-05646-w.pdf",
+        "landing": "https://www.open-access.bcu.ac.uk/17210/1/s41597-025-05646-w.pdf",
+        "version": "acceptedVersion",
+        "license": "other-oa",
+        "host": "BCU Open Access Repository (Birmingham City University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-iqbal-cryptocurrency-market-volatility-forecasting": {
+    "cv_label": "J155",
+    "title": "Cryptocurrency Market Volatility and Forecasting: A Comparative Analysis of Modern Machine Learning Models for Cryptocurrencies Predicting Accuracy",
+    "doi": "10.1142/S0219091524500280",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1142/s0219091524500280",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Review of Pacific Basin Financial Markets and Policies",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://www.worldscientific.com/doi/abs/10.1142/S0219091524500280",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "RePEc: Research Papers in Economics",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66049",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2021-qadir-online-teaching-during-covid": {
+    "cv_label": "J74",
+    "title": "Online teaching during COVID-19: the triple imperatives",
+    "doi": "10.35542/osf.io/zjdc7",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.35542/osf.io/zjdc7",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://osf.io/zjdc7",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "EdArXiv (OSF Preprints)",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.35542/osf.io/zjdc7",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://doi.org/10.35542/OSF.IO/ZJDC7",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "EdArXiv (OSF Preprints)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-khan-calibration-aware-semi-supervised": {
+    "cv_label": "C105",
+    "title": "Calibration-Aware Semi-Supervised Fetal Head Segmentation with Boundary-Positive Contrast",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
+  },
+  "2026-khan-keep-it-frozen-domain": {
+    "cv_label": "C104",
+    "title": "Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
+  },
+  "2024-gambhir-perceptions-engineering-college-instructors": {
+    "cv_label": "C93",
+    "title": "Perceptions of Engineering College Instructors and Their Students Towards Generative Artificial Intelligence (GenAI) Tools: A Preliminary Qualitative Analysis",
+    "doi": "10.18260/1-2--47840",
+    "status": "free-to-read-link-only",
+    "best": {
+      "source": "openalex",
+      "url": "https://peer.asee.org/47840.pdf",
+      "landing": "https://doi.org/10.18260/1-2--47840",
+      "version": "publishedVersion",
+      "license": null,
+      "host": "ASEE Annual Conference & Exposition",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://peer.asee.org/47840.pdf",
+        "landing": "https://doi.org/10.18260/1-2--47840",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "ASEE Annual Conference & Exposition",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/11343/355694",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Minerva Access (University of Melbourne)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66050",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2027-qadir-multiplex-systemics-wholeness-making": {
+    "cv_label": "BC7",
+    "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
+  },
+  "2025-hatay-top-research-priorities-quantum": {
+    "cv_label": "BC4",
+    "title": "Top research priorities in quantum computing",
+    "doi": "10.1016/B978-0-443-29096-1.00011-8",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.36227/techrxiv.173014889.92806792/v1",
+        "version": "acceptedVersion",
+        "license": "cc-by",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1016/b978-0-443-29096-1.00011-8",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Elsevier eBooks",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://research.manchester.ac.uk/en/publications/281f8b59-acbe-4c74-86d6-f1735fe9a944",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Research Explorer (The University of Manchester)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://www.sciencedirect.com/science/article/pii/B9780443290961000118",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2020-zaman-islamic-approaches-sustainable-development": {
+    "cv_label": "MI6",
+    "title": "Islamic Approaches to Sustainable Development",
+    "doi": "10.26650/B/SS10.2020.017.03",
+    "status": "free-to-read-link-only",
+    "best": {
+      "source": "openalex",
+      "url": "https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/EA81E6E9D68542E5B9D57E5638B96086",
+      "landing": "https://doi.org/10.26650/b/ss10.2020.017.03",
+      "version": "publishedVersion",
+      "license": null,
+      "host": "Istanbul University Press eBooks",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/EA81E6E9D68542E5B9D57E5638B96086",
+        "landing": "https://doi.org/10.26650/b/ss10.2020.017.03",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "Istanbul University Press eBooks",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2020-raquib-central-role-spirituality-ethics": {
+    "cv_label": "MI5",
+    "title": "The Central Role of Spirituality and Ethics in Islamic Economics and Finance",
+    "doi": "10.1515/9783110593419-004",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1515/9783110593419-004",
+        "version": "publishedVersion",
+        "license": "public-domain",
+        "host": "De Gruyter eBooks",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
   }
 }

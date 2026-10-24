@@ -1272,5 +1272,44 @@
     "verified": "title",
     "title_match": 1,
     "fetched_at": "2026-10-24"
+  },
+  "2026-elmahjub-islamiclegalbench-evaluating-llms-knowledge": {
+    "path": "pdf/2026/2026-elmahjub-islamiclegalbench-evaluating-llms-knowledge.pdf",
+    "bytes": 8188210,
+    "sha256": "ecc02dd8c2cd032ffd00568d61637997a81fd2d52499848d4648d949be210aec",
+    "source": "openalex",
+    "url": "https://arxiv.org/pdf/2602.21226",
+    "landing": "http://arxiv.org/abs/2602.21226",
+    "version": "submittedVersion",
+    "license": null,
+    "verified": "title",
+    "title_match": 0.82,
+    "fetched_at": "2026-10-24"
+  },
+  "2025-tabassum-exploring-application-ai-extended": {
+    "path": "pdf/2025/2025-tabassum-exploring-application-ai-extended.pdf",
+    "bytes": 1511728,
+    "sha256": "7871535975d2c5ddf288a9471c0631c5e7dd9095c6458c832188abf66ae67655",
+    "source": "openalex",
+    "url": "https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-72400-accepted.pdf",
+    "landing": "https://doi.org/10.2196/72400",
+    "version": "publishedVersion",
+    "license": "cc-by",
+    "verified": "title",
+    "title_match": 0.83,
+    "fetched_at": "2026-10-24"
+  },
+  "2025-bilal-temset-24k-densely-annotated": {
+    "path": "pdf/2025/2025-bilal-temset-24k-densely-annotated.pdf",
+    "bytes": 20219208,
+    "sha256": "b7e6b9f71b89a8f34c9f1b3d909aef35b7a59d2be34fda33bf79745abdb2d5ee",
+    "source": "arxiv",
+    "url": "https://arxiv.org/pdf/2502.06708",
+    "landing": "https://arxiv.org/abs/2502.06708",
+    "version": "preprint",
+    "license": "arXiv",
+    "verified": "title",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
   }
 }

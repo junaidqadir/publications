@@ -1,6 +1,6 @@
 # Publications — Junaid Qadir
 
-**98 / 301 PDFs archived.** An organized, regularly synced archive of my publications, derived from my CV.
+**101 / 315 PDFs archived.** An organized, regularly synced archive of my publications, derived from my CV.
 
 - [`index.json`](index.json) — every publication with authors, venue, DOI, tags, BibTeX and (where shareable) a PDF path
 - [`pdf/`](pdf/) — open-access / author copies, filed by year
@@ -10,10 +10,10 @@
 
 | Type | Entries | With PDF |
 |---|---|---|
-| journal | 180 | 75 |
-| conference | 103 | 22 |
-| book-chapter | 7 | 1 |
-| misc | 5 | 0 |
+| journal | 188 | 78 |
+| conference | 106 | 22 |
+| book-chapter | 8 | 1 |
+| misc | 7 | 0 |
 | informal | 6 | 0 |
 
 ## What is hosted here, and what is not

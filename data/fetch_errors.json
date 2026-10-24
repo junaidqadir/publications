@@ -1,21 +1,6 @@
 {
-  "2025-solaiman-true-lifecycle-approach-governing": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://www.nature.com/articles/s41746-025-01614-1.pdf",
-    "at": "2026-10-24"
-  },
-  "2025-mekki-digital-twins-era-personalized": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://www.nature.com/articles/s41746-025-01575-5.pdf",
-    "at": "2026-10-24"
-  },
-  "2025-qayyum-robust-multi-label-surgical": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://www.nature.com/articles/s41598-024-82351-5.pdf",
-    "at": "2026-10-24"
-  },
   "2024-zaidi-enhancing-cross-language-multimodal": {
-    "message": "not a PDF (landing page or login wall)",
+    "message": "HTTP 403",
     "url": "http://qspace.qu.edu.qa/bitstream/10576/66082/1/Enhancing_Cross-Language_Multimodal_Emotion_Recognition_With_Dual_Attention_Transformers.pdf",
     "at": "2026-10-24"
   },
@@ -25,17 +10,12 @@
     "at": "2026-10-24"
   },
   "2024-usman-intelligent-healthcare-system-iomt": {
-    "message": "not a PDF (landing page or login wall)",
+    "message": "HTTP 403",
     "url": "http://qspace.qu.edu.qa/bitstream/10576/65982/1/1-s2.0-S2542660524000076-main.pdf",
     "at": "2026-10-24"
   },
-  "2023-hameed-deep-learning-multimodal-urban": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://www.nature.com/articles/s41598-023-49296-7.pdf",
-    "at": "2026-10-24"
-  },
   "2023-ali-systematic-review-federated-learning": {
-    "message": "not a PDF (landing page or login wall)",
+    "message": "HTTP 403",
     "url": "http://qspace.qu.edu.qa/bitstream/10576/65986/1/1-s2.0-S1574013723000606-main.pdf",
     "at": "2026-10-24"
   },
@@ -57,21 +37,6 @@
   "2023-rehman-selective-deeply-supervised-multi": {
     "message": "HTTP 403",
     "url": "https://www.mdpi.com/1424-8220/23/4/2346/pdf?version=1676892865",
-    "at": "2026-10-24"
-  },
-  "2023-maayah-limitaccess-device-tinyml-robust": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://link.springer.com/content/pdf/10.1007/s44163-023-00051-x.pdf",
-    "at": "2026-10-24"
-  },
-  "2023-qayyum-dental-caries-detection-semi": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://www.nature.com/articles/s41598-023-27808-9.pdf",
-    "at": "2026-10-24"
-  },
-  "2022-bashir-arabic-natural-language-processing": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10313-2.pdf",
     "at": "2026-10-24"
   },
   "2022-zubair-secure-bluetooth-communication-smart": {
@@ -97,11 +62,6 @@
   "2022-qayyum-single-shot-retinal-image": {
     "message": "HTTP 403",
     "url": "https://www.techrxiv.org/articles/preprint/Single-Shot_Retinal_Image_Enhancement_Using_Untrained_and_Pretrained_Neural_Networks_Priors_Integrated_with_Analytical_Image_Priors/14931999/1/files/28756695.pdf",
-    "at": "2026-10-24"
-  },
-  "2022-raquib-islamic-virtue-ethics-artificial": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://link.springer.com/content/pdf/10.1007/s44163-022-00028-2.pdf",
     "at": "2026-10-24"
   },
   "2022-ammara-smart-cities-through-perspective": {
@@ -144,19 +104,9 @@
     "url": "https://www.mdpi.com/1999-5903/9/4/94/pdf?version=1513012015",
     "at": "2026-10-24"
   },
-  "2016-qadir-crisis-analytics-big-data": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "http://link.springer.com/content/pdf/10.1186/s41018-016-0013-9.pdf",
-    "at": "2026-10-24"
-  },
   "2016-bilal-big-data-construction-industry": {
     "message": "fetch failed",
     "url": "http://eprints.uwe.ac.uk/30190/1/1.%20ADVEI-D-16-00028R2.pdf",
-    "at": "2026-10-24"
-  },
-  "2016-ali-big-data-development-applications": {
-    "message": "not a PDF (landing page or login wall)",
-    "url": "https://bdataanalytics.biomedcentral.com/counter/pdf/10.1186/s41044-016-0002-4",
     "at": "2026-10-24"
   },
   "2016-bilal-analysis-critical-features-evaluation": {
@@ -177,6 +127,21 @@
   "2022-qadir-holistic-education-21st-century": {
     "message": "not a PDF (landing page or login wall)",
     "url": "https://ebooks.iospress.nl/pdf/doi/10.3233/ATDE220694",
+    "at": "2026-10-24"
+  },
+  "2026-dribi-real-time-traffic-management": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/2076-3417/16/12/6241/pdf",
+    "at": "2026-10-24"
+  },
+  "2026-machlovi-multi-perspective-benchmark-dataset": {
+    "message": "HTTP 403",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3815159",
+    "at": "2026-10-24"
+  },
+  "2020-qadir-student-primer-thrive-engineering": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/2227-7102/10/9/236/pdf",
     "at": "2026-10-24"
   }
 }

@@ -33,7 +33,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -115,11 +114,13 @@
     "tags": [
       "generative-ai",
       "adversarial-ml",
-      "ai-safety"
+      "ai-safety",
+      "responsible-ai"
     ],
     "themes": [
       "ai",
-      "ai-security"
+      "ai-security",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -160,8 +161,7 @@
       "responsible-ai"
     ],
     "themes": [
-      "ai",
-      "ai-ethics"
+      "ai"
     ],
     "featured": false,
     "access_note": null,
@@ -203,8 +203,8 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
-      "education"
+      "education",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -245,8 +245,7 @@
     ],
     "themes": [
       "multiplexity",
-      "ai",
-      "ai-ethics"
+      "ai"
     ],
     "featured": false,
     "access_note": null,
@@ -333,8 +332,7 @@
       "metaverse-xr"
     ],
     "themes": [
-      "ai",
-      "ai-ethics"
+      "ai"
     ],
     "featured": false,
     "access_note": null,
@@ -458,7 +456,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -501,7 +498,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education",
       "ml"
     ],
@@ -543,7 +539,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -583,7 +578,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -623,7 +617,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education",
       "health-psychology"
     ],
@@ -666,7 +659,6 @@
     "themes": [
       "multiplexity",
       "ai",
-      "ai-ethics",
       "education",
       "ihsan-ethics"
     ],
@@ -709,7 +701,6 @@
     "themes": [
       "multiplexity",
       "ai",
-      "ai-ethics",
       "education",
       "health-psychology"
     ],
@@ -751,7 +742,6 @@
     "themes": [
       "multiplexity",
       "ai",
-      "ai-ethics",
       "ihsan-ethics"
     ],
     "featured": false,
@@ -792,7 +782,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education",
       "ihsan-ethics",
       "networks-ict4d"
@@ -917,7 +906,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "sustainability"
     ],
     "featured": false,
@@ -1401,7 +1389,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -1542,13 +1529,11 @@
     "tags": [
       "generative-ai",
       "responsible-ai",
-      "ai-governance",
       "healthcare",
       "computer-vision"
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "health-psychology",
       "ml"
     ],
@@ -1630,7 +1615,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -1675,7 +1659,6 @@
     "themes": [
       "multiplexity",
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -1800,8 +1783,8 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
-      "education"
+      "education",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -1975,7 +1958,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ai-security",
       "networks-ict4d"
     ],
@@ -2121,10 +2103,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "security-privacy"
+      "security-privacy",
+      "ai-governance"
     ],
     "themes": [
-      "ai-security"
+      "ai-security",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -2282,8 +2266,7 @@
     "themes": [
       "ai",
       "ai-security",
-      "ml",
-      "ai-ethics"
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -2710,7 +2693,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": true,
@@ -2750,7 +2732,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -2790,7 +2771,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -2964,7 +2944,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -3133,7 +3112,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "education"
     ],
     "featured": true,
@@ -3174,7 +3152,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "health-psychology",
       "ml"
     ],
@@ -3262,7 +3239,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ai-security",
       "health-psychology"
     ],
@@ -3392,7 +3368,6 @@
     "themes": [
       "ai",
       "ai-security",
-      "ai-ethics",
       "ml"
     ],
     "featured": false,
@@ -3435,7 +3410,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "sustainability",
       "networks-ict4d"
     ],
@@ -3624,52 +3598,6 @@
     "bibtex": "@article{latif2023survey,\n  title     = {{Survey of Deep Representation Learning for Speech Emotion Recognition}},\n  author    = {Latif, S. and Rana, R. and Khalifa, S. and Jurdak, R. and Qadir, J. and Schuller, B.},\n  journal = {IEEE Transactions on Affective Computing},\n  volume    = {14},\n  number    = {2},\n  pages     = {1634--1654},\n  year      = {2023},\n  doi       = {10.1109/taffc.2021.3114365}\n}"
   },
   {
-    "slug": "2023-qayyum-secure-robust-machine-learning",
-    "cv_label": "J76",
-    "title": "Secure and Robust Machine Learning for Healthcare: A Survey",
-    "authors": [
-      "A. Qayyum",
-      "J. Qadir",
-      "M. Bilal",
-      "A. Al-Fuqaha"
-    ],
-    "year": 2023,
-    "venue": "IEEE Reviews in Biomedical Engineering (RBME)",
-    "volume": "14",
-    "issue": null,
-    "pages": "156–180",
-    "doi": "10.1109/rbme.2020.3013489",
-    "section": "journal",
-    "status": "final",
-    "awards": [
-      "Selected to receive the 1st Prize in the 2023 IEEE Engineering in Medicine and Biology Prize Paper Award"
-    ],
-    "best_paper_award": false,
-    "tags": [
-      "adversarial-ml",
-      "machine-learning",
-      "healthcare",
-      "survey-review"
-    ],
-    "themes": [
-      "ai",
-      "ai-security",
-      "ml",
-      "health-psychology"
-    ],
-    "featured": true,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [],
-    "pdf": "pdf/2023/2023-qayyum-secure-robust-machine-learning.pdf",
-    "pdf_version": "submittedVersion",
-    "pdf_license": null,
-    "oa_url": "http://arxiv.org/abs/2001.08103",
-    "oa_status": "hostable",
-    "bibtex": "@article{qayyum2023secure,\n  title     = {{Secure and Robust Machine Learning for Healthcare: A Survey}},\n  author    = {Qayyum, A. and Qadir, J. and Bilal, M. and Al-Fuqaha, A.},\n  journal = {IEEE Reviews in Biomedical Engineering (RBME)},\n  volume    = {14},\n  pages     = {156--180},\n  year      = {2023},\n  doi       = {10.1109/rbme.2020.3013489}\n}"
-  },
-  {
     "slug": "2023-tabassum-pathway-prosocial-ai-xr",
     "cv_label": "C88",
     "title": "Pathway to Prosocial AI-XR Metaverses: A Synergy of Technical and Regulatory Approaches",
@@ -3817,7 +3745,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -3862,7 +3789,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ai-security",
       "health-psychology",
       "networks-ict4d"
@@ -3905,8 +3831,8 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
-      "education"
+      "education",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -3992,8 +3918,8 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
-      "education"
+      "education",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -4035,7 +3961,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -4127,7 +4052,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -4168,7 +4092,6 @@
     "themes": [
       "ai",
       "ml",
-      "ai-ethics",
       "education"
     ],
     "featured": true,
@@ -4295,7 +4218,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ihsan-ethics"
     ],
     "featured": false,
@@ -4342,7 +4264,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ai-security",
       "health-psychology",
       "networks-ict4d"
@@ -4727,8 +4648,8 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
-      "ihsan-ethics"
+      "ihsan-ethics",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -4767,7 +4688,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -4946,8 +4866,8 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
-      "education"
+      "education",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -4982,8 +4902,7 @@
     "best_paper_award": false,
     "tags": [
       "responsible-ai",
-      "ai-ethics",
-      "ai-governance"
+      "ai-ethics"
     ],
     "themes": [
       "ai",
@@ -5032,8 +4951,8 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ai-security",
+      "ai-ethics",
       "sustainability"
     ],
     "featured": false,
@@ -5159,8 +5078,7 @@
     "themes": [
       "ai",
       "ai-security",
-      "ml",
-      "ai-ethics"
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -5201,7 +5119,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ml",
       "networks-ict4d"
     ],
@@ -5487,7 +5404,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "sustainability"
     ],
     "featured": false,
@@ -5524,12 +5440,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "ai-governance",
       "networking",
       "smart-cities-sustainability"
     ],
     "themes": [
-      "ai-ethics",
       "networks-ict4d",
       "sustainability"
     ],
@@ -5761,6 +5675,52 @@
     "oa_url": "http://arxiv.org/abs/2008.05042",
     "oa_status": "hostable",
     "bibtex": "@article{qolomany2021trust,\n  title     = {{Trust-Based Cloud Machine Learning Model Selection For Industrial IoT and Smart City Services}},\n  author    = {Qolomany, B. and Mohammed, I. and Al-Fuqaha, A. and Guizani, M. and Qadir, J.},\n  journal = {IEEE Internet of Things Journal},\n  volume    = {8},\n  number    = {4},\n  pages     = {2943--2958},\n  year      = {2021},\n  doi       = {10.1109/jiot.2020.3022323}\n}"
+  },
+  {
+    "slug": "2023-qayyum-secure-robust-machine-learning",
+    "cv_label": "J76",
+    "title": "Secure and Robust Machine Learning for Healthcare: A Survey",
+    "authors": [
+      "A. Qayyum",
+      "J. Qadir",
+      "M. Bilal",
+      "A. Al-Fuqaha"
+    ],
+    "year": 2021,
+    "venue": "IEEE Reviews in Biomedical Engineering (RBME)",
+    "volume": "14",
+    "issue": null,
+    "pages": "156–180",
+    "doi": "10.1109/rbme.2020.3013489",
+    "section": "journal",
+    "status": "final",
+    "awards": [
+      "Selected to receive the 1st Prize in the 2023 IEEE Engineering in Medicine and Biology Prize Paper Award"
+    ],
+    "best_paper_award": false,
+    "tags": [
+      "adversarial-ml",
+      "machine-learning",
+      "healthcare",
+      "survey-review"
+    ],
+    "themes": [
+      "ai",
+      "ai-security",
+      "ml",
+      "health-psychology"
+    ],
+    "featured": true,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": "pdf/2023/2023-qayyum-secure-robust-machine-learning.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": null,
+    "oa_url": "http://arxiv.org/abs/2001.08103",
+    "oa_status": "hostable",
+    "bibtex": "@article{qayyum2021secure,\n  title     = {{Secure and Robust Machine Learning for Healthcare: A Survey}},\n  author    = {Qayyum, A. and Qadir, J. and Bilal, M. and Al-Fuqaha, A.},\n  journal = {IEEE Reviews in Biomedical Engineering (RBME)},\n  volume    = {14},\n  pages     = {156--180},\n  year      = {2021},\n  doi       = {10.1109/rbme.2020.3013489}\n}"
   },
   {
     "slug": "2021-latif-speech-technology-healthcare-opportunities",
@@ -6091,7 +6051,6 @@
     "themes": [
       "ai",
       "ml",
-      "ai-ethics",
       "ai-security"
     ],
     "featured": false,
@@ -6140,7 +6099,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -8793,6 +8751,40 @@
     "bibtex": "@article{shafqat2018data,\n  title     = {{Big Data Analytics Enhanced Healthcare Systems: A Review}},\n  author    = {Shafqat, S. and Abbasi, S. and Rasool, R. and Qadir, J. and Amjad, T. and Ahmad, H. F.},\n  journal = {Journal of Supercomputing, Special Issue on Cloud computing, Big data and IoT},\n  year      = {2018},\n  doi       = {10.1007/s11227-017-2222-4}\n}"
   },
   {
+    "slug": "2017-qadir-learning-101-untaught-basics",
+    "cv_label": "J35",
+    "title": "Learning 101: The Untaught Basics",
+    "authors": [
+      "J. Qadir",
+      "M. A. Imran"
+    ],
+    "year": 2018,
+    "venue": "(February 13",
+    "volume": "37",
+    "issue": "3",
+    "pages": "33–38",
+    "doi": "10.1109/MPOT.2017.2749408",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [],
+    "themes": [],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [
+      "https://ssrn.com/abstract=2916505"
+    ],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{qadir2018learning,\n  title     = {{Learning 101: The Untaught Basics}},\n  author    = {Qadir, J. and Imran, M. A.},\n  journal = {(February 13},\n  volume    = {37},\n  number    = {3},\n  pages     = {33--38},\n  year      = {2018},\n  doi       = {10.1109/MPOT.2017.2749408}\n}"
+  },
+  {
     "slug": "2018-hussain-enhancing-computer-programming-skills",
     "cv_label": "I4",
     "title": "Enhancing computer programming skills through Virtual Reality",
@@ -8852,8 +8844,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "responsible-ai"
+    ],
+    "themes": [
+      "ai-ethics"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -8932,12 +8928,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "psychology",
       "speech-audio"
     ],
     "themes": [
-      "ihsan-ethics",
       "health-psychology",
       "ml"
     ],
@@ -9584,40 +9578,6 @@
     "bibtex": "@article{qadir2017healthcare,\n  title     = {{Healthcare Informatics for the Developing World}},\n  author    = {Qadir, J. and Rehman, M and Rehmani, M. and Pathan, A and Imran, M. A. and Hussain, A. and Rana, R. and Luo, B. and Editorial, Special Section},\n  journal = {IEEE Access},\n  year      = {2017},\n  doi       = {10.1109/ACCESS.2017.2783118}\n}"
   },
   {
-    "slug": "2017-qadir-learning-101-untaught-basics",
-    "cv_label": "J35",
-    "title": "Learning 101: The Untaught Basics",
-    "authors": [
-      "J. Qadir",
-      "M. A. Imran"
-    ],
-    "year": 2017,
-    "venue": "(February 13",
-    "volume": "37",
-    "issue": "3",
-    "pages": "33–38",
-    "doi": "10.1109/MPOT.2017.2749408",
-    "section": "journal",
-    "status": "final",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [],
-    "themes": [],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [
-      "https://ssrn.com/abstract=2916505"
-    ],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{qadir2017learning,\n  title     = {{Learning 101: The Untaught Basics}},\n  author    = {Qadir, J. and Imran, M. A.},\n  journal = {(February 13},\n  volume    = {37},\n  number    = {3},\n  pages     = {33--38},\n  year      = {2017},\n  doi       = {10.1109/MPOT.2017.2749408}\n}"
-  },
-  {
     "slug": "2017-latif-mobile-health-developing-world",
     "cv_label": "J34",
     "title": "Mobile Health in the Developing World: Review of Literature and Lessons from A Case Study",
@@ -9915,7 +9875,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "ai-security",
       "networks-ict4d"
     ],
@@ -10831,12 +10790,8 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [
-      "islamic-ethics"
-    ],
-    "themes": [
-      "ihsan-ethics"
-    ],
+    "tags": [],
+    "themes": [],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -11027,8 +10982,7 @@
       "responsible-ai"
     ],
     "themes": [
-      "ai",
-      "ai-ethics"
+      "ai"
     ],
     "featured": false,
     "access_note": null,
@@ -11149,7 +11103,6 @@
     ],
     "themes": [
       "ai",
-      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -11444,11 +11397,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -11520,11 +11471,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -11684,11 +11633,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -11849,11 +11796,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -11890,11 +11835,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -11931,12 +11874,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking",
       "survey-review"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -12014,11 +11955,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -12055,11 +11994,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "networking"
     ],
     "themes": [
-      "ihsan-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -12098,12 +12035,9 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
       "survey-review"
     ],
-    "themes": [
-      "ihsan-ethics"
-    ],
+    "themes": [],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -12136,10 +12070,8 @@
     "doi": "10.1109/WOWMOM.2008.4594835",
     "section": "conference",
     "status": "accepted",
-    "awards": [
-      "Best Paper Award"
-    ],
-    "best_paper_award": true,
+    "awards": [],
+    "best_paper_award": false,
     "tags": [
       "networking"
     ],

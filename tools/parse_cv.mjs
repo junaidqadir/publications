@@ -8,7 +8,7 @@
 // The CV prints each list newest-first with numbers counting DOWN, so the oldest
 // entry is always [1]; numbers of existing entries stay stable when new papers are
 // added at the top.
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -150,7 +150,7 @@ function parseEntry(raw, code, section, number) {
   const pages = pm ? `${pm[1]}–${pm[2]}` : num(/\bpp\.\s*([A-Za-z0-9]+)/);
 
   // year = last plausible year before an "Impact Factor" note
-  const head = plain.split(/Impact [Ff]actor/)[0];
+  const head = plain.split(/Impact [Ff]actor|Preprint (?:version|available)|\(\s*(?:Selected to receive|Awarded|Winner)/i)[0];
   const years = [...head.matchAll(/\b(19|20)\d{2}\b/g)].map((x) => parseInt(x[0], 10));
   const year = years.length ? years[years.length - 1] : null;
 
@@ -161,7 +161,7 @@ function parseEntry(raw, code, section, number) {
       : "published";
 
   const awards = [];
-  if (/best paper award/i.test(plain)) awards.push("Best Paper Award");
+  if (/(?<!nominated for )(?<!nominated for the )(?<!shortlisted for )(?<!finalist for )best paper award/i.test(plain)) awards.push("Best Paper Award");
   const prize = plain.match(/\(\s*(Selected to receive[^)]*)\)/i);
   if (prize) awards.push(prize[1].replace(/\.$/, ""));
 
@@ -189,13 +189,14 @@ function parseEntry(raw, code, section, number) {
 // ---- stable, human-readable slugs: year-firstauthor-keywords ----
 const STOP = new Set("a an the of for and in on to with from by via toward towards using use based into at as is are its their how what why can do does".split(" "));
 const used = new Map();
+const pins = existsSync(join(root, "data", "slug_pins.json")) ? JSON.parse(readFileSync(join(root, "data", "slug_pins.json"), "utf8")) : {};
 for (const e of entries) {
   const surname = ((e.authors[0] || "qadir").split(/\s+/).pop() || "qadir").toLowerCase().replace(/[^a-z]/g, "");
   const words = normTitle(e.title || e.plain.slice(0, 60)).split(" ").filter((w) => w && !STOP.has(w)).slice(0, 4);
   let slug = [e.year ?? "nd", surname, ...words].join("-");
   const n = used.get(slug) || 0;
   used.set(slug, n + 1);
-  e.slug = n ? `${slug}-${String.fromCharCode(97 + n)}` : slug;
+  e.slug = pins[e.cv_label] || (n ? `${slug}-${String.fromCharCode(97 + n)}` : slug);
 }
 
 mkdirSync(join(root, "data"), { recursive: true });

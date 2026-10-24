@@ -98,11 +98,11 @@ The CV is the source of truth; this archive trails it. Only legitimately shareab
 | J43 | 2018 | Community Detection in Networks: A Multidisciplinary Review | [doi](https://doi.org/10.1016/j.jnca.2018.02.011) | open copy flagged, but no direct PDF URL — see links |
 | J42 | 2018 | Computational Intelligence For Mobile Network Optimization |  | open copy flagged, but no direct PDF URL — see links |
 | J41 | 2018 | Big Data Analytics Enhanced Healthcare Systems: A Review | [doi](https://doi.org/10.1007/s11227-017-2222-4) | open copy flagged, but no direct PDF URL — see links |
+| J35 | 2018 | Learning 101: The Untaught Basics | [doi](https://doi.org/10.1109/MPOT.2017.2749408) | open copy flagged, but no direct PDF URL — see links |
 | J39 | 2017 | How 5G Wireless (And Concomitant Technologies) Will Revolutionize Healthcare? | [doi](https://doi.org/10.3390/fi9040093) | OA copy exists but could not be fetched automatically (HTTP 403) — download it in a browser |
 | J38 | 2017 | Approximate Networking for Universal Internet Access | [doi](https://doi.org/10.3390/fi9040094) | OA copy exists but could not be fetched automatically (HTTP 403) — download it in a browser |
 | J37 | 2017 | RL-Budget: A cluster size adjustment scheme for cognitive radio networks | [doi](https://doi.org/10.1109/ACCESS.2017.2777867) | open copy flagged, but no direct PDF URL — see links |
 | J36 | 2017 | Healthcare Informatics for the Developing World | [doi](https://doi.org/10.1109/ACCESS.2017.2783118) [open copy](http://eprints.gla.ac.uk/156568/1/156568.pdf) | free to read, but no open licence — linked, not hosted |
-| J35 | 2017 | Learning 101: The Untaught Basics | [doi](https://doi.org/10.1109/MPOT.2017.2749408) | open copy flagged, but no direct PDF URL — see links |
 | J34 | 2017 | Mobile Health in the Developing World: Review of Literature and Lessons from A Case Study | [doi](https://doi.org/10.1109/access.2017.2710800) [open copy](http://eprints.usq.edu.au/30054/1/Health_Informatics_V3.pdf) | free to read, but no open licence — linked, not hosted |
 | J33 | 2017 | On Using Micro-Clouds to Deliver the Fog | [doi](https://doi.org/10.1109/MIC.2017.35) | open copy flagged, but no direct PDF URL — see links |
 | J31 | 2017 | Machine Learning based Optimized Live Virtual Machine Migration over WAN Links | [doi](https://doi.org/10.1007/s11235-016-0173-3) [open copy](http://researchopen.lsbu.ac.uk/2875/1/Paper.pdf) | free to read, but no open licence — linked, not hosted |

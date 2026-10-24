@@ -2757,7 +2757,7 @@
       "A. Al-Fuqaha"
     ],
     "venue": "IEEE Reviews in Biomedical Engineering (RBME)",
-    "year": 2023,
+    "year": 2021,
     "volume": "14",
     "issue": null,
     "pages": "156–180",
@@ -3828,7 +3828,7 @@
       "M. A. Imran"
     ],
     "venue": "(February 13",
-    "year": 2017,
+    "year": 2018,
     "volume": "37",
     "issue": "3",
     "pages": "33–38",
@@ -7326,9 +7326,7 @@
       "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4594835"
     ],
     "status": "accepted",
-    "awards": [
-      "Best Paper Award"
-    ],
+    "awards": [],
     "plain": "“Localized Minimum-Latency Broadcasting in Multi-Radio Multi-Rate Wireless Mesh Networks”, J. Qadir, C.T. Chou, A. Misra, J.G. Lim, IEEE World of Wireless, Mobile and Multimedia Networks (WoWMoM), California, USA, pp. 1–12, 2008. . (Accepted as an extended paper [13/184 papers, 7% acceptance] and nominated for best paper award.)",
     "slug": "2008-qadir-localized-minimum-latency-broadcasting"
   },

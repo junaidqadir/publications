@@ -157,7 +157,7 @@ The CV is the source of truth; this archive trails it. Only legitimately shareab
 | C81 | 2023 | Get out of the BAG! Silos in AI Ethics Education: Unsupervised Topic Modeling Analysis of Global AI Curricula (Extended Abstract) | [doi](https://doi.org/10.24963/ijcai.2023/780) | free to read, but no open licence — linked, not hosted |
 | C80 | 2023 | Revolutionizing Healthcare with Foundation AI Models |  [open copy](https://doi.org/10.3233/shti230533) | OA copy exists but could not be fetched automatically (not a PDF (landing page or login wall)) — download it in a browser |
 | C79 | 2023 | Defending Emotional Privacy with Adversarial Machine Learning for Social Good |  | open copy flagged, but no direct PDF URL — see links |
-| C77 | 2023 | Engineering Education in the Era of ChatGPT: Using Generative AI for Education |  | open copy flagged, but no direct PDF URL — see links |
+| C77 | 2023 | Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education | [doi](https://doi.org/10.1109/EDUCON54358.2023.10125121) | open copy flagged, but no direct PDF URL — see links |
 | C76 | 2023 | Robotics Primer for Independent Learners: Background, Curriculum, Resources, and Tips | [doi](https://doi.org/10.1109/educon54358.2023.10125209) | open copy flagged, but no direct PDF URL — see links |
 | C75 | 2023 | SegCrop: Segmentation-based Dynamic Cropping of Endoscopic Videos to Address Label Leakage in Surgical Tool Detection | [doi](https://doi.org/10.1109/isbi53787.2023.10230822) [open copy](https://pureportal.coventry.ac.uk/en/publications/b0b0ff84-b892-4bfe-95da-346a34120785) | free to read, but no open licence — linked, not hosted |
 | C74 | 2022 | Jamming Detection in IoT Wireless Networks: An Edge-AI Based Approach | [doi](https://doi.org/10.1145/3567445.3567456) | free to read, but no open licence — linked, not hosted |
@@ -221,12 +221,12 @@ The CV is the source of truth; this archive trails it. Only legitimately shareab
 | CV | Year | Title | Links | Why / what to do |
 |---|---|---|---|---|
 | BC7 | 2026 | An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom |  | open copy flagged, but no direct PDF URL — see links |
-| BC6 | 2026 | Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology |  | no open copy found — closed access; add your accepted manuscript if the publisher permits self-archiving |
 | BC5 | 2026 | Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy |  | not yet published (accepted/forthcoming) — add the accepted manuscript if the publisher allows |
 | BC4 | 2026 | Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development |  | open copy flagged, but no direct PDF URL — see links |
 | BC3 | 2024 | Ethics and Regulation in Metaverse: Risks, Current Approaches, and Way Forward |  | open copy flagged, but no direct PDF URL — see links |
 | BC2 | 2018 | Mobile Technologies for Managing Non-Communicable-Diseases in the Developing Countries |  | open copy flagged, but no direct PDF URL — see links |
 | BC1 | 2017 | 5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage |  | open copy flagged, but no direct PDF URL — see links |
+| BC6 |  | Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology |  | not yet published (accepted/forthcoming) — add the accepted manuscript if the publisher allows |
 
 ## misc (6)
 

@@ -675,48 +675,6 @@
     "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026}\n}"
   },
   {
-    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
-    "cv_label": "BC6",
-    "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
-    "authors": [
-      "J. Qadir",
-      "R. Senturk"
-    ],
-    "year": 2026,
-    "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "doi": null,
-    "section": "book-chapter",
-    "status": "final",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [
-      "responsible-ai",
-      "education",
-      "multiplexity",
-      "healthcare"
-    ],
-    "themes": [
-      "multiplexity",
-      "ai",
-      "education",
-      "health-psychology"
-    ],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "none-found",
-    "bibtex": "@incollection{qadir2026multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2026}\n}"
-  },
-  {
     "slug": "2026-qadir-educating-ai-era-harnessing",
     "cv_label": "BC5",
     "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
@@ -4069,7 +4027,7 @@
   {
     "slug": "2023-qadir-engineering-education-era-chatgpt",
     "cv_label": "C77",
-    "title": "Engineering Education in the Era of ChatGPT: Using Generative AI for Education",
+    "title": "Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education",
     "authors": [
       "J. Qadir"
     ],
@@ -4078,7 +4036,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/EDUCON54358.2023.10125121",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -4104,7 +4062,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{qadir2023engineering,\n  title     = {{Engineering Education in the Era of ChatGPT: Using Generative AI for Education}},\n  author    = {Qadir, J.},\n  booktitle = {2023 IEEE Global Engineering Education Conference (EDUCON), Special Session: Artificial Intelligence and Machine Learning in Education},\n  year      = {2023}\n}"
+    "bibtex": "@inproceedings{qadir2023engineering,\n  title     = {{Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education}},\n  author    = {Qadir, J.},\n  booktitle = {2023 IEEE Global Engineering Education Conference (EDUCON), Special Session: Artificial Intelligence and Machine Learning in Education},\n  year      = {2023},\n  doi       = {10.1109/EDUCON54358.2023.10125121}\n}"
   },
   {
     "slug": "2023-gull-robotics-primer-independent-learners",
@@ -12287,5 +12245,47 @@
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2006minimum,\n  title     = {{Minimum Latency Broadcasting in Multi-Radio Multi-Channel Multi-Rate Wireless Meshes}},\n  author    = {Qadir, J. and Misra, A. and Chou, C. T.},\n  booktitle = {IEEE Sensor and Ad Hoc Communications and Networks (SECON), Virginia, USA},\n  pages     = {80--89},\n  year      = {2006},\n  doi       = {10.1109/SAHCN.2006.288412}\n}"
+  },
+  {
+    "slug": "nd-qadir-multiplex-systemics-wholeness-making",
+    "cv_label": "BC6",
+    "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
+    "authors": [
+      "J. Qadir",
+      "R. Senturk"
+    ],
+    "year": null,
+    "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "section": "book-chapter",
+    "status": "forthcoming",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "education",
+      "multiplexity",
+      "healthcare"
+    ],
+    "themes": [
+      "ai",
+      "education",
+      "multiplexity",
+      "health-psychology"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "unchecked",
+    "bibtex": "@incollection{qadirmultiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier}\n}"
   }
 ]

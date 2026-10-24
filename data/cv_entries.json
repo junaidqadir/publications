@@ -5392,7 +5392,7 @@
     "section": "conference",
     "number": 77,
     "cv_label": "C77",
-    "title": "Engineering Education in the Era of ChatGPT: Using Generative AI for Education",
+    "title": "Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education",
     "authors": [
       "J. Qadir"
     ],
@@ -5401,12 +5401,12 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/EDUCON54358.2023.10125121",
     "arxiv": null,
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Engineering Education in the Era of ChatGPT: Using Generative AI for Education”, J. Qadir, 2023 IEEE Global Engineering Education Conference (EDUCON), Special Session: Artificial Intelligence and Machine Learning in Education, May 2023.",
+    "plain": "“Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education”, J. Qadir, 2023 IEEE Global Engineering Education Conference (EDUCON), Special Session: Artificial Intelligence and Machine Learning in Education, May 2023. .",
     "slug": "2023-qadir-engineering-education-era-chatgpt"
   },
   {
@@ -7443,17 +7443,17 @@
       "R. Senturk"
     ],
     "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
-    "year": 2026,
+    "year": null,
     "volume": null,
     "issue": null,
     "pages": null,
     "doi": null,
     "arxiv": null,
     "links": [],
-    "status": "published",
+    "status": "forthcoming",
     "awards": [],
-    "plain": "“Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology,” J. Qadir and R. Senturk, in AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier, 2026.",
-    "slug": "2026-qadir-multiplex-systemics-wholeness-making"
+    "plain": "“Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology,” J. Qadir and R. Senturk, in AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier, forthcoming.",
+    "slug": "nd-qadir-multiplex-systemics-wholeness-making"
   },
   {
     "code": "BC",

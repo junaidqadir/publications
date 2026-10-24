@@ -41,7 +41,9 @@
     "tags": [
       "security-privacy"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
   },
   "2024-gill-modern-computing-vision-challenges": {
@@ -66,7 +68,8 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
   },
@@ -158,7 +161,9 @@
     "tags": [
       "smart-cities-sustainability"
     ],
-    "themes": [],
+    "themes": [
+      "sustainability"
+    ],
     "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Construction waste analytics (sustainability)."
   },
   "2016-qadir-taming-limits-approximate-networking": {
@@ -179,5 +184,613 @@
       "networks-ict4d"
     ],
     "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. IEEE 802.11 MAC analysis."
+  },
+  "2026-almaliki-budget-constrained-online-retrieval": {
+    "tags": [
+      "generative-ai"
+    ],
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2026-rafique-trustworthy-iot-services-blockchain": {
+    "remove_themes": [
+      "ai",
+      "ai-ethics"
+    ],
+    "remove_tags": [
+      "ai-safety",
+      "responsible-ai"
+    ]
+  },
+  "2026-rizvi-artificial-intelligence-prediction-progression": {
+    "tags": [
+      "machine-learning"
+    ],
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2026-khan-generative-ai-signal-processing": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2026-qadir-ai-chatbots-provide-coaching": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2026-qadir-educating-ai-era-harnessing": {
+    "themes": [
+      "education"
+    ],
+    "tags": [
+      "education"
+    ]
+  },
+  "2026-qadir-ghazalian-project-ai-era": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "ict4d"
+    ]
+  },
+  "2025-aledhari-safeguarding-connected-autonomous-vehicle": {
+    "remove_themes": [
+      "ml"
+    ],
+    "tags": [
+      "networking"
+    ],
+    "remove_tags": [
+      "ai-safety",
+      "computer-vision"
+    ]
+  },
+  "2025-qayyum-robust-multi-label-surgical": {
+    "remove_themes": [
+      "ai-security"
+    ],
+    "remove_tags": [
+      "adversarial-ml"
+    ]
+  },
+  "2025-abioye-raptor-generative-ai-parsing": {
+    "remove_tags": [
+      "computer-vision",
+      "responsible-ai"
+    ]
+  },
+  "2024-zaidi-enhancing-cross-language-multimodal": {
+    "themes": [
+      "ai",
+      "ml"
+    ],
+    "tags": [
+      "machine-learning",
+      "speech-audio"
+    ]
+  },
+  "2024-shoukat-medicine-s-new-rhythm": {
+    "themes": [
+      "health-psychology"
+    ],
+    "tags": [
+      "healthcare"
+    ]
+  },
+  "2024-junaid-compliance-ranking-certificate-authorities": {
+    "remove_themes": [
+      "ai-ethics"
+    ],
+    "remove_tags": [
+      "ai-governance"
+    ]
+  },
+  "2024-eliyan-informed-consent-iot-environments": {
+    "tags": [
+      "security-privacy"
+    ]
+  },
+  "2024-aledhari-motion-comfort-optimization-autonomous": {
+    "remove_tags": [
+      "computer-vision"
+    ]
+  },
+  "2023-elmahjub-program-autonomous-vehicle-av": {
+    "remove_themes": [
+      "ml"
+    ],
+    "remove_tags": [
+      "computer-vision"
+    ]
+  },
+  "2023-latif-generative-emotional-ai-speech": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2023-rehman-selective-deeply-supervised-multi": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2023-qayyum-dental-caries-detection-semi": {
+    "themes": [
+      "ai",
+      "ml"
+    ],
+    "tags": [
+      "computer-vision",
+      "machine-learning"
+    ]
+  },
+  "2023-tabassum-pathway-prosocial-ai-xr": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2023-alkaeed-visualaid-assistive-system-visually": {
+    "themes": [
+      "ai",
+      "ml"
+    ],
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "tags": [
+      "computer-vision",
+      "machine-learning"
+    ],
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2023-hoseiny-deep-reinforcement-learning-autonomous": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2023-basyoni-ai-generated-content-metaverse": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2023-ali-chatgpt-large-language-models": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2023-almaliki-defending-emotional-privacy-adversarial": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2022-bashir-arabic-natural-language-processing": {
+    "themes": [
+      "ml"
+    ],
+    "remove_themes": [
+      "ihsan-ethics"
+    ],
+    "remove_tags": [
+      "islamic-ethics",
+      "responsible-ai"
+    ]
+  },
+  "2022-zubair-secure-bluetooth-communication-smart": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2022-ahsan-active-learning-method-diabetic": {
+    "themes": [
+      "ai",
+      "ml"
+    ],
+    "tags": [
+      "computer-vision",
+      "machine-learning"
+    ]
+  },
+  "2022-zoha-editorial-research-topic-ai": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2022-ammara-smart-cities-through-perspective": {
+    "themes": [
+      "multiplexity"
+    ],
+    "tags": [
+      "multiplexity"
+    ]
+  },
+  "2022-ilahi-challenges-countermeasures-adversarial-attacks": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2022-hussain-jamming-detection-iot-wireless": {
+    "themes": [
+      "ai-security"
+    ],
+    "tags": [
+      "security-privacy"
+    ],
+    "remove_tags": [
+      "computer-vision",
+      "responsible-ai"
+    ]
+  },
+  "2021-rasheed-generative-model-synthesize-eeg": {
+    "themes": [
+      "ai",
+      "ml"
+    ],
+    "tags": [
+      "machine-learning"
+    ]
+  },
+  "2021-shahroz-digital-contact-tracing-applications": {
+    "themes": [
+      "health-psychology"
+    ],
+    "tags": [
+      "healthcare"
+    ]
+  },
+  "2021-merabet-intelligent-building-control-systems": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2021-zulfiqar-ethreview-ethereum-product-review": {
+    "remove_tags": [
+      "survey-review"
+    ]
+  },
+  "2021-ammara-lens-systems-thinking-model": {
+    "remove_themes": [
+      "health-psychology"
+    ],
+    "remove_tags": [
+      "healthcare"
+    ]
+  },
+  "2020-qadir-spiritual-excellence-ihsan-professionals": {
+    "remove_themes": [
+      "ai-ethics"
+    ],
+    "remove_tags": [
+      "ai-ethics"
+    ]
+  },
+  "2020-qayyum-securing-machine-learning-ml": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2020-latif-leveraging-data-science-combat": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2020-aman-maximizing-secrecy-rate-ofdm": {
+    "remove_themes": [
+      "ml"
+    ],
+    "tags": [
+      "security-privacy"
+    ],
+    "remove_tags": [
+      "speech-audio"
+    ]
+  },
+  "2020-qadir-student-primer-thrive-engineering": {
+    "remove_themes": [
+      "health-psychology"
+    ],
+    "remove_tags": [
+      "healthcare"
+    ]
+  },
+  "2020-usman-retrospective-motion-correction-multishot": {
+    "remove_themes": [
+      "ai-security",
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "adversarial-ml",
+      "networking"
+    ]
+  },
+  "2020-irteza-remote-learning-networking-education": {
+    "remove_themes": [
+      "health-psychology"
+    ],
+    "remove_tags": [
+      "healthcare"
+    ]
+  },
+  "2020-iqbal-teaching-continuity-electrical-computer": {
+    "remove_themes": [
+      "health-psychology"
+    ],
+    "remove_tags": [
+      "healthcare"
+    ]
+  },
+  "2020-farooq-utilizing-loss-tolerance-bandwidth": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "remove_themes": [
+      "ai-security"
+    ],
+    "tags": [
+      "networking"
+    ],
+    "remove_tags": [
+      "security-privacy"
+    ]
+  },
+  "2019-iqbal-five-decades-acm-special": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "tags": [
+      "networking"
+    ]
+  },
+  "2019-qadir-sustainable-development-viewed-lens": {
+    "remove_themes": [
+      "education",
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "education",
+      "ict4d"
+    ]
+  },
+  "2019-qolomany-leveraging-machine-learning-big": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "ict4d"
+    ]
+  },
+  "2019-usama-unsupervised-machine-learning-networking": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "tags": [
+      "networking"
+    ]
+  },
+  "2019-elbes-phase-shift-fingerprints-inertial": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "remove_themes": [
+      "sustainability"
+    ],
+    "tags": [
+      "networking"
+    ],
+    "remove_tags": [
+      "smart-cities-sustainability"
+    ]
+  },
+  "2019-iqbal-bibliometric-analysis-publications-computer": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "tags": [
+      "networking"
+    ]
+  },
+  "2019-latif-unsupervised-adversarial-domain-adaptation": {
+    "remove_themes": [
+      "ai-security"
+    ],
+    "remove_tags": [
+      "adversarial-ml"
+    ]
+  },
+  "2019-usama-black-box-adversarial-machine": {
+    "remove_themes": [
+      "sustainability"
+    ],
+    "remove_tags": [
+      "smart-cities-sustainability"
+    ]
+  },
+  "2018-qadir-ends-development-islam-seven": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "ict4d"
+    ]
+  },
+  "2018-qadir-islamic-worldview-development-ideals": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "ict4d"
+    ]
+  },
+  "2018-latif-phonocardiographic-sensing-deep-learning": {
+    "themes": [
+      "health-psychology"
+    ],
+    "tags": [
+      "healthcare"
+    ]
+  },
+  "2018-aman-impersonation-detection-line-sight": {
+    "themes": [
+      "ai-security"
+    ],
+    "tags": [
+      "machine-learning",
+      "security-privacy"
+    ],
+    "remove_tags": [
+      "computer-vision",
+      "speech-audio"
+    ]
+  },
+  "2018-saleh-shedding-light-dark-corners": {
+    "themes": [
+      "ai-security"
+    ],
+    "tags": [
+      "security-privacy"
+    ]
+  },
+  "2018-javed-community-detection-networks-multidisciplinary": {
+    "remove_tags": [
+      "computer-vision"
+    ]
+  },
+  "2018-shafqat-big-data-analytics-enhanced": {
+    "remove_tags": [
+      "networking"
+    ]
+  },
+  "2018-latif-automating-motion-correction-multishot": {
+    "remove_themes": [
+      "ai-security",
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "adversarial-ml",
+      "networking"
+    ]
+  },
+  "2017-latif-5g-wireless-concomitant-technologies": {
+    "remove_themes": [
+      "sustainability"
+    ],
+    "remove_tags": [
+      "smart-cities-sustainability"
+    ]
+  },
+  "2017-latif-artificial-intelligence-enabler-cognitive": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2017-hassan-universal-access-5g-networks": {
+    "remove_themes": [
+      "health-psychology"
+    ],
+    "remove_tags": [
+      "psychology"
+    ]
+  },
+  "2016-raza-route-selection-multi-hop": {
+    "remove_themes": [
+      "health-psychology"
+    ],
+    "remove_tags": [
+      "psychology"
+    ]
+  },
+  "2016-bilal-analysis-critical-features-evaluation": {
+    "remove_themes": [
+      "networks-ict4d"
+    ],
+    "remove_tags": [
+      "ict4d"
+    ]
+  },
+  "2016-iqbal-admission-criteria-pakistani-universities": {
+    "themes": [
+      "education"
+    ],
+    "tags": [
+      "education"
+    ]
+  },
+  "2015-qadir-ieee-access-special-section": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "tags": [
+      "networking"
+    ],
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2015-qadir-artificial-intelligence-cognitive-routing": {
+    "remove_tags": [
+      "responsible-ai"
+    ]
+  },
+  "2015-qadir-applying-formal-methods-networking": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "tags": [
+      "networking"
+    ]
+  },
+  "2013-farooq-game-theoretic-spectrum-allocation": {
+    "remove_themes": [
+      "sustainability"
+    ],
+    "remove_tags": [
+      "smart-cities-sustainability"
+    ]
+  },
+  "2012-mir-unified-channel-assignment-unicast": {
+    "remove_themes": [
+      "sustainability"
+    ],
+    "remove_tags": [
+      "smart-cities-sustainability"
+    ]
+  },
+  "2009-ahmad-prediction-channel-zapping-latency": {
+    "themes": [
+      "networks-ict4d"
+    ],
+    "tags": [
+      "networking"
+    ]
+  },
+  "2018-qayyum-quran-reciter-identification-deep": {
+    "remove_themes": [
+      "ihsan-ethics"
+    ],
+    "remove_tags": [
+      "islamic-ethics"
+    ]
   }
 }

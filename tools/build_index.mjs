@@ -20,7 +20,7 @@ const featuredList = rd("data/featured.json", []); // extra featured slugs (besi
 const venueFixes = rd("data/venue_fixes.json", {});
 const accessNotes = rd("data/access_notes.json", {}); // { slug: "why no PDF is hosted / how to get a copy" }
 const curated = rd("data/curated_themes.json", {}); // { theme: [slug,...] } hand-picked theme membership (e.g. multiplexity)
-const overrides = rd("data/overrides.json", {}); // { slug: { tags:[], themes:[], featured:bool, note, doi } }
+const overrides = rd("data/overrides.json", {}); // { slug: { tags:[], themes:[], remove_tags:[], remove_themes:[], featured:bool, note, doi } }
 const fetchErrors = rd("data/fetch_errors.json", {});
 
 const norm = (t) => (t || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
@@ -111,8 +111,8 @@ const out = entries.map((e) => {
     status: e.status === "published" ? "final" : e.status,
     awards: e.awards,
     best_paper_award: e.awards.some((a) => /best paper/i.test(a)),
-    tags: [...new Set([...(ov.tags || []), ...tags])],
-    themes: [...new Set([...(ov.themes || []), ...Object.entries(curated).filter(([k, v]) => !k.startsWith("_") && v.includes(e.slug)).map(([k]) => k), ...themes])],
+    tags: [...new Set([...(ov.tags || []), ...tags])].filter((x) => !(ov.remove_tags || []).includes(x)),
+    themes: [...new Set([...(ov.themes || []), ...Object.entries(curated).filter(([k, v]) => !k.startsWith("_") && v.includes(e.slug)).map(([k]) => k), ...themes])].filter((x) => !(ov.remove_themes || []).includes(x)),
     featured: ov.featured ?? featuredList.includes(e.slug),
     access_note: accessNotes[e.slug] || null,
     preprint_url: preprintLinks[e.slug]?.url || null,

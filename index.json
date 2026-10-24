@@ -285,7 +285,7 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai"
+      "generative-ai"
     ],
     "themes": [
       "ai"
@@ -406,16 +406,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "ai-safety",
-      "responsible-ai",
       "security-privacy",
       "networking",
       "survey-review"
     ],
     "themes": [
       "ai-security",
-      "ai",
-      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -626,7 +622,7 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
+      "machine-learning",
       "healthcare"
     ],
     "themes": [
@@ -667,7 +663,6 @@
     "best_paper_award": false,
     "tags": [
       "generative-ai",
-      "responsible-ai",
       "education",
       "speech-audio"
     ],
@@ -709,7 +704,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "education"
     ],
     "themes": [
@@ -868,11 +862,13 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "education",
       "responsible-ai",
       "multiplexity",
       "islamic-ethics"
     ],
     "themes": [
+      "education",
       "multiplexity",
       "ai",
       "ihsan-ethics"
@@ -912,14 +908,12 @@
     "tags": [
       "responsible-ai",
       "education",
-      "islamic-ethics",
-      "ict4d"
+      "islamic-ethics"
     ],
     "themes": [
       "ai",
       "education",
-      "ihsan-ethics",
-      "networks-ict4d"
+      "ihsan-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -1428,15 +1422,13 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "networking",
       "adversarial-ml",
-      "ai-safety",
-      "security-privacy",
-      "computer-vision"
+      "security-privacy"
     ],
     "themes": [
       "ai",
-      "ai-security",
-      "ml"
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -1567,13 +1559,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "adversarial-ml",
       "healthcare",
       "computer-vision"
     ],
     "themes": [
       "ai",
-      "ai-security",
       "health-psychology",
       "ml"
     ],
@@ -1708,9 +1698,7 @@
     "best_paper_award": false,
     "tags": [
       "generative-ai",
-      "responsible-ai",
-      "healthcare",
-      "computer-vision"
+      "healthcare"
     ],
     "themes": [
       "ai",
@@ -1917,9 +1905,13 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "machine-learning",
+      "speech-audio",
       "psychology"
     ],
     "themes": [
+      "ai",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -2005,10 +1997,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "healthcare",
       "speech-audio",
       "networking"
     ],
     "themes": [
+      "health-psychology",
       "ml",
       "networks-ict4d"
     ],
@@ -2289,12 +2283,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "security-privacy",
-      "ai-governance"
+      "security-privacy"
     ],
     "themes": [
-      "ai-security",
-      "ai-ethics"
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -2330,7 +2322,9 @@
     "tags": [
       "security-privacy"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -2796,6 +2790,7 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "security-privacy",
       "networking"
     ],
     "themes": [
@@ -2836,7 +2831,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "computer-vision",
       "networking"
     ],
     "themes": [
@@ -3212,13 +3206,11 @@
     "best_paper_award": false,
     "tags": [
       "islamic-ethics",
-      "ai-ethics",
-      "computer-vision"
+      "ai-ethics"
     ],
     "themes": [
       "ihsan-ethics",
-      "ai-ethics",
-      "ml"
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -3336,7 +3328,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "psychology",
       "speech-audio"
     ],
@@ -3509,13 +3500,11 @@
     "best_paper_award": false,
     "tags": [
       "healthcare",
-      "computer-vision",
-      "networking"
+      "computer-vision"
     ],
     "themes": [
       "health-psychology",
-      "ml",
-      "networks-ict4d"
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -3727,9 +3716,13 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "computer-vision",
+      "machine-learning",
       "healthcare"
     ],
     "themes": [
+      "ai",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -3810,13 +3803,11 @@
       "responsible-ai",
       "ai-ethics",
       "ai-governance",
-      "metaverse-xr",
-      "networking"
+      "metaverse-xr"
     ],
     "themes": [
       "ai",
-      "ai-ethics",
-      "networks-ict4d"
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -3851,10 +3842,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "networking"
+      "computer-vision",
+      "machine-learning"
     ],
     "themes": [
-      "networks-ict4d"
+      "ai",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -3889,14 +3882,12 @@
     "best_paper_award": false,
     "tags": [
       "adversarial-ml",
-      "reinforcement-learning",
-      "networking"
+      "reinforcement-learning"
     ],
     "themes": [
       "ai",
       "ai-security",
-      "ml",
-      "networks-ict4d"
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -3930,12 +3921,10 @@
     "best_paper_award": false,
     "tags": [
       "responsible-ai",
-      "metaverse-xr",
-      "networking"
+      "metaverse-xr"
     ],
     "themes": [
-      "ai",
-      "networks-ict4d"
+      "ai"
     ],
     "featured": false,
     "access_note": null,
@@ -3974,14 +3963,12 @@
       "generative-ai",
       "responsible-ai",
       "security-privacy",
-      "healthcare",
-      "networking"
+      "healthcare"
     ],
     "themes": [
       "ai",
       "ai-security",
-      "health-psychology",
-      "networks-ict4d"
+      "health-psychology"
     ],
     "featured": false,
     "access_note": null,
@@ -4189,15 +4176,13 @@
       "adversarial-ml",
       "machine-learning",
       "security-privacy",
-      "psychology",
-      "networking"
+      "psychology"
     ],
     "themes": [
       "ai",
       "ai-security",
       "ml",
-      "health-psychology",
-      "networks-ict4d"
+      "health-psychology"
     ],
     "featured": false,
     "access_note": null,
@@ -4402,13 +4387,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
-      "islamic-ethics",
       "survey-review"
     ],
     "themes": [
-      "ai",
-      "ihsan-ethics"
+      "ml",
+      "ai"
     ],
     "featured": false,
     "access_note": null,
@@ -4447,7 +4430,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "security-privacy",
       "healthcare",
       "networking"
@@ -4794,9 +4776,13 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "computer-vision",
+      "machine-learning",
       "healthcare"
     ],
     "themes": [
+      "ai",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -4873,7 +4859,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "networking"
     ],
     "themes": [
@@ -4914,9 +4899,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "multiplexity",
       "smart-cities-sustainability"
     ],
     "themes": [
+      "multiplexity",
       "sustainability"
     ],
     "featured": false,
@@ -5262,8 +5249,7 @@
     "best_paper_award": false,
     "tags": [
       "adversarial-ml",
-      "reinforcement-learning",
-      "responsible-ai"
+      "reinforcement-learning"
     ],
     "themes": [
       "ai",
@@ -5303,11 +5289,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
-      "computer-vision",
+      "security-privacy",
       "networking"
     ],
     "themes": [
+      "ai-security",
       "ai",
       "ml",
       "networks-ict4d"
@@ -5383,9 +5369,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "machine-learning",
       "healthcare"
     ],
     "themes": [
+      "ai",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -5508,9 +5497,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "healthcare",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "health-psychology"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -5588,7 +5580,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "smart-cities-sustainability",
       "survey-review"
     ],
@@ -5759,8 +5750,7 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "security-privacy",
-      "survey-review"
+      "security-privacy"
     ],
     "themes": [
       "ai-security"
@@ -6064,13 +6054,11 @@
     "best_paper_award": false,
     "tags": [
       "education",
-      "multiplexity",
-      "healthcare"
+      "multiplexity"
     ],
     "themes": [
       "education",
-      "multiplexity",
-      "health-psychology"
+      "multiplexity"
     ],
     "featured": false,
     "access_note": null,
@@ -6190,12 +6178,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
-      "ai-ethics"
+      "islamic-ethics"
     ],
     "themes": [
-      "ihsan-ethics",
-      "ai-ethics"
+      "ihsan-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -6277,7 +6263,6 @@
     "best_paper_award": false,
     "tags": [
       "machine-learning",
-      "responsible-ai",
       "security-privacy",
       "survey-review"
     ],
@@ -6326,7 +6311,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "healthcare",
       "survey-review"
     ],
@@ -6369,11 +6353,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "speech-audio",
+      "security-privacy",
       "networking"
     ],
     "themes": [
-      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -6407,12 +6390,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "education",
-      "healthcare"
+      "education"
     ],
     "themes": [
-      "education",
-      "health-psychology"
+      "education"
     ],
     "featured": false,
     "access_note": null,
@@ -6528,7 +6509,8 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -6564,17 +6546,13 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "adversarial-ml",
       "healthcare",
-      "computer-vision",
-      "networking"
+      "computer-vision"
     ],
     "themes": [
       "ai",
-      "ai-security",
       "health-psychology",
-      "ml",
-      "networks-ict4d"
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -7027,12 +7005,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "education",
-      "healthcare"
+      "education"
     ],
     "themes": [
-      "education",
-      "health-psychology"
+      "education"
     ],
     "featured": false,
     "access_note": null,
@@ -7070,12 +7046,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "education",
-      "healthcare"
+      "education"
     ],
     "themes": [
-      "education",
-      "health-psychology"
+      "education"
     ],
     "featured": false,
     "access_note": null,
@@ -7111,11 +7085,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "security-privacy",
+      "networking",
       "smart-cities-sustainability"
     ],
     "themes": [
-      "ai-security",
+      "networks-ict4d",
       "sustainability"
     ],
     "featured": false,
@@ -7487,9 +7461,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "networking",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7561,16 +7538,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "education",
       "islamic-ethics",
-      "smart-cities-sustainability",
-      "ict4d"
+      "smart-cities-sustainability"
     ],
     "themes": [
-      "education",
       "ihsan-ethics",
-      "sustainability",
-      "networks-ict4d"
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -7610,14 +7583,12 @@
     "tags": [
       "machine-learning",
       "smart-cities-sustainability",
-      "ict4d",
       "survey-review"
     ],
     "themes": [
       "ai",
       "ml",
-      "sustainability",
-      "networks-ict4d"
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -7698,9 +7669,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "networking",
       "machine-learning"
     ],
     "themes": [
+      "networks-ict4d",
       "ai",
       "ml"
     ],
@@ -7736,10 +7709,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "smart-cities-sustainability"
+      "networking"
     ],
     "themes": [
-      "sustainability"
+      "networks-ict4d"
     ],
     "featured": false,
     "access_note": null,
@@ -7855,9 +7828,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "networking",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7972,13 +7948,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "adversarial-ml",
       "psychology",
       "speech-audio"
     ],
     "themes": [
       "ai",
-      "ai-security",
       "health-psychology",
       "ml"
     ],
@@ -8225,15 +8199,13 @@
       "adversarial-ml",
       "machine-learning",
       "security-privacy",
-      "networking",
-      "smart-cities-sustainability"
+      "networking"
     ],
     "themes": [
       "ai",
       "ai-security",
       "ml",
-      "networks-ict4d",
-      "sustainability"
+      "networks-ict4d"
     ],
     "featured": false,
     "access_note": null,
@@ -8428,12 +8400,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
-      "ict4d"
+      "islamic-ethics"
     ],
     "themes": [
-      "ihsan-ethics",
-      "networks-ict4d"
+      "ihsan-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -8465,12 +8435,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "islamic-ethics",
-      "ict4d"
+      "islamic-ethics"
     ],
     "themes": [
-      "ihsan-ethics",
-      "networks-ict4d"
+      "ihsan-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -8589,9 +8557,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "healthcare",
       "machine-learning"
     ],
     "themes": [
+      "health-psychology",
       "ai",
       "ml"
     ],
@@ -8667,11 +8637,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "speech-audio",
-      "computer-vision",
+      "machine-learning",
+      "security-privacy",
       "networking"
     ],
     "themes": [
+      "ai-security",
       "ml",
       "networks-ict4d"
     ],
@@ -8786,10 +8757,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "security-privacy",
       "networking",
       "survey-review"
     ],
     "themes": [
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -8826,7 +8799,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "computer-vision",
       "networking",
       "survey-review"
     ],
@@ -8910,7 +8882,6 @@
     "best_paper_award": false,
     "tags": [
       "healthcare",
-      "networking",
       "survey-review"
     ],
     "themes": [
@@ -9068,17 +9039,13 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "adversarial-ml",
       "healthcare",
-      "computer-vision",
-      "networking"
+      "computer-vision"
     ],
     "themes": [
       "ai",
-      "ai-security",
       "health-psychology",
-      "ml",
-      "networks-ict4d"
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -9195,13 +9162,11 @@
     "best_paper_award": true,
     "tags": [
       "machine-learning",
-      "islamic-ethics",
       "speech-audio"
     ],
     "themes": [
       "ai",
-      "ml",
-      "ihsan-ethics"
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -9614,13 +9579,11 @@
     "tags": [
       "healthcare",
       "networking",
-      "smart-cities-sustainability",
       "ict4d"
     ],
     "themes": [
       "health-psychology",
-      "networks-ict4d",
-      "sustainability"
+      "networks-ict4d"
     ],
     "featured": false,
     "access_note": null,
@@ -10099,7 +10062,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "security-privacy",
       "networking"
     ],
@@ -10346,13 +10308,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "psychology",
       "networking",
       "smart-cities-sustainability",
       "ict4d"
     ],
     "themes": [
-      "health-psychology",
       "networks-ict4d",
       "sustainability"
     ],
@@ -10629,13 +10589,11 @@
     "best_paper_award": false,
     "tags": [
       "reinforcement-learning",
-      "psychology",
       "networking"
     ],
     "themes": [
       "ai",
       "ml",
-      "health-psychology",
       "networks-ict4d"
     ],
     "featured": false,
@@ -10876,7 +10834,9 @@
     "tags": [
       "smart-cities-sustainability"
     ],
-    "themes": [],
+    "themes": [
+      "sustainability"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -10914,12 +10874,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "smart-cities-sustainability",
-      "ict4d"
+      "smart-cities-sustainability"
     ],
     "themes": [
-      "sustainability",
-      "networks-ict4d"
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -10990,8 +10948,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "education"
+    ],
+    "themes": [
+      "education"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -11184,9 +11146,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai"
+      "networking"
     ],
     "themes": [
+      "networks-ict4d",
       "ai"
     ],
     "featured": false,
@@ -11303,7 +11266,6 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "responsible-ai",
       "networking"
     ],
     "themes": [
@@ -11453,9 +11415,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "networking",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -11759,12 +11724,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "networking",
-      "smart-cities-sustainability"
+      "networking"
     ],
     "themes": [
-      "networks-ict4d",
-      "sustainability"
+      "networks-ict4d"
     ],
     "featured": false,
     "access_note": null,
@@ -11883,12 +11846,10 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
-      "networking",
-      "smart-cities-sustainability"
+      "networking"
     ],
     "themes": [
-      "networks-ict4d",
-      "sustainability"
+      "networks-ict4d"
     ],
     "featured": false,
     "access_note": null,
@@ -12244,9 +12205,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "networking",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,

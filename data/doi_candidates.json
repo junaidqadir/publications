@@ -1,6 +1,6 @@
 {
-  "BC6": {
-    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
+  "BC7": {
+    "slug": "2027-qadir-multiplex-systemics-wholeness-making",
     "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
     "year": 2027,
     "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
@@ -75,7 +75,7 @@
       }
     ]
   },
-  "C103": {
+  "C106": {
     "slug": "2026-ahmed-defeat-stitching-fragmented-file",
     "title": "DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection",
     "year": 2026,
@@ -117,8 +117,74 @@
       }
     ]
   },
-  "BC5": {
-    "slug": "2026-qadir-educating-ai-era-harnessing",
+  "C105": {
+    "slug": "2026-khan-calibration-aware-semi-supervised",
+    "title": "Calibration-Aware Semi-Supervised Fetal Head Segmentation with Boundary-Positive Contrast",
+    "year": 2026,
+    "venue": "Medical Imaging with Deep Learning (MIDL 2026), Proceedings of Machine Learning Research",
+    "status": "final",
+    "confidence": "none",
+    "best": null,
+    "others": [
+      {
+        "doi": "10.1007/s11263-024-02207-3",
+        "title": "R$$^{2}$$S100K: Road-Region Segmentation Dataset for Semi-supervised Autonomous Driving in the Wild",
+        "year": 2024,
+        "type": "journal-article",
+        "container": "International Journal of Computer Vision",
+        "publisher": "Springer Science and Business Media LLC",
+        "qadir": true,
+        "sim": 0.25,
+        "src": "crossref"
+      },
+      {
+        "doi": "10.3390/s23042346",
+        "title": "Selective Deeply Supervised Multi-Scale Attention Network for Brain Tumor Segmentation",
+        "year": 2023,
+        "type": "journal-article",
+        "container": "Sensors",
+        "publisher": "MDPI AG",
+        "qadir": true,
+        "sim": 0.18,
+        "src": "crossref"
+      }
+    ]
+  },
+  "C104": {
+    "slug": "2026-khan-keep-it-frozen-domain",
+    "title": "Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers",
+    "year": 2026,
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
+    "status": "final",
+    "confidence": "none",
+    "best": null,
+    "others": [
+      {
+        "doi": "10.2139/ssrn.6815744",
+        "title": "DamViT: A Multi-scale Vision Transformer for Damage Detection in Structural Health Analysis of Concrete Dams",
+        "year": 2026,
+        "type": "posted-content",
+        "container": "",
+        "publisher": "Elsevier BV",
+        "qadir": true,
+        "sim": 0.23,
+        "src": "crossref"
+      },
+      {
+        "doi": "10.1109/acii.2019.8925513",
+        "title": "Unsupervised Adversarial Domain Adaptation for Cross-Lingual Speech Emotion Recognition",
+        "year": 2019,
+        "type": "proceedings-article",
+        "container": "2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII)",
+        "publisher": "IEEE",
+        "qadir": true,
+        "sim": 0.18,
+        "src": "crossref"
+      }
+    ]
+  },
+  "BC6": {
+    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
     "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
     "year": 2026,
     "venue": "Taylor & Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)",
@@ -160,7 +226,7 @@
       }
     ]
   },
-  "BC4": {
+  "BC5": {
     "slug": "2026-qadir-ghazalian-project-ai-era",
     "title": "Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development",
     "year": 2026,
@@ -246,7 +312,7 @@
       }
     ]
   },
-  "C97": {
+  "C98": {
     "slug": "2025-mushtaq-llms-write-faithfully-agent",
     "title": "Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content",
     "year": 2025,

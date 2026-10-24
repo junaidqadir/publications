@@ -18,5 +18,61 @@
   "2020-qadir-student-primer-thrive-engineering": {
     "url": "https://doi.org/10.35542/osf.io/eupdm",
     "host": "EdArXiv"
+  },
+  "2025-mushtaq-llms-write-faithfully-agent": {
+    "url": "https://arxiv.org/abs/2510.24438",
+    "host": "arXiv"
+  },
+  "2026-ahmed-defeat-stitching-fragmented-file": {
+    "url": "https://arxiv.org/abs/2609.21426",
+    "host": "arXiv"
+  },
+  "2025-mushtaq-inclusive-educational-ai-auditing": {
+    "url": "https://arxiv.org/abs/2501.03259",
+    "host": "arXiv"
+  },
+  "2018-latif-automating-motion-correction-multishot": {
+    "url": "https://arxiv.org/abs/1811.09750",
+    "host": "arXiv"
+  },
+  "2017-latif-artificial-intelligence-enabler-cognitive": {
+    "url": "https://arxiv.org/abs/1702.02823",
+    "host": "arXiv"
+  },
+  "2016-qadir-resource-pooling-wireless-networks": {
+    "url": "https://arxiv.org/abs/1602.07808",
+    "host": "arXiv"
+  },
+  "2025-qadir-generative-ai-undergraduate-classrooms": {
+    "url": "https://doi.org/10.36227/techrxiv.173609986.65771022/v1",
+    "host": "TechRxiv"
+  },
+  "2023-rasool-quantum-computing-healthcare-review": {
+    "url": "https://doi.org/10.36227/techrxiv.17198702.v4",
+    "host": "TechRxiv"
+  },
+  "2023-ali-chatgpt-large-language-models": {
+    "url": "https://doi.org/10.36227/techrxiv.22579852",
+    "host": "TechRxiv"
+  },
+  "2023-almaliki-defending-emotional-privacy-adversarial": {
+    "url": "https://doi.org/10.36227/techrxiv.22817255",
+    "host": "TechRxiv"
+  },
+  "2023-ahmad-data-driven-artificial-intelligence": {
+    "url": "https://doi.org/10.35542/osf.io/zvu2n",
+    "host": "EdArXiv"
+  },
+  "2020-qadir-outcome-engineering-education-global": {
+    "url": "https://doi.org/10.35542/osf.io/rde62",
+    "host": "EdArXiv"
+  },
+  "2020-qadir-leveraging-force-formative-assessment": {
+    "url": "https://doi.org/10.35542/osf.io/a4d5q",
+    "host": "EdArXiv"
+  },
+  "2019-usama-black-box-adversarial-ml": {
+    "url": "https://doi.org/10.13140/rg.2.2.33309.67041",
+    "host": "ResearchGate"
   }
 }

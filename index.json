@@ -497,8 +497,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://arxiv.org/abs/2609.21426",
+    "preprint_host": "arXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -724,7 +724,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.4337/9781035335879.00017",
     "section": "book-chapter",
     "status": "final",
     "awards": [],
@@ -751,7 +751,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026}\n}"
+    "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026},\n  doi       = {10.4337/9781035335879.00017}\n}"
   },
   {
     "slug": "2026-qadir-educating-ai-era-harnessing",
@@ -1523,8 +1523,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://arxiv.org/abs/2510.24438",
+    "preprint_host": "arXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -1640,7 +1640,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/educon62633.2025.11016479",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -1656,15 +1656,15 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.36227/techrxiv.173609986.65771022/v1",
+    "preprint_host": "TechRxiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": "https://doi.org/10.36227/techrxiv.173609986.65771022/v1",
     "oa_status": "hostable",
-    "bibtex": "@inproceedings{qadir2025generative,\n  title     = {{Generative AI in Undergraduate Classrooms: Lessons From Implementing a Customized GPT Chatbot for Learning Enhancement}},\n  author    = {Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025}\n}"
+    "bibtex": "@inproceedings{qadir2025generative,\n  title     = {{Generative AI in Undergraduate Classrooms: Lessons From Implementing a Customized GPT Chatbot for Learning Enhancement}},\n  author    = {Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025},\n  doi       = {10.1109/educon62633.2025.11016479}\n}"
   },
   {
     "slug": "2025-mushtaq-inclusive-educational-ai-auditing",
@@ -1682,7 +1682,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/educon62633.2025.11016405",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -1700,15 +1700,15 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://arxiv.org/abs/2501.03259",
+    "preprint_host": "arXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{mushtaq2025toward,\n  title     = {{Toward Inclusive Educational AI: Auditing Frontier LLMs Through a Multiplexity Lens}},\n  author    = {Mushtaq, A. and Naeem, R. and Taj, M. I. and Ghaznavi, I. and Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025}\n}"
+    "bibtex": "@inproceedings{mushtaq2025toward,\n  title     = {{Toward Inclusive Educational AI: Auditing Frontier LLMs Through a Multiplexity Lens}},\n  author    = {Mushtaq, A. and Naeem, R. and Taj, M. I. and Ghaznavi, I. and Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025},\n  doi       = {10.1109/educon62633.2025.11016405}\n}"
   },
   {
     "slug": "2024-ullah-privacy-preserving-large-language",
@@ -1856,7 +1856,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/ojcs.2024.3462812",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -1879,7 +1879,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{shoukat2024medicine,\n  title     = {{Medicine's New Rhythm: Harnessing Acoustic Sensing via the Internet of Audio Things}},\n  author    = {Shoukat, M. and Pervez, F. and Suresh, V. and Farooq, M. U. Bin and Sindhu, M. and Qayyum, A. and Usama, M. and Girardi, A. and Latif, S. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society},\n  year      = {2024}\n}"
+    "bibtex": "@article{shoukat2024medicine,\n  title     = {{Medicine's New Rhythm: Harnessing Acoustic Sensing via the Internet of Audio Things}},\n  author    = {Shoukat, M. and Pervez, F. and Suresh, V. and Farooq, M. U. Bin and Sindhu, M. and Qayyum, A. and Usama, M. and Girardi, A. and Latif, S. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society},\n  year      = {2024},\n  doi       = {10.1109/ojcs.2024.3462812}\n}"
   },
   {
     "slug": "2024-rafique-internet-everything-meets-metaverse",
@@ -2475,7 +2475,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1016/j.teler.2024.100116",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -2492,7 +2492,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@article{gill2024modern,\n  title     = {{Modern computing: Vision and challenges}},\n  author    = {Gill, S. S. and Wu, H. and Patros, P. and Ottaviani, C. and Arora, P. and Pujol, V. C. and Haunschild, D. and Parlikad, A. K. and Cetinkaya, O. and Lutfiyya, H. and Stankovski, V. and Li, R. and Ding, Y. and Qadir, J. and Abraham, A. and Ghosh, S. K. and Song, H. H. and Sakellariou, R. and Rana, O. and Rodrigues, J. and Buyya, R.},\n  journal = {Elsevier Telematics and Informatics Reports},\n  year      = {2024}\n}"
+    "bibtex": "@article{gill2024modern,\n  title     = {{Modern computing: Vision and challenges}},\n  author    = {Gill, S. S. and Wu, H. and Patros, P. and Ottaviani, C. and Arora, P. and Pujol, V. C. and Haunschild, D. and Parlikad, A. K. and Cetinkaya, O. and Lutfiyya, H. and Stankovski, V. and Li, R. and Ding, Y. and Qadir, J. and Abraham, A. and Ghosh, S. K. and Song, H. H. and Sakellariou, R. and Rana, O. and Rodrigues, J. and Buyya, R.},\n  journal = {Elsevier Telematics and Informatics Reports},\n  year      = {2024},\n  doi       = {10.1016/j.teler.2024.100116}\n}"
   },
   {
     "slug": "2024-ali-consistent-valid-physically-realizable",
@@ -2883,7 +2883,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1007/978-981-97-2278-5_12",
     "section": "book-chapter",
     "status": "final",
     "awards": [],
@@ -2906,7 +2906,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{tabassum2024ethics,\n  title     = {{Ethics and Regulation in Metaverse: Risks, Current Approaches, and Way Forward}},\n  author    = {Tabassum, A. and Elmahjub, E. and Qadir, J.},\n  booktitle = {Springer Edited Book “Understanding the Metaverse – Applications, Challenges, and the Future (Metaverse2023)”, Editors: Gunjan Chhabra, Keshav Kaushik},\n  year      = {2024}\n}"
+    "bibtex": "@incollection{tabassum2024ethics,\n  title     = {{Ethics and Regulation in Metaverse: Risks, Current Approaches, and Way Forward}},\n  author    = {Tabassum, A. and Elmahjub, E. and Qadir, J.},\n  booktitle = {Springer Edited Book “Understanding the Metaverse – Applications, Challenges, and the Future (Metaverse2023)”, Editors: Gunjan Chhabra, Keshav Kaushik},\n  year      = {2024},\n  doi       = {10.1007/978-981-97-2278-5_12}\n}"
   },
   {
     "slug": "2023-hameed-deep-learning-multimodal-urban",
@@ -2969,7 +2969,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/tlt.2023.3314610",
     "section": "journal",
     "status": "accepted",
     "awards": [],
@@ -2985,15 +2985,15 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.35542/osf.io/zvu2n",
+    "preprint_host": "EdArXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{ahmad2023data,\n  title     = {{Data-Driven Artificial Intelligence in Education: A Comprehensive Review}},\n  author    = {Ahmad, K. and Iqbal, W. and El-Hassan, A. and Qadir, J. and Benhaddou, D. and Ayyash, M. and Al-Fuqaha, A.},\n  journal = {IEEE Transactions on Learning Technologies},\n  year      = {2023}\n}"
+    "bibtex": "@article{ahmad2023data,\n  title     = {{Data-Driven Artificial Intelligence in Education: A Comprehensive Review}},\n  author    = {Ahmad, K. and Iqbal, W. and El-Hassan, A. and Qadir, J. and Benhaddou, D. and Ayyash, M. and Al-Fuqaha, A.},\n  journal = {IEEE Transactions on Learning Technologies},\n  year      = {2023},\n  doi       = {10.1109/tlt.2023.3314610}\n}"
   },
   {
     "slug": "2023-ali-systematic-review-federated-learning",
@@ -3137,7 +3137,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1002/jee.20537",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -3161,7 +3161,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@article{johri2023generative,\n  title     = {{Generative AI and Engineering Education}},\n  author    = {Johri, A. and Katz, A. and Qadir, J. and Hingle, A.},\n  journal = {Wiley Journal of Engineering Education},\n  year      = {2023}\n}"
+    "bibtex": "@article{johri2023generative,\n  title     = {{Generative AI and Engineering Education}},\n  author    = {Johri, A. and Katz, A. and Qadir, J. and Hingle, A.},\n  journal = {Wiley Journal of Engineering Education},\n  year      = {2023},\n  doi       = {10.1002/jee.20537}\n}"
   },
   {
     "slug": "2023-latif-generative-emotional-ai-speech",
@@ -3308,7 +3308,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3390/fi15030094",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -3323,15 +3323,15 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.36227/techrxiv.17198702.v4",
+    "preprint_host": "TechRxiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": "https://doi.org/10.3390/fi15030094",
     "oa_status": "hostable",
-    "bibtex": "@article{rasool2023quantum,\n  title     = {{Quantum Computing for Healthcare: A Review}},\n  author    = {Rasool, R. U. and Ahmad, H. F. and Rafique, W. and Qayyum, A. and Qadir, J. and Anwar, Z.},\n  journal = {MDPI Future Internet},\n  year      = {2023}\n}"
+    "bibtex": "@article{rasool2023quantum,\n  title     = {{Quantum Computing for Healthcare: A Review}},\n  author    = {Rasool, R. U. and Ahmad, H. F. and Rafique, W. and Qayyum, A. and Qadir, J. and Anwar, Z.},\n  journal = {MDPI Future Internet},\n  year      = {2023},\n  doi       = {10.3390/fi15030094}\n}"
   },
   {
     "slug": "2023-rehman-selective-deeply-supervised-multi",
@@ -3812,7 +3812,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/aibthings58340.2023.10291020",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -3832,15 +3832,15 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.36227/techrxiv.22579852",
+    "preprint_host": "TechRxiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{ali2023chatgpt,\n  title     = {{ChatGPT and Large Language Models (LLMs) in Healthcare: Opportunities and Risks}},\n  author    = {Ali, H. and Qadir, J. and Alam, T. and Househ, M. and Shah, Z.},\n  booktitle = {IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things},\n  year      = {2023}\n}"
+    "bibtex": "@inproceedings{ali2023chatgpt,\n  title     = {{ChatGPT and Large Language Models (LLMs) in Healthcare: Opportunities and Risks}},\n  author    = {Ali, H. and Qadir, J. and Alam, T. and Househ, M. and Shah, Z.},\n  booktitle = {IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things},\n  year      = {2023},\n  doi       = {10.1109/aibthings58340.2023.10291020}\n}"
   },
   {
     "slug": "2023-johri-ethical-concerns-responsible-generative",
@@ -3856,7 +3856,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.21427/0t6r-fz62",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -3881,7 +3881,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{johri2023ethical,\n  title     = {{Ethical Concerns and Responsible Use of Generative Artificial Intelligence in Engineering Education}},\n  author    = {Johri, A. and Lindsay, E. and Qadir, J.},\n  booktitle = {European Society for Engineering Education SEFI Annual Conference},\n  year      = {2023}\n}"
+    "bibtex": "@inproceedings{johri2023ethical,\n  title     = {{Ethical Concerns and Responsible Use of Generative Artificial Intelligence in Engineering Education}},\n  author    = {Johri, A. and Lindsay, E. and Qadir, J.},\n  booktitle = {European Society for Engineering Education SEFI Annual Conference},\n  year      = {2023},\n  doi       = {10.21427/0t6r-fz62}\n}"
   },
   {
     "slug": "2023-nadeem-energy-aware-theft-detection",
@@ -3986,7 +3986,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3233/shti230533",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -4010,7 +4010,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.3233/shti230533",
     "oa_status": "hostable",
-    "bibtex": "@inproceedings{ali2023revolutionizing,\n  title     = {{Revolutionizing Healthcare with Foundation AI Models}},\n  author    = {Ali, H. and Qadir, J. and Alam, T. and Househ, M. and Shah, Z.},\n  booktitle = {21st International Conference on Informatics, Management and Technology in Healthcare (ICIMTH)},\n  year      = {2023}\n}"
+    "bibtex": "@inproceedings{ali2023revolutionizing,\n  title     = {{Revolutionizing Healthcare with Foundation AI Models}},\n  author    = {Ali, H. and Qadir, J. and Alam, T. and Househ, M. and Shah, Z.},\n  booktitle = {21st International Conference on Informatics, Management and Technology in Healthcare (ICIMTH)},\n  year      = {2023},\n  doi       = {10.3233/shti230533}\n}"
   },
   {
     "slug": "2023-almaliki-defending-emotional-privacy-adversarial",
@@ -4027,7 +4027,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/iwcmc58020.2023.10182780",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -4048,15 +4048,15 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.36227/techrxiv.22817255",
+    "preprint_host": "TechRxiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{almaliki2023defending,\n  title     = {{Defending Emotional Privacy with Adversarial Machine Learning for Social Good}},\n  author    = {Al-Maliki, S. and Abdallah, M. and Qadir, J. and Al-Fuqaha, A.},\n  booktitle = {International Wireless Communications \\& Mobile Computing Conference (IWCMC 2023) Security Symposium},\n  year      = {2023}\n}"
+    "bibtex": "@inproceedings{almaliki2023defending,\n  title     = {{Defending Emotional Privacy with Adversarial Machine Learning for Social Good}},\n  author    = {Al-Maliki, S. and Abdallah, M. and Qadir, J. and Al-Fuqaha, A.},\n  booktitle = {International Wireless Communications \\& Mobile Computing Conference (IWCMC 2023) Security Symposium},\n  year      = {2023},\n  doi       = {10.1109/iwcmc58020.2023.10182780}\n}"
   },
   {
     "slug": "2023-qayyum-we-revitalize-interventional-healthcare",
@@ -4714,7 +4714,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3389/frcmn.2022.959303",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -4737,7 +4737,7 @@
     "pdf_license": "cc-by",
     "oa_url": "https://doi.org/10.3389/frcmn.2022.959303",
     "oa_status": "hostable",
-    "bibtex": "@article{zoha2022editorial,\n  title     = {{Editorial for the Research Topic: AI-powered IoT for Intelligent Systems and Smart Applications}},\n  author    = {Zoha, A. and Qadir, J. and Abbasi, Q. H.},\n  journal = {Frontiers in Communications and Networks, IoT and Sensor Networks},\n  year      = {2022}\n}"
+    "bibtex": "@article{zoha2022editorial,\n  title     = {{Editorial for the Research Topic: AI-powered IoT for Intelligent Systems and Smart Applications}},\n  author    = {Zoha, A. and Qadir, J. and Abbasi, Q. H.},\n  journal = {Frontiers in Communications and Networks, IoT and Sensor Networks},\n  year      = {2022},\n  doi       = {10.3389/frcmn.2022.959303}\n}"
   },
   {
     "slug": "2022-ammara-smart-cities-through-perspective",
@@ -4755,7 +4755,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3390/systems10030077",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -4776,7 +4776,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.3390/systems10030077",
     "oa_status": "hostable",
-    "bibtex": "@article{ammara2022smart,\n  title     = {{Smart Cities Through the Perspective of Systems}},\n  author    = {Ammara, U. and Rasheed, K. and Mansoor, A. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {Multidisciplinary Digital Publishing Institute (MDPI) Systems},\n  year      = {2022}\n}"
+    "bibtex": "@article{ammara2022smart,\n  title     = {{Smart Cities Through the Perspective of Systems}},\n  author    = {Ammara, U. and Rasheed, K. and Mansoor, A. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {Multidisciplinary Digital Publishing Institute (MDPI) Systems},\n  year      = {2022},\n  doi       = {10.3390/systems10030077}\n}"
   },
   {
     "slug": "2022-rasool-security-privacy-internet-medical",
@@ -4891,7 +4891,7 @@
     "volume": "73",
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1613/jair.1.13550",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -4916,7 +4916,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@article{javed2022silos,\n  title     = {{Get out of the BAG! Silos in AI Ethics Education}},\n  author    = {Javed, T. and Nasir, O. and Borit, M. and Vanhee, L. and Zea, E. and Gupta, S. and Vinuesa, R. and Qadir, J.},\n  journal = {Journal of Artificial Intelligence Research},\n  volume    = {73},\n  year      = {2022}\n}"
+    "bibtex": "@article{javed2022silos,\n  title     = {{Get out of the BAG! Silos in AI Ethics Education}},\n  author    = {Javed, T. and Nasir, O. and Borit, M. and Vanhee, L. and Zea, E. and Gupta, S. and Vinuesa, R. and Qadir, J.},\n  journal = {Journal of Artificial Intelligence Research},\n  volume    = {73},\n  year      = {2022},\n  doi       = {10.1613/jair.1.13550}\n}"
   },
   {
     "slug": "2022-qadir-accountable-human-centered-ai",
@@ -5183,7 +5183,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3233/atde220694",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -5206,7 +5206,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.3233/atde220694",
     "oa_status": "hostable",
-    "bibtex": "@inproceedings{qadir2022holistic,\n  title     = {{A Holistic Education for the 21st Century Engineer Based on Wisdom and Multiplexity}},\n  author    = {Qadir, J.},\n  booktitle = {Proceedings of 29th International Society of Transdisciplinary Engineering (ISTE) hosted by MIT System Design and Management in Cambridge, MA, USA},\n  year      = {2022}\n}"
+    "bibtex": "@inproceedings{qadir2022holistic,\n  title     = {{A Holistic Education for the 21st Century Engineer Based on Wisdom and Multiplexity}},\n  author    = {Qadir, J.},\n  booktitle = {Proceedings of 29th International Society of Transdisciplinary Engineering (ISTE) hosted by MIT System Design and Management in Cambridge, MA, USA},\n  year      = {2022},\n  doi       = {10.3233/atde220694}\n}"
   },
   {
     "slug": "2021-rasheed-generative-model-synthesize-eeg",
@@ -5429,7 +5429,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1016/j.rser.2021.110969",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -5453,7 +5453,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{merabet2021intelligent,\n  title     = {{Intelligent Building Control Systems for Human Comfort and Efficient Energy Management: A Systematic Review of Artificial Intelligence-Assisted Techniques}},\n  author    = {Merabet, G. H. and Essaaidi, M. and Ben-Haddou, M. and Qolomany, B. and Qadir, J. and Anan, M. and Al-Fuqaha, A. and Abid, M. R. and Benhaddou, D.},\n  journal = {Elsevier Renewable and Sustainable Energy Reviews},\n  year      = {2021}\n}"
+    "bibtex": "@article{merabet2021intelligent,\n  title     = {{Intelligent Building Control Systems for Human Comfort and Efficient Energy Management: A Systematic Review of Artificial Intelligence-Assisted Techniques}},\n  author    = {Merabet, G. H. and Essaaidi, M. and Ben-Haddou, M. and Qolomany, B. and Qadir, J. and Anan, M. and Al-Fuqaha, A. and Abid, M. R. and Benhaddou, D.},\n  journal = {Elsevier Renewable and Sustainable Energy Reviews},\n  year      = {2021},\n  doi       = {10.1016/j.rser.2021.110969}\n}"
   },
   {
     "slug": "2021-haider-energy-efficient-mac-cellular",
@@ -5987,7 +5987,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/educon46332.2021.9453923",
     "section": "conference",
     "status": "final",
     "awards": [],
@@ -6011,7 +6011,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{tallal2021pedagogy,\n  title     = {{Pedagogy of Engineering Ethics: A Bibliometric and Curricular Analysis}},\n  author    = {Tallal, R. and Nasir, O. and Muntaha, S. and Qadir, J.},\n  booktitle = {IEEE EDUCON 2021},\n  year      = {2021}\n}"
+    "bibtex": "@inproceedings{tallal2021pedagogy,\n  title     = {{Pedagogy of Engineering Ethics: A Bibliometric and Curricular Analysis}},\n  author    = {Tallal, R. and Nasir, O. and Muntaha, S. and Qadir, J.},\n  booktitle = {IEEE EDUCON 2021},\n  year      = {2021},\n  doi       = {10.1109/educon46332.2021.9453923}\n}"
   },
   {
     "slug": "2020-qadir-spiritual-excellence-ihsan-professionals",
@@ -6027,7 +6027,7 @@
     "volume": null,
     "issue": null,
     "pages": "217–237",
-    "doi": null,
+    "doi": "10.1515/9783110593419-012",
     "section": "misc",
     "status": "final",
     "awards": [],
@@ -6050,7 +6050,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "unchecked",
-    "bibtex": "@misc{qadir2020spiritual,\n  title     = {{Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective}},\n  author    = {Qadir, J. and Raquib, A. and Saeed, H.},\n  howpublished = {Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter},\n  pages     = {217--237},\n  year      = {2020}\n}"
+    "bibtex": "@misc{qadir2020spiritual,\n  title     = {{Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective}},\n  author    = {Qadir, J. and Raquib, A. and Saeed, H.},\n  howpublished = {Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter},\n  pages     = {217--237},\n  year      = {2020},\n  doi       = {10.1515/9783110593419-012}\n}"
   },
   {
     "slug": "2020-ahmed-active-learning-federated-learning",
@@ -6113,7 +6113,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.3389/fdata.2020.587139",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -6139,7 +6139,7 @@
     "pdf_license": "cc-by",
     "oa_url": "https://doi.org/10.3389/fdata.2020.587139",
     "oa_status": "hostable",
-    "bibtex": "@article{qayyum2020securing,\n  title     = {{Securing Machine Learning (ML) in the Cloud: A Systematic Review of Cloud ML Security}},\n  author    = {Qayyum, A. and Ijaz, A. and Usama, M. and Iqbal, W. and Qadir, J. and Elkhatib, Y. and Al-Fuqaha, A.},\n  journal = {Frontiers in Big Data, section Machine Learning and Artificial Intelligence},\n  year      = {2020}\n}"
+    "bibtex": "@article{qayyum2020securing,\n  title     = {{Securing Machine Learning (ML) in the Cloud: A Systematic Review of Cloud ML Security}},\n  author    = {Qayyum, A. and Ijaz, A. and Usama, M. and Iqbal, W. and Qadir, J. and Elkhatib, Y. and Al-Fuqaha, A.},\n  journal = {Frontiers in Big Data, section Machine Learning and Artificial Intelligence},\n  year      = {2020},\n  doi       = {10.3389/fdata.2020.587139}\n}"
   },
   {
     "slug": "2020-latif-leveraging-data-science-combat",
@@ -6485,7 +6485,7 @@
     "volume": "15",
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/mci.2019.2954640",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -6506,7 +6506,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.1109/mci.2019.2954640",
     "oa_status": "free-to-read-link-only",
-    "bibtex": "@article{wu2020computational,\n  title     = {{Computational Intelligence for Internet of Things in the Big Data Era (Part II)}},\n  author    = {Wu, C. and Xue, G. and Li, J. and Yau, K. L. and Qadir, J.},\n  journal = {IEEE Computational Intelligence Magazine (CIM)},\n  volume    = {15},\n  year      = {2020}\n}"
+    "bibtex": "@article{wu2020computational,\n  title     = {{Computational Intelligence for Internet of Things in the Big Data Era (Part II)}},\n  author    = {Wu, C. and Xue, G. and Li, J. and Yau, K. L. and Qadir, J.},\n  journal = {IEEE Computational Intelligence Magazine (CIM)},\n  volume    = {15},\n  year      = {2020},\n  doi       = {10.1109/mci.2019.2954640}\n}"
   },
   {
     "slug": "2020-usama-adversarial-machine-learning-conundrum",
@@ -7004,8 +7004,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.35542/osf.io/rde62",
+    "preprint_host": "EdArXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -7045,8 +7045,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.35542/osf.io/a4d5q",
+    "preprint_host": "EdArXiv",
     "links": [],
     "pdf": "pdf/2020/2020-qadir-leveraging-force-formative-assessment.pdf",
     "pdf_version": "submittedVersion",
@@ -7186,7 +7186,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.52282/icr.v10i2.42",
     "section": "misc",
     "status": "accepted",
     "awards": [],
@@ -7214,7 +7214,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.52282/icr.v10i2.42",
     "oa_status": "free-to-read-link-only",
-    "bibtex": "@misc{zubair2019combating,\n  title     = {{On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition}},\n  author    = {Zubair, T. and Raquib, A. and Qadir, J.},\n  howpublished = {“Islam and Civilization Renewal,” published by IAIS, Malaysia},\n  year      = {2019}\n}"
+    "bibtex": "@misc{zubair2019combating,\n  title     = {{On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition}},\n  author    = {Zubair, T. and Raquib, A. and Qadir, J.},\n  howpublished = {“Islam and Civilization Renewal,” published by IAIS, Malaysia},\n  year      = {2019},\n  doi       = {10.52282/icr.v10i2.42}\n}"
   },
   {
     "slug": "2019-qadir-sustainable-development-viewed-lens-b",
@@ -7229,7 +7229,7 @@
     "volume": "10",
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1504/ijpee.2019.098181",
     "section": "misc",
     "status": "final",
     "awards": [],
@@ -7256,7 +7256,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@misc{qadir2019sustainableb,\n  title     = {{Sustainable Development Viewed from the Lens of Islam}},\n  author    = {Qadir, J. and Zaman, A.},\n  howpublished = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {10},\n  year      = {2019}\n}"
+    "bibtex": "@misc{qadir2019sustainableb,\n  title     = {{Sustainable Development Viewed from the Lens of Islam}},\n  author    = {Qadir, J. and Zaman, A.},\n  howpublished = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {10},\n  year      = {2019},\n  doi       = {10.1504/ijpee.2019.098181}\n}"
   },
   {
     "slug": "2019-alsarem-deep-learning-rumor-detection",
@@ -7315,7 +7315,7 @@
     "volume": "14",
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/mci.2019.2937607",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -7336,7 +7336,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.1109/mci.2019.2937607",
     "oa_status": "free-to-read-link-only",
-    "bibtex": "@article{wu2019computational,\n  title     = {{Computational Intelligence for Internet of Things in the Big Data Era (Part I)}},\n  author    = {Wu, C. and Xue, G. and Li, J. and Yau, K. L. and Qadir, J.},\n  journal = {IEEE Computational Intelligence Magazine (CIM)},\n  volume    = {14},\n  year      = {2019}\n}"
+    "bibtex": "@article{wu2019computational,\n  title     = {{Computational Intelligence for Internet of Things in the Big Data Era (Part I)}},\n  author    = {Wu, C. and Xue, G. and Li, J. and Yau, K. L. and Qadir, J.},\n  journal = {IEEE Computational Intelligence Magazine (CIM)},\n  volume    = {14},\n  year      = {2019},\n  doi       = {10.1109/mci.2019.2937607}\n}"
   },
   {
     "slug": "2019-iqbal-five-decades-acm-special",
@@ -7356,7 +7356,7 @@
     "volume": "49",
     "issue": "5",
     "pages": null,
-    "doi": null,
+    "doi": "10.1145/3371934.3371948",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -7375,7 +7375,7 @@
     "pdf_license": null,
     "oa_url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/61810",
     "oa_status": "free-to-read-link-only",
-    "bibtex": "@article{iqbal2019five,\n  title     = {{Five Decades of the ACM Special Interest Group on Data Communications (SIGCOMM): A Bibliometric Perspective}},\n  author    = {Iqbal, W. and Qadir, J. and Hassan, S. Ul and Javed, R. T. and Mian, A. N. and Crowcroft, J. and Tyson, G.},\n  journal = {ACM Computer Communications Review, (Editorial)},\n  volume    = {49},\n  number    = {5},\n  year      = {2019}\n}"
+    "bibtex": "@article{iqbal2019five,\n  title     = {{Five Decades of the ACM Special Interest Group on Data Communications (SIGCOMM): A Bibliometric Perspective}},\n  author    = {Iqbal, W. and Qadir, J. and Hassan, S. Ul and Javed, R. T. and Mian, A. N. and Crowcroft, J. and Tyson, G.},\n  journal = {ACM Computer Communications Review, (Editorial)},\n  volume    = {49},\n  number    = {5},\n  year      = {2019},\n  doi       = {10.1145/3371934.3371948}\n}"
   },
   {
     "slug": "2019-latif-caveat-emptor-risks-big",
@@ -7430,7 +7430,7 @@
     "volume": "10",
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1504/ijpee.2019.098181",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -7457,7 +7457,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{qadir2019sustainable,\n  title     = {{Sustainable Development Viewed from the Lens of Islam}},\n  author    = {Qadir, J. and Zaman, A.},\n  journal = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {10},\n  year      = {2019}\n}"
+    "bibtex": "@article{qadir2019sustainable,\n  title     = {{Sustainable Development Viewed from the Lens of Islam}},\n  author    = {Qadir, J. and Zaman, A.},\n  journal = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {10},\n  year      = {2019},\n  doi       = {10.1504/ijpee.2019.098181}\n}"
   },
   {
     "slug": "2019-qolomany-leveraging-machine-learning-big",
@@ -8014,8 +8014,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.13140/rg.2.2.33309.67041",
+    "preprint_host": "ResearchGate",
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -8721,7 +8721,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.1109/mci.2017.2773799",
     "section": "journal",
     "status": "final",
     "awards": [],
@@ -8742,7 +8742,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{editorial2018computational,\n  title     = {{Computational Intelligence For Mobile Network Optimization}},\n  author    = {Editorial, Special Issue and Qadir, J. and Hussain, A. and Yau, K. A. and Imran, M. A. and Wolisz, A.},\n  journal = {IEEE Computational Intelligence Magazine},\n  year      = {2018}\n}"
+    "bibtex": "@article{editorial2018computational,\n  title     = {{Computational Intelligence For Mobile Network Optimization}},\n  author    = {Editorial, Special Issue and Qadir, J. and Hussain, A. and Yau, K. A. and Imran, M. A. and Wolisz, A.},\n  journal = {IEEE Computational Intelligence Magazine},\n  year      = {2018},\n  doi       = {10.1109/mci.2017.2773799}\n}"
   },
   {
     "slug": "2018-shafqat-big-data-analytics-enhanced",
@@ -8934,8 +8934,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://arxiv.org/abs/1811.09750",
+    "preprint_host": "arXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -9379,7 +9379,7 @@
     "volume": null,
     "issue": null,
     "pages": null,
-    "doi": null,
+    "doi": "10.4018/978-1-5225-5270-3.ch011",
     "section": "book-chapter",
     "status": "final",
     "awards": [],
@@ -9402,7 +9402,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{latif2018mobile,\n  title     = {{Mobile Technologies for Managing Non-Communicable-Diseases in the Developing Countries}},\n  author    = {Latif, S. and Khan, M. Y. and Qayyum, A. and Qadir, J. and Usman, M. and Ali, S. M. and Abbasi, Q. H. and Imran, M. A.},\n  booktitle = {“Mobile Applications and Solutions for Social Inclusion”, IGI-Global},\n  year      = {2018}\n}"
+    "bibtex": "@incollection{latif2018mobile,\n  title     = {{Mobile Technologies for Managing Non-Communicable-Diseases in the Developing Countries}},\n  author    = {Latif, S. and Khan, M. Y. and Qayyum, A. and Qadir, J. and Usman, M. and Ali, S. M. and Abbasi, Q. H. and Imran, M. A.},\n  booktitle = {“Mobile Applications and Solutions for Social Inclusion”, IGI-Global},\n  year      = {2018},\n  doi       = {10.4018/978-1-5225-5270-3.ch011}\n}"
   },
   {
     "slug": "2017-harris-persuasive-technology-human-development",
@@ -9917,8 +9917,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://arxiv.org/abs/1702.02823",
+    "preprint_host": "arXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,
@@ -10315,8 +10315,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://arxiv.org/abs/1602.07808",
+    "preprint_host": "arXiv",
     "links": [],
     "pdf": null,
     "pdf_version": null,

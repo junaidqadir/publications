@@ -233,8 +233,8 @@ The CV is the source of truth; this archive trails it. Only legitimately shareab
 
 | CV | Year | Title | Links | Why / what to do |
 |---|---|---|---|---|
+| MI5 | 2020 | Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective |  | no DOI / not a typical archival item |
 | MI6 | 2019 | On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition |  [open copy](https://doi.org/10.52282/icr.v10i2.42) | free to read, but no open licence — linked, not hosted |
-| MI5 | 2019 | Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective |  | open copy flagged, but no direct PDF URL — see links |
 | MI4 | 2019 | Sustainable Development Viewed from the Lens of Islam |  | open copy flagged, but no direct PDF URL — see links |
 | MI3 | 2018 | The Ends of Development in Islam: Seven Overlapping Concepts |  | no DOI / not a typical archival item |
 | MI2 | 2018 | The Islamic Worldview and Development Ideals |  | open copy flagged, but no direct PDF URL — see links |

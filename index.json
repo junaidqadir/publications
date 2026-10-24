@@ -6014,6 +6014,45 @@
     "bibtex": "@inproceedings{tallal2021pedagogy,\n  title     = {{Pedagogy of Engineering Ethics: A Bibliometric and Curricular Analysis}},\n  author    = {Tallal, R. and Nasir, O. and Muntaha, S. and Qadir, J.},\n  booktitle = {IEEE EDUCON 2021},\n  year      = {2021}\n}"
   },
   {
+    "slug": "2020-qadir-spiritual-excellence-ihsan-professionals",
+    "cv_label": "MI5",
+    "title": "Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective",
+    "authors": [
+      "J. Qadir",
+      "A. Raquib",
+      "H. Saeed"
+    ],
+    "year": 2020,
+    "venue": "Handbook of Ethics of Islamic Economics and Finance (De Gruyter)",
+    "volume": null,
+    "issue": null,
+    "pages": "217–237",
+    "doi": null,
+    "section": "misc",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "islamic-ethics",
+      "ai-ethics"
+    ],
+    "themes": [
+      "ihsan-ethics",
+      "ai-ethics"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "unchecked",
+    "bibtex": "@misc{qadir2020spiritual,\n  title     = {{Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective}},\n  author    = {Qadir, J. and Raquib, A. and Saeed, H.},\n  howpublished = {Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter},\n  pages     = {217--237},\n  year      = {2020}\n}"
+  },
+  {
     "slug": "2020-ahmed-active-learning-federated-learning",
     "cv_label": "J83",
     "title": "Active Learning Based Federated Learning for Waste and Natural Disaster Image Classification",
@@ -7176,45 +7215,6 @@
     "oa_url": "https://doi.org/10.52282/icr.v10i2.42",
     "oa_status": "free-to-read-link-only",
     "bibtex": "@misc{zubair2019combating,\n  title     = {{On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition}},\n  author    = {Zubair, T. and Raquib, A. and Qadir, J.},\n  howpublished = {“Islam and Civilization Renewal,” published by IAIS, Malaysia},\n  year      = {2019}\n}"
-  },
-  {
-    "slug": "2019-qadir-spiritual-excellence-ihsan-professionals",
-    "cv_label": "MI5",
-    "title": "Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective",
-    "authors": [
-      "J. Qadir",
-      "A. Raquib",
-      "H. Saeed"
-    ],
-    "year": 2019,
-    "venue": "for inclusion in the forthcoming book Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter",
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "doi": null,
-    "section": "misc",
-    "status": "forthcoming",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [
-      "islamic-ethics",
-      "ai-ethics"
-    ],
-    "themes": [
-      "ihsan-ethics",
-      "ai-ethics"
-    ],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@misc{qadir2019spiritual,\n  title     = {{Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective}},\n  author    = {Qadir, J. and Raquib, A. and Saeed, H.},\n  howpublished = {for inclusion in the forthcoming book Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter},\n  year      = {2019}\n}"
   },
   {
     "slug": "2019-qadir-sustainable-development-viewed-lens-b",

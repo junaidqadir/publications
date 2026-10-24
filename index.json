@@ -1,5 +1,84 @@
 [
   {
+    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
+    "cv_label": "BC6",
+    "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
+    "authors": [
+      "J. Qadir",
+      "R. Senturk"
+    ],
+    "year": 2027,
+    "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "section": "book-chapter",
+    "status": "forthcoming",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "education",
+      "multiplexity",
+      "healthcare"
+    ],
+    "themes": [
+      "multiplexity",
+      "ai",
+      "education",
+      "health-psychology"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "none-found",
+    "bibtex": "@incollection{qadir2027multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2027}\n}"
+  },
+  {
+    "slug": "2026-qadir-craft-ed-framework-effective",
+    "cv_label": "J179",
+    "title": "The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity",
+    "authors": [
+      "J. Qadir"
+    ],
+    "year": 2026,
+    "venue": "IEEE Access, early access",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": "10.1109/ACCESS.2026.3718869",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "multiplexity"
+    ],
+    "themes": [
+      "multiplexity",
+      "ai"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "unchecked",
+    "bibtex": "@article{qadir2026craft,\n  title     = {{The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity}},\n  author    = {Qadir, J.},\n  journal = {IEEE Access, early access},\n  year      = {2026},\n  doi       = {10.1109/ACCESS.2026.3718869}\n}"
+  },
+  {
     "slug": "2026-khan-surgical-scene-understanding-era",
     "cv_label": "J178",
     "title": "Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review",
@@ -12245,47 +12324,5 @@
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2006minimum,\n  title     = {{Minimum Latency Broadcasting in Multi-Radio Multi-Channel Multi-Rate Wireless Meshes}},\n  author    = {Qadir, J. and Misra, A. and Chou, C. T.},\n  booktitle = {IEEE Sensor and Ad Hoc Communications and Networks (SECON), Virginia, USA},\n  pages     = {80--89},\n  year      = {2006},\n  doi       = {10.1109/SAHCN.2006.288412}\n}"
-  },
-  {
-    "slug": "nd-qadir-multiplex-systemics-wholeness-making",
-    "cv_label": "BC6",
-    "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
-    "authors": [
-      "J. Qadir",
-      "R. Senturk"
-    ],
-    "year": null,
-    "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "doi": null,
-    "section": "book-chapter",
-    "status": "forthcoming",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [
-      "responsible-ai",
-      "education",
-      "multiplexity",
-      "healthcare"
-    ],
-    "themes": [
-      "ai",
-      "education",
-      "multiplexity",
-      "health-psychology"
-    ],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
-    "bibtex": "@incollection{qadirmultiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier}\n}"
   }
 ]

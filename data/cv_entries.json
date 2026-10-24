@@ -2,6 +2,28 @@
   {
     "code": "J",
     "section": "journal",
+    "number": 179,
+    "cv_label": "J179",
+    "title": "The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity",
+    "authors": [
+      "J. Qadir"
+    ],
+    "venue": "IEEE Access, early access",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": "10.1109/ACCESS.2026.3718869",
+    "arxiv": null,
+    "links": [],
+    "status": "published",
+    "awards": [],
+    "plain": "J. Qadir, “The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity”, IEEE Access, early access, 2026. Impact Factor (2024) 3.6. .",
+    "slug": "2026-qadir-craft-ed-framework-effective"
+  },
+  {
+    "code": "J",
+    "section": "journal",
     "number": 178,
     "cv_label": "J178",
     "title": "Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review",
@@ -7443,7 +7465,7 @@
       "R. Senturk"
     ],
     "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
-    "year": null,
+    "year": 2027,
     "volume": null,
     "issue": null,
     "pages": null,
@@ -7452,8 +7474,8 @@
     "links": [],
     "status": "forthcoming",
     "awards": [],
-    "plain": "“Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology,” J. Qadir and R. Senturk, in AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier, forthcoming.",
-    "slug": "nd-qadir-multiplex-systemics-wholeness-making"
+    "plain": "“Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology,” J. Qadir and R. Senturk, in AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier, forthcoming, 2027.",
+    "slug": "2026-qadir-multiplex-systemics-wholeness-making"
   },
   {
     "code": "BC",

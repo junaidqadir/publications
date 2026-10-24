@@ -9,9 +9,12 @@
 // and what must stay a link-out. Nothing here bypasses paywalls, logins or bot checks.
 //
 //   node tools/find_oa.mjs [--refresh] [--only SLUG]
+//   node tools/find_oa.mjs --retry-flagged   re-query Semantic Scholar, Crossref and OpenAlex for entries with
+//                                            status 'oa-flagged-no-pdf-url' and merge anything new into oa.json
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { UA, sleep, tfetch, strikes, tripped, polite, getJson, norm, similarity, isCC, score, statusOf, mergeCandidates } from "./lib/oa_common.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const entries = JSON.parse(readFileSync(join(root, "data", "cv_entries.json"), "utf8"));
@@ -20,54 +23,8 @@ const overridesPath = join(root, "data", "overrides.json"); // hand-curated: { s
 const results = existsSync(outPath) ? JSON.parse(readFileSync(outPath, "utf8")) : {};
 const overrides = existsSync(overridesPath) ? JSON.parse(readFileSync(overridesPath, "utf8")) : {};
 const refresh = process.argv.includes("--refresh");
+const retryFlagged = process.argv.includes("--retry-flagged");
 const only = process.argv.includes("--only") ? process.argv[process.argv.indexOf("--only") + 1] : null;
-
-const UA = "junaidqadir-publications-archive/1.0 (+https://github.com/junaidqadir/publications)";
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-const tfetch = (url, opts = {}) => fetch(url, { ...opts, signal: AbortSignal.timeout(15000) });
-// Circuit breaker: a source that keeps rate-limiting us is skipped for the rest of the run.
-const strikes = {};
-const tripped = (host) => (strikes[host] || 0) >= 3;
-let lastCall = {};
-async function polite(host, gapMs) {
-  const wait = (lastCall[host] || 0) + gapMs - Date.now();
-  if (wait > 0) await sleep(wait);
-  lastCall[host] = Date.now();
-}
-
-async function getJson(url, host, gapMs, tries = 4) {
-  if (tripped(host)) return null;
-  for (let i = 0; i < tries; i++) {
-    await polite(host, gapMs);
-    try {
-      const res = await tfetch(url, { headers: { "User-Agent": UA, Accept: "application/json" } });
-      if (res.status === 429 || res.status === 402 || res.status === 403 || res.status >= 500) {
-        strikes[host] = (strikes[host] || 0) + 1;
-        if (tripped(host)) { console.log(`  [${host}] rate-limited/blocked — skipping this source from now on`); return null; }
-        await sleep(1500 * 2 ** i);
-        continue;
-      }
-      if (!res.ok) return { _status: res.status };
-      return await res.json();
-    } catch {
-      await sleep(1500 * 2 ** i);
-    }
-  }
-  return null;
-}
-
-const norm = (t) => (t || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-const words = (t) => new Set(norm(t).split(" ").filter((w) => w.length > 2));
-function similarity(a, b) {
-  const A = words(a), B = words(b);
-  if (!A.size || !B.size) return 0;
-  let inter = 0;
-  for (const w of A) if (B.has(w)) inter++;
-  return inter / (A.size + B.size - inter);
-}
-
-const isCC = (lic) => /creativecommons\.org|^cc[- ]by/i.test(lic || "");
-const PREPRINT_HOSTS = /arxiv\.org|ssrn\.com|osf\.io|techrxiv\.org|zenodo\.org|researchsquare\.com|preprints\.org|hal\.science|hal\.archives-ouvertes\.fr|biorxiv\.org|medrxiv\.org/i;
 
 // ---------- sources ----------
 async function fromArxiv(e) {
@@ -127,7 +84,8 @@ async function fromCrossref(e) {
   if (!m) return out;
   const cc = (m.license || []).find((l) => isCC(l.URL));
   for (const l of m.link || []) {
-    if (/pdf/i.test(l["content-type"] || "") && cc) {
+    // Crossref often files publisher PDF links as content-type "unspecified"; fetch_pdfs.mjs still verifies the bytes.
+    if (/pdf|unspecified/i.test(l["content-type"] || "") && cc) {
       out.push({ source: "crossref-link", url: l.URL, landing: `https://doi.org/${e.doi}`, version: cc["content-version"] === "am" ? "acceptedVersion" : "publishedVersion", license: cc.URL, confidence: 0.85 });
     }
   }
@@ -174,30 +132,29 @@ async function inferDoi(e) {
   return { ...best, needs_review: best.similarity < 0.9, preprint_dois: preprints };
 }
 
-// ---------- ranking ----------
-function score(c) {
-  let s = c.confidence || 0;
-  if (c.url) s += 0.5;
-  if (/arxiv/i.test(c.source) || /arxiv\.org/.test(c.url || "")) s += 0.6;
-  else if (isCC(c.license)) s += 0.5;
-  else if (PREPRINT_HOSTS.test(c.url || "")) s += 0.4;
-  return s;
-}
-
-function hostable(c) {
-  if (!c.url) return false;
-  if (/arxiv\.org/.test(c.url)) return true; // author-posted preprint
-  if (isCC(c.license)) return true; // open licence permits redistribution
-  if (PREPRINT_HOSTS.test(c.url)) return true; // author-deposited preprint servers
-  return false;
-}
-
 // ---------- main ----------
-const todo = entries.filter((e) => (only ? e.slug === only : refresh || !results[e.slug]));
+const todo = entries.filter((e) =>
+  retryFlagged ? results[e.slug]?.status === "oa-flagged-no-pdf-url" && (!only || e.slug === only)
+    : only ? e.slug === only : refresh || !results[e.slug]);
 console.log(`Discovering OA for ${todo.length} of ${entries.length} entries`);
 let n = 0;
 for (const e of todo) {
   n++;
+  if (retryFlagged) {
+    // Only the keyless JSON APIs; candidates from other passes (e.g. Europe PMC) are kept and merged.
+    const rec = results[e.slug];
+    const doi = e.doi || rec.doi_inferred?.doi;
+    if (!doi) continue;
+    const fresh = [];
+    for (const f of [fromSemanticScholar, fromCrossref, fromOpenAlex]) {
+      try { fresh.push(...(await f({ ...e, doi }))); } catch {}
+    }
+    const added = mergeCandidates(rec, fresh);
+    rec.retried_at = new Date().toISOString().slice(0, 10);
+    writeFileSync(outPath, JSON.stringify(results, null, 2) + "\n");
+    if (added || n % 10 === 0 || n === todo.length) console.log(`  ${n}/${todo.length}  ${e.cv_label}: +${added} candidate(s) -> ${rec.status}`);
+    continue;
+  }
   let cands = [];
   if (overrides[e.slug]?.url) {
     const o = overrides[e.slug];
@@ -229,9 +186,7 @@ for (const e of todo) {
   }).sort((a, b) => score(b) - score(a));
 
   const best = cands.find((c) => c.url) || null;
-  const status = !best
-    ? cands.length ? "oa-flagged-no-pdf-url" : "none-found"
-    : hostable(best) ? "hostable" : "free-to-read-link-only";
+  const status = statusOf(cands);
   results[e.slug] = { cv_label: e.cv_label, title: e.title, doi: e.doi, ...(inferred ? { doi_inferred: inferred } : {}), status, best, candidates: cands.slice(0, 6), checked_at: new Date().toISOString().slice(0, 10) };
   writeFileSync(outPath, JSON.stringify(results, null, 2) + "\n");
   if (n % 10 === 0 || n === todo.length) console.log(`  ${n}/${todo.length}  (last: ${e.cv_label} -> ${status})`);

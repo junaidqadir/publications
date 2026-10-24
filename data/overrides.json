@@ -25,5 +25,159 @@
   },
   "2025-qadir-multiplex-health-integrating-complexity": {
     "featured": true
+  },
+  "2024-qadir-learning-101-reloaded-revisiting": {
+    "tags": [
+      "generative-ai",
+      "education"
+    ],
+    "themes": [
+      "ai",
+      "education"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Title says 'GenAI'; the rule only matches 'generative ai'."
+  },
+  "2024-bukhari-secure-storage-crypto-wallet": {
+    "tags": [
+      "security-privacy"
+    ],
+    "themes": [],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2024-gill-modern-computing-vision-challenges": {
+    "tags": [
+      "survey-review"
+    ],
+    "themes": [],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Vision/challenges overview of computing paradigms."
+  },
+  "2021-mcquistin-characterising-ietf-through-lens": {
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2020-yau-smart-port-infrastructures-enhancing": {
+    "tags": [
+      "networking",
+      "smart-cities-sustainability"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2020-tabatabai-opportunistic-selection-vehicular-data": {
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2019-yau-maritime-networking-bringing-internet": {
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2019-mohammad-opportunistic-data-ferrying-areas": {
+    "tags": [
+      "networking",
+      "ict4d"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Connectivity in areas with limited infrastructure."
+  },
+  "2018-pervez-memory-user-centric-backhaul": {
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Cellular user association / backhaul."
+  },
+  "2018-qayyum-exploring-media-bias-toxicity": {
+    "tags": [
+      "machine-learning",
+      "responsible-ai"
+    ],
+    "themes": [
+      "ai"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Media bias and toxicity analysis."
+  },
+  "2017-qadir-learning-101-untaught-basics": {
+    "tags": [
+      "education"
+    ],
+    "themes": [
+      "education"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2017-elkhatib-micro-clouds-deliver-fog": {
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Fog/micro-cloud computing."
+  },
+  "2017-latif-deep-autoencoders-facial-expression": {
+    "tags": [
+      "machine-learning",
+      "computer-vision"
+    ],
+    "themes": [
+      "ai"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2016-amin-comparing-oversampling-techniques-handle": {
+    "tags": [
+      "machine-learning"
+    ],
+    "themes": [
+      "ai"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm."
+  },
+  "2016-bilal-big-data-architecture-construction": {
+    "tags": [
+      "smart-cities-sustainability"
+    ],
+    "themes": [],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. Construction waste analytics (sustainability)."
+  },
+  "2016-qadir-taming-limits-approximate-networking": {
+    "tags": [
+      "networking",
+      "smart-cities-sustainability"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. LIMITS = Computing within Limits workshop."
+  },
+  "2014-faran-performance-analysis-802-11": {
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
+    "note": "Tags proposed 2026-10-24: no keyword rule in build_index.mjs matched the title/venue; chosen from title and venue, please confirm. IEEE 802.11 MAC analysis."
   }
 }

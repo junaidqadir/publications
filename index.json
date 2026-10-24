@@ -162,8 +162,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "oa_url": "https://doi.org/10.3390/app16126241",
+    "oa_status": "hostable",
     "bibtex": "@article{dribi2026real,\n  title     = {{Real-Time Traffic Management in Smart Cities: A Systematic Literature Review of Application Paradigms, Control Architectures, and Implementation Barriers}},\n  author    = {Dribi, A. and Essaaidi, M. and Merabet, G. H. and Qadir, J. and Benhaddou, D.},\n  journal = {MDPI Applied Sciences},\n  volume    = {16},\n  number    = {12},\n  year      = {2026},\n  doi       = {10.3390/app16126241}\n}"
   },
   {
@@ -209,8 +209,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "oa_url": "https://doi.org/10.1145/3815159",
+    "oa_status": "hostable",
     "bibtex": "@article{machlovi2026multi,\n  title     = {{A Multi-Perspective Benchmark Dataset and Moderation Model for LLM Safety Evaluation with Adversarial Robustness Analysis}},\n  author    = {Machlovi, N. and Saleki, M. and Amin, R. and Rahouti, M. and Al-Maliki, S. and Qadir, J. and Abdallah, M. M. and Al-Fuqaha, A.},\n  journal = {ACM Transactions on Social Computing},\n  volume    = {9},\n  number    = {2},\n  pages     = {1--32},\n  year      = {2026},\n  doi       = {10.1145/3815159}\n}"
   },
   {
@@ -290,11 +290,11 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "pdf": "pdf/2026/2026-moustafa-generative-ai-learning-teaching.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "oa_url": "https://doi.org/10.1109/access.2026.3651864",
+    "oa_status": "hostable",
     "bibtex": "@article{moustafa2026generative,\n  title     = {{Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations}},\n  author    = {Moustafa, A. and Hamad, M. and Qureshi, M. A. and Qadir, J.},\n  journal = {IEEE Access},\n  volume    = {14},\n  pages     = {7379--7395},\n  year      = {2026},\n  doi       = {10.1109/access.2026.3651864}\n}"
   },
   {
@@ -418,11 +418,11 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "pdf": "pdf/2026/2026-qayyum-generative-ai-driven-metaverse.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "oa_url": "https://doi.org/10.1109/ojcs.2025.3616501",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2026generative,\n  title     = {{Generative AI-Driven Metaverse: The Promises and Challenges of AI-Generated Content}},\n  author    = {Qayyum, A. and Basyoni, L. and Shaban, K. and Elmahjub, E. and Al-Ali, A. and Halabi, O. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society},\n  volume    = {7},\n  pages     = {49--68},\n  year      = {2026},\n  doi       = {10.1109/ojcs.2025.3616501}\n}"
   },
   {
@@ -459,11 +459,11 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "pdf": "pdf/2026/2026-qayyum-llm-driven-multi-agent.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "oa_url": "https://doi.org/10.1109/mnet.2025.3605319",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2026driven,\n  title     = {{LLM-Driven Multi-Agent Architectures for Intelligent Self-Organizing Networks}},\n  author    = {Qayyum, A. and Albaseer, A. and Qadir, J. and Al-Fuqaha, A. and Abdallah, M.},\n  journal = {IEEE Network},\n  volume    = {40},\n  number    = {4},\n  pages     = {258--267},\n  year      = {2026},\n  doi       = {10.1109/mnet.2025.3605319}\n}"
   },
   {
@@ -868,11 +868,11 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "pdf": "pdf/2025/2025-arshad-adversarial-attacks-person-image.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "oa_url": "https://doi.org/10.1109/ojcs.2025.3637052",
+    "oa_status": "hostable",
     "bibtex": "@article{arshad2025adversarial,\n  title     = {{Adversarial Attacks on Person Image Synthesis: Leveraging Pose and Appearance Controls in Denoising Diffusion Models}},\n  author    = {Arshad, N. and Qureshi, H. K. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society},\n  volume    = {6},\n  pages     = {1934--1945},\n  year      = {2025},\n  doi       = {10.1109/ojcs.2025.3637052}\n}"
   },
   {
@@ -1160,9 +1160,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2025/2025-solaiman-true-lifecycle-approach-governing.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
     "oa_url": "https://doi.org/10.1038/s41746-025-01614-1",
     "oa_status": "hostable",
     "bibtex": "@article{solaiman2025true,\n  title     = {{A `True Lifecycle Approach' towards Governing Healthcare-AI with the GCC as a Global Governance Model}},\n  author    = {Solaiman, B. and Mekki, Y. and Ghaly, M. and Qadir, J. and Abdelkareem, M and Alansari, A},\n  journal = {npj Digital Medicine},\n  volume    = {8},\n  number    = {1},\n  year      = {2025},\n  doi       = {10.1038/s41746-025-01614-1}\n}"
@@ -1254,9 +1254,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2025/2025-mekki-digital-twins-era-personalized.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
     "oa_url": "https://doi.org/10.1038/s41746-025-01575-5",
     "oa_status": "hostable",
     "bibtex": "@article{mekki2025digital,\n  title     = {{Digital Twins for the Era of Personalized Surgery}},\n  author    = {Mekki, Y. M. and Luijten, G. and Hagert, E. and Belkhair, S. and Varghese, C. and Qadir, J. and Solaiman, B. and Bilal, M. and Dhanda, J. and Egger, J. and Deng, J. and Khanduja, V. and Frangi, A. and Zughaier, S. and Stotland, M.},\n  journal = {npj Digital Medicine},\n  volume    = {8},\n  number    = {1},\n  year      = {2025},\n  doi       = {10.1038/s41746-025-01575-5}\n}"
@@ -1295,11 +1295,11 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "pdf": "pdf/2025/2025-mekki-medical-education-metaverses-meded.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "oa_url": "https://doi.org/10.1109/mc.2024.3474033",
+    "oa_status": "hostable",
     "bibtex": "@article{mekki2025medical,\n  title     = {{Medical Education Metaverses (MedEd Metaverses): Opportunities, Use Case, and Guidelines}},\n  author    = {Mekki, Y. and Leslie, S. and William, F. and Qadir, J.},\n  journal = {IEEE Computer},\n  volume    = {58},\n  number    = {3},\n  pages     = {60--70},\n  year      = {2025},\n  doi       = {10.1109/mc.2024.3474033}\n}"
   },
   {
@@ -1482,9 +1482,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2025/2025-qayyum-robust-multi-label-surgical.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0",
     "oa_url": "https://doi.org/10.1038/s41598-024-82351-5",
     "oa_status": "hostable",
     "bibtex": "@article{qayyum2025robust,\n  title     = {{Robust Multi-Label Surgical Tool Classification in Noisy Endoscopic Videos}},\n  author    = {Qayyum, A. and Ali, H. and Caputo, M. and Vohra, H. and Akinosho, T. and Abioye, S. and Berrou, I. and Capik, P. and Qadir, J. and Bilal, M.},\n  journal = {Nature Scientific Reports},\n  volume    = {15},\n  number    = {1},\n  year      = {2025},\n  doi       = {10.1038/s41598-024-82351-5}\n}"
@@ -1874,11 +1874,11 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "pdf": "pdf/2024/2024-shoukat-medicine-s-new-rhythm.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "oa_url": "https://doi.org/10.1109/ojcs.2024.3462812",
+    "oa_status": "hostable",
     "bibtex": "@article{shoukat2024medicine,\n  title     = {{Medicine's New Rhythm: Harnessing Acoustic Sensing via the Internet of Audio Things}},\n  author    = {Shoukat, M. and Pervez, F. and Suresh, V. and Farooq, M. U. Bin and Sindhu, M. and Qayyum, A. and Usama, M. and Girardi, A. and Latif, S. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society},\n  year      = {2024},\n  doi       = {10.1109/ojcs.2024.3462812}\n}"
   },
   {
@@ -2106,8 +2106,14 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "generative-ai",
+      "education"
+    ],
+    "themes": [
+      "ai",
+      "education"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -2178,7 +2184,9 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
+    "tags": [
+      "security-privacy"
+    ],
     "themes": [],
     "featured": false,
     "access_note": null,
@@ -2480,7 +2488,9 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
+    "tags": [
+      "survey-review"
+    ],
     "themes": [],
     "featured": false,
     "access_note": null,
@@ -2944,9 +2954,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2023/2023-hameed-deep-learning-multimodal-urban.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0",
     "oa_url": "https://doi.org/10.1038/s41598-023-49296-7",
     "oa_status": "hostable",
     "bibtex": "@article{hameed2023deep,\n  title     = {{Deep Learning Based Multimodal Urban Air Quality Prediction and Traffic Analytics}},\n  author    = {Hameed, S. and Islam, A. and Ahmad, K. and Belhaouari, S. Brahim and Qadir, J. and Al-Fuqaha, A.},\n  journal = {Nature Scientific Reports},\n  volume    = {13},\n  number    = {1},\n  year      = {2023},\n  doi       = {10.1038/s41598-023-49296-7}\n}"
@@ -3412,9 +3422,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2023/2023-maayah-limitaccess-device-tinyml-robust.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0",
     "oa_url": "https://doi.org/10.1007/s44163-023-00051-x",
     "oa_status": "hostable",
     "bibtex": "@article{maayah2023limitaccess,\n  title     = {{LimitAccess: On-device TinyML Based Robust Speech Recognition and Age Classification}},\n  author    = {Maayah, M. and Abunada, A. and Al-Janahi, K. and Ahmed, M. E. and Qadir, J.},\n  journal = {Springer Nature Discover AI Journal},\n  volume    = {3},\n  number    = {1},\n  year      = {2023},\n  doi       = {10.1007/s44163-023-00051-x}\n}"
@@ -3584,9 +3594,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2023/2023-qayyum-dental-caries-detection-semi.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0",
     "oa_url": "https://doi.org/10.1038/s41598-023-27808-9",
     "oa_status": "hostable",
     "bibtex": "@article{qayyum2023dental,\n  title     = {{Dental Caries Detection using a Semi-Supervised Learning Approach}},\n  author    = {Qayyum, A. and Tahir, A. and Butt, M. A. and Luke, A. and Abbas, H. T. and Qadir, J. and Arshad, K. and Assaleh, K. and Imran, M. A. and Abbasi, Q. H.},\n  journal = {Nature Scientific Reports},\n  volume    = {13},\n  number    = {1},\n  year      = {2023},\n  doi       = {10.1038/s41598-023-27808-9}\n}"
@@ -4262,9 +4272,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2022/2022-bashir-arabic-natural-language-processing.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0",
     "oa_url": "https://doi.org/10.1007/s10462-022-10313-2",
     "oa_status": "hostable",
     "bibtex": "@article{bashir2022arabic,\n  title     = {{Arabic Natural Language Processing for Qur'anic Research: A Systematic Review}},\n  author    = {Bashir, M. H. and Azmi, A. M. and Nawaz, H. and Zaghouani, W. and Diab, M. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {Springer Artificial Intelligence Review},\n  volume    = {56},\n  number    = {7},\n  pages     = {6801--6854},\n  year      = {2022},\n  doi       = {10.1007/s10462-022-10313-2}\n}"
@@ -4693,9 +4703,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2022/2022-raquib-islamic-virtue-ethics-artificial.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0",
     "oa_url": "https://doi.org/10.1007/s44163-022-00028-2",
     "oa_status": "hostable",
     "bibtex": "@article{raquib2022islamic,\n  title     = {{Islamic Virtue-Based Ethics for Artificial Intelligence}},\n  author    = {Raquib, A. and Channa, B. and Zubair, T. and Qadir, J.},\n  journal = {Springer Discover AI Journal},\n  volume    = {2},\n  year      = {2022},\n  doi       = {10.1007/s44163-022-00028-2}\n}"
@@ -5872,8 +5882,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -6267,8 +6281,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
+    "oa_url": "https://doi.org/10.3390/educsci10090236",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2020student,\n  title     = {{A Student Primer on How to Thrive in Engineering Education During and Beyond COVID-19}},\n  author    = {Qadir, J. and Al-Fuqaha, A.},\n  journal = {MDPI Education Sciences, Special Issue on COVID-2019 Impacts on Education Systems and Future of Higher Education},\n  volume    = {10},\n  number    = {9},\n  year      = {2020},\n  doi       = {10.3390/educsci10090236}\n}"
   },
   {
@@ -6366,8 +6380,13 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking",
+      "smart-cities-sustainability"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7113,8 +7132,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7650,8 +7673,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7885,8 +7912,13 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking",
+      "ict4d"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -8610,8 +8642,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -8805,8 +8841,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "education"
+    ],
+    "themes": [
+      "education"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": "https://ssrn.com/abstract=2916505",
@@ -8882,9 +8922,11 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "machine-learning",
       "responsible-ai"
     ],
     "themes": [
+      "ai",
       "ai-ethics"
     ],
     "featured": false,
@@ -9678,8 +9720,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -9946,8 +9992,13 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "machine-learning",
+      "computer-vision"
+    ],
+    "themes": [
+      "ai"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -10239,9 +10290,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2016/2016-qadir-crisis-analytics-big-data.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "http://creativecommons.org/licenses/by/4.0",
     "oa_url": "https://doi.org/10.1186/s41018-016-0013-9",
     "oa_status": "hostable",
     "bibtex": "@article{qadir2016crisis,\n  title     = {{Crisis Analytics: Big Data Driven Crisis Response}},\n  author    = {Qadir, J. and Ali, A. and Rasool, R. and Zwitter, A. and Sathiaseelan, A. and Crowcroft, J.},\n  journal = {Journal of International Humanitarian Action, pages 1–12},\n  year      = {2016},\n  doi       = {10.1186/s41018-016-0013-9}\n}"
@@ -10390,8 +10441,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "machine-learning"
+    ],
+    "themes": [
+      "ai"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -10680,9 +10735,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2016/2016-ali-big-data-development-applications.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "https://doi.org/10.1186/s41044-016-0002-4",
     "oa_status": "hostable",
     "bibtex": "@article{ali2016data,\n  title     = {{Big Data For Development: Applications and Techniques}},\n  author    = {Ali, Anwaar and Qadir, J. and Rasool, R. and Sathiaseelan, A. and Zwitter, A.},\n  journal = {Springer Nature/ BioMed Central's Big Data Analytics Journal (BDAN)},\n  volume    = {1},\n  number    = {1},\n  year      = {2016},\n  doi       = {10.1186/s41044-016-0002-4}\n}"
@@ -10712,7 +10767,9 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
+    "tags": [
+      "smart-cities-sustainability"
+    ],
     "themes": [],
     "featured": false,
     "access_note": null,
@@ -10978,8 +11035,13 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking",
+      "smart-cities-sustainability"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -11472,8 +11534,12 @@
     "status": "final",
     "awards": [],
     "best_paper_award": false,
-    "tags": [],
-    "themes": [],
+    "tags": [
+      "networking"
+    ],
+    "themes": [
+      "networks-ict4d"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,

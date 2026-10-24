@@ -4387,10 +4387,12 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "islamic-ethics",
       "survey-review"
     ],
     "themes": [
       "ml",
+      "ihsan-ethics",
       "ai"
     ],
     "featured": false,
@@ -9161,10 +9163,12 @@
     ],
     "best_paper_award": true,
     "tags": [
+      "islamic-ethics",
       "machine-learning",
       "speech-audio"
     ],
     "themes": [
+      "ihsan-ethics",
       "ai",
       "ml"
     ],

@@ -388,14 +388,14 @@
   },
   "2022-bashir-arabic-natural-language-processing": {
     "themes": [
-      "ml"
-    ],
-    "remove_themes": [
+      "ml",
       "ihsan-ethics"
     ],
     "remove_tags": [
-      "islamic-ethics",
       "responsible-ai"
+    ],
+    "tags": [
+      "islamic-ethics"
     ]
   },
   "2022-zubair-secure-bluetooth-communication-smart": {
@@ -786,10 +786,10 @@
     ]
   },
   "2018-qayyum-quran-reciter-identification-deep": {
-    "remove_themes": [
+    "themes": [
       "ihsan-ethics"
     ],
-    "remove_tags": [
+    "tags": [
       "islamic-ethics"
     ]
   }

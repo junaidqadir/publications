@@ -33,6 +33,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -72,7 +73,9 @@
       "smart-cities-sustainability",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "sustainability"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -111,10 +114,12 @@
     "best_paper_award": false,
     "tags": [
       "generative-ai",
-      "adversarial-ml"
+      "adversarial-ml",
+      "ai-safety"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -155,7 +160,8 @@
       "responsible-ai"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -197,6 +203,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -238,7 +245,8 @@
     ],
     "themes": [
       "multiplexity",
-      "ai"
+      "ai",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -272,13 +280,16 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "ai-safety",
       "responsible-ai",
       "security-privacy",
       "networking",
       "survey-review"
     ],
     "themes": [
+      "ai-security",
       "ai",
+      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -322,7 +333,8 @@
       "metaverse-xr"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -403,7 +415,9 @@
     "tags": [
       "security-privacy"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -444,6 +458,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -486,7 +501,9 @@
     ],
     "themes": [
       "ai",
-      "education"
+      "ai-ethics",
+      "education",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -526,6 +543,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -565,6 +583,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -604,6 +623,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education",
       "health-psychology"
     ],
@@ -646,6 +666,7 @@
     "themes": [
       "multiplexity",
       "ai",
+      "ai-ethics",
       "education",
       "ihsan-ethics"
     ],
@@ -688,6 +709,7 @@
     "themes": [
       "multiplexity",
       "ai",
+      "ai-ethics",
       "education",
       "health-psychology"
     ],
@@ -729,6 +751,7 @@
     "themes": [
       "multiplexity",
       "ai",
+      "ai-ethics",
       "ihsan-ethics"
     ],
     "featured": false,
@@ -769,6 +792,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education",
       "ihsan-ethics",
       "networks-ict4d"
@@ -809,7 +833,9 @@
       "computer-vision"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -890,7 +916,9 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -932,6 +960,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -973,7 +1002,9 @@
       "speech-audio",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "ml"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -1051,7 +1082,8 @@
       "machine-learning"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -1095,6 +1127,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -1139,7 +1172,8 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -1270,11 +1304,14 @@
     "best_paper_award": false,
     "tags": [
       "adversarial-ml",
+      "ai-safety",
       "security-privacy",
       "computer-vision"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -1317,7 +1354,8 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -1363,6 +1401,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -1410,7 +1449,9 @@
     ],
     "themes": [
       "ai",
-      "health-psychology"
+      "ai-security",
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -1507,7 +1548,9 @@
     ],
     "themes": [
       "ai",
-      "health-psychology"
+      "ai-ethics",
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -1587,6 +1630,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -1631,6 +1675,7 @@
     "themes": [
       "multiplexity",
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -1674,7 +1719,8 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -1754,6 +1800,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -1799,6 +1846,7 @@
       "networking"
     ],
     "themes": [
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -1838,6 +1886,7 @@
       "survey-review"
     ],
     "themes": [
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -1882,7 +1931,9 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -1924,6 +1975,8 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -1963,7 +2016,9 @@
     "tags": [
       "computer-vision"
     ],
-    "themes": [],
+    "themes": [
+      "ml"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -2000,7 +2055,9 @@
       "metaverse-xr",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -2066,7 +2123,9 @@
     "tags": [
       "security-privacy"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -2221,7 +2280,10 @@
       "responsible-ai"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -2305,6 +2367,7 @@
       "survey-review"
     ],
     "themes": [
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -2436,7 +2499,8 @@
       "adversarial-ml"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -2478,7 +2542,9 @@
     ],
     "themes": [
       "ai",
-      "networks-ict4d"
+      "ml",
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -2557,6 +2623,7 @@
       "networking"
     ],
     "themes": [
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -2597,12 +2664,15 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "ai-safety",
       "responsible-ai",
       "metaverse-xr",
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai-security",
+      "ai",
+      "ai-ethics"
     ],
     "featured": true,
     "access_note": null,
@@ -2640,6 +2710,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": true,
@@ -2679,6 +2750,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -2718,6 +2790,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -2764,6 +2837,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -2802,7 +2876,9 @@
       "ai-governance",
       "metaverse-xr"
     ],
-    "themes": [],
+    "themes": [
+      "ai-ethics"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -2842,7 +2918,9 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -2886,6 +2964,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -2928,7 +3007,9 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -2966,7 +3047,9 @@
       "computer-vision"
     ],
     "themes": [
-      "ihsan-ethics"
+      "ihsan-ethics",
+      "ai-ethics",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -3008,7 +3091,8 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -3049,6 +3133,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": true,
@@ -3089,7 +3174,9 @@
     ],
     "themes": [
       "ai",
-      "health-psychology"
+      "ai-ethics",
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -3175,6 +3262,8 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
+      "ai-security",
       "health-psychology"
     ],
     "featured": false,
@@ -3259,6 +3348,7 @@
     ],
     "themes": [
       "health-psychology",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -3300,7 +3390,10 @@
       "speech-audio"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ai-ethics",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -3342,6 +3435,8 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
+      "sustainability",
       "networks-ict4d"
     ],
     "featured": false,
@@ -3378,13 +3473,17 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "ai-safety",
       "machine-learning",
       "responsible-ai",
       "security-privacy",
       "psychology"
     ],
     "themes": [
+      "ai-security",
       "ai",
+      "ml",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -3422,7 +3521,9 @@
       "smart-cities-sustainability",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "sustainability"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -3507,7 +3608,8 @@
       "survey-review"
     ],
     "themes": [
-      "health-psychology"
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -3551,6 +3653,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "health-psychology"
     ],
     "featured": true,
@@ -3593,6 +3697,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -3671,6 +3776,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -3710,6 +3817,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -3754,6 +3862,8 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
+      "ai-security",
       "health-psychology",
       "networks-ict4d"
     ],
@@ -3795,6 +3905,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -3835,7 +3946,8 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -3880,6 +3992,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -3922,6 +4035,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -3965,6 +4079,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "health-psychology",
       "networks-ict4d"
     ],
@@ -4011,6 +4127,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -4050,6 +4167,8 @@
     ],
     "themes": [
       "ai",
+      "ml",
+      "ai-ethics",
       "education"
     ],
     "featured": true,
@@ -4131,7 +4250,8 @@
       "computer-vision"
     ],
     "themes": [
-      "health-psychology"
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -4175,6 +4295,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "ihsan-ethics"
     ],
     "featured": false,
@@ -4221,6 +4342,8 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
+      "ai-security",
       "health-psychology",
       "networks-ict4d"
     ],
@@ -4259,6 +4382,7 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "ai-safety",
       "machine-learning",
       "responsible-ai",
       "ai-ethics",
@@ -4266,7 +4390,10 @@
       "survey-review"
     ],
     "themes": [
+      "ai-security",
       "ai",
+      "ml",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -4306,7 +4433,9 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -4347,7 +4476,9 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -4388,6 +4519,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -4428,7 +4561,9 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -4469,7 +4604,8 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -4511,6 +4647,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -4590,6 +4727,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "ihsan-ethics"
     ],
     "featured": false,
@@ -4629,6 +4767,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -4667,7 +4806,9 @@
     "tags": [
       "smart-cities-sustainability"
     ],
-    "themes": [],
+    "themes": [
+      "sustainability"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -4711,6 +4852,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "health-psychology",
       "networks-ict4d"
     ],
@@ -4803,6 +4946,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "education"
     ],
     "featured": false,
@@ -4842,7 +4986,8 @@
       "ai-governance"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -4886,7 +5031,10 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics",
+      "ai-security",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -4926,7 +5074,9 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -5007,7 +5157,10 @@
       "responsible-ai"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -5048,6 +5201,8 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -5207,7 +5362,8 @@
       "security-privacy"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -5330,7 +5486,9 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -5371,7 +5529,9 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "networks-ict4d"
+      "ai-ethics",
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -5454,6 +5614,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -5496,7 +5658,9 @@
       "security-privacy",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -5538,6 +5702,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -5580,7 +5746,9 @@
     ],
     "themes": [
       "ai",
-      "networks-ict4d"
+      "ml",
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -5620,7 +5788,8 @@
       "speech-audio"
     ],
     "themes": [
-      "health-psychology"
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -5665,6 +5834,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "health-psychology"
     ],
     "featured": false,
@@ -5789,6 +5959,8 @@
     ],
     "themes": [
       "ai",
+      "ml",
+      "ai-security",
       "health-psychology"
     ],
     "featured": false,
@@ -5829,7 +6001,8 @@
       "survey-review"
     ],
     "themes": [
-      "education"
+      "education",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -5870,7 +6043,9 @@
       "computer-vision"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -5914,7 +6089,10 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml",
+      "ai-ethics",
+      "ai-security"
     ],
     "featured": false,
     "access_note": null,
@@ -5962,6 +6140,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "health-psychology"
     ],
     "featured": false,
@@ -6003,6 +6182,7 @@
       "networking"
     ],
     "themes": [
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -6195,7 +6375,9 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
       "health-psychology",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -6237,7 +6419,9 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": true,
     "access_note": null,
@@ -6318,6 +6502,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -6358,7 +6544,9 @@
       "speech-audio"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -6438,6 +6626,7 @@
       "multiplexity"
     ],
     "themes": [
+      "ai-security",
       "multiplexity"
     ],
     "featured": false,
@@ -6524,7 +6713,10 @@
     ],
     "themes": [
       "ai",
-      "networks-ict4d"
+      "ai-security",
+      "ml",
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -6565,6 +6757,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -6603,7 +6796,8 @@
       "computer-vision"
     ],
     "themes": [
-      "health-psychology"
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -6724,7 +6918,10 @@
       "security-privacy",
       "smart-cities-sustainability"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security",
+      "sustainability"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -6925,6 +7122,8 @@
     ],
     "themes": [
       "ai",
+      "ml",
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -6966,7 +7165,10 @@
     ],
     "themes": [
       "ai",
-      "ihsan-ethics"
+      "ml",
+      "ai-security",
+      "ihsan-ethics",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -7004,7 +7206,8 @@
       "ai-ethics"
     ],
     "themes": [
-      "ihsan-ethics"
+      "ihsan-ethics",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -7045,6 +7248,7 @@
     "themes": [
       "education",
       "ihsan-ethics",
+      "sustainability",
       "networks-ict4d"
     ],
     "featured": false,
@@ -7085,7 +7289,8 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -7244,6 +7449,7 @@
     "themes": [
       "education",
       "ihsan-ethics",
+      "sustainability",
       "networks-ict4d"
     ],
     "featured": false,
@@ -7289,6 +7495,8 @@
     ],
     "themes": [
       "ai",
+      "ml",
+      "sustainability",
       "networks-ict4d"
     ],
     "featured": false,
@@ -7330,7 +7538,9 @@
     "tags": [
       "security-privacy"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7371,7 +7581,8 @@
       "machine-learning"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -7407,7 +7618,9 @@
     "tags": [
       "smart-cities-sustainability"
     ],
-    "themes": [],
+    "themes": [
+      "sustainability"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7479,7 +7692,9 @@
     "tags": [
       "security-privacy"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -7598,6 +7813,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -7638,7 +7854,9 @@
     ],
     "themes": [
       "ai",
-      "health-psychology"
+      "ai-security",
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -7712,7 +7930,9 @@
       "machine-learning"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -7753,6 +7973,8 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -7791,7 +8013,9 @@
       "machine-learning"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -7833,6 +8057,7 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -7876,7 +8101,10 @@
     ],
     "themes": [
       "ai",
-      "networks-ict4d"
+      "ai-security",
+      "ml",
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -7995,7 +8223,9 @@
       "machine-learning"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-security",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -8190,6 +8420,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -8228,7 +8459,8 @@
       "machine-learning"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -8307,6 +8539,7 @@
       "networking"
     ],
     "themes": [
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -8461,6 +8694,7 @@
       "survey-review"
     ],
     "themes": [
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -8660,7 +8894,9 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
       "health-psychology",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -8702,7 +8938,8 @@
     ],
     "themes": [
       "ihsan-ethics",
-      "health-psychology"
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -8741,7 +8978,8 @@
     ],
     "themes": [
       "education",
-      "ihsan-ethics"
+      "ihsan-ethics",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -8783,6 +9021,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "ihsan-ethics"
     ],
     "featured": false,
@@ -8861,6 +9100,7 @@
     ],
     "themes": [
       "ai",
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -8900,7 +9140,8 @@
       "speech-audio"
     ],
     "themes": [
-      "health-psychology"
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -8940,7 +9181,8 @@
       "speech-audio"
     ],
     "themes": [
-      "health-psychology"
+      "health-psychology",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -9023,7 +9265,8 @@
       "ict4d"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -9071,7 +9314,9 @@
     "tags": [
       "smart-cities-sustainability"
     ],
-    "themes": [],
+    "themes": [
+      "sustainability"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -9195,7 +9440,8 @@
     ],
     "themes": [
       "health-psychology",
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -9237,7 +9483,8 @@
       "ict4d"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -9509,7 +9756,8 @@
       "machine-learning"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml"
     ],
     "featured": false,
     "access_note": null,
@@ -9550,7 +9798,9 @@
       "survey-review"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ml",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -9665,6 +9915,8 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -9745,7 +9997,8 @@
       "ict4d"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -9823,6 +10076,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -9905,7 +10159,8 @@
     ],
     "themes": [
       "health-psychology",
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -10020,7 +10275,8 @@
       "ict4d"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -10099,7 +10355,9 @@
       "security-privacy",
       "survey-review"
     ],
-    "themes": [],
+    "themes": [
+      "ai-security"
+    ],
     "featured": false,
     "access_note": null,
     "preprint_url": null,
@@ -10219,6 +10477,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "health-psychology",
       "networks-ict4d"
     ],
@@ -10378,6 +10637,7 @@
     ],
     "themes": [
       "ai",
+      "ml",
       "networks-ict4d"
     ],
     "featured": false,
@@ -10499,6 +10759,7 @@
       "ict4d"
     ],
     "themes": [
+      "sustainability",
       "networks-ict4d"
     ],
     "featured": false,
@@ -10766,7 +11027,8 @@
       "responsible-ai"
     ],
     "themes": [
-      "ai"
+      "ai",
+      "ai-ethics"
     ],
     "featured": false,
     "access_note": null,
@@ -10808,6 +11070,8 @@
     ],
     "themes": [
       "ai",
+      "ml",
+      "ai-security",
       "networks-ict4d"
     ],
     "featured": false,
@@ -10885,6 +11149,7 @@
     ],
     "themes": [
       "ai",
+      "ai-ethics",
       "networks-ict4d"
     ],
     "featured": false,
@@ -11340,7 +11605,8 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,
@@ -11465,7 +11731,8 @@
       "smart-cities-sustainability"
     ],
     "themes": [
-      "networks-ict4d"
+      "networks-ict4d",
+      "sustainability"
     ],
     "featured": false,
     "access_note": null,

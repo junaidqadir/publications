@@ -1311,5 +1311,31 @@
     "verified": "title",
     "title_match": 1,
     "fetched_at": "2026-10-24"
+  },
+  "2024-qadir-learning-101-reloaded-revisiting": {
+    "path": "pdf/2024/2024-qadir-learning-101-reloaded-revisiting.pdf",
+    "bytes": 785855,
+    "sha256": "62bf61ab4cf53315a23c6441d19d0b3bd637c7e97ebfd48898c071e25796e3e7",
+    "source": "author",
+    "url": "author manuscript supplied by the author",
+    "landing": "https://doi.org/10.1109/mpot.2024.3405111",
+    "version": "acceptedVersion",
+    "license": "IEEE author-version posting (copyright notice on the cover page)",
+    "verified": "author",
+    "title_match": 1,
+    "fetched_at": "2026-10-25"
+  },
+  "2017-qadir-learning-101-untaught-basics": {
+    "path": "pdf/2017/2017-qadir-learning-101-untaught-basics.pdf",
+    "bytes": 110270,
+    "sha256": "a747f1ad792ad81a57a94e4756b20f55c7d8d35696c1ed7eb473959ff58bdb51",
+    "source": "ssrn",
+    "url": "https://ssrn.com/abstract=2916505",
+    "landing": "https://ssrn.com/abstract=2916505",
+    "version": "preprint",
+    "license": "IEEE author-version posting (copyright notice on the cover page)",
+    "verified": "author",
+    "title_match": 1,
+    "fetched_at": "2026-10-25"
   }
 }

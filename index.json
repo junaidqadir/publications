@@ -2750,9 +2750,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-qadir-learning-101-reloaded-revisiting.pdf",
+    "pdf_version": "acceptedVersion",
+    "pdf_license": "IEEE author-version posting (copyright notice on the cover page)",
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2024learning,\n  title     = {{Learning 101 Reloaded: Revisiting the Basics for the GenAI Era}},\n  author    = {Qadir, J.},\n  journal = {IEEE Potentials},\n  volume    = {43},\n  number    = {6},\n  pages     = {6--12},\n  year      = {2024},\n  doi       = {10.1109/mpot.2024.3405111}\n}"
@@ -9558,9 +9558,9 @@
     "links": [
       "https://ssrn.com/abstract=2916505"
     ],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2017/2017-qadir-learning-101-untaught-basics.pdf",
+    "pdf_version": "preprint",
+    "pdf_license": "IEEE author-version posting (copyright notice on the cover page)",
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2018learning,\n  title     = {{Learning 101: The Untaught Basics}},\n  author    = {Qadir, J. and Imran, M. A.},\n  journal = {(February 13},\n  volume    = {37},\n  number    = {3},\n  pages     = {33--38},\n  year      = {2018},\n  doi       = {10.1109/MPOT.2017.2749408}\n}"

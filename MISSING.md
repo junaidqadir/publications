@@ -213,8 +213,8 @@ The CV is the source of truth; this archive trails it. Only legitimately shareab
 
 | CV | Year | Title | Links | Why / what to do |
 |---|---|---|---|---|
-| BC7 | 2027 | Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology |  | not yet published (accepted/forthcoming) — add the accepted manuscript if the publisher allows |
 | BC8 | 2026 | An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom | [doi](https://doi.org/10.4337/9781035335879.00017) | open copy flagged, but no direct PDF URL — see links |
+| BC6 | 2026 | Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy |  | not yet published (accepted/forthcoming) — add the accepted manuscript if the publisher allows |
 | BC5 | 2026 | Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development |  | open copy flagged, but no direct PDF URL — see links |
 | BC4 | 2025 | Top research priorities in quantum computing | [doi](https://doi.org/10.1016/B978-0-443-29096-1.00011-8) | open copy flagged, but no direct PDF URL — see links |
 | BC3 | 2024 | Ethics and Regulation in Metaverse: Risks, Current Approaches, and Way Forward | [doi](https://doi.org/10.1007/978-981-97-2278-5_12) | open copy flagged, but no direct PDF URL — see links |

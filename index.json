@@ -1,6 +1,6 @@
 [
   {
-    "slug": "2027-qadir-multiplex-systemics-wholeness-making",
+    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
     "cv_label": "BC7",
     "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
     "authors": [
@@ -24,9 +24,9 @@
       "healthcare"
     ],
     "themes": [
+      "multiplexity",
       "ai",
       "education",
-      "multiplexity",
       "health-psychology"
     ],
     "featured": false,
@@ -34,9 +34,9 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2026/2026-qadir-multiplex-systemics-wholeness-making.pdf",
+    "pdf_version": "preprint",
+    "pdf_license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
     "oa_url": null,
     "oa_status": "none-found",
     "bibtex": "@incollection{qadir2027multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2027}\n}"
@@ -1149,7 +1149,7 @@
     "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026},\n  doi       = {10.4337/9781035335879.00017}\n}"
   },
   {
-    "slug": "2026-qadir-multiplex-systemics-wholeness-making",
+    "slug": "2026-qadir-educating-ai-era-harnessing",
     "cv_label": "BC6",
     "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
     "authors": [
@@ -1167,25 +1167,27 @@
     "awards": [],
     "best_paper_award": false,
     "tags": [
+      "education",
       "responsible-ai",
       "multiplexity",
       "islamic-ethics"
     ],
     "themes": [
+      "education",
       "multiplexity",
       "ai",
       "ihsan-ethics"
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://ssrn.com/abstract=5015109",
+    "preprint_host": "SSRN",
     "links": [
       "https://ssrn.com/abstract=5015109"
     ],
-    "pdf": "pdf/2026/2026-qadir-multiplex-systemics-wholeness-making.pdf",
-    "pdf_version": "preprint",
-    "pdf_license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
     "bibtex": "@incollection{qadir2026educating,\n  title     = {{Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {Taylor \\& Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)},\n  year      = {2026}\n}"

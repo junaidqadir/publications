@@ -15,8 +15,168 @@
     "at": "2026-10-24"
   },
   "2024-zaidi-enhancing-cross-language-multimodal": {
-    "message": "HTTP 502",
+    "message": "not a PDF (landing page or login wall)",
     "url": "http://qspace.qu.edu.qa/bitstream/10576/66082/1/Enhancing_Cross-Language_Multimodal_Emotion_Recognition_With_Dual_Attention_Transformers.pdf",
+    "at": "2026-10-24"
+  },
+  "2024-rafique-internet-everything-meets-metaverse": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://figshare.com/articles/journal_contribution/Internet_of_everything_meets_the_metaverse_Bridging_physical_and_virtual_worlds_with_blockchain/27130107",
+    "at": "2026-10-24"
+  },
+  "2024-usman-intelligent-healthcare-system-iomt": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "http://qspace.qu.edu.qa/bitstream/10576/65982/1/1-s2.0-S2542660524000076-main.pdf",
+    "at": "2026-10-24"
+  },
+  "2023-hameed-deep-learning-multimodal-urban": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://www.nature.com/articles/s41598-023-49296-7.pdf",
+    "at": "2026-10-24"
+  },
+  "2023-ali-systematic-review-federated-learning": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "http://qspace.qu.edu.qa/bitstream/10576/65986/1/1-s2.0-S1574013723000606-main.pdf",
+    "at": "2026-10-24"
+  },
+  "2023-ali-con-detect-detecting-adversarially": {
+    "message": "HTTP 403",
+    "url": "https://www.techrxiv.org/articles/preprint/Con-Detect_Detecting_Adversarially_Perturbed_Natural_Language_Inputs_to_Deep_Classifiers_Through_Holistic_Analysis/19295534/1/files/34270553.pdf",
+    "at": "2026-10-24"
+  },
+  "2023-khalid-privacy-preserving-artificial-intelligence": {
+    "message": "HTTP 403",
+    "url": "https://uwe-repository.worktribe.com/preview/10732370/Privacy-preserving%20artificial%20intelligence%20in%20healthcare%20Techniques%20and%20applications.pdf",
+    "at": "2026-10-24"
+  },
+  "2023-rasool-quantum-computing-healthcare-review": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/1999-5903/15/3/94/pdf?version=1677666349",
+    "at": "2026-10-24"
+  },
+  "2023-rehman-selective-deeply-supervised-multi": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/1424-8220/23/4/2346/pdf?version=1676892865",
+    "at": "2026-10-24"
+  },
+  "2023-maayah-limitaccess-device-tinyml-robust": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://link.springer.com/content/pdf/10.1007/s44163-023-00051-x.pdf",
+    "at": "2026-10-24"
+  },
+  "2023-qayyum-dental-caries-detection-semi": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://www.nature.com/articles/s41598-023-27808-9.pdf",
+    "at": "2026-10-24"
+  },
+  "2022-bashir-arabic-natural-language-processing": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10313-2.pdf",
+    "at": "2026-10-24"
+  },
+  "2022-zubair-secure-bluetooth-communication-smart": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/1424-8220/22/21/8280/pdf?version=1667188410",
+    "at": "2026-10-24"
+  },
+  "2022-rasheed-explainable-trustworthy-ethical-machine": {
+    "message": "HTTP 403",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0010482522007569/pdf",
+    "at": "2026-10-24"
+  },
+  "2022-ali-tamp-x-attacking-explainable": {
+    "message": "HTTP 403",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0167404822001857/pdf",
+    "at": "2026-10-24"
+  },
+  "2022-qayyum-untrained-neural-network-priors": {
+    "message": "HTTP 404",
+    "url": "https://ieeexplore.ieee.org/ielx7/34/4359286/09878048.pdf",
+    "at": "2026-10-24"
+  },
+  "2022-qayyum-single-shot-retinal-image": {
+    "message": "HTTP 403",
+    "url": "https://www.techrxiv.org/articles/preprint/Single-Shot_Retinal_Image_Enhancement_Using_Untrained_and_Pretrained_Neural_Networks_Priors_Integrated_with_Analytical_Image_Priors/14931999/1/files/28756695.pdf",
+    "at": "2026-10-24"
+  },
+  "2022-raquib-islamic-virtue-ethics-artificial": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://link.springer.com/content/pdf/10.1007/s44163-022-00028-2.pdf",
+    "at": "2026-10-24"
+  },
+  "2022-ammara-smart-cities-through-perspective": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/2079-8954/10/3/77/pdf?version=1654760443",
+    "at": "2026-10-24"
+  },
+  "2022-ahmad-global-user-level-perception": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://formative.jmir.org/2022/5/e36238/PDF",
+    "at": "2026-10-24"
+  },
+  "2023-latif-survey-deep-representation-learning": {
+    "message": "HTTP 403",
+    "url": "https://www.techrxiv.org/articles/preprint/Survey_of_Deep_Representation_Learning_for_Speech_Emotion_Recognition/16689484/1/files/30930331.pdf",
+    "at": "2026-10-24"
+  },
+  "2021-rais-employing-industrial-quality-management": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/2227-7102/11/2/45/pdf?version=1611656775",
+    "at": "2026-10-24"
+  },
+  "2020-ahmed-active-learning-federated-learning": {
+    "message": "HTTP 404",
+    "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09261337.pdf",
+    "at": "2026-10-24"
+  },
+  "2020-latif-leveraging-data-science-combat": {
+    "message": "HTTP 403",
+    "url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.12212516.v1",
+    "at": "2026-10-24"
+  },
+  "2017-latif-5g-wireless-concomitant-technologies": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/1999-5903/9/4/93/pdf?version=1513001180",
+    "at": "2026-10-24"
+  },
+  "2017-qadir-approximate-networking-universal-internet": {
+    "message": "HTTP 403",
+    "url": "https://www.mdpi.com/1999-5903/9/4/94/pdf?version=1513012015",
+    "at": "2026-10-24"
+  },
+  "2016-qadir-crisis-analytics-big-data": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "http://link.springer.com/content/pdf/10.1186/s41018-016-0013-9.pdf",
+    "at": "2026-10-24"
+  },
+  "2016-bilal-big-data-construction-industry": {
+    "message": "fetch failed",
+    "url": "http://eprints.uwe.ac.uk/30190/1/1.%20ADVEI-D-16-00028R2.pdf",
+    "at": "2026-10-24"
+  },
+  "2016-ali-big-data-development-applications": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://bdataanalytics.biomedcentral.com/counter/pdf/10.1186/s41044-016-0002-4",
+    "at": "2026-10-24"
+  },
+  "2016-bilal-analysis-critical-features-evaluation": {
+    "message": "fetch failed",
+    "url": "http://eprints.uwe.ac.uk/31150/3/Critical%20BIM%20Features%20-%20Final%20Draft.pdf",
+    "at": "2026-10-24"
+  },
+  "2025-qadir-generative-ai-undergraduate-classrooms": {
+    "message": "HTTP 403",
+    "url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.173609986.65771022",
+    "at": "2026-10-24"
+  },
+  "2023-ali-revolutionizing-healthcare-foundation-ai": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI230533",
+    "at": "2026-10-24"
+  },
+  "2022-qadir-holistic-education-21st-century": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://ebooks.iospress.nl/pdf/doi/10.3233/ATDE220694",
     "at": "2026-10-24"
   }
 }

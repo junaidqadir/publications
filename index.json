@@ -382,7 +382,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{ahmed2026defeat,\n  title     = {{DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection}},\n  author    = {Ahmed, M. E. and Kim, H. and Awami, M. Al and Abuadbba, A. and Camtepe, S. and Nepal, S. and Qadir, J.},\n  booktitle = {Annual Computer Security Applications Conference (ACSAC 2026)},\n  year      = {2026}\n}"
   },
   {
@@ -421,7 +421,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{rizvi2026artificial,\n  title     = {{Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes}},\n  author    = {Rizvi, S. W. F. and Alkhateeb, M. and Mohsen, F. and Qadir, J. and Ahmed, A. and Abd-alrazaq, A.},\n  booktitle = {Medical Informatics Europe (MIE 2026)},\n  year      = {2026}\n}"
   },
   {
@@ -460,7 +460,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{khan2026generative,\n  title     = {{Generative AI in Signal Processing Education: An Audio Foundation Model Based Approach}},\n  author    = {Khan, M. S. and Gul, A. and Latif, S. and Qadir, J.},\n  booktitle = {IEEE Global Engineering Education Conference (EDUCON 2026)},\n  pages     = {1--8},\n  year      = {2026},\n  doi       = {10.1109/educon67543.2026.11574281}\n}"
   },
   {
@@ -497,7 +497,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2026chatbots,\n  title     = {{Can AI Chatbots Provide Coaching in Engineering Education? Beyond Information Processing Toward Mastery}},\n  author    = {Qadir, J. and Attique, M. A. and Shoaib, S. and Ghaznavi, I.},\n  booktitle = {IEEE Global Engineering Education Conference (EDUCON 2026)},\n  pages     = {1--10},\n  year      = {2026},\n  doi       = {10.1109/educon67543.2026.11574214}\n}"
   },
   {
@@ -533,7 +533,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2026from,\n  title     = {{From Individual Prompts to Collective Intelligence: Mainstreaming Generative AI in the Classroom}},\n  author    = {Qadir, J. and Khan, M. S.},\n  booktitle = {IEEE Global Engineering Education Conference (EDUCON 2026)},\n  pages     = {1--10},\n  year      = {2026},\n  doi       = {10.1109/educon67543.2026.11574210}\n}"
   },
   {
@@ -570,7 +570,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2026psychology,\n  title     = {{The Psychology of Learning from Machines: Anthropomorphic AI and the Paradox of Automation in Education}},\n  author    = {Qadir, J. and Mumtaz, M.},\n  booktitle = {IEEE Global Engineering Education Conference (EDUCON 2026)},\n  pages     = {1--10},\n  year      = {2026},\n  doi       = {10.1109/educon67543.2026.11574165}\n}"
   },
   {
@@ -609,7 +609,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026}\n}"
   },
   {
@@ -648,7 +648,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@incollection{qadir2026multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2026}\n}"
   },
   {
@@ -685,7 +685,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@incollection{qadir2026educating,\n  title     = {{Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {Taylor \\& Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)},\n  year      = {2026}\n}"
   },
   {
@@ -724,7 +724,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@incollection{qadir2026ghazalian,\n  title     = {{Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development}},\n  author    = {Qadir, J. and Arshad, M. R.},\n  booktitle = {Ghazali on Education, Islamic Education Book Series (Editor: Recep Senturk), Brill},\n  year      = {2026}\n}"
   },
   {
@@ -1358,7 +1358,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{mushtaq2025llms,\n  title     = {{Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content}},\n  author    = {Mushtaq, A. and Naeem, R. and Elmahjub, E. and Ghaznavi, I. and Al-Maliki, S. M. and Abdallah, M. and Al-Fuqaha, A. and Qadir, J.},\n  booktitle = {NeurIPS 2025 Workshop MusIML},\n  year      = {2025}\n}"
   },
   {
@@ -1406,8 +1406,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://www.open-access.bcu.ac.uk/16464/1/GenAI_based_Parsing_for_CRC_Referrals_18_.pdf",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{abioye2025raptor,\n  title     = {{RAPTOR: Generative AI for Parsing Colorectal Cancer Referrals to Streamline Faster Diagnostic Standard Pathways}},\n  author    = {Abioye, S. and Bilal, M. and Ashraf, S. and Qadir, J. and Byfield, A. and Jose, A. and Poulett, W. and Wallace, B. and Butt, A. and Forde, C. and Mottershead, M. and Fallis, S. and Beggs, A. and Bhangu, A.},\n  booktitle = {Medical Image Computing and Computer Assisted Intervention (MICCAI 2025), Daejeon, South Korea, Lecture Notes in Computer Science},\n  pages     = {495--505},\n  year      = {2025},\n  doi       = {10.1007/978-3-032-04981-0_47}\n}"
   },
   {
@@ -1442,11 +1442,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2025/2025-mushtaq-harnessing-multi-agent-llms.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "http://arxiv.org/abs/2501.01205",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{mushtaq2025harnessing,\n  title     = {{Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: a Framework for Senior Design Projects}},\n  author    = {Mushtaq, A. and Naeem, R. and Ghaznavi, I. and Taj, M. I. and Hashmi, I. and Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  pages     = {1--10},\n  year      = {2025},\n  doi       = {10.1109/educon62633.2025.11016653}\n}"
   },
   {
@@ -1480,8 +1480,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.36227/techrxiv.173609986.65771022/v1",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{qadir2025generative,\n  title     = {{Generative AI in Undergraduate Classrooms: Lessons From Implementing a Customized GPT Chatbot for Learning Enhancement}},\n  author    = {Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025}\n}"
   },
   {
@@ -1522,7 +1522,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{mushtaq2025toward,\n  title     = {{Toward Inclusive Educational AI: Auditing Frontier LLMs Through a Multiplexity Lens}},\n  author    = {Mushtaq, A. and Naeem, R. and Taj, M. I. and Ghaznavi, I. and Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025}\n}"
   },
   {
@@ -1790,9 +1790,9 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-alkaeed-privacy-preservation-artificial-intelligence.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "http://arxiv.org/abs/2310.10665",
     "oa_status": "hostable",
     "bibtex": "@article{alkaeed2024privacy,\n  title     = {{Privacy Preservation in Artificial Intelligence and Extended Reality (AI-XR) Metaverses: A Survey}},\n  author    = {Alkaeed, M. and Qayyum, A. and Qadir, J.},\n  journal = {Elsevier Journal of Network and Computer Applications (JNCA)},\n  volume    = {231},\n  year      = {2024},\n  doi       = {10.1016/j.jnca.2024.103989}\n}"
@@ -1825,9 +1825,9 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-butt-r2s100k-road-region-segmentation.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "http://arxiv.org/abs/2308.06393",
     "oa_status": "hostable",
     "bibtex": "@article{butt2024r2s100k,\n  title     = {{R2S100K: Road-Region Segmentation Dataset For Semi-Supervised Autonomous Driving in the Wild}},\n  author    = {Butt, M. A. and Ali, H. and Qayyum, A. and Sultani, W. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {International Journal of Computer Vision},\n  volume    = {133},\n  number    = {2},\n  pages     = {910--928},\n  year      = {2024},\n  doi       = {10.1007/s11263-024-02207-3}\n}"
@@ -1987,9 +1987,9 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-pervez-affective-computing-road-emotionally.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by-nc-nd",
     "oa_url": "https://doi.org/10.1109/ojcs.2024.3389462",
     "oa_status": "hostable",
     "bibtex": "@article{pervez2024affective,\n  title     = {{Affective Computing and the Road to an Emotionally Intelligent Metaverse}},\n  author    = {Pervez, F. and Shoukat, M. and Usama, M. and Sandhu, M. and Latif, S. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society (OJ-CS)},\n  volume    = {5},\n  pages     = {195--214},\n  year      = {2024},\n  doi       = {10.1109/ojcs.2024.3389462}\n}"
@@ -2022,9 +2022,9 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-hussain-editorial-metaverse-education-opportunities.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "https://doi.org/10.3389/feduc.2024.1411841",
     "oa_status": "hostable",
     "bibtex": "@article{hussain2024editorial,\n  title     = {{Editorial — Metaverse in Education: Opportunities and Challenges}},\n  author    = {Hussain, S. and Meehan, K. and Qadir, J.},\n  journal = {Frontiers in Education, section Digital Education},\n  volume    = {9},\n  year      = {2024},\n  doi       = {10.3389/feduc.2024.1411841}\n}"
@@ -2063,9 +2063,9 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-almaliki-adversarial-machine-learning-social.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "http://arxiv.org/abs/2310.03614",
     "oa_status": "hostable",
     "bibtex": "@article{almaliki2024adversarial,\n  title     = {{Adversarial Machine Learning for Social Good: Reframing the Adversary as an Ally}},\n  author    = {Al-Maliki, S. and Qayyum, A. and Ali, H. and Abdallah, M. and Qadir, J. and Hoang, D. T. and Niyato, D. and Al-Fuqaha, A.},\n  journal = {IEEE Transactions on Artificial Intelligence},\n  volume    = {5},\n  number    = {9},\n  pages     = {4322--4343},\n  year      = {2024},\n  doi       = {10.1109/tai.2024.3383407}\n}"
@@ -2101,8 +2101,8 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2024/2024-jagatheesaperumal-advancing-education-through-extended.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
     "oa_url": "http://arxiv.org/abs/2207.01512",
     "oa_status": "hostable",
@@ -2263,9 +2263,9 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-ali-consistent-valid-physically-realizable.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "http://arxiv.org/abs/2303.02669",
     "oa_status": "hostable",
     "bibtex": "@article{ali2024consistent,\n  title     = {{Consistent Valid Physically-Realizable Adversarial Attack against Crowd-flow Prediction Models}},\n  author    = {Ali, H. and Butt, M. A. and Filali, F. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {IEEE Transactions on Intelligent Transportation Systems},\n  volume    = {25},\n  number    = {6},\n  pages     = {5567--5582},\n  year      = {2024},\n  doi       = {10.1109/TITS.2023.3343971}\n}"
@@ -2302,9 +2302,9 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-almaliki-addressing-data-distribution-shifts.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "http://arxiv.org/abs/2211.01315",
     "oa_status": "hostable",
     "bibtex": "@article{almaliki2024addressing,\n  title     = {{Addressing Data Distribution Shifts in Online Machine Learning Powered Smart City Applications Using Augmented Test-Time Adaptation}},\n  author    = {Al-Maliki, S. and Bouanani, F. E. and Abdallah, M. and Qadir, J. and Al-Fuqaha, A.},\n  journal = {IEEE Internet of Things (IoT) Magazine},\n  volume    = {7},\n  number    = {4},\n  pages     = {116--124},\n  year      = {2024},\n  doi       = {10.1109/iotm.001.2300135}\n}"
@@ -2375,9 +2375,9 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
+    "pdf": "pdf/2024/2024-aledhari-motion-comfort-optimization-autonomous.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
     "oa_url": "http://arxiv.org/abs/2306.09462",
     "oa_status": "hostable",
     "bibtex": "@article{aledhari2024motion,\n  title     = {{Motion Comfort Optimization for Autonomous Vehicles: Concepts, Methods, and Techniques}},\n  author    = {Aledhari, M. and Rahouti, M. and Qadir, J. and Qolomany, B. and Guizani, M. and Al-Fuqaha, A.},\n  journal = {IEEE IoT Journal},\n  volume    = {11},\n  number    = {1},\n  pages     = {378--402},\n  year      = {2024},\n  doi       = {10.1109/jiot.2023.3287489}\n}"
@@ -2417,8 +2417,8 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2024/2024-qayyum-secure-trustworthy-artificial-intelligence.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
     "oa_url": "http://arxiv.org/abs/2210.13289",
     "oa_status": "hostable",
@@ -2456,7 +2456,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2024guides,\n  title     = {{The GUIDES Framework: Enhancing Engineering Education With Generative AI}},\n  author    = {Qadir, J.},\n  booktitle = {16th annual International Conference on Education and New Learning Technologies EDULEARN24 Proceedings},\n  pages     = {8418--8428},\n  year      = {2024},\n  doi       = {10.21125/edulearn.2024.2006}\n}"
   },
   {
@@ -2492,7 +2492,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{tabassum2024critical,\n  title     = {{A Critical AI Approach For Managing The Risks In Educational Metaverses}},\n  author    = {Tabassum, A. and Qadir, J.},\n  booktitle = {16th annual International Conference on Education and New Learning Technologies EDULEARN24 Proceedings},\n  pages     = {9578--9586},\n  year      = {2024},\n  doi       = {10.21125/edulearn.2024.2318}\n}"
   },
   {
@@ -2528,7 +2528,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{mashagbeh2024engineering,\n  title     = {{Engineering Education in the Era of Exponential AI: A Comparative Analysis of Student and ChatGPT Exam Responses in Computing Engineering}},\n  author    = {Mashagbeh, M. Al and Qadir, J.},\n  booktitle = {16th annual International Conference on Education and New Learning Technologies EDULEARN24 Proceedings},\n  pages     = {9980--9989},\n  year      = {2024},\n  doi       = {10.21125/edulearn.2024.2393}\n}"
   },
   {
@@ -2567,11 +2567,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2024/2024-byfield-medisure-assuring-machine-learning.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "http://arxiv.org/abs/2311.13978",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{byfield2024medisure,\n  title     = {{MEDISURE: Towards Assuring Machine Learning-based Medical Image Classifiers using Mixup Boundary Analysis}},\n  author    = {Byfield, A. and Poulett, W. and Wallace, B. and Jose, A. and Tyagi, S. and Shembekar, S. and Qayyum, A. and Qadir, J. and Bilal, M.},\n  booktitle = {International Symposium on Biomedical Imaging (ISBI)},\n  pages     = {1--4},\n  year      = {2024},\n  doi       = {10.1109/isbi56570.2024.10635870}\n}"
   },
   {
@@ -2604,7 +2604,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@incollection{tabassum2024ethics,\n  title     = {{Ethics and Regulation in Metaverse: Risks, Current Approaches, and Way Forward}},\n  author    = {Tabassum, A. and Elmahjub, E. and Qadir, J.},\n  booktitle = {Springer Edited Book “Understanding the Metaverse – Applications, Challenges, and the Future (Metaverse2023)”, Editors: Gunjan Chhabra, Keshav Kaushik},\n  year      = {2024}\n}"
   },
   {
@@ -3258,8 +3258,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.36227/techrxiv.16689484",
+    "oa_status": "hostable",
     "bibtex": "@article{latif2023survey,\n  title     = {{Survey of Deep Representation Learning for Speech Emotion Recognition}},\n  author    = {Latif, S. and Rana, R. and Khalifa, S. and Jurdak, R. and Qadir, J. and Schuller, B.},\n  journal = {IEEE Transactions on Affective Computing},\n  volume    = {14},\n  number    = {2},\n  pages     = {1634--1654},\n  year      = {2023},\n  doi       = {10.1109/taffc.2021.3114365}\n}"
   },
   {
@@ -3296,11 +3296,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2023/2023-qayyum-secure-robust-machine-learning.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2001.08103",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2023secure,\n  title     = {{Secure and Robust Machine Learning for Healthcare: A Survey}},\n  author    = {Qayyum, A. and Qadir, J. and Bilal, M. and Al-Fuqaha, A.},\n  journal = {IEEE Reviews in Biomedical Engineering (RBME)},\n  volume    = {14},\n  pages     = {156--180},\n  year      = {2023},\n  doi       = {10.1109/rbme.2020.3013489}\n}"
   },
   {
@@ -3338,7 +3338,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{tabassum2023pathway,\n  title     = {{Pathway to Prosocial AI-XR Metaverses: A Synergy of Technical and Regulatory Approaches}},\n  author    = {Tabassum, A. and Elmahjub, E. and Qadir, J.},\n  booktitle = {10th International Symposium on Networks, Computers and Communications (ISNCC'23)},\n  pages     = {1--8},\n  year      = {2023},\n  doi       = {10.1109/isncc58260.2023.10323912}\n}"
   },
   {
@@ -3373,7 +3373,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{alkaeed2023visualaid,\n  title     = {{VisualAid+: Assistive System for Visually Impaired with TinyML Enhanced Object Detection and Scene Narration}},\n  author    = {Alkaeed, M. and Kunhoth, J. and Ehsan, A. and Qadir, J.},\n  booktitle = {10th International Symposium on Networks, Computers and Communications (ISNCC'23)},\n  pages     = {1--8},\n  year      = {2023},\n  doi       = {10.1109/isncc58260.2023.10323988}\n}"
   },
   {
@@ -3410,7 +3410,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{hoseiny2023deep,\n  title     = {{Deep Reinforcement Learning for Autonomous Navigation on Duckietown Platform: Evaluation of Adversarial Robustness}},\n  author    = {Hoseiny, A. and Houti, S. and Qadir, J.},\n  booktitle = {10th International Symposium on Networks, Computers and Communications (ISNCC'23)},\n  pages     = {1--6},\n  year      = {2023},\n  doi       = {10.1109/isncc58260.2023.10323905}\n}"
   },
   {
@@ -3446,7 +3446,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{basyoni2023generated,\n  title     = {{AI Generated Content in the Metaverse: Risks and Mitigation Strategies}},\n  author    = {Basyoni, L. and Qadir, J.},\n  booktitle = {10th International Symposium on Networks, Computers and Communications (ISNCC'23)},\n  pages     = {1--4},\n  year      = {2023},\n  doi       = {10.1109/isncc58260.2023.10323860}\n}"
   },
   {
@@ -3488,7 +3488,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ali2023chatgpt,\n  title     = {{ChatGPT and Large Language Models (LLMs) in Healthcare: Opportunities and Risks}},\n  author    = {Ali, H. and Qadir, J. and Alam, T. and Househ, M. and Shah, Z.},\n  booktitle = {IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things},\n  year      = {2023}\n}"
   },
   {
@@ -3525,7 +3525,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{johri2023ethical,\n  title     = {{Ethical Concerns and Responsible Use of Generative Artificial Intelligence in Engineering Education}},\n  author    = {Johri, A. and Lindsay, E. and Qadir, J.},\n  booktitle = {European Society for Engineering Education SEFI Annual Conference},\n  year      = {2023}\n}"
   },
   {
@@ -3561,8 +3561,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/95286",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{nadeem2023energy,\n  title     = {{Energy-aware Theft Detection based on Energy Consumption Data}},\n  author    = {Nadeem, Z. and Aslam, Z. and Jaber, M. and Qayyum, A. and Qadir, J.},\n  booktitle = {IEEE VTC Spring Workshop on Connected Intelligence for IoT and Industrial IoT Applications},\n  pages     = {1--6},\n  year      = {2023},\n  doi       = {10.1109/vtc2023-spring57618.2023.10200352}\n}"
   },
   {
@@ -3603,8 +3603,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.24963/ijcai.2023/780",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{javed2023silos,\n  title     = {{Get out of the BAG! Silos in AI Ethics Education: Unsupervised Topic Modeling Analysis of Global AI Curricula (Extended Abstract)}},\n  author    = {Javed, T. and Nasir, O. and Borit, M. and Vanhee, L. and Zea, E. and Gupta, S. and Vinuesa, R. and Qadir, J.},\n  booktitle = {32nd International Joint Conference on Artificial Intelligence (IJCAI-2023) journal track},\n  pages     = {6905--6909},\n  year      = {2023},\n  doi       = {10.24963/ijcai.2023/780}\n}"
   },
   {
@@ -3642,8 +3642,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.3233/shti230533",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{ali2023revolutionizing,\n  title     = {{Revolutionizing Healthcare with Foundation AI Models}},\n  author    = {Ali, H. and Qadir, J. and Alam, T. and Househ, M. and Shah, Z.},\n  booktitle = {21st International Conference on Informatics, Management and Technology in Healthcare (ICIMTH)},\n  year      = {2023}\n}"
   },
   {
@@ -3684,7 +3684,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{almaliki2023defending,\n  title     = {{Defending Emotional Privacy with Adversarial Machine Learning for Social Good}},\n  author    = {Al-Maliki, S. and Abdallah, M. and Qadir, J. and Al-Fuqaha, A.},\n  booktitle = {International Wireless Communications \\& Mobile Computing Conference (IWCMC 2023) Security Symposium},\n  year      = {2023}\n}"
   },
   {
@@ -3722,11 +3722,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2023/2023-qayyum-we-revitalize-interventional-healthcare.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "http://arxiv.org/abs/2304.00007",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{qayyum2023revitalize,\n  title     = {{Can We Revitalize Interventional Healthcare with AI-XR Surgical Metaverses?}},\n  author    = {Qayyum, A. and Bilal, M. and Hadi, M. and Capik, P. and Caputo, M. and Vohra, H. and Al-Fuqaha, A. and Qadir, J.},\n  booktitle = {IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023)},\n  pages     = {496--503},\n  year      = {2023},\n  doi       = {10.1109/metacom57706.2023.00091}\n}"
   },
   {
@@ -3762,7 +3762,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2023engineering,\n  title     = {{Engineering Education in the Era of ChatGPT: Using Generative AI for Education}},\n  author    = {Qadir, J.},\n  booktitle = {2023 IEEE Global Engineering Education Conference (EDUCON), Special Session: Artificial Intelligence and Machine Learning in Education},\n  year      = {2023}\n}"
   },
   {
@@ -3794,7 +3794,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{gull2023robotics,\n  title     = {{Robotics Primer for Independent Learners: Background, Curriculum, Resources, and Tips}},\n  author    = {Gull, R. A.},\n  booktitle = {M. D. B. M. Izham, J. Qadir},\n  pages     = {1--9},\n  year      = {2023},\n  doi       = {10.1109/educon54358.2023.10125209}\n}"
   },
   {
@@ -3836,8 +3836,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://pureportal.coventry.ac.uk/en/publications/b0b0ff84-b892-4bfe-95da-346a34120785",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{qayyum2023segcrop,\n  title     = {{SegCrop: Segmentation-based Dynamic Cropping of Endoscopic Videos to Address Label Leakage in Surgical Tool Detection}},\n  author    = {Qayyum, A. and Bilal, M. and Qadir, J. and Caputo, M. and Vohra, H. and Akinosho, T. and Berrou, I. and Niyi-Odumosu, F. and Loizou, M. and Ajayi, A. and Abioye, S.},\n  booktitle = {IEEE International Symposium on Biomedical Imaging (ISBI)},\n  pages     = {1--4},\n  year      = {2023},\n  doi       = {10.1109/isbi53787.2023.10230822}\n}"
   },
   {
@@ -4038,7 +4038,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{benaddi2022robust,\n  title     = {{Robust Enhancement of Intrusion Detection Systems Using Deep Reinforcement Learning and Stochastic Games}},\n  author    = {Benaddi, H. and Ibrahimi, K. and Benslimane, A. and Jouhari, M. and Qadir, J.},\n  journal = {IEEE Transactions on Vehicular Technology},\n  volume    = {71},\n  number    = {10},\n  year      = {2022},\n  doi       = {10.1109/tvt.2022.3186834}\n}"
   },
   {
@@ -4072,11 +4072,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2022/2022-qayyum-collaborative-federated-learning-healthcare.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2101.07511",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2022collaborative,\n  title     = {{Collaborative Federated Learning For Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge}},\n  author    = {Qayyum, A. and Ahmed, K. and Ahsan, A. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {IEEE Open Journal of the Computer Society},\n  volume    = {3},\n  pages     = {172--184},\n  year      = {2022},\n  doi       = {10.1109/ojcs.2022.3206407}\n}"
   },
   {
@@ -4112,8 +4112,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1016/j.cose.2022.102791",
+    "oa_status": "hostable",
     "bibtex": "@article{ali2022tamp,\n  title     = {{Tamp-X: Attacking Explainable Natural Language Classifiers Through Tampered Activations}},\n  author    = {Ali, H. and Khan, M. S. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {Elsevier Computer \\& Security (COSE)},\n  volume    = {120},\n  year      = {2022},\n  doi       = {10.1016/j.cose.2022.102791}\n}"
   },
   {
@@ -4150,8 +4150,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/tpami.2022.3204527",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2022untrained,\n  title     = {{Untrained Neural Network Priors for Inverse Imaging Problems: A Survey}},\n  author    = {Qayyum, A. and Ilahi, I. and Shamshad, F. and Boussaid, F. and Bennamoun, M. and Qadir, J.},\n  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},\n  pages     = {1--20},\n  year      = {2022},\n  doi       = {10.1109/tpami.2022.3204527}\n}"
   },
   {
@@ -4189,8 +4189,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.36227/techrxiv.14931999.v1",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2022single,\n  title     = {{Single-Shot Retinal Image Enhancement Using Untrained and Pretrained Neural Networks Priors Integrated with Analytical Image Priors}},\n  author    = {Qayyum, A. and Sultani, W. and Shamshad, F. and Tufail, R. and Qadir, J.},\n  journal = {Elsevier Computers in Biology and Medicine},\n  volume    = {148},\n  year      = {2022},\n  doi       = {10.1016/j.compbiomed.2022.105879}\n}"
   },
   {
@@ -4221,11 +4221,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2022/2022-ahsan-active-learning-method-diabetic.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2012.13325",
+    "oa_status": "hostable",
     "bibtex": "@article{ahsan2022active,\n  title     = {{An Active Learning Method for Diabetic Retinopathy Classification with Uncertainty Quantification}},\n  author    = {Ahsan, A. and Qayyum, A. and Razi, A. and Qadir, J.},\n  journal = {Springer Medical \\& Biological Engineering \\& Computing},\n  volume    = {60},\n  year      = {2022},\n  doi       = {10.1007/s11517-022-02633-w}\n}"
   },
   {
@@ -4262,8 +4262,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1007/s44163-022-00028-2",
+    "oa_status": "hostable",
     "bibtex": "@article{raquib2022islamic,\n  title     = {{Islamic Virtue-Based Ethics for Artificial Intelligence}},\n  author    = {Raquib, A. and Channa, B. and Zubair, T. and Qadir, J.},\n  journal = {Springer Discover AI Journal},\n  volume    = {2},\n  year      = {2022},\n  doi       = {10.1007/s44163-022-00028-2}\n}"
   },
   {
@@ -4295,11 +4295,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2022/2022-zoha-editorial-research-topic-ai.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "https://doi.org/10.3389/frcmn.2022.959303",
+    "oa_status": "hostable",
     "bibtex": "@article{zoha2022editorial,\n  title     = {{Editorial for the Research Topic: AI-powered IoT for Intelligent Systems and Smart Applications}},\n  author    = {Zoha, A. and Qadir, J. and Abbasi, Q. H.},\n  journal = {Frontiers in Communications and Networks, IoT and Sensor Networks},\n  year      = {2022}\n}"
   },
   {
@@ -4332,8 +4332,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.3390/systems10030077",
+    "oa_status": "hostable",
     "bibtex": "@article{ammara2022smart,\n  title     = {{Smart Cities Through the Perspective of Systems}},\n  author    = {Ammara, U. and Rasheed, K. and Mansoor, A. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {Multidisciplinary Digital Publishing Institute (MDPI) Systems},\n  year      = {2022}\n}"
   },
   {
@@ -4376,7 +4376,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{rasool2022security,\n  title     = {{Security and Privacy of Internet of Medical Things: A Contemporary Review in the Age of Surveillance, Botnets, and Adversarial ML}},\n  author    = {Rasool, R and Ahmad, H. F. and Rafique, W. and Qayyum, A. and Qadir, J.},\n  journal = {Journal of Network and Computer Applications (JNCA)},\n  volume    = {201},\n  year      = {2022},\n  doi       = {10.1016/j.jnca.2022.103332}\n}"
   },
   {
@@ -4418,8 +4418,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.2196/36238",
+    "oa_status": "hostable",
     "bibtex": "@article{ahmad2022global,\n  title     = {{Global User-Level Perception of COVID-19 Contact Tracing Applications: A Data-Driven Approach Using Natural Language Processing}},\n  author    = {Ahmad, K. and Alam, F. and Qadir, J. and Qolomany, B. and Khan, I. and Khan, T. and Suleman, M. and Said, N. and Hassan, S. Z. and Gul, A. and Househ, M. and Al-Fuqaha, A.},\n  journal = {JMIR Formative Research},\n  volume    = {6},\n  number    = {5},\n  year      = {2022},\n  doi       = {10.2196/36238}\n}"
   },
   {
@@ -4461,7 +4461,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@article{javed2022silos,\n  title     = {{Get out of the BAG! Silos in AI Ethics Education}},\n  author    = {Javed, T. and Nasir, O. and Borit, M. and Vanhee, L. and Zea, E. and Gupta, S. and Vinuesa, R. and Qadir, J.},\n  journal = {Journal of Artificial Intelligence Research},\n  volume    = {73},\n  year      = {2022}\n}"
   },
   {
@@ -4496,7 +4496,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2022towards,\n  title     = {{Towards Accountable Human-Centered AI: Rationale and Promising Directions}},\n  author    = {Qadir, J. and Qamar, M. and Al-Fuqaha, A.},\n  journal = {Emerald Journal of Information, Communication \\& Ethics in Society (JICES)},\n  volume    = {20},\n  number    = {2},\n  pages     = {329--342},\n  year      = {2022},\n  doi       = {10.1108/jices-06-2021-0059}\n}"
   },
   {
@@ -4537,7 +4537,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{ahmad2022developing,\n  title     = {{Developing Future Human-Centered Smart Cities: Critical Analysis of Smart City Security, Data Management, and Ethical Challenges}},\n  author    = {Ahmad, K. and Maabreh, M. and Ghaly, M. and Khan, K. and Qadir, J. and Al-Fuqaha, A.},\n  journal = {Elsevier Computer Science Review (COSREV)},\n  volume    = {43},\n  year      = {2022},\n  doi       = {10.1016/j.cosrev.2021.100452}\n}"
   },
   {
@@ -4570,11 +4570,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2022/2022-yousaf-fake-visual-content-detection.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2101.00676",
+    "oa_status": "hostable",
     "bibtex": "@article{yousaf2022fake,\n  title     = {{Fake Visual Content Detection Using Two-Stream Convolutional Neural Networks}},\n  author    = {Yousaf, B. and Usama, M. and Sultani, W. and Mahmood, A. and Qadir, J.},\n  journal = {Springer Neural Computing and Applications (NCAA)},\n  volume    = {34},\n  year      = {2022},\n  doi       = {10.1007/s00521-022-06902-5}\n}"
   },
   {
@@ -4605,11 +4605,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2022/2022-qadir-network-service-new-vista.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1606.03060",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2022network,\n  title     = {{Network as a Service: A New Vista of Opportunities}},\n  author    = {Qadir, J. and Ahmed, N. and Yousaf, F. Z. and Taqweem, A.},\n  journal = {IEEE Potentials},\n  volume    = {41},\n  number    = {1},\n  pages     = {35--43},\n  year      = {2022},\n  doi       = {10.1109/MPOT.2014.2377249}\n}"
   },
   {
@@ -4645,11 +4645,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2022/2022-ilahi-challenges-countermeasures-adversarial-attacks.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2001.09684",
+    "oa_status": "hostable",
     "bibtex": "@article{ilahi2022challenges,\n  title     = {{Challenges and Countermeasures for Adversarial Attacks on Deep Reinforcement Learning}},\n  author    = {Ilahi, I. and Usama, M. and Qadir, J. and Janjua, U. and Al-Fuqaha, A. and Dinh, H. and Niyato, D.},\n  journal = {IEEE Transactions on Artificial Intelligence},\n  volume    = {3},\n  number    = {2},\n  pages     = {90--109},\n  year      = {2022},\n  doi       = {10.1109/tai.2021.3111139}\n}"
   },
   {
@@ -4686,8 +4686,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1145/3567445.3567456",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{hussain2022jamming,\n  title     = {{Jamming Detection in IoT Wireless Networks: An Edge-AI Based Approach}},\n  author    = {Hussain, A. and Abughanam, N. and Qadir, J. and Mohamed, A.},\n  booktitle = {12th International Conference on the Internet of Things},\n  pages     = {57--64},\n  year      = {2022},\n  doi       = {10.1145/3567445.3567456}\n}"
   },
   {
@@ -4720,8 +4720,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.3233/atde220694",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{qadir2022holistic,\n  title     = {{A Holistic Education for the 21st Century Engineer Based on Wisdom and Multiplexity}},\n  author    = {Qadir, J.},\n  booktitle = {Proceedings of 29th International Society of Transdisciplinary Engineering (ISTE) hosted by MIT System Design and Management in Cambridge, MA, USA},\n  year      = {2022}\n}"
   },
   {
@@ -4753,11 +4753,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2021/2021-rasheed-generative-model-synthesize-eeg.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2012.00430",
+    "oa_status": "hostable",
     "bibtex": "@article{rasheed2021generative,\n  title     = {{A Generative Model to Synthesize EEG Data for Epileptic Seizure Prediction}},\n  author    = {Rasheed, K. and Qadir, J. and O'Brien, T. J. and Kuhlmann, L. and Razi, A.},\n  journal = {IEEE Transactions on Neural Systems \\& Rehabilitation Engineering},\n  volume    = {29},\n  year      = {2021},\n  doi       = {10.1109/tnsre.2021.3125023}\n}"
   },
   {
@@ -4794,8 +4794,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1007/s13278-021-00833-0",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{javed2021deep,\n  title     = {{A Deep Dive into COVID-19 Related Messages on WhatsApp in Pakistan}},\n  author    = {Javed, R. T. and Usama, M. and Iqbal, W. and Qadir, J. and Tyson, G. and Castro, I. and Garimella, K.},\n  journal = {Springer Social Network Analysis and Mining},\n  volume    = {12},\n  number    = {1},\n  year      = {2021},\n  doi       = {10.1007/s13278-021-00833-0}\n}"
   },
   {
@@ -4830,11 +4830,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2021/2021-ali-all-your-fake-detector.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by-nc-nd",
+    "oa_url": "https://doi.org/10.1109/access.2021.3085875",
+    "oa_status": "hostable",
     "bibtex": "@article{ali2021your,\n  title     = {{All Your Fake Detector Are Belong to Us: Evaluating Adversarial Robustness of Fake-news Detectors Under Black-Box Settings}},\n  author    = {Ali, H. and Khan, M. S. and AlGhadhban, A. and Alazmi, M. and Alzamil, A. and Al-utaibi, K. and Qadir, J.},\n  journal = {Volume 9},\n  volume    = {9},\n  pages     = {81678--81692},\n  year      = {2021},\n  doi       = {10.1109/access.2021.3085875}\n}"
   },
   {
@@ -4866,11 +4866,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2021/2021-shahroz-digital-contact-tracing-applications.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2103.01766",
+    "oa_status": "hostable",
     "bibtex": "@article{shahroz2021digital,\n  title     = {{Digital Contact Tracing Applications and Techniques: A Review Post Initial Deployments}},\n  author    = {Shahroz, M. and Ahmad, F. and Younis, M. S. and Ahmad, N. and Boulos, M. N. K. and Vinuesa, R. and Qadir, J.},\n  journal = {Elsevier Transportation Engineering},\n  volume    = {5},\n  year      = {2021},\n  doi       = {10.1016/j.treng.2021.100072}\n}"
   },
   {
@@ -4906,7 +4906,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{ashraf2021wimesh,\n  title     = {{WiMesh: Leveraging Mesh Networking For Disaster Communication in Resource-Constrained Settings}},\n  author    = {Ashraf, U. and Khwaja, A. and Qadir, J. and Avallone, S. and Yuen, C.},\n  journal = {Springer Wireless Networks},\n  volume    = {27},\n  number    = {4},\n  pages     = {2785--2812},\n  year      = {2021},\n  doi       = {10.1007/s11276-021-02621-2}\n}"
   },
   {
@@ -4948,7 +4948,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{merabet2021intelligent,\n  title     = {{Intelligent Building Control Systems for Human Comfort and Efficient Energy Management: A Systematic Review of Artificial Intelligence-Assisted Techniques}},\n  author    = {Merabet, G. H. and Essaaidi, M. and Ben-Haddou, M. and Qolomany, B. and Qadir, J. and Anan, M. and Al-Fuqaha, A. and Abid, M. R. and Benhaddou, D.},\n  journal = {Elsevier Renewable and Sustainable Energy Reviews},\n  year      = {2021}\n}"
   },
   {
@@ -4981,11 +4981,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2021/2021-haider-energy-efficient-mac-cellular.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2103.05311",
+    "oa_status": "hostable",
     "bibtex": "@article{haider2021energy,\n  title     = {{Energy-Efficient MAC for Cellular IoT: State-of-the-Art, Challenges, and Standardization}},\n  author    = {Haider, W. and Mian, A. N. and Aijaz, A. and Qadir, J. and Crowcroft, J},\n  journal = {IEEE Transactions on Green Communications and Networking},\n  volume    = {5},\n  number    = {2},\n  pages     = {587--599},\n  year      = {2021},\n  doi       = {10.1109/tgcn.2021.3062093}\n}"
   },
   {
@@ -5022,8 +5022,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.3390/educsci11020045",
+    "oa_status": "hostable",
     "bibtex": "@article{rais2021employing,\n  title     = {{Employing Industrial Quality Management Systems for Quality Assurance in Outcome-Based Engineering Education: A Review}},\n  author    = {Rais, R. B. and Rashid, M. and Zakria, M. and Hussain, S. and Qadir, J. and Imran, M.},\n  journal = {MDPI Education Sciences},\n  volume    = {11},\n  number    = {2},\n  year      = {2021},\n  doi       = {10.3390/educsci11020045}\n}"
   },
   {
@@ -5058,11 +5058,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2021/2021-usama-examining-machine-learning-5g.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2009.02473",
+    "oa_status": "hostable",
     "bibtex": "@article{usama2021examining,\n  title     = {{Examining Machine Learning for 5G and Beyond through an Adversarial Lens}},\n  author    = {Usama, M. and Mitra, R. N. and Ilahi, I. and Qadir, J. and Marina, M. K.},\n  journal = {IEEE Internet Computing},\n  volume    = {25},\n  number    = {2},\n  pages     = {26--34},\n  year      = {2021},\n  doi       = {10.1109/mic.2021.3049190}\n}"
   },
   {
@@ -5100,7 +5100,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{zulfiqar2021ethreview,\n  title     = {{EthReview: An Ethereum-based Product Review System for Mitigating Rating Frauds}},\n  author    = {Zulfiqar, M. and Tariq, F. and Janjua, M. U. and Mian, A. N. and Qayyum, A. and Qadir, J. and Sher, F. and Hassan, M.},\n  journal = {Elsevier Computers \\& Security (COSE)},\n  volume    = {100},\n  year      = {2021},\n  doi       = {10.1016/j.cose.2020.102094}\n}"
   },
   {
@@ -5136,11 +5136,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2021/2021-mohammed-budgeted-online-selection-candidate.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "other-oa",
+    "oa_url": "http://arxiv.org/abs/2011.09849",
+    "oa_status": "hostable",
     "bibtex": "@article{mohammed2021budgeted,\n  title     = {{Budgeted Online Selection of Candidate IoT Clients to Participate in Federated Learning}},\n  author    = {Mohammed, I. and Tabatabai, S. and Al-Fuqaha, A. and Bouanani, F. E. and Qadir, J. and Qolomany, B. and Guizani, M.},\n  journal = {IEEE Internet of Things Journal},\n  volume    = {8},\n  number    = {7},\n  pages     = {5938--5952},\n  year      = {2021},\n  doi       = {10.1109/jiot.2020.3036157}\n}"
   },
   {
@@ -5175,11 +5175,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2021/2021-qolomany-trust-cloud-machine-learning.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2008.05042",
+    "oa_status": "hostable",
     "bibtex": "@article{qolomany2021trust,\n  title     = {{Trust-Based Cloud Machine Learning Model Selection For Industrial IoT and Smart City Services}},\n  author    = {Qolomany, B. and Mohammed, I. and Al-Fuqaha, A. and Guizani, M. and Qadir, J.},\n  journal = {IEEE Internet of Things Journal},\n  volume    = {8},\n  number    = {4},\n  pages     = {2943--2958},\n  year      = {2021},\n  doi       = {10.1109/jiot.2020.3022323}\n}"
   },
   {
@@ -5216,7 +5216,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{latif2021speech,\n  title     = {{Speech Technology for Healthcare: Opportunities, Challenges, and State of the Art}},\n  author    = {Latif, S. and Qadir, J. and Qayyum, A. and Usama, M. and Younis, S.},\n  journal = {IEEE Reviews in Biomedical Engineering (RBME)},\n  volume    = {14},\n  pages     = {342--356},\n  year      = {2021},\n  doi       = {10.1109/rbme.2020.3006860}\n}"
   },
   {
@@ -5254,11 +5254,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2021/2021-rasheed-machine-learning-predicting-epileptic.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2002.01925",
+    "oa_status": "hostable",
     "bibtex": "@article{rasheed2021machine,\n  title     = {{Machine Learning for Predicting Epileptic Seizures Using EEG Signals: A Review}},\n  author    = {Rasheed, K. and Qayyum, A. and Qadir, J. and Sivathamboo, S. and Kwan, P. and Kuhlmann, L. and O'Brien, T. and Razi, A.},\n  journal = {IEEE Reviews in Biomedical Engineering (RBME)},\n  volume    = {14},\n  pages     = {139--155},\n  year      = {2021},\n  doi       = {10.1109/rbme.2020.3008792}\n}"
   },
   {
@@ -5291,11 +5291,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2021/2021-mcquistin-characterising-ietf-through-lens.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by-sa",
+    "oa_url": "https://eprints.gla.ac.uk/view/author/35824.html>",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{mcquistin2021characterising,\n  title     = {{Characterising the IETF Through the Lens of RFC Deployment}},\n  author    = {McQuistin, S. and Karan, M. and Khare, P. and Perkins, C. and Tyson, G. and Purver, M. and Healey, P. and Iqbal, W. and Qadir, J. and Castro, I.},\n  booktitle = {ACM Internet Measurement Conference 2021 (IMC 2021)},\n  pages     = {137--149},\n  year      = {2021},\n  doi       = {10.1145/3487552.3487821}\n}"
   },
   {
@@ -5333,7 +5333,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ammara2021using,\n  title     = {{Using the Lens of Systems Thinking To Model Education During and Beyond COVID-19}},\n  author    = {Ammara, U. and Qudrat-Ullah, H. and Qadir, J.},\n  booktitle = {IWCMC Engineering Education Workshop},\n  pages     = {2056--2061},\n  year      = {2021},\n  doi       = {10.1109/iwcmc51323.2021.9498587}\n}"
   },
   {
@@ -5369,11 +5369,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2021/2021-ali-privacy-enhanced-speech-emotion.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2103.17139",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{ali2021privacy,\n  title     = {{Privacy Enhanced Speech Emotion Communication using Deep Learning Aided Edge Computing}},\n  author    = {Ali, H. S. and Hassan, F. U. and Latif, S. and Manzoor, H. U. and Qadir, J.},\n  booktitle = {IEEE International Conference on Communications AffectiveSense Workshop, ICC'21},\n  pages     = {1--5},\n  year      = {2021},\n  doi       = {10.1109/iccworkshops50388.2021.9473669}\n}"
   },
   {
@@ -5410,7 +5410,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{tallal2021pedagogy,\n  title     = {{Pedagogy of Engineering Ethics: A Bibliometric and Curricular Analysis}},\n  author    = {Tallal, R. and Nasir, O. and Muntaha, S. and Qadir, J.},\n  booktitle = {IEEE EDUCON 2021},\n  year      = {2021}\n}"
   },
   {
@@ -5447,8 +5447,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/access.2020.3038676",
+    "oa_status": "hostable",
     "bibtex": "@article{ahmed2020active,\n  title     = {{Active Learning Based Federated Learning for Waste and Natural Disaster Image Classification}},\n  author    = {Ahmed, L. and Ahmed, K. and Said, N. and Qolomany, B. and Qadir, J. and Al-Fuqaha, A.},\n  journal = {IEEE Access},\n  volume    = {8},\n  pages     = {208518--208531},\n  year      = {2020},\n  doi       = {10.1109/access.2020.3038676}\n}"
   },
   {
@@ -5485,11 +5485,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2020/2020-qayyum-securing-machine-learning-ml.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "https://doi.org/10.3389/fdata.2020.587139",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2020securing,\n  title     = {{Securing Machine Learning (ML) in the Cloud: A Systematic Review of Cloud ML Security}},\n  author    = {Qayyum, A. and Ijaz, A. and Usama, M. and Iqbal, W. and Qadir, J. and Elkhatib, Y. and Al-Fuqaha, A.},\n  journal = {Frontiers in Big Data, section Machine Learning and Artificial Intelligence},\n  year      = {2020}\n}"
   },
   {
@@ -5533,8 +5533,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.36227/techrxiv.12212516",
+    "oa_status": "hostable",
     "bibtex": "@article{latif2020leveraging,\n  title     = {{Leveraging Data Science To Combat COVID-19: A Comprehensive Review}},\n  author    = {Latif, S. and Usman, M. and Manzoor, S. and Iqbal, W. and Qadir, J. and Tyson, G. and Castro, I. and Razi, A. and Boulos, M. N. K. and Weller, A. and Crowcroft, J.},\n  journal = {IEEE Transactions on Artificial Intelligence},\n  volume    = {1},\n  number    = {1},\n  pages     = {85--103},\n  year      = {2020},\n  doi       = {10.1109/tai.2020.3020521}\n}"
   },
   {
@@ -5572,7 +5572,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{aman2020maximizing,\n  title     = {{Maximizing Secrecy Rate of an OFDM-based Multi-hop Underwater Acoustic Sensor Network}},\n  author    = {Aman, W. and Rahman, M. M. U. and Haider, Z. and Qadir, J. and Nawaz, M. W. and Sidhu, G. A. S.},\n  journal = {Wiley Transactions on Emerging Telecommunications Technologies},\n  volume    = {31},\n  number    = {11},\n  year      = {2020},\n  doi       = {10.1002/ett.4106}\n}"
   },
   {
@@ -5609,7 +5609,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2020student,\n  title     = {{A Student Primer on How to Thrive in Engineering Education During and Beyond COVID-19}},\n  author    = {Qadir, J. and Al-Fuqaha, A.},\n  journal = {MDPI Education Sciences, Special Issue on COVID-2019 Impacts on Education Systems and Future of Higher Education},\n  volume    = {10},\n  number    = {9},\n  year      = {2020},\n  doi       = {10.3390/educsci10090236}\n}"
   },
   {
@@ -5641,7 +5641,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2020triple,\n  title     = {{The Triple Imperatives of Online Teaching: Equity, Inclusion, and Effectiveness}},\n  author    = {Qadir, J.},\n  journal = {Inderscience International Journal of Pluralism and Economics Education (IJPEE) Vol. 11, nos. 2-3},\n  volume    = {11},\n  year      = {2020},\n  doi       = {10.35542/osf.io/zjdc7}\n}"
   },
   {
@@ -5676,8 +5676,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/tetci.2020.2990757",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{wu2020guest,\n  title     = {{Guest Editorial Special Issue on Big Data and Computational Intelligence for Agile Wireless IoT}},\n  author    = {Wu, C. and Jin, Y. and Li, J. and Yau, K. A. and Qadir, J.},\n  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},\n  volume    = {4},\n  number    = {3},\n  pages     = {202--205},\n  year      = {2020},\n  doi       = {10.1109/TETCI.2020.2990757}\n}"
   },
   {
@@ -5705,11 +5705,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2020/2020-yau-smart-port-infrastructures-enhancing.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "https://doi.org/10.1109/access.2020.2990961",
+    "oa_status": "hostable",
     "bibtex": "@article{yau2020towards,\n  title     = {{Towards Smart Port Infrastructures: Enhancing Port Activities using Information and Communications Technology}},\n  author    = {Yau, K. A. and Peng, S. and Qadir, J. and Low, Y. and Ling, M. H.},\n  journal = {IEEE Access},\n  volume    = {8},\n  pages     = {83387--83404},\n  year      = {2020},\n  doi       = {10.1109/access.2020.2990961}\n}"
   },
   {
@@ -5746,11 +5746,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2020/2020-usman-retrospective-motion-correction-multishot.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1902.07430",
+    "oa_status": "hostable",
     "bibtex": "@article{usman2020retrospective,\n  title     = {{Retrospective Motion Correction in Multishot MRI Using Generative Adversarial Network}},\n  author    = {Usman, M. and Latif, S. and Asim, M. and Lee, B and Qadir, J.},\n  journal = {Nature Scientific Reports},\n  volume    = {10},\n  number    = {1},\n  year      = {2020},\n  doi       = {10.1038/s41598-020-61705-9}\n}"
   },
   {
@@ -5784,11 +5784,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2020/2020-qayyum-securing-connected-autonomous-vehicles.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1905.12762",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2020securingb,\n  title     = {{Securing Connected \\& Autonomous Vehicles: Challenges Posed by Adversarial Machine Learning and The Way Forward}},\n  author    = {Qayyum, A. and Usama, M. and Qadir, J. and Al-Fuqaha, A.},\n  journal = {IEEE Communications Surveys \\& Tutorials},\n  volume    = {22},\n  number    = {2},\n  pages     = {998--1026},\n  year      = {2020},\n  doi       = {10.1109/COMST.2020.2975048}\n}"
   },
   {
@@ -5823,8 +5823,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/mci.2019.2954640",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{wu2020computational,\n  title     = {{Computational Intelligence for Internet of Things in the Big Data Era (Part II)}},\n  author    = {Wu, C. and Xue, G. and Li, J. and Yau, K. L. and Qadir, J.},\n  journal = {IEEE Computational Intelligence Magazine (CIM)},\n  volume    = {15},\n  year      = {2020}\n}"
   },
   {
@@ -5859,11 +5859,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2020/2020-usama-adversarial-machine-learning-conundrum.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1906.00679",
+    "oa_status": "hostable",
     "bibtex": "@article{usama2020adversarial,\n  title     = {{The Adversarial Machine Learning Conundrum: Can The Insecurity of ML Become The Achilles' Heel of Cognitive Networks?}},\n  author    = {Usama, M. and Qadir, J. and Al-Fuqaha, A. and Hamdi, M.},\n  journal = {IEEE Network Magazine},\n  volume    = {34},\n  number    = {1},\n  pages     = {196--203},\n  year      = {2020},\n  doi       = {10.1109/mnet.001.1900197}\n}"
   },
   {
@@ -5900,7 +5900,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{latif2020robustness,\n  title     = {{Robustness Against Adversarial Attacks in Speech Recognition System}},\n  author    = {Latif, S. and Shahid, A. and Qadir, J.},\n  booktitle = {International Conference on Machine Learning and Cybernetics (ICMLC), Adelaide, Australia},\n  year      = {2020}\n}"
   },
   {
@@ -5935,11 +5935,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2020/2020-javed-first-look-covid-19.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/2011.09145",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{javed2020first,\n  title     = {{A First Look at COVID-19 Messages on WhatsApp in Pakistan}},\n  author    = {Javed, R. T. and Shuja, M. E. and Usama, M. and Qadir, J. and Iqbal, W. and Tyson, G. and Castro, I. and Garimella, K.},\n  booktitle = {IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2020)},\n  pages     = {118--125},\n  year      = {2020},\n  doi       = {10.1109/asonam49781.2020.9381360}\n}"
   },
   {
@@ -5974,7 +5974,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{ammara2020analyzing,\n  title     = {{Analyzing Misinformation Through The Lens of Systems Thinking}},\n  author    = {Ammara, U. and Bukhari, H. and Qadir, J.},\n  booktitle = {2nd Truth and Trust Online Conference 2020 (TTO'20)},\n  year      = {2020}\n}"
   },
   {
@@ -6012,11 +6012,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2020/2020-hussain-assessment-feedback-under-disruptive.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by-sa",
+    "oa_url": "https://doi.org/10.1109/TALE48869.2020.9368427>)",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{hussain2020assessment,\n  title     = {{Assessment and Feedback Under Disruptive Circumstances in Trans-National Education}},\n  author    = {Hussain, S. and Rehman, M. U. and Ansari, I. and Abdulghani, A. and Abbas, H. and Heidari, H. and Hong, Y. and Ponciano, J. and Abbasi, Q. and Qadir, J. and Imran, M.},\n  booktitle = {IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)},\n  pages     = {287--294},\n  year      = {2020},\n  doi       = {10.1109/tale48869.2020.9368427}\n}"
   },
   {
@@ -6050,11 +6050,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2020/2020-qolomany-particle-swarm-optimized-federated.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "public-domain",
+    "oa_url": "http://arxiv.org/abs/2009.02560",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{qolomany2020particle,\n  title     = {{Particle Swarm Optimized Federated Learning For Industrial IoT and Smart City Services}},\n  author    = {Qolomany, B. and Ahmed, K. and Al-Fuqaha, A. and Qadir, J.},\n  booktitle = {IEEE GLOBECOM 2020},\n  pages     = {1--6},\n  year      = {2020},\n  doi       = {10.1109/globecom42002.2020.9322464}\n}"
   },
   {
@@ -6092,7 +6092,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ilahi2020loradrl,\n  title     = {{LoRaDRL: Deep Reinforcement Learning Based Adaptive PHY Layer Transmission Parameter Selection for LoRaWAN}},\n  author    = {Ilahi, I. and Usama, M. and Farooq, M. O. and Janjua, M. U. and Qadir, J.},\n  booktitle = {45th IEEE Conference on Local Computer Networks (LCN)},\n  pages     = {457--460},\n  year      = {2020},\n  doi       = {10.1109/lcn48667.2020.9314772}\n}"
   },
   {
@@ -6127,7 +6127,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qayyum2020single,\n  title     = {{Single-Shot Retinal Image Enhancement Using Deep Image Priors}},\n  author    = {Qayyum, A. and Sultani, W. and Shamshad, F.},\n  booktitle = {J. Qadir \\& R. Tufail, Medical Image Computing and Computer Assisted Intervention (MICCAI)},\n  pages     = {636--646},\n  year      = {2020},\n  doi       = {10.1007/978-3-030-59722-1_61}\n}"
   },
   {
@@ -6163,7 +6163,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{irteza2020remote,\n  title     = {{Remote Learning and Networking Education During COVID-19: Experience and Insights from Pakistan}},\n  author    = {Irteza, S. and Qadir, J. and Nishat, K.},\n  booktitle = {4th ACM SIGCOMM Online Networking Education Workshop},\n  year      = {2020}\n}"
   },
   {
@@ -6203,7 +6203,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{iqbal2020teaching,\n  title     = {{Teaching Continuity of Electrical and Computer Engineering Courses under COVID-19 Pandemic}},\n  author    = {Iqbal, M. A. and Ansari, I. S. and Hussain, S. and Xing, H. and Abbasi, Q. H. and Qadir, J. and Imran, M. A.},\n  booktitle = {4th ACM SIGCOMM Online Networking Education Workshop},\n  year      = {2020}\n}"
   },
   {
@@ -6238,7 +6238,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{farooq2020utilizing,\n  title     = {{Utilizing Loss Tolerance and Bandwidth Expansion for Energy Efficient User Association in HetNets}},\n  author    = {Farooq, M. U. B. and Qadir, J. and Butt, M. M. and Naeem, M. and Imran, A.},\n  booktitle = {IEEE 31st International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC'20) - Workshop on Communication and Networking Algorithms for Cyber-Physical Systems in Industry 4.0},\n  pages     = {1--6},\n  year      = {2020},\n  doi       = {10.1109/pimrc48278.2020.9217219}\n}"
   },
   {
@@ -6280,8 +6280,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.18260/1-2--35020",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{qadir2020outcome,\n  title     = {{Outcome-Based Engineering Education: A Global Report of International OBE Accreditation and Assessment Practices}},\n  author    = {Qadir, J. and Shafi, A. and Al-Fuqaha, A. and Taha, A. M. and Yau, K. A. and Ponciano, J. and Hussain, S. and Imran, M. A. and Muhammad, S. S. and Rais, R. N. b. and Rashid, M. and Tan, B. L.},\n  booktitle = {the 127th American Society of Engineering Education (ASEE) Annual Conference 2020},\n  year      = {2020}\n}"
   },
   {
@@ -6315,11 +6315,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2020/2020-qadir-leveraging-force-formative-assessment.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "cc-by-sa",
+    "oa_url": "https://eprints.gla.ac.uk/view/author/51837.html>,",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{qadir2020leveraging,\n  title     = {{Leveraging the Force of Formative Assessment \\& Feedback for Effective Engineering Education}},\n  author    = {Qadir, J. and Taha, A. M. and Yau, K. L. A. and Ponciano, J. and Hussain, S. and Al-Fuqaha, A. and Imran, M. A.},\n  booktitle = {the 127th American Society of Engineering Education (ASEE) Annual Conference 2020},\n  year      = {2020}\n}"
   },
   {
@@ -6350,11 +6350,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2020/2020-qadir-engineering-education-moving-2020s.pdf",
+    "pdf_version": "acceptedVersion",
+    "pdf_license": "cc-by-sa",
+    "oa_url": "https://eprints.gla.ac.uk/215852/1/215852.pdf",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{qadir2020engineering,\n  title     = {{Engineering Education, Moving into 2020s: Essential Competencies for Effective 21st Century Electrical and Computer Engineers}},\n  author    = {Qadir, J. and Yau, K. A. and Imran, M. A. and Al-Fuqaha, A.},\n  booktitle = {IEEE Frontiers in Education (FIE) Conference},\n  pages     = {1--9},\n  year      = {2020},\n  doi       = {10.1109/FIE44824.2020.9274067}\n}"
   },
   {
@@ -6381,11 +6381,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2020/2020-tabatabai-opportunistic-selection-vehicular-data.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1910.05307",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{tabatabai2020opportunistic,\n  title     = {{Opportunistic Selection of Vehicular Data Brokers as Relay Nodes to the Cloud}},\n  author    = {Tabatabai, S. and Mohammed, I. and Al-Fuqaha, A. and Qadir, J.},\n  booktitle = {the Proceedings of IEEE IEEE Consumer Communications \\& Networking Conference (CCNC)},\n  pages     = {1--6},\n  year      = {2020},\n  doi       = {10.1109/ccnc46108.2020.9045133}\n}"
   },
   {
@@ -6425,7 +6425,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{benaddi2020deep,\n  title     = {{A Deep Reinforcement Learning Based Intrusion Detection System (DRL-IDS) For Securing Wireless Sensor Networks and Internet of Things}},\n  author    = {Benaddi, H. and Ibrahimi, K. and Benslimane, A. and Qadir, J.},\n  booktitle = {12th EAI International Wireless Internet Conference (WICON)},\n  pages     = {73--87},\n  year      = {2020},\n  doi       = {10.1007/978-3-030-52988-8_7}\n}"
   },
   {
@@ -6462,8 +6462,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.52282/icr.v10i2.42",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@misc{zubair2019combating,\n  title     = {{On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition}},\n  author    = {Zubair, T. and Raquib, A. and Qadir, J.},\n  howpublished = {“Islam and Civilization Renewal,” published by IAIS, Malaysia},\n  year      = {2019}\n}"
   },
   {
@@ -6498,7 +6498,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@misc{qadir2019spiritual,\n  title     = {{Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective}},\n  author    = {Qadir, J. and Raquib, A. and Saeed, H.},\n  howpublished = {for inclusion in the forthcoming book Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter},\n  year      = {2019}\n}"
   },
   {
@@ -6536,7 +6536,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@misc{qadir2019sustainableb,\n  title     = {{Sustainable Development Viewed from the Lens of Islam}},\n  author    = {Qadir, J. and Zaman, A.},\n  howpublished = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {10},\n  year      = {2019}\n}"
   },
   {
@@ -6569,11 +6569,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2019/2019-alsarem-deep-learning-rumor-detection.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "cc-by",
+    "oa_url": "https://doi.org/10.1109/access.2019.2947855",
+    "oa_status": "hostable",
     "bibtex": "@article{alsarem2019deep,\n  title     = {{Deep Learning Based Rumor Detection on Microblogging Platforms: A Systematic Review}},\n  author    = {Al-Sarem, M. and Boulila, W. and Al-Harby, M. and Qadir, J. and Alsaeedi, A.},\n  journal = {IEEE Access},\n  volume    = {7},\n  pages     = {152788--152812},\n  year      = {2019},\n  doi       = {10.1109/access.2019.2947855}\n}"
   },
   {
@@ -6608,8 +6608,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/mci.2019.2937607",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{wu2019computational,\n  title     = {{Computational Intelligence for Internet of Things in the Big Data Era (Part I)}},\n  author    = {Wu, C. and Xue, G. and Li, J. and Yau, K. L. and Qadir, J.},\n  journal = {IEEE Computational Intelligence Magazine (CIM)},\n  volume    = {14},\n  year      = {2019}\n}"
   },
   {
@@ -6644,8 +6644,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/61810",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{iqbal2019five,\n  title     = {{Five Decades of the ACM Special Interest Group on Data Communications (SIGCOMM): A Bibliometric Perspective}},\n  author    = {Iqbal, W. and Qadir, J. and Hassan, S. Ul and Javed, R. T. and Mian, A. N. and Crowcroft, J. and Tyson, G.},\n  journal = {ACM Computer Communications Review, (Editorial)},\n  volume    = {49},\n  number    = {5},\n  year      = {2019}\n}"
   },
   {
@@ -6678,11 +6678,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-latif-caveat-emptor-risks-big.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1905.00493",
+    "oa_status": "hostable",
     "bibtex": "@article{latif2019caveat,\n  title     = {{Caveat Emptor: The Risks of Using Big Data for Human Development}},\n  author    = {Latif, S. and Qayyum, A. and Usama, M. and Qadir, J. and Zwitter, A. and Shahzad, M.},\n  journal = {IEEE Technology and Society Magazine},\n  volume    = {38},\n  number    = {3},\n  pages     = {82--90},\n  year      = {2019},\n  doi       = {10.1109/mts.2019.2930273}\n}"
   },
   {
@@ -6720,7 +6720,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2019sustainable,\n  title     = {{Sustainable Development Viewed from the Lens of Islam}},\n  author    = {Qadir, J. and Zaman, A.},\n  journal = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {10},\n  year      = {2019}\n}"
   },
   {
@@ -6758,11 +6758,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-qolomany-leveraging-machine-learning-big.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1904.01460",
+    "oa_status": "hostable",
     "bibtex": "@article{qolomany2019leveraging,\n  title     = {{Leveraging Machine Learning and Big Data for Smart Buildings: A Comprehensive Survey}},\n  author    = {Qolomany, B. and Al-Fuqaha, A. and Gupta, A. and Benhadd, D and Khalil, S. and Qadir, J. and Fong, A.},\n  journal = {IEEE Access},\n  volume    = {7},\n  pages     = {90316--90356},\n  year      = {2019},\n  doi       = {10.1109/access.2019.2926642}\n}"
   },
   {
@@ -6795,11 +6795,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-rana-soft-computing-techniques-dependable.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1801.10472",
+    "oa_status": "hostable",
     "bibtex": "@article{rana2019soft,\n  title     = {{Soft Computing Techniques for Dependable Cyber-Physical Systems}},\n  author    = {Rana, A. and Latif, S. and Ahmad, R. and Khalid, A. and Qadir, J. and Baig, A. and Ishibuchi, H. and Abbas, W.},\n  journal = {IEEE Access},\n  volume    = {7},\n  pages     = {72030--72049},\n  year      = {2019},\n  doi       = {10.1109/access.2019.2920317}\n}"
   },
   {
@@ -6834,11 +6834,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-usama-unsupervised-machine-learning-networking.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1709.06599",
+    "oa_status": "hostable",
     "bibtex": "@article{usama2019unsupervised,\n  title     = {{Unsupervised Machine Learning for Networking: Techniques, Applications and Research Challenges}},\n  author    = {Usama, M. and Raza, A. and Arif, H. and Qadir, J. and Yau, K. L. and Elkhatib, Y. and Hussain, A. and Al-Fuqaha, A.},\n  journal = {IEEE Access},\n  volume    = {7},\n  pages     = {65579--65615},\n  year      = {2019},\n  doi       = {10.1109/access.2019.2916648}\n}"
   },
   {
@@ -6870,7 +6870,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{elbes2019using,\n  title     = {{Using Phase Shift Fingerprints and Inertial Measurements in Support of Precise Localization in Urban Areas}},\n  author    = {Elbes, M. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {Springer Personal and Ubiquitous Computing},\n  volume    = {23},\n  number    = {5},\n  pages     = {861--872},\n  year      = {2019},\n  doi       = {10.1007/s00779-019-01227-y}\n}"
   },
   {
@@ -6902,8 +6902,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/access.2019.2909921",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{yau2019maritime,\n  title     = {{Maritime Networking: Bringing Internet to the Sea}},\n  author    = {Yau, K. A. and Raza, A. and Hashim, W. and Qadir, J. and Wu, C. and Hassan, N.},\n  journal = {IEEE Access},\n  volume    = {7},\n  pages     = {48236--48255},\n  year      = {2019},\n  doi       = {10.1109/access.2019.2909921}\n}"
   },
   {
@@ -6932,11 +6932,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-qayyum-blockchain-rein-new-post.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1903.11899",
+    "oa_status": "hostable",
     "bibtex": "@article{qayyum2019using,\n  title     = {{Using Blockchain to Rein in The New Post-Truth World and Check The Spread of Fake News}},\n  author    = {Qayyum, A. and Qadir, J. and Janjua, U. and Sher, F.},\n  journal = {IT Professional's Special Issue on Blockchain/Fintech},\n  year      = {2019},\n  doi       = {10.1109/mitp.2019.2910503}\n}"
   },
   {
@@ -6968,11 +6968,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-iqbal-bibliometric-analysis-publications-computer.pdf",
+    "pdf_version": "publishedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1903.01517",
+    "oa_status": "hostable",
     "bibtex": "@article{iqbal2019bibliometric,\n  title     = {{A Bibliometric Analysis of Publications in Computer Networking Research}},\n  author    = {Iqbal, W. and Qadir, J. and Tyson, G. and Mian, A. N. and Hassan, S. U. and Crowcroft, J. and Scientometrics},\n  journal = {vol. 119},\n  volume    = {119},\n  number    = {2},\n  pages     = {1121--1155},\n  year      = {2019},\n  doi       = {10.1007/s11192-019-03086-z}\n}"
   },
   {
@@ -7005,11 +7005,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-liaqat-socially-aware-congestion-control.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1903.01617",
+    "oa_status": "hostable",
     "bibtex": "@article{liaqat2019socially,\n  title     = {{Socially-Aware Congestion Control in Ad-Hoc Networks: Current Status and The Way Forward}},\n  author    = {Liaqat, H. B. and Ali, A. and Qadir, J. and Bashir, A. K. and Bilal, M. and Majeed, F.},\n  journal = {Elsevier, Future Generation Computer Systems},\n  volume    = {97},\n  pages     = {634--660},\n  year      = {2019},\n  doi       = {10.1016/j.future.2019.02.017}\n}"
   },
   {
@@ -7046,8 +7046,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://eprints.lancs.ac.uk/id/eprint/130743/1/TCCN_Meehong_for_Pure.pdf",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{ling2019reinforcement,\n  title     = {{A Reinforcement Learning-based Trust Model for Cluster Size Adjustment Scheme in Distributed Cognitive Radio Networks}},\n  author    = {Ling, M. H. and Lim, Y. K. and Qadir, J. and Ni, Q.},\n  journal = {IEEE Transactions on Cognitive Communications and Networking (TCCN)},\n  volume    = {5},\n  number    = {1},\n  year      = {2019},\n  doi       = {10.1109/TCCN.2018.2881135}\n}"
   },
   {
@@ -7080,11 +7080,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-latif-unsupervised-adversarial-domain-adaptation.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1907.06083",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{latif2019unsupervised,\n  title     = {{Unsupervised Adversarial Domain Adaptation for Cross-Lingual Speech Emotion Recognition}},\n  author    = {Latif, S. and Qadir, J. and Bilal, M.},\n  booktitle = {8th International Conference on Affective Computing and Intelligent Interaction (ACII)},\n  pages     = {732--737},\n  year      = {2019},\n  doi       = {10.1109/acii.2019.8925513}\n}"
   },
   {
@@ -7111,11 +7111,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-mohammad-opportunistic-data-ferrying-areas.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1906.00850",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{mohammad2019opportunistic,\n  title     = {{Opportunistic Data Ferrying in Areas with Limited Information and Communications Infrastructure}},\n  author    = {Mohammad, I. and Tabatabai, S. and Al-Fuqaha, A. and Qadir, J.},\n  booktitle = {IEEE 90th Vehicular Technology Conference (VTC2019-Fall), Honolulu, Hawaii, USA},\n  pages     = {1--6},\n  year      = {2019},\n  doi       = {10.1109/VTCFall.2019.8891442}\n}"
   },
   {
@@ -7148,11 +7148,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-usama-adversarial-machine-learning-attack.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1909.12167",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{usama2019adversarial,\n  title     = {{Adversarial Machine Learning Attack on Modulation Classification}},\n  author    = {Usama, M. and Asim, M. and Qadir, J. and Al-Fuqaha, A. and Imran, M. A.},\n  booktitle = {4th International UK-China Emerging Technology (UCET) Conference, Glasgow},\n  pages     = {1--4},\n  year      = {2019},\n  doi       = {10.1109/ucet.2019.8881843}\n}"
   },
   {
@@ -7186,11 +7186,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-farooq-adversarial-ml-attack-self.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1909.12161",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{farooq2019adversarial,\n  title     = {{Adversarial ML Attack on Self Organizing Cellular Networks}},\n  author    = {Farooq, S. and Usama, M. and Qadir, J. and Imran, M. A.},\n  booktitle = {4th International UK-China Emerging Technology (UCET) Conference, Glasgow},\n  pages     = {1--5},\n  year      = {2019},\n  doi       = {10.1109/ucet.2019.8881842}\n}"
   },
   {
@@ -7225,7 +7225,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{usama2019black,\n  title     = {{Black-box Adversarial ML Attack on Modulation Classification}},\n  author    = {Usama, M. and Qadir, J. and Al-Fuqaha, A.},\n  booktitle = {The 15th Asian Internet Engineering Conference (AINTEC), Poster Paper},\n  year      = {2019}\n}"
   },
   {
@@ -7264,7 +7264,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{usama2019generative,\n  title     = {{Generative Adversarial Networks For Launching and Thwarting Adversarial Attacks on Network Intrusion Detection Systems}},\n  author    = {Usama, M. and Asim, M. and Latif, S. and Qadir, J. and Al-Fuqaha, A.},\n  booktitle = {IWCMC2019 Security Symposium},\n  pages     = {78--83},\n  year      = {2019},\n  doi       = {10.1109/iwcmc.2019.8766353}\n}"
   },
   {
@@ -7304,7 +7304,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{usama2019blackb,\n  title     = {{Black-box Adversarial Machine Learning Attack on Network Traffic Classification}},\n  author    = {Usama, M. and Qayyum, A. and Qadir, J. and Al-Fuqaha, A.},\n  booktitle = {IWCMC2019 Security Symposium},\n  pages     = {84--89},\n  year      = {2019},\n  doi       = {10.1109/iwcmc.2019.8766505}\n}"
   },
   {
@@ -7341,7 +7341,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{iqbal2019early,\n  title     = {{Early Student Grade Prediction: An Empirical Study}},\n  author    = {Iqbal, Z. and Qayyum, A. and Latif, S. and Qadir, J.},\n  booktitle = {2nd IEEE International Conference on Advancements in Computational Sciences (ICACS'19)},\n  pages     = {1--7},\n  year      = {2019},\n  doi       = {10.23919/icacs.2019.8689136}\n}"
   },
   {
@@ -7377,7 +7377,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{hussain2019online,\n  title     = {{Online Interactivity Tools to Support Student Centered Learning in Large Classes}},\n  author    = {Hussain, S. and Abbasi, Q. H. and Ansari, S. I. and Qadir, J. and Imran, M. A.},\n  booktitle = {12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 Apr 2019},\n  year      = {2019}\n}"
   },
   {
@@ -7410,11 +7410,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2019/2019-khalid-fademl-understanding-impact-pre.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1811.01444",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{khalid2019fademl,\n  title     = {{FAdeML: Understanding the Impact of Pre-Processing Noise Filtering on Adversarial Machine Learning}},\n  author    = {Khalid, F. and Hanif, M. A. and Rehman, S. and Qadir, J. and Shafique, Muhammad},\n  booktitle = {22nd Design, Automation and Test in Europe (DATE)},\n  pages     = {902--907},\n  year      = {2019},\n  doi       = {10.23919/date.2019.8715141}\n}"
   },
   {
@@ -7450,7 +7450,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{idrees2019urdu,\n  title     = {{Urdu Language Based Information Dissemination System for Low-Literate Farmers}},\n  author    = {Idrees, F. and Qadir, J. and Mehmood, H. and Hassan, S. U. and Batool, A.},\n  booktitle = {Tenth International Conference on Information and Communication Technologies and Development (ICTD)},\n  pages     = {1--5},\n  year      = {2019},\n  doi       = {10.1145/3287098.3287126}\n}"
   },
   {
@@ -7485,7 +7485,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@misc{qadir2018ends,\n  title     = {{The Ends of Development in Islam: Seven Overlapping Concepts}},\n  author    = {Qadir, J. and Zaman, A.},\n  howpublished = {Journal of Islamic Banking and Finance},\n  volume    = {35},\n  year      = {2018}\n}"
   },
   {
@@ -7519,7 +7519,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@misc{qadir2018islamic,\n  title     = {{The Islamic Worldview and Development Ideals}},\n  author    = {Qadir, J.},\n  howpublished = {Journal of Islamic Banking and Finance},\n  volume    = {35},\n  pages     = {33--44},\n  year      = {2018}\n}"
   },
   {
@@ -7557,7 +7557,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{pervez2018wireless,\n  title     = {{Wireless Technologies for Emergency Response: A Comprehensive Review and Some Guidelines}},\n  author    = {Pervez, F. and Khalil, M. and Yaqoob, T. and Qadir, J. and Ashraf, U. and Shahzad, M.},\n  journal = {IEEE Access},\n  volume    = {6},\n  pages     = {71814--71838},\n  year      = {2018},\n  doi       = {10.1109/access.2018.2878898}\n}"
   },
   {
@@ -7594,7 +7594,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{mu2018flow,\n  title     = {{SDN Flow Entry Management Using Reinforcement Learning}},\n  author    = {Mu, T. and Al-Fuqaha, A. and Shuaib, K. and Sallabi, F. M.},\n  journal = {J. Qadir in ACM Transactions on Autonomous and Adaptive Systems},\n  volume    = {13},\n  number    = {2},\n  pages     = {1--23},\n  year      = {2018},\n  doi       = {10.1145/3281032}\n}"
   },
   {
@@ -7625,11 +7625,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2018/2018-latif-phonocardiographic-sensing-deep-learning.pdf",
+    "pdf_version": "submittedVersion",
+    "pdf_license": "other-oa",
+    "oa_url": "http://arxiv.org/abs/1801.08322",
+    "oa_status": "hostable",
     "bibtex": "@article{latif2018phonocardiographic,\n  title     = {{Phonocardiographic Sensing using Deep Learning for Abnormal Heartbeat Detection}},\n  author    = {Latif, S. and Usman, M. and Rana, R. and Qadir, J.},\n  journal = {IEEE Sensors},\n  volume    = {18},\n  number    = {22},\n  pages     = {9393--9400},\n  year      = {2018},\n  doi       = {10.1109/jsen.2018.2870759}\n}"
   },
   {
@@ -7663,8 +7663,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1007/s12652-018-1060-4",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{yau2018towards,\n  title     = {{Towards enhancement of communication systems, networks and applications for smart environment}},\n  author    = {Yau, K. A. and Chieng, D. and Qadir, J. and Ni, Q.},\n  journal = {Journal of Ambient Intelligence and Humanized Computing},\n  volume    = {10},\n  number    = {4},\n  pages     = {1271--1273},\n  year      = {2018},\n  doi       = {10.1007/s12652-018-1060-4}\n}"
   },
   {
@@ -7698,11 +7698,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2018/2018-aman-impersonation-detection-line-sight.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1805.12403",
+    "oa_status": "hostable",
     "bibtex": "@article{aman2018impersonation,\n  title     = {{Impersonation Detection in Line-of-Sight Underwater Acoustic Sensor Networks}},\n  author    = {Aman, W. and Rehman, M. U. and Qadir, J. and Pervaiz, H. and Ni, Q.},\n  journal = {IEEE Access},\n  volume    = {6},\n  pages     = {44459--44472},\n  year      = {2018},\n  doi       = {10.1109/access.2018.2863945}\n}"
   },
   {
@@ -7735,11 +7735,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2018/2018-yau-cognition-inspired-5g-cellular.pdf",
+    "pdf_version": "acceptedVersion",
+    "pdf_license": "cc-by-sa",
+    "oa_url": "http://eprints.gla.ac.uk/164129/7/164129.pdf",
+    "oa_status": "hostable",
     "bibtex": "@article{yau2018cognition,\n  title     = {{Cognition-inspired 5G cellular networks: a review and the road ahead}},\n  author    = {Yau, K. A. and Qadir, J. and Wu, C. and Imran, M. A. and Ling, M. H.},\n  journal = {IEEE Access},\n  volume    = {6},\n  pages     = {35072--35090},\n  year      = {2018},\n  doi       = {10.1109/access.2018.2849446}\n}"
   },
   {
@@ -7767,11 +7767,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2018/2018-pervez-memory-user-centric-backhaul.pdf",
+    "pdf_version": "acceptedVersion",
+    "pdf_license": "cc-by-sa",
+    "oa_url": "http://eprints.gla.ac.uk/164123/1/164123.pdf",
+    "oa_status": "hostable",
     "bibtex": "@article{pervez2018memory,\n  title     = {{Memory-Based User-Centric Backhaul-Aware User Cell Association Scheme}},\n  author    = {Pervez, F. and Jaber, M. and Qadir, J. and Shahzad, M. and Imran, M.},\n  journal = {IEEE Access},\n  volume    = {6},\n  pages     = {39595--39605},\n  year      = {2018},\n  doi       = {10.1109/access.2018.2850752}\n}"
   },
   {
@@ -7802,11 +7802,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2018/2018-saleh-shedding-light-dark-corners.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1803.02816",
+    "oa_status": "hostable",
     "bibtex": "@article{saleh2018shedding,\n  title     = {{Shedding Light on the Dark Corners of the Internet: A Survey of Tor Research}},\n  author    = {Saleh, S. and Qadir, J. and Ilyas, U.},\n  journal = {Elsevier Journal of Network Computer Applications (JNCA)},\n  volume    = {114},\n  pages     = {1--28},\n  year      = {2018},\n  doi       = {10.1016/j.jnca.2018.04.002}\n}"
   },
   {
@@ -7844,7 +7844,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{javed2018community,\n  title     = {{Community Detection in Networks: A Multidisciplinary Review}},\n  author    = {Javed, M. A. and Younis, M. S. and Latif, S. and Qadir, J. and Baig, A.},\n  journal = {Elsevier Journal of Network Computer Applications (JNCA)},\n  volume    = {108},\n  pages     = {87--111},\n  year      = {2018},\n  doi       = {10.1016/j.jnca.2018.02.011}\n}"
   },
   {
@@ -7881,7 +7881,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{editorial2018computational,\n  title     = {{Computational Intelligence For Mobile Network Optimization}},\n  author    = {Editorial, Special Issue and Qadir, J. and Hussain, A. and Yau, K. A. and Imran, M. A. and Wolisz, A.},\n  journal = {IEEE Computational Intelligence Magazine},\n  year      = {2018}\n}"
   },
   {
@@ -7921,7 +7921,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{shafqat2018data,\n  title     = {{Big Data Analytics Enhanced Healthcare Systems: A Review}},\n  author    = {Shafqat, S. and Abbasi, S. and Rasool, R. and Qadir, J. and Amjad, T. and Ahmad, H. F.},\n  journal = {Journal of Supercomputing, Special Issue on Cloud computing, Big data and IoT},\n  year      = {2018},\n  doi       = {10.1007/s11227-017-2222-4}\n}"
   },
   {
@@ -7957,7 +7957,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@misc{hussain2018enhancing,\n  title     = {{Enhancing computer programming skills through Virtual Reality}},\n  author    = {Hussain, S. and Abbasi, Q. H. and Imran, M. A. and Qadir, J.},\n  howpublished = {Computing Education Practice, Durham, United Kingdom},\n  year      = {2018}\n}"
   },
   {
@@ -7985,11 +7985,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2018/2018-qayyum-exploring-media-bias-toxicity.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1811.06693",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{qayyum2018exploring,\n  title     = {{Exploring Media Bias and Toxicity in South Asian Political Discourse}},\n  author    = {Qayyum, A. and Gilani, Z. and Latif, S. and Qadir, J. and Singh, J.},\n  booktitle = {12th IEEE International Conference on Open Source Systems and Technologies (ICOSST)},\n  pages     = {01--08},\n  year      = {2018},\n  doi       = {10.1109/icosst.2018.8632183}\n}"
   },
   {
@@ -8029,7 +8029,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{latif2018automating,\n  title     = {{Automating Motion Correction in Multishot MRI Using Generative Adversarial Networks}},\n  author    = {Latif, S. and Usman, M. and Asim, M. and Qadir, J.},\n  booktitle = {Medical Imaging meets NIPS workshop (MED-NIPS)},\n  year      = {2018}\n}"
   },
   {
@@ -8067,7 +8067,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{latif2018cross,\n  title     = {{Cross Lingual Speech Emotion Recognition: Urdu vs. Western Languages}},\n  author    = {Latif, S. and Qayyum, A. and Usman, M. and Qadir, J},\n  booktitle = {ACM International Conference on Frontiers of Information (FIT), Islamabad, Pakistan},\n  pages     = {88--93},\n  year      = {2018},\n  doi       = {10.1109/fit.2018.00023}\n}"
   },
   {
@@ -8103,7 +8103,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2018teaching,\n  title     = {{Teaching Ethics, (Islamic) Values and Technology: Musings on Course Design and Experience}},\n  author    = {Qadir, J. and Suleman, M.},\n  booktitle = {International Conference on Computer and Communication Engineering (ICCCE)},\n  pages     = {486--491},\n  year      = {2018},\n  doi       = {10.1109/iccce.2018.8539286}\n}"
   },
   {
@@ -8142,7 +8142,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qayyum2018quran,\n  title     = {{Quran Reciter Identification: A Deep Learning Approach}},\n  author    = {Qayyum, A. and Latif, S. and Qadir, J.},\n  booktitle = {International Conference on Computer and Communication Engineering (ICCCE)},\n  pages     = {492--497},\n  year      = {2018},\n  doi       = {10.1109/iccce.2018.8539336}\n}"
   },
   {
@@ -8174,11 +8174,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2018/2018-farooq-user-transmit-power-minimization.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1810.05804",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{farooq2018user,\n  title     = {{User Transmit Power Minimization through Uplink Resource Allocation and User Association in HetNets}},\n  author    = {Farooq, U. B. and Hashmi, U. S. and Qadir, J. and Imran, A. and Mian, A. N.},\n  booktitle = {IEEE Global Communications Conference (Globecom), Green Communication Systems and Networks Symposium (GCSN)},\n  pages     = {1--6},\n  year      = {2018},\n  doi       = {10.1109/glocom.2018.8647409}\n}"
   },
   {
@@ -8210,11 +8210,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2018/2018-usama-adversarial-attacks-cognitive-self.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1810.07242",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{usama2018adversarial,\n  title     = {{Adversarial Attacks on Cognitive Self-Organizing Networks: The Challenge and the Way Forward}},\n  author    = {Usama, M. and Qadir, J. and Al-Fuqaha, A.},\n  booktitle = {Workshop on Cognitive Networks (CogniNets'18), Proceedings of IEEE Local Computer Networks (LCN)},\n  pages     = {90--97},\n  year      = {2018},\n  doi       = {10.1109/lcnw.2018.8628538}\n}"
   },
   {
@@ -8246,11 +8246,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2018/2018-latif-variational-autoencoders-learning-latent.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1712.08708",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{latif2018variational,\n  title     = {{Variational Autoencoders for Learning Latent Representations of Speech Emotion: A Preliminary Study}},\n  author    = {Latif, S. and Rana, R. and Qadir, J. and Epps, J.},\n  booktitle = {19th Annual Conference of the International Speech Communication Association, INTERSPEECH},\n  pages     = {3107--3111},\n  year      = {2018},\n  doi       = {10.21437/interspeech.2018-1568}\n}"
   },
   {
@@ -8287,7 +8287,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{latif2018transfer,\n  title     = {{Transfer Learning for Improving Speech Emotion Classification Accuracy}},\n  author    = {Latif, S. and Rana, R. and Younis, S. and Qadir, J. and Epps, J.},\n  booktitle = {19th Annual Conference of the International Speech Communication Association, INTERSPEECH},\n  pages     = {257--261},\n  year      = {2018},\n  doi       = {10.21437/interspeech.2018-1625}\n}"
   },
   {
@@ -8321,8 +8321,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1145/3229584.3229588",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{yaqoob2018analyzing,\n  title     = {{On Analyzing Self-Driving Networks}},\n  author    = {Yaqoob, T. and Usama, M. and Qadir, J. and Tyson, G.},\n  booktitle = {ACM SIGCOMM Afternoon Workshop on Self-Driving Networks},\n  pages     = {1--7},\n  year      = {2018},\n  doi       = {10.1145/3229584.3229588}\n}"
   },
   {
@@ -8364,7 +8364,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{villapol2018sustainable,\n  title     = {{A Sustainable Connectivity Model of the Internet Access Technologies in Rural and Low-Income Areas}},\n  author    = {Villapol, M. E. and Liu, W. and Gutierrez, J. and Qadir, J. and Gordon, S. and Tan, J. and Chiaraviglio, L. and Wu, J. and Zhang, W.},\n  booktitle = {3rd EAI International Conference on Smart Grid and Innovative Frontiers in Telecommunications (SmartGIFT'18)},\n  pages     = {93--102},\n  year      = {2018},\n  doi       = {10.1007/978-3-319-94965-9_10}\n}"
   },
   {
@@ -8408,7 +8408,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{naseer2018sustainable,\n  title     = {{A Sustainable Marriage of Telcos and Transport in the Era of Big Data: Are We Ready?}},\n  author    = {Naseer, S. and Liu, W. and Sarkar, N. and Chong, P. H. Joo and Lai, E. and Ma, M. and Prasad, R. and Rizavi, S. S. and Danh, T. C. and Chiaraviglio, L. and Qadir, J. and Cao, Y. and Wu, J. and Lutui, R. and Manzoor, S.},\n  booktitle = {3rd EAI International Conference on Smart Grid and Innovative Frontiers in Telecommunications (SmartGIFT'18)},\n  pages     = {210--219},\n  year      = {2018},\n  doi       = {10.1007/978-3-319-94965-9_21}\n}"
   },
   {
@@ -8449,7 +8449,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@incollection{latif2018mobile,\n  title     = {{Mobile Technologies for Managing Non-Communicable-Diseases in the Developing Countries}},\n  author    = {Latif, S. and Khan, M. Y. and Qayyum, A. and Qadir, J. and Usman, M. and Ali, S. M. and Abbasi, Q. H. and Imran, M. A.},\n  booktitle = {“Mobile Applications and Solutions for Social Inclusion”, IGI-Global},\n  year      = {2018}\n}"
   },
   {
@@ -8481,11 +8481,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2017/2017-harris-persuasive-technology-human-development.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1708.08758",
+    "oa_status": "hostable",
     "bibtex": "@article{harris2017persuasive,\n  title     = {{Persuasive Technology for Human Development: Review and Case Study}},\n  author    = {Harris, A. and Islam, S. and Qadir, J. and Khan, U. A.},\n  journal = {EAI Endorsed Transactions on Serious Games 17(12): e4},\n  volume    = {4},\n  number    = {12},\n  year      = {2017},\n  doi       = {10.4108/eai.8-12-2017.153401}\n}"
   },
   {
@@ -8523,8 +8523,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.3390/fi9040093",
+    "oa_status": "hostable",
     "bibtex": "@article{latif2017wireless,\n  title     = {{How 5G Wireless (And Concomitant Technologies) Will Revolutionize Healthcare?}},\n  author    = {Latif, S. and Qadir, J. and Farooq, S. and Imran, M. A.},\n  journal = {Special Issue on Communications and Computing for Sustainable Development Goals, MDPI Future Internet Journal, Emerging Sources Citation Index (ESCI) indexed},\n  volume    = {9},\n  number    = {4},\n  year      = {2017},\n  doi       = {10.3390/fi9040093}\n}"
   },
   {
@@ -8562,8 +8562,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.3390/fi9040094",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2017approximate,\n  title     = {{Approximate Networking for Universal Internet Access}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Farooq, U. B. and Usama, M. and Imran, M. A. and Shafique, M.},\n  journal = {Special Issue on Communications and Computing for Sustainable Development Goals, MDPI Future Internet Journal, Emerging Sources Citation Index (ESCI) indexed},\n  volume    = {9},\n  number    = {4},\n  year      = {2017},\n  doi       = {10.3390/fi9040094}\n}"
   },
   {
@@ -8600,7 +8600,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{javed2017budget,\n  title     = {{RL-Budget: A cluster size adjustment scheme for cognitive radio networks}},\n  author    = {Javed, Z. and Yau, K. A. and Mohamad, H. and Ramli, N. and Qadir, J. and Ni, Q.},\n  journal = {IEEE Access},\n  volume    = {6},\n  pages     = {1055--1072},\n  year      = {2017},\n  doi       = {10.1109/ACCESS.2017.2777867}\n}"
   },
   {
@@ -8641,8 +8641,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://eprints.gla.ac.uk/156568/1/156568.pdf",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{qadir2017healthcare,\n  title     = {{Healthcare Informatics for the Developing World}},\n  author    = {Qadir, J. and Rehman, M and Rehmani, M. and Pathan, A and Imran, M. A. and Hussain, A. and Rana, R. and Luo, B. and Editorial, Special Section},\n  journal = {IEEE Access},\n  year      = {2017},\n  doi       = {10.1109/ACCESS.2017.2783118}\n}"
   },
   {
@@ -8673,7 +8673,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2017learning,\n  title     = {{Learning 101: The Untaught Basics}},\n  author    = {Qadir, J. and Imran, M. A.},\n  journal = {(February 13},\n  volume    = {37},\n  number    = {3},\n  pages     = {33--38},\n  year      = {2017},\n  doi       = {10.1109/MPOT.2017.2749408}\n}"
   },
   {
@@ -8711,8 +8711,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://eprints.usq.edu.au/30054/1/Health_Informatics_V3.pdf",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{latif2017mobile,\n  title     = {{Mobile Health in the Developing World: Review of Literature and Lessons from A Case Study}},\n  author    = {Latif, S. and Rana, R. and Qadir, J. and Imran, M. and Younis, S.},\n  journal = {IEEE Access},\n  volume    = {5},\n  pages     = {11540--11556},\n  year      = {2017},\n  doi       = {10.1109/access.2017.2710800}\n}"
   },
   {
@@ -8745,7 +8745,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{elkhatib2017using,\n  title     = {{On Using Micro-Clouds to Deliver the Fog}},\n  author    = {Elkhatib, Y. and Porter, B. and Ribeiro, H. and Zhani, M. F. and Qadir, J. and Riviere, E.},\n  journal = {IEEE Internet Computing, Special Issue on Fog Computing},\n  volume    = {21},\n  number    = {2},\n  pages     = {8--15},\n  year      = {2017},\n  doi       = {10.1109/MIC.2017.35}\n}"
   },
   {
@@ -8776,11 +8776,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2017/2017-ahmed-reliability-modeling-analysis-communication.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1612.08910",
+    "oa_status": "hostable",
     "bibtex": "@article{ahmed2017reliability,\n  title     = {{Reliability Modeling and Analysis of Communication Networks}},\n  author    = {Ahmed, W. and Pervez, U. and Qadir, J. and Hasan, O.},\n  journal = {Elsevier Journal of Network Computer Applications (JNCA)},\n  volume    = {78},\n  year      = {2017},\n  doi       = {10.1016/j.jnca.2016.11.008}\n}"
   },
   {
@@ -8813,8 +8813,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://researchopen.lsbu.ac.uk/2875/1/Paper.pdf",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{arif2017machine,\n  title     = {{Machine Learning based Optimized Live Virtual Machine Migration over WAN Links}},\n  author    = {Arif, M. and Kiani, A. and Qadir, J.},\n  journal = {Springer Telecommunication Systems},\n  volume    = {64},\n  number    = {2},\n  pages     = {245--257},\n  year      = {2017},\n  doi       = {10.1007/s11235-016-0173-3}\n}"
   },
   {
@@ -8852,7 +8852,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{yau2017survey,\n  title     = {{A Survey on Reinforcement Learning Models and Algorithms for Traffic Signal Control}},\n  author    = {Yau, K. A. and Qadir, J. and Khoo, H. L. and Ling, M. H. and Komisarczuk, P.},\n  journal = {ACM Computing Surveys},\n  volume    = {50},\n  number    = {3},\n  pages     = {1--38},\n  year      = {2017},\n  doi       = {10.1145/3068287}\n}"
   },
   {
@@ -8887,7 +8887,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{malik2017measurement,\n  title     = {{A Measurement Study of Open Source SDN Layers in OpenStack under Network Perturbation}},\n  author    = {Malik, A. and Ahmed, J. and Qadir, J. and Ilyas, M. U.},\n  journal = {Elsevier Computer Communications (COMCOM)},\n  volume    = {102},\n  pages     = {139--149},\n  year      = {2017},\n  doi       = {10.1016/j.comcom.2016.12.014}\n}"
   },
   {
@@ -8920,7 +8920,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@misc{harris2017persuasiveb,\n  title     = {{Persuasive Technology for Development}},\n  author    = {Harris, A. and Qadir, J.},\n  howpublished = {4th FEIAP Convention 2017, Organized by the Pakistan Engineering Council (PEC), and the National University of Sciences \\& Technology (NUST), 16th May},\n  year      = {2017}\n}"
   },
   {
@@ -8958,7 +8958,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@misc{latif2017artificial,\n  title     = {{Artificial Intelligence as an Enabler for Cognitive Self-Organizing Future Networks}},\n  author    = {Latif, S. and Pervez, F. and Usama, M. and Qadir, J.},\n  howpublished = {the Special Issue on “Enabling Mobile Computing and Cognitive Networks through Artificial Intelligence” published in IEEE Communications Society (ComSoc)'s blog on Cognitive Radio Networking and Security, Feb 2017},\n  year      = {2017}\n}"
   },
   {
@@ -8984,11 +8984,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2017/2017-latif-deep-autoencoders-facial-expression.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1801.08329",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{latif2017using,\n  title     = {{Using Deep Autoencoders for Facial Expression Recognition}},\n  author    = {Latif, S. and Usman, M. and Qadir, J.},\n  booktitle = {13th IEEE International Conference on Emerging Technologies (ICET'2017)},\n  pages     = {1--6},\n  year      = {2017},\n  doi       = {10.1109/icet.2017.8281753}\n}"
   },
   {
@@ -9032,7 +9032,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{villapol2017connecting,\n  title     = {{Connecting the Unconnected 10\\% of New Zealanders by 2025: Is a MahiTahi Approach Possible?}},\n  author    = {Villapol, M. and Liu, W. and Gutierrez, J. A. and Chiaraviglio, L. and Sathiaseelan, A. and Wu, J. and Bagula, A. and Qadir, J. and Song, J. and Zhang, W. and Gregory, M. A.},\n  booktitle = {Second International Workshop on Data Intensive Computing and Communications for Sustainable Development, International Telecommunication Networks and Applications Conference (ITNAC'2017)},\n  pages     = {1--7},\n  year      = {2017},\n  doi       = {10.1109/atnac.2017.8215429}\n}"
   },
   {
@@ -9066,7 +9066,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{idrees2017weather,\n  title     = {{Weather Forecast Information Dissemination Design For Low-Literate Farmers: A Preliminary Exploratory Study}},\n  author    = {Idrees, F. and Batool, A. and Qadir, J.},\n  booktitle = {Ninth International Conference on Information \\& Communication Technologies and Development (ICTD 2017)},\n  pages     = {1--5},\n  year      = {2017},\n  doi       = {10.1145/3136560.3136596}\n}"
   },
   {
@@ -9104,7 +9104,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{pervez2017fuzzy,\n  title     = {{Fuzzy Q-Learning-Based User-Centric Backhaul-Aware User Cell Association Scheme}},\n  author    = {Pervez, F. and Jaber, M. and Qadir, J. and Younis, M. S. and Imran, M. A.},\n  booktitle = {13th International Wireless Communications \\& Mobile Computing Conference (IWCMC)},\n  pages     = {1840--1845},\n  year      = {2017},\n  doi       = {10.1109/iwcmc.2017.7986564}\n}"
   },
   {
@@ -9137,11 +9137,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2017/2017-khalil-feasibility-architecture-cost-considerations.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1702.01681",
+    "oa_status": "hostable",
     "bibtex": "@inproceedings{khalil2017feasibility,\n  title     = {{Feasibility, Architecture and Cost Considerations of Using TVWS for Rural Internet Access in 5G}},\n  author    = {Khalil, M. and Qadir, J. and Onireti, O. and Imran, M. A. and Younis, M. S.},\n  booktitle = {5G Universal Access workshop in conjunction with the 18th IEEE International Conference on Intelligence in Next Generation Networks (ICIN)},\n  pages     = {23--30},\n  year      = {2017},\n  doi       = {10.1109/icin.2017.7899245}\n}"
   },
   {
@@ -9180,7 +9180,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@incollection{hassan2017universal,\n  title     = {{5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage}},\n  author    = {Hassan, S. A. and Omar, M. Shahmeer and Imran, M. A. and Jayakody, N. K.},\n  booktitle = {J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley},\n  year      = {2017}\n}"
   },
   {
@@ -9213,7 +9213,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@misc{zaman2016putting,\n  title     = {{Putting Social Justice First: The Case of Islamic Economics}},\n  author    = {Zaman, A. and Qadir, J.},\n  howpublished = {Journal of Islamic Banking \\& Finance. Oct–Dec 2017},\n  volume    = {34},\n  number    = {4},\n  pages     = {87--99},\n  year      = {2016}\n}"
   },
   {
@@ -9249,8 +9249,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1186/s41018-016-0013-9",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2016crisis,\n  title     = {{Crisis Analytics: Big Data Driven Crisis Response}},\n  author    = {Qadir, J. and Ali, A. and Rasool, R. and Zwitter, A. and Sathiaseelan, A. and Crowcroft, J.},\n  journal = {Journal of International Humanitarian Action, pages 1–12},\n  year      = {2016},\n  doi       = {10.1186/s41018-016-0013-9}\n}"
   },
   {
@@ -9286,7 +9286,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{hameed2016cost,\n  title     = {{Low-cost Sustainable Wireless Internet Service For Rural Areas}},\n  author    = {Hameed, A. and Mian, A. N. and Qadir, J.},\n  journal = {Springer Wireless Networks (WINET)},\n  volume    = {24},\n  number    = {5},\n  pages     = {1439--1450},\n  year      = {2016},\n  doi       = {10.1007/s11276-016-1415-8}\n}"
   },
   {
@@ -9322,7 +9322,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@article{qadir2016resource,\n  title     = {{Resource Pooling for Wireless Networks: Solutions for the Developing World}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Wang, L. and Crowcroft, J.},\n  journal = {Editorial Note published in ACM Computer Communication Review (CCR)},\n  year      = {2016}\n}"
   },
   {
@@ -9358,7 +9358,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@article{riaz2016intrusion,\n  title     = {{Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions}},\n  author    = {Riaz, A. and Ahmad, H. F. and Kiani, A. K. and Qadir, J. and Rasool, R. and Younis, U.},\n  journal = {Journal of Information Science and Engineering: Special Issue on Cloud Computing and Security},\n  year      = {2016}\n}"
   },
   {
@@ -9392,8 +9392,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/access.2016.2619719",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{amin2016comparing,\n  title     = {{Comparing Oversampling Techniques To Handle The Class Imbalance Problem: A Customer Churn Prediction Case Study}},\n  author    = {Amin, A. and Anwar, S. and Adnan, A. and Nawaz, M. and Howard, N. and Qadir, J. and Hawalah, A. and Hussain, A.},\n  journal = {IEEE Access},\n  volume    = {4},\n  pages     = {7940--7957},\n  year      = {2016},\n  doi       = {10.1109/ACCESS.2016.2619719}\n}"
   },
   {
@@ -9430,7 +9430,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{habib2016past,\n  title     = {{The Past, Present, and Future of Transport-Layer Multipath}},\n  author    = {Habib, S. and Qadir, J. and Ali, A. and Habib, D. and Li, M. and Sathiaseelan, A.},\n  journal = {Elsevier Journal of Network Computer Applications (JNCA)},\n  volume    = {75},\n  pages     = {236--258},\n  year      = {2016},\n  doi       = {10.1016/j.jnca.2016.09.005}\n}"
   },
   {
@@ -9471,7 +9471,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{raza2016route,\n  title     = {{Route Selection for Multi-hop Cognitive Radio Networks using Reinforcement Learning: An Experimental Study}},\n  author    = {Raza, S. A. and Yau, K. A. and Qadir, J. and Mohamad, H. and Ramli, N. and Keoh, S. L.},\n  journal = {IEEE Access},\n  volume    = {4},\n  pages     = {6304--6324},\n  year      = {2016},\n  doi       = {10.1109/ACCESS.2016.2613122}\n}"
   },
   {
@@ -9509,7 +9509,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2016ieee,\n  title     = {{IEEE Communication Magazine Feature Topic Editorial: Wireless Technologies for Development}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Zennaro, M. and Bhatti, S. and Wolisz, A. and Govindan, K.},\n  journal = {IEEE Communications Magazine},\n  volume    = {54},\n  number    = {7},\n  pages     = {18--19},\n  year      = {2016},\n  doi       = {10.1109/MCOM.2016.7509373}\n}"
   },
   {
@@ -9545,8 +9545,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://eprints.uwe.ac.uk/30190/1/1.%20ADVEI-D-16-00028R2.pdf",
+    "oa_status": "hostable",
     "bibtex": "@article{bilal2016data,\n  title     = {{Big Data in the Construction Industry: A Review of Present Status, Opportunities, and Future Trends}},\n  author    = {Bilal, M. and Oyedele, L. and Qadir, J. and Munir, K. and Akinade, O. and Ajayi, S. and Owolabi, H. and Pasha, M.},\n  journal = {Elsevier Advanced Engineering Informatics},\n  volume    = {30},\n  number    = {3},\n  pages     = {500--521},\n  year      = {2016},\n  doi       = {10.1016/j.AEI.2016.07.001}\n}"
   },
   {
@@ -9577,11 +9577,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2016/2016-mehboob-genetic-algorithms-wireless-networking.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1411.5323",
+    "oa_status": "hostable",
     "bibtex": "@article{mehboob2016genetic,\n  title     = {{Genetic Algorithms in Wireless Networking: Techniques, Applications, and Issues}},\n  author    = {Mehboob, U. and Qadir, J. and Ali, S. and Vasilakos, A.},\n  journal = {Springer Soft Computing (SOCO)},\n  volume    = {20},\n  number    = {6},\n  year      = {2016},\n  doi       = {10.1007/s00500-016-2070-9}\n}"
   },
   {
@@ -9617,7 +9617,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{ahad2016neural,\n  title     = {{Neural Networks in Wireless Networking: Techniques, Applications and Guidelines}},\n  author    = {Ahad, N. and Qadir, J. and Ahsan, N.},\n  journal = {Elsevier Journal of Network Computer Applications (JNCA)},\n  volume    = {68},\n  pages     = {1--27},\n  year      = {2016},\n  doi       = {10.1016/j.jnca.2016.04.006}\n}"
   },
   {
@@ -9652,8 +9652,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1186/s41044-016-0002-4",
+    "oa_status": "hostable",
     "bibtex": "@article{ali2016data,\n  title     = {{Big Data For Development: Applications and Techniques}},\n  author    = {Ali, Anwaar and Qadir, J. and Rasool, R. and Sathiaseelan, A. and Zwitter, A.},\n  journal = {Springer Nature/ BioMed Central's Big Data Analytics Journal (BDAN)},\n  volume    = {1},\n  number    = {1},\n  year      = {2016},\n  doi       = {10.1186/s41044-016-0002-4}\n}"
   },
   {
@@ -9689,7 +9689,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{bilal2016datab,\n  title     = {{Big Data Architecture for Construction Waste Analytics (CWA): A Conceptual Framework}},\n  author    = {Bilal, M. and Oyedele, L. and Akindae, O. and Ajayi, S. and Alaka, H. and Owolabi, H. and Qadir, J. and Pasha, M. and Bello, S.},\n  journal = {Elsevier Journal of Building Engineering (SCOPUS indexed)},\n  volume    = {6},\n  pages     = {144--156},\n  year      = {2016},\n  doi       = {10.1016/j.jobe.2016.03.002}\n}"
   },
   {
@@ -9728,8 +9728,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://eprints.uwe.ac.uk/31150/3/Critical%20BIM%20Features%20-%20Final%20Draft.pdf",
+    "oa_status": "hostable",
     "bibtex": "@article{bilal2016analysis,\n  title     = {{Analysis of Critical Features and Evaluation of BIM Software: Towards a Plugin for Construction Waste Minimisation}},\n  author    = {Bilal, M. and Oyedele, L. and Qadir, J. and Munir, K. and Akinade, O. and Ajayi, S. and Alaka, H. and Owolabi, H.},\n  journal = {Taylor \\& Francis Journal of Sustainable Building Technology \\& Urban Development (SCOPUS indexed)},\n  volume    = {6},\n  number    = {4},\n  pages     = {211--228},\n  year      = {2016},\n  doi       = {10.1080/2093761X.2015.1116415}\n}"
   },
   {
@@ -9764,7 +9764,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@misc{ali2016datab,\n  title     = {{Big data for human development}},\n  author    = {Ali, A. and Qadir, J.},\n  howpublished = {BioMedCentral's blog},\n  year      = {2016}\n}"
   },
   {
@@ -9798,7 +9798,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{iqbal2016admission,\n  title     = {{Admission Criteria in Pakistani Universities: A Case Study}},\n  author    = {Iqbal, Z. and Qadir, J. and Mian, A. N.},\n  booktitle = {14th International Conference on Frontiers of Information (FIT), Islamabad, Pakistan},\n  pages     = {69--74},\n  year      = {2016},\n  doi       = {10.1109/fit.2016.021}\n}"
   },
   {
@@ -9833,7 +9833,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{zafar2016sentiment,\n  title     = {{Sentiment analysis of controversial topics on Pakistan's Twitter user-base}},\n  author    = {Zafar, S. and Sarwar, U. and Gilani, Z. and Qadir, J.},\n  booktitle = {Seventh ACM Symposium on Computing and Development (DEV), Nairobi, Kenya},\n  pages     = {1--4},\n  year      = {2016},\n  doi       = {10.1145/3001913.3006644}\n}"
   },
   {
@@ -9868,7 +9868,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ali2016exploring,\n  title     = {{MP-ALM: Exploring Reliable Multipath Multicast Streaming with Multipath TCP}},\n  author    = {Ali, A. and Qadir, J. and Sathiaseelan, A. and Crowcroft, J.},\n  booktitle = {Proceedings of the 41st Annual IEEE Conference on Local Computer Networks (LCN), Dubai, UAE},\n  pages     = {138--146},\n  year      = {2016},\n  doi       = {10.1109/lcn.2016.26}\n}"
   },
   {
@@ -9906,7 +9906,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "none-found",
     "bibtex": "@inproceedings{onireti2016solution,\n  title     = {{5G Solution for Universal Internet Access}},\n  author    = {Onireti, O. and Qadir, J. and Imran, M. A. and Sathiaseelan, A.},\n  booktitle = {ACM SIGCOMM Global Access to the Internet for All (GAIA) Workshop},\n  year      = {2016}\n}"
   },
   {
@@ -9939,7 +9939,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2016taming,\n  title     = {{Taming LIMITS with approximate networking}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Wang, L. and Crowcroft, J.},\n  booktitle = {ACM LIMITS Workshop},\n  pages     = {1--8},\n  year      = {2016},\n  doi       = {10.1145/2926676.2926678}\n}"
   },
   {
@@ -9974,8 +9974,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/access.2015.2507798",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{qadir2015ieee,\n  title     = {{IEEE Access Special Section Editorial: Artificial Intelligence Enabled Networking}},\n  author    = {Qadir, J. and Yau, K. A. and Imran, M. and Ni, Q. and Vasilakos, A.},\n  journal = {IEEE Access},\n  volume    = {3},\n  pages     = {3079--3082},\n  year      = {2015},\n  doi       = {10.1109/ACCESS.2015.2507798}\n}"
   },
   {
@@ -10013,8 +10013,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://eprints.lancs.ac.uk/id/eprint/77934/1/Mehong_RL_c2_final.pdf",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@article{ling2015application,\n  title     = {{Application of Reinforcement Learning for Security Enhancement in Cognitive Radio}},\n  author    = {Ling, M. H. and Yau, K. A. and Qadir, J. and Poh, G. S. and Ni, Q.},\n  journal = {Elsevier Applied Soft Computing},\n  volume    = {37},\n  year      = {2015},\n  doi       = {10.1016/j.asoc.2015.09.017}\n}"
   },
   {
@@ -10047,11 +10047,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2015/2015-qadir-exploiting-power-multiplicity-holistic.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1502.02111",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2015exploiting,\n  title     = {{Exploiting the power of multiplicity: a holistic survey of network-layer multipath}},\n  author    = {Qadir, J. and Ali, A. and Yau, K. A. and Sathiaseelan, A. and Crowcroft, J.},\n  journal = {IEEE Communications Surveys and Tutorials},\n  volume    = {17},\n  number    = {4},\n  year      = {2015},\n  doi       = {10.1109/COMST.2015.2453941}\n}"
   },
   {
@@ -10081,11 +10081,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2015/2015-qadir-artificial-intelligence-cognitive-routing.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1309.0085",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2015artificial,\n  title     = {{Artificial Intelligence based Cognitive routing for Cognitive Radio Networks}},\n  author    = {Qadir, J.},\n  journal = {Springer Artificial Intelligence Review},\n  volume    = {45},\n  number    = {1},\n  year      = {2015},\n  doi       = {10.1007/s10462-015-9438-6}\n}"
   },
   {
@@ -10119,7 +10119,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{ahmed2015high,\n  title     = {{High Throughput Transmission-Quality-Aware Broadcast Routing in Cognitive Radio Networks}},\n  author    = {Ahmed, E. and Qadir, J. and Baig, A.},\n  journal = {Springer Wireless Networks (WINET)},\n  volume    = {21},\n  number    = {4},\n  year      = {2015},\n  doi       = {10.1007/s11276-014-0843-6}\n}"
   },
   {
@@ -10151,7 +10151,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2015what,\n  title     = {{What Every Student Should Know? 7 Learning Impediments \\& Their Remedies}},\n  author    = {Qadir, J.},\n  journal = {IEEE Potentials (included in Thomson Reuters Master Journal List)},\n  volume    = {34},\n  number    = {3},\n  year      = {2015},\n  doi       = {10.1109/MPOT.2014.2368793}\n}"
   },
   {
@@ -10184,11 +10184,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2015/2015-malik-qos-ieee-802-11.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1411.2852",
+    "oa_status": "hostable",
     "bibtex": "@article{malik2015ieee,\n  title     = {{QoS in IEEE 802.11-based Wireless Networks: A Contemporary Review}},\n  author    = {Malik, A. and Qadir, J. and Ahmad, B. and Yau, K. A. and Ullah, U.},\n  journal = {Elsevier Journal of Network and Computer Applications (JNCA)},\n  volume    = {55},\n  year      = {2015},\n  doi       = {10.1016/j.jnca.2015.04.016}\n}"
   },
   {
@@ -10215,11 +10215,11 @@
     "themes": [],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2015/2015-qadir-applying-formal-methods-networking.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1311.4303",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2015applying,\n  title     = {{Applying Formal Methods to Networking: Theory, Techniques and Applications}},\n  author    = {Qadir, J. and Hasan, O.},\n  journal = {IEEE Communications Surveys and Tutorials},\n  volume    = {17},\n  number    = {1},\n  year      = {2015},\n  doi       = {10.1109/COMST.2014.2345792}\n}"
   },
   {
@@ -10253,7 +10253,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{ali2015learning,\n  title     = {{Learning Automata Based Multipath Multicasting in Cognitive Radio Networks}},\n  author    = {Ali, A and Qadir, J. and Baig, A.},\n  journal = {IEEE Journal of Communications and Networks (JCN)},\n  volume    = {17},\n  number    = {4},\n  pages     = {406--418},\n  year      = {2015},\n  doi       = {10.1109/JCN.2015.000071}\n}"
   },
   {
@@ -10284,11 +10284,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2014/2014-qadir-building-programmable-wireless-networks.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1310.0251",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2014building,\n  title     = {{Building Programmable Wireless Networks: An Architectural Survey}},\n  author    = {Qadir, J. and Ahmed, N. and Ahad, N.},\n  journal = {EURASIP Journal on Wireless Communications and Networking (JWCN), Highly Accessed Paper},\n  volume    = {2014},\n  number    = {1},\n  year      = {2014},\n  doi       = {10.1186/1687-1499-2014-172}\n}"
   },
   {
@@ -10319,11 +10319,11 @@
     ],
     "featured": false,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
+    "pdf": "pdf/2014/2014-qadir-multicasting-cognitive-radio-networks.pdf",
+    "pdf_version": "submittedVersion",
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "http://arxiv.org/abs/1406.3194",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2014multicasting,\n  title     = {{Multicasting in Cognitive Radio Networks: Algorithms, Techniques and Protocols}},\n  author    = {Qadir, J. and Baig, A. and Ali, A. and Shafi, Q.},\n  journal = {Elsevier Journal of Network and Computer Applications (JNCA)},\n  volume    = {45},\n  pages     = {44--61},\n  year      = {2014},\n  doi       = {10.1016/j.jnca.2014.07.024}\n}"
   },
   {
@@ -10362,7 +10362,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2014clouds,\n  title     = {{SDN, Clouds, and Big Data: New Opportunities}},\n  author    = {Qadir, J. and Ahad, N. and Mushtaq, E. and Bilal, M.},\n  booktitle = {Proceedings of the 12th International Conference on Frontiers of Information (FIT), Islamabad, Pakistan},\n  pages     = {28--33},\n  year      = {2014},\n  doi       = {10.1109/FIT.2014.14}\n}"
   },
   {
@@ -10394,7 +10394,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{faran2014performance,\n  title     = {{Performance Analysis of 802.11 DCF with Limited Channels}},\n  author    = {Faran, A. and Qadir, J. and Baig, A.},\n  booktitle = {17th IEEE International Multi Topic Conference (INMIC 2014)},\n  pages     = {14--19},\n  year      = {2014},\n  doi       = {10.1109/INMIC.2014.7096903}\n}"
   },
   {
@@ -10432,7 +10432,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{aisha2013mitigating,\n  title     = {{Mitigating the Effect of Malicious Users in Cognitive Networks}},\n  author    = {Aisha, A. and Qadir, J. and Baig, A.},\n  booktitle = {Proceedings of the 11th International Conference on Frontiers of Information (FIT), Islamabad, Pakistan},\n  pages     = {7--12},\n  year      = {2013},\n  doi       = {10.1109/FIT.2013.9}\n}"
   },
   {
@@ -10468,7 +10468,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{asif2013channel,\n  title     = {{Channel Assignment in Non-Cooperative Coexisting Co-located Independent Cognitive Radio Networks}},\n  author    = {Asif, Z. and Qadir, J. and Baig, A.},\n  booktitle = {Proceedings of IEEE International Multitopic Conference (INMIC), Lahore, Pakistan},\n  pages     = {115--120},\n  year      = {2013},\n  doi       = {10.1109/INMIC.2013.6731335}\n}"
   },
   {
@@ -10505,8 +10505,8 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_url": "https://doi.org/10.1109/lcn.2013.6761275",
+    "oa_status": "free-to-read-link-only",
     "bibtex": "@inproceedings{farooq2013game,\n  title     = {{A Game-Theoretic Spectrum Allocation Framework for Mixed Unicast and Broadcast Traffic Profile in Cognitive Radio Networks}},\n  author    = {Farooq, M. J. and Hussain, M. and Qadir, J. and Baig, A.},\n  booktitle = {Proceedings of the 38th Annual IEEE Conference on Local Computer Networks (LCN), Sydney, Australia},\n  pages     = {425--432},\n  year      = {2013},\n  doi       = {10.1109/LCN.2013.6761275}\n}"
   },
   {
@@ -10543,7 +10543,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{hassan2013quantifying,\n  title     = {{Quantifying the Multiple Cognitive Radio Interfaces Advantage}},\n  author    = {Hassan, M. T. and Ahmed, E. and Qadir, J. and Baig, A.},\n  booktitle = {Proceedings of The Ninth International Workshop on Heterogeneous Wireless Networks (HWISE 2013), Barcelona, Spain},\n  pages     = {511--516},\n  year      = {2013},\n  doi       = {10.1109/WAINA.2013.76}\n}"
   },
   {
@@ -10583,7 +10583,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{saleem2012spectrum,\n  title     = {{Spectrum-aware Dynamic Channel Assignment in Cognitive Radio Networks}},\n  author    = {Saleem, Y. and Bashir, A. and Ahmed, E. and Qadir, J. and Baig, A.},\n  booktitle = {Proceedings of the IEEE International Conference on Emerging Technologies (ICET), Islamabad, Pakistan},\n  pages     = {1--6},\n  year      = {2012},\n  doi       = {10.1109/ICET.2012.6375468}\n}"
   },
   {
@@ -10622,7 +10622,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{mir2012unified,\n  title     = {{Unified Channel Assignment for Unicast and Broadcast Traffic in Cognitive Radio Networks}},\n  author    = {Mir, A. and Akram, A. and Ahmed, E. and Qadir, J. and Baig, A.},\n  booktitle = {IEEE Workshop on Wireless Local Networks (WLN), Florida, USA},\n  pages     = {799--806},\n  year      = {2012},\n  doi       = {10.1109/LCNW.2012.6424066}\n}"
   },
   {
@@ -10659,7 +10659,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ali2012genetic,\n  title     = {{A Genetic Algorithm Assisted Resource Management Scheme for Reliable Multimedia Delivery over Cognitive Networks}},\n  author    = {Ali, S. and Munir, A. and Qaisar, S. and Qadir, J.},\n  booktitle = {International Conference on Computational Science and Its Applications (ICCSA)},\n  pages     = {352--367},\n  year      = {2012},\n  doi       = {10.1007/978-3-642-31137-6_27}\n}"
   },
   {
@@ -10697,7 +10697,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{hassan2011recovery,\n  title     = {{Recovery and Bandwidth Sharing Techniques in MPLS Networks}},\n  author    = {Hassan, N. and Baig, A. and Qadir, J. and Din, I. and Networks, High Capacity Optical},\n  booktitle = {Enabling Technologies (HONET), Riyadh, Saudi Arabia},\n  pages     = {193--200},\n  year      = {2011},\n  doi       = {10.1109/HONET.2011.6149816}\n}"
   },
   {
@@ -10735,7 +10735,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{zeeshan2010backup,\n  title     = {{Backup Channel and Cooperative Channel Switching On-Demand Routing Protocol for Multi-Hop Cognitive Radio Ad Hoc Networks (BCCCS)}},\n  author    = {Zeeshan, M. and Manzoor, M. F. and Qadir, J.},\n  booktitle = {6th International Conference on Emerging Technologies (ICET), Islamabad, Pakistan},\n  pages     = {394--399},\n  year      = {2010},\n  doi       = {10.1109/ICET.2010.5638455}\n}"
   },
   {
@@ -10773,7 +10773,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{fahad2010broadcasting,\n  title     = {{Broadcasting in Cognitive Wireless Mesh Networks with Dynamic Channel Conditions}},\n  author    = {Fahad, M. and Qadir, J. and Baig, A.},\n  booktitle = {6th International Conference on Emerging Technologies (ICET), Islamabad, Pakistan 2010},\n  pages     = {400--404},\n  year      = {2010},\n  doi       = {10.1109/ICET.2010.5638501}\n}"
   },
   {
@@ -10812,7 +10812,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ali2010routing,\n  title     = {{Routing protocols in Delay Tolerant Networks—A Survey}},\n  author    = {Ali, S. and Qadir, J. and Baig, A.},\n  booktitle = {6th International Conference on Emerging Technologies (ICET), Islamabad, Pakistan},\n  pages     = {70--75},\n  year      = {2010},\n  doi       = {10.1109/ICET.2010.5638377}\n}"
   },
   {
@@ -10849,7 +10849,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{qadir2009minimum,\n  title     = {{Minimum Latency Broadcasting in Multiradio, Multichannel, Multirate Wireless Meshes}},\n  author    = {Qadir, J. and Chou, C. T. and Misra, A. and Lim, J. G.},\n  journal = {IEEE Transactions on Mobile Computing},\n  volume    = {8},\n  number    = {11},\n  pages     = {1510--1523},\n  year      = {2009},\n  doi       = {10.1109/TMC.2009.68}\n}"
   },
   {
@@ -10888,7 +10888,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{hassan2009priority,\n  title     = {{Priority-based Allocation of Network Resources in Multi-Class MPLS Networks}},\n  author    = {Hassan, N. and Baig, A. and Qadir, J. and Owais, M.},\n  booktitle = {Proceedings of the 7th ACM International Conference on Frontiers of Information (FIT), Islamabad, Pakistan},\n  year      = {2009},\n  doi       = {10.1145/1838002.1838016}\n}"
   },
   {
@@ -10926,7 +10926,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ahmed2009channel,\n  title     = {{Channel Assignment in Cognitive Radio Networks: Comparison and Analysis}},\n  author    = {Ahmed, M. E. and Qadir, J. and Baig, A.},\n  booktitle = {Proceedings of the 7th ACM International Conference on Frontiers of Information (FIT), Islamabad, Pakistan},\n  year      = {2009},\n  doi       = {10.1145/1838002.1838015}\n}"
   },
   {
@@ -10965,7 +10965,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{ahmad2009prediction,\n  title     = {{Prediction-based Channel Zapping Latency Reduction Techniques for IPTV Systems—A Survey}},\n  author    = {Ahmad, MZ and Qadir, J. and Rehman, N. U. and Baig, A. and Majeed, H.},\n  booktitle = {IEEE International Conference on Emerging Technologies (ICET), Islamabad, Pakistan},\n  pages     = {466--470},\n  year      = {2009},\n  doi       = {10.1109/ICET.2009.5353126}\n}"
   },
   {
@@ -11004,7 +11004,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2008localized,\n  title     = {{Localized Minimum-Latency Broadcasting in Multi-Radio Multi-Rate Wireless Mesh Networks}},\n  author    = {Qadir, J. and Chou, C. T. and Misra, A. and Lim, J. G.},\n  booktitle = {IEEE World of Wireless, Mobile and Multimedia Networks (WoWMoM), California, USA},\n  pages     = {1--12},\n  year      = {2008},\n  doi       = {10.1109/WOWMOM.2008.4594835}\n}"
   },
   {
@@ -11040,7 +11040,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{chou2007advances,\n  title     = {{Advances and Challenges with Data Broadcasting in Wireless Mesh Networks}},\n  author    = {Chou, C. T. and Qadir, J. and Lim, J. G.},\n  journal = {IEEE Communications Magazine},\n  volume    = {45},\n  number    = {11},\n  pages     = {78--85},\n  year      = {2007},\n  doi       = {10.1109/MCOM.2007.4378325}\n}"
   },
   {
@@ -11077,7 +11077,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2007localized,\n  title     = {{Localized Minimum-Latency Broadcasting in Multi-Rate Wireless Mesh Networks}},\n  author    = {Qadir, J. and Chou, C. T. and Misra, A. and Lim, J. G.},\n  booktitle = {IEEE World of Wireless, Mobile and Multimedia Networks (WoWMoM), Helsinki, Finland},\n  pages     = {1--8},\n  year      = {2007},\n  doi       = {10.1109/WOWMOM.2007.4351766}\n}"
   },
   {
@@ -11113,7 +11113,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@article{chou2006latency,\n  title     = {{Low-latency Broadcast in Multirate Wireless Mesh Networks}},\n  author    = {Chou, C. T. and Misra, A. and Qadir, J.},\n  journal = {IEEE Journal on Selected Areas in Communications (JSAC)},\n  volume    = {24},\n  number    = {11},\n  pages     = {2081--2091},\n  year      = {2006},\n  doi       = {10.1109/JSAC.2006.881621}\n}"
   },
   {
@@ -11149,7 +11149,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2006exploiting,\n  title     = {{Exploiting Rate Diversity For Multicasting in Multi-Radio Wireless Mesh Networks}},\n  author    = {Qadir, J. and Chou, C. T. and Misra, A.},\n  booktitle = {31st IEEE Conference on Local Computer Networks (LCN), Florida, USA},\n  pages     = {287--294},\n  year      = {2006},\n  doi       = {10.1109/LCN.2006.322133}\n}"
   },
   {
@@ -11185,7 +11185,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@inproceedings{qadir2006minimum,\n  title     = {{Minimum Latency Broadcasting in Multi-Radio Multi-Channel Multi-Rate Wireless Meshes}},\n  author    = {Qadir, J. and Misra, A. and Chou, C. T.},\n  booktitle = {IEEE Sensor and Ad Hoc Communications and Networks (SECON), Virginia, USA},\n  pages     = {80--89},\n  year      = {2006},\n  doi       = {10.1109/SAHCN.2006.288412}\n}"
   }
 ]

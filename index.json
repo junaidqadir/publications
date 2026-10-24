@@ -6183,8 +6183,8 @@
     ],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://doi.org/10.35542/osf.io/eupdm",
+    "preprint_host": "EdArXiv",
     "links": [
       "https://doi.org/10.35542/osf.io/eupdm"
     ],
@@ -8772,8 +8772,8 @@
     "themes": [],
     "featured": false,
     "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
+    "preprint_url": "https://ssrn.com/abstract=2916505",
+    "preprint_host": "SSRN",
     "links": [
       "https://ssrn.com/abstract=2916505"
     ],

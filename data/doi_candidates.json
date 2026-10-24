@@ -32,6 +32,49 @@
       }
     ]
   },
+  "I6": {
+    "slug": "2026-qadir-multiplex-framework-responsible-ai",
+    "title": "A Multiplex Framework for Responsible AI-Augmented Mental Healthcare: Integrating TIIP with Ethical AI",
+    "year": 2026,
+    "venue": "SSRN working paper",
+    "status": "final",
+    "confidence": "high",
+    "best": {
+      "doi": "10.2139/ssrn.6747600",
+      "title": "A Multiplex Framework for Responsible AI-Augmented Mental Healthcare: Integrating TIIP with Ethical AI",
+      "year": 2026,
+      "type": "posted-content",
+      "container": "",
+      "publisher": "Elsevier BV",
+      "qadir": true,
+      "sim": 1,
+      "src": "crossref"
+    },
+    "others": [
+      {
+        "doi": "10.1111/bioe.70019",
+        "title": "Assisting, Replicating, or Autonomously Acting? An Ethical Framework for Integrating AI Tools and Technologies in Healthcare",
+        "year": 2025,
+        "type": "journal-article",
+        "container": "Bioethics",
+        "publisher": "Wiley",
+        "qadir": true,
+        "sim": 0.42,
+        "src": "crossref"
+      },
+      {
+        "doi": "10.1109/access.2026.3718869",
+        "title": "The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity",
+        "year": 2026,
+        "type": "journal-article",
+        "container": "IEEE Access",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "qadir": true,
+        "sim": 0.31,
+        "src": "crossref"
+      }
+    ]
+  },
   "C103": {
     "slug": "2026-ahmed-defeat-stitching-fragmented-file",
     "title": "DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection",
@@ -121,7 +164,7 @@
     "slug": "2026-qadir-ghazalian-project-ai-era",
     "title": "Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development",
     "year": 2026,
-    "venue": "Ghazali on Education, Islamic Education Book Series (Editor: Recep Senturk), Brill",
+    "venue": "Ghazali on Education, Islamic Education Book Series (Editor: Recep Sentürk), Brill",
     "status": "forthcoming",
     "confidence": "medium",
     "best": {
@@ -160,12 +203,55 @@
       }
     ]
   },
+  "I5": {
+    "slug": "2025-qadir-philosophy-islamic-legislation-science",
+    "title": "The Philosophy of Islamic Legislation: Science of the Secrets of Religion in the Light of the Waliullahi School of Thought",
+    "year": 2025,
+    "venue": "SSRN working paper",
+    "status": "final",
+    "confidence": "high",
+    "best": {
+      "doi": "10.2139/ssrn.5615292",
+      "title": "The Philosophy of Islamic Legislation: Science of the Secrets of Religion in the Light of the Waliullahi School of Thought",
+      "year": 2025,
+      "type": "posted-content",
+      "container": "",
+      "publisher": "Elsevier BV",
+      "qadir": true,
+      "sim": 1,
+      "src": "crossref"
+    },
+    "others": [
+      {
+        "doi": "10.2307/604223",
+        "title": "Philosophy and Science in the Islamic World",
+        "year": 1993,
+        "type": "journal-article",
+        "container": "Journal of the American Oriental Society",
+        "publisher": "JSTOR",
+        "qadir": true,
+        "sim": 0.36,
+        "src": "crossref"
+      },
+      {
+        "doi": "10.21271/zjhs.23.5.6",
+        "title": "&lt;b&gt;The function of the Chamberlian in Islamic history and thought&lt;/b&gt;",
+        "year": 2019,
+        "type": "journal-article",
+        "container": "Zanco Journal of Humanity Sciences",
+        "publisher": "Salahaddin University - Erbil",
+        "qadir": true,
+        "sim": 0.27,
+        "src": "crossref"
+      }
+    ]
+  },
   "C97": {
     "slug": "2025-mushtaq-llms-write-faithfully-agent",
     "title": "Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content",
     "year": 2025,
-    "venue": "NeurIPS 2025 Workshop MusIML",
-    "status": "accepted",
+    "venue": "Muslims in ML (MusIML) Workshop at NeurIPS 2025, San Diego, CA, USA",
+    "status": "final",
     "confidence": "high",
     "best": {
       "doi": "10.48550/arxiv.2510.24438",
@@ -338,7 +424,7 @@
     "slug": "2020-qadir-outcome-engineering-education-global",
     "title": "Outcome-Based Engineering Education: A Global Report of International OBE Accreditation and Assessment Practices",
     "year": 2020,
-    "venue": "the 127th American Society of Engineering Education (ASEE) Annual Conference 2020",
+    "venue": "the 127th American Society for Engineering Education (ASEE) Annual Conference 2020",
     "status": "final",
     "confidence": "high",
     "best": {
@@ -381,7 +467,7 @@
     "slug": "2020-qadir-leveraging-force-formative-assessment",
     "title": "Leveraging the Force of Formative Assessment & Feedback for Effective Engineering Education",
     "year": 2020,
-    "venue": "the 127th American Society of Engineering Education (ASEE) Annual Conference 2020",
+    "venue": "the 127th American Society for Engineering Education (ASEE) Annual Conference 2020",
     "status": "final",
     "confidence": "high",
     "best": {
@@ -465,8 +551,8 @@
     "slug": "2019-hussain-online-interactivity-tools-support",
     "title": "Online Interactivity Tools to Support Student Centered Learning in Large Classes",
     "year": 2019,
-    "venue": "12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 Apr 2019",
-    "status": "accepted",
+    "venue": "12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 April 2019.",
+    "status": "final",
     "confidence": "none",
     "best": null,
     "others": [
@@ -748,39 +834,6 @@
         "publisher": "University of Karachi",
         "qadir": true,
         "sim": 0.23,
-        "src": "crossref"
-      }
-    ]
-  },
-  "J25": {
-    "slug": "2016-riaz-intrusion-detection-systems-cloud",
-    "title": "Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions",
-    "year": 2016,
-    "venue": "Journal of Information Science and Engineering: Special Issue on Cloud Computing and Security",
-    "status": "accepted",
-    "confidence": "none",
-    "best": null,
-    "others": [
-      {
-        "doi": "10.1109/iwcmc.2019.8766353",
-        "title": "Generative Adversarial Networks For Launching and Thwarting Adversarial Attacks on Network Intrusion Detection Systems",
-        "year": 2019,
-        "type": "proceedings-article",
-        "container": "2019 15th International Wireless Communications &amp; Mobile Computing Conference (IWCMC)",
-        "publisher": "IEEE",
-        "qadir": true,
-        "sim": 0.33,
-        "src": "crossref"
-      },
-      {
-        "doi": "10.1109/tvt.2022.3186834",
-        "title": "Robust Enhancement of Intrusion Detection Systems Using Deep Reinforcement Learning and Stochastic Game",
-        "year": 2022,
-        "type": "journal-article",
-        "container": "IEEE Transactions on Vehicular Technology",
-        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-        "qadir": true,
-        "sim": 0.33,
         "src": "crossref"
       }
     ]

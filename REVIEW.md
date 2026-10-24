@@ -45,16 +45,11 @@ Surfaced automatically while matching the CV against Crossref and the downloaded
 | MI4 | Sustainable Development Viewed from the Lens of Islam | Sustainable development viewed from the lens of Islam | [10.1504/ijpee.2019.098181](https://doi.org/10.1504/ijpee.2019.098181) | title matches |
 | MI2 | The Islamic Worldview and Development Ideals | The Islamic Worldview and Development Ideals | [10.2139/ssrn.3015107](https://doi.org/10.2139/ssrn.3015107) | title matches |
 
-## Pending / unfinished entries (9)
+## Pending / unfinished entries (4)
 
 - BC6 (forthcoming) Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology — AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier
 - BC5 (forthcoming) Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy — Taylor & Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)
-- BC4 (forthcoming) Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development — Ghazali on Education, Islamic Education Book Series (Editor: Recep Senturk), Brill
-- C97 (accepted) Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content — NeurIPS 2025 Workshop MusIML
-- J133 (accepted) Data-Driven Artificial Intelligence in Education: A Comprehensive Review — IEEE Transactions on Learning Technologies
-- MI6 (accepted) On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition — “Islam and Civilization Renewal,” published by IAIS, Malaysia
-- C45 (accepted) Online Interactivity Tools to Support Student Centered Learning in Large Classes — 12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 Apr 2019
-- J25 (accepted) Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions — Journal of Information Science and Engineering: Special Issue on Cloud Computing and Security
+- BC4 (forthcoming) Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development — Ghazali on Education, Islamic Education Book Series (Editor: Recep Sentürk), Brill
 - C4 (accepted) Localized Minimum-Latency Broadcasting in Multi-Radio Multi-Rate Wireless Mesh Networks — IEEE World of Wireless, Mobile and Multimedia Networks (WoWMoM), California, USA
 
 ## Titles that differ from the published record (18)

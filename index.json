@@ -5,7 +5,7 @@
     "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
     "authors": [
       "J. Qadir",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "year": 2027,
     "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
@@ -39,7 +39,55 @@
     "pdf_license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@incollection{qadir2027multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2027}\n}"
+    "bibtex": "@incollection{qadir2027multiplex,\n  title     = {{Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier},\n  year      = {2027}\n}"
+  },
+  {
+    "slug": "2026-jose-innovation-implementation-global-scoping",
+    "cv_label": "J180",
+    "title": "From innovation to implementation: a global scoping review of artificial intelligence applications, governance, and challenges in humanitarian contexts",
+    "authors": [
+      "M. Jose",
+      "F. Mueen",
+      "J. Qadir",
+      "A. Abd-Alrazaq",
+      "K. Kwalombota",
+      "D. Maddah"
+    ],
+    "year": 2026,
+    "venue": "Journal of Global Health",
+    "volume": "16",
+    "issue": null,
+    "pages": null,
+    "doi": "10.7189/jogh.16.04359",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "ai-ethics",
+      "ai-governance",
+      "healthcare",
+      "ict4d",
+      "survey-review"
+    ],
+    "themes": [
+      "ai",
+      "ai-ethics",
+      "health-psychology",
+      "networks-ict4d"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{jose2026from,\n  title     = {{From innovation to implementation: a global scoping review of artificial intelligence applications, governance, and challenges in humanitarian contexts}},\n  author    = {Jose, M. and Mueen, F. and Qadir, J. and Abd-Alrazaq, A. and Kwalombota, K. and Maddah, D.},\n  journal = {Journal of Global Health},\n  volume    = {16},\n  year      = {2026},\n  doi       = {10.7189/jogh.16.04359}\n}"
   },
   {
     "slug": "2026-qadir-craft-ed-framework-effective",
@@ -71,11 +119,11 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "unchecked",
+    "pdf": "pdf/2026/2026-qadir-craft-ed-framework-effective.pdf",
+    "pdf_version": "publishedVersion",
+    "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "oa_url": "https://doi.org/10.1109/ACCESS.2026.3718869",
+    "oa_status": "hostable",
     "bibtex": "@article{qadir2026craft,\n  title     = {{The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity}},\n  author    = {Qadir, J.},\n  journal = {IEEE Access, early access},\n  year      = {2026},\n  doi       = {10.1109/ACCESS.2026.3718869}\n}"
   },
   {
@@ -259,8 +307,8 @@
     "cv_label": "J174",
     "title": "Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations",
     "authors": [
-      "A. Moustafa",
-      "M. Hamad",
+      "A. H. A. Moustafa",
+      "M. F. Al-Hamad",
       "M. A. Qureshi",
       "J. Qadir"
     ],
@@ -295,7 +343,7 @@
     "pdf_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
     "oa_url": "https://doi.org/10.1109/access.2026.3651864",
     "oa_status": "hostable",
-    "bibtex": "@article{moustafa2026generative,\n  title     = {{Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations}},\n  author    = {Moustafa, A. and Hamad, M. and Qureshi, M. A. and Qadir, J.},\n  journal = {IEEE Access},\n  volume    = {14},\n  pages     = {7379--7395},\n  year      = {2026},\n  doi       = {10.1109/access.2026.3651864}\n}"
+    "bibtex": "@article{moustafa2026generative,\n  title     = {{Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations}},\n  author    = {Moustafa, A. H. A. and Al-Hamad, M. F. and Qureshi, M. A. and Qadir, J.},\n  journal = {IEEE Access},\n  volume    = {14},\n  pages     = {7379--7395},\n  year      = {2026},\n  doi       = {10.1109/access.2026.3651864}\n}"
   },
   {
     "slug": "2026-mushtaq-worldview-bench-benchmark-evaluating",
@@ -467,6 +515,54 @@
     "bibtex": "@article{qayyum2026driven,\n  title     = {{LLM-Driven Multi-Agent Architectures for Intelligent Self-Organizing Networks}},\n  author    = {Qayyum, A. and Albaseer, A. and Qadir, J. and Al-Fuqaha, A. and Abdallah, M.},\n  journal = {IEEE Network},\n  volume    = {40},\n  number    = {4},\n  pages     = {258--267},\n  year      = {2026},\n  doi       = {10.1109/mnet.2025.3605319}\n}"
   },
   {
+    "slug": "2026-qadir-multiplex-framework-responsible-ai",
+    "cv_label": "I6",
+    "title": "A Multiplex Framework for Responsible AI-Augmented Mental Healthcare: Integrating TIIP with Ethical AI",
+    "authors": [
+      "J. Qadir",
+      "H. Keshavarzi",
+      "R. Sentürk",
+      "A. Abd-Alrazaq",
+      "I. Ghaznavi"
+    ],
+    "year": 2026,
+    "venue": "SSRN working paper",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "section": "informal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "multiplexity",
+      "ai-ethics",
+      "healthcare",
+      "psychology"
+    ],
+    "themes": [
+      "ai",
+      "multiplexity",
+      "ai-ethics",
+      "health-psychology"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [
+      "https://ssrn.com/abstract=6747600"
+    ],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "none-found",
+    "bibtex": "@misc{qadir2026multiplex,\n  title     = {{A Multiplex Framework for Responsible AI-Augmented Mental Healthcare: Integrating TIIP with Ethical AI}},\n  author    = {Qadir, J. and Keshavarzi, H. and Sentürk, R. and Abd-Alrazaq, A. and Ghaznavi, I.},\n  howpublished = {SSRN working paper},\n  year      = {2026}\n}"
+  },
+  {
     "slug": "2026-ahmed-defeat-stitching-fragmented-file",
     "cv_label": "C103",
     "title": "DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection",
@@ -508,9 +604,9 @@
     "bibtex": "@inproceedings{ahmed2026defeat,\n  title     = {{DEFEAT: Stitching Fragmented File I/O Contexts for Early Ransomware Detection}},\n  author    = {Ahmed, M. E. and Kim, H. and Awami, M. Al and Abuadbba, A. and Camtepe, S. and Nepal, S. and Qadir, J.},\n  booktitle = {Annual Computer Security Applications Conference (ACSAC 2026)},\n  year      = {2026}\n}"
   },
   {
-    "slug": "2026-rizvi-artificial-intelligence-predicting-transition",
+    "slug": "2026-rizvi-artificial-intelligence-prediction-progression",
     "cv_label": "C102",
-    "title": "Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes",
+    "title": "Artificial Intelligence–Based Prediction of Progression from Gestational Diabetes to Type 2 Diabetes",
     "authors": [
       "S. W. F. Rizvi",
       "M. Alkhateeb",
@@ -545,9 +641,9 @@
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "none-found",
-    "bibtex": "@inproceedings{rizvi2026artificial,\n  title     = {{Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes}},\n  author    = {Rizvi, S. W. F. and Alkhateeb, M. and Mohsen, F. and Qadir, J. and Ahmed, A. and Abd-alrazaq, A.},\n  booktitle = {Medical Informatics Europe (MIE 2026)},\n  year      = {2026},\n  doi       = {10.3233/shti260175}\n}"
+    "oa_url": "https://doi.org/10.3233/shti260175",
+    "oa_status": "hostable",
+    "bibtex": "@inproceedings{rizvi2026artificial,\n  title     = {{Artificial Intelligence–Based Prediction of Progression from Gestational Diabetes to Type 2 Diabetes}},\n  author    = {Rizvi, S. W. F. and Alkhateeb, M. and Mohsen, F. and Qadir, J. and Ahmed, A. and Abd-alrazaq, A.},\n  booktitle = {Medical Informatics Europe (MIE 2026)},\n  year      = {2026},\n  doi       = {10.3233/shti260175}\n}"
   },
   {
     "slug": "2026-khan-generative-ai-signal-processing",
@@ -717,7 +813,7 @@
     "title": "An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom",
     "authors": [
       "J. Qadir",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "year": 2026,
     "venue": "Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing",
@@ -751,7 +847,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026},\n  doi       = {10.4337/9781035335879.00017}\n}"
+    "bibtex": "@incollection{qadir2026islamically,\n  title     = {{An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing},\n  year      = {2026},\n  doi       = {10.4337/9781035335879.00017}\n}"
   },
   {
     "slug": "2026-qadir-educating-ai-era-harnessing",
@@ -759,7 +855,7 @@
     "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
     "authors": [
       "J. Qadir",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "year": 2026,
     "venue": "Taylor & Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)",
@@ -785,13 +881,15 @@
     "access_note": null,
     "preprint_url": "https://ssrn.com/abstract=5015109",
     "preprint_host": "SSRN",
-    "links": [],
+    "links": [
+      "https://ssrn.com/abstract=5015109"
+    ],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@incollection{qadir2026educating,\n  title     = {{Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy}},\n  author    = {Qadir, J. and Senturk, R.},\n  booktitle = {Taylor \\& Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)},\n  year      = {2026}\n}"
+    "bibtex": "@incollection{qadir2026educating,\n  title     = {{Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy}},\n  author    = {Qadir, J. and Sentürk, R.},\n  booktitle = {Taylor \\& Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)},\n  year      = {2026}\n}"
   },
   {
     "slug": "2026-qadir-ghazalian-project-ai-era",
@@ -802,7 +900,7 @@
       "M. R. Arshad"
     ],
     "year": 2026,
-    "venue": "Ghazali on Education, Islamic Education Book Series (Editor: Recep Senturk), Brill",
+    "venue": "Ghazali on Education, Islamic Education Book Series (Editor: Recep Sentürk), Brill",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -827,13 +925,15 @@
     "access_note": null,
     "preprint_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5015111",
     "preprint_host": "SSRN",
-    "links": [],
+    "links": [
+      "https://ssrn.com/abstract=5015111"
+    ],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{qadir2026ghazalian,\n  title     = {{Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development}},\n  author    = {Qadir, J. and Arshad, M. R.},\n  booktitle = {Ghazali on Education, Islamic Education Book Series (Editor: Recep Senturk), Brill},\n  year      = {2026}\n}"
+    "bibtex": "@incollection{qadir2026ghazalian,\n  title     = {{Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development}},\n  author    = {Qadir, J. and Arshad, M. R.},\n  booktitle = {Ghazali on Education, Islamic Education Book Series (Editor: Recep Sentürk), Brill},\n  year      = {2026}\n}"
   },
   {
     "slug": "2025-arshad-adversarial-attacks-person-image",
@@ -883,7 +983,7 @@
       "J. Qadir",
       "D. Maddah",
       "M. W. Qoronfleh",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "year": 2025,
     "venue": "Frontiers in Psychology, section Consciousness Research, Research Topic: Spirituality and Religion: Implications for Mental Health",
@@ -914,7 +1014,7 @@
     "pdf_license": "cc-by",
     "oa_url": "https://doi.org/10.3389/fpsyg.2025.1603474",
     "oa_status": "hostable",
-    "bibtex": "@article{qadir2025toward,\n  title     = {{Toward Multiplex Health: Integrating Complexity, Normativity, and Open Science}},\n  author    = {Qadir, J. and Maddah, D. and Qoronfleh, M. W. and Senturk, R.},\n  journal = {Frontiers in Psychology, section Consciousness Research, Research Topic: Spirituality and Religion: Implications for Mental Health},\n  volume    = {16},\n  year      = {2025},\n  doi       = {10.3389/fpsyg.2025.1603474}\n}"
+    "bibtex": "@article{qadir2025toward,\n  title     = {{Toward Multiplex Health: Integrating Complexity, Normativity, and Open Science}},\n  author    = {Qadir, J. and Maddah, D. and Qoronfleh, M. W. and Sentürk, R.},\n  journal = {Frontiers in Psychology, section Consciousness Research, Research Topic: Spirituality and Religion: Implications for Mental Health},\n  volume    = {16},\n  year      = {2025},\n  doi       = {10.3389/fpsyg.2025.1603474}\n}"
   },
   {
     "slug": "2025-nasir-ai-sdg-nexus-revisited",
@@ -1490,6 +1590,44 @@
     "bibtex": "@article{qayyum2025robust,\n  title     = {{Robust Multi-Label Surgical Tool Classification in Noisy Endoscopic Videos}},\n  author    = {Qayyum, A. and Ali, H. and Caputo, M. and Vohra, H. and Akinosho, T. and Abioye, S. and Berrou, I. and Capik, P. and Qadir, J. and Bilal, M.},\n  journal = {Nature Scientific Reports},\n  volume    = {15},\n  number    = {1},\n  year      = {2025},\n  doi       = {10.1038/s41598-024-82351-5}\n}"
   },
   {
+    "slug": "2025-qadir-philosophy-islamic-legislation-science",
+    "cv_label": "I5",
+    "title": "The Philosophy of Islamic Legislation: Science of the Secrets of Religion in the Light of the Waliullahi School of Thought",
+    "authors": [
+      "J. Qadir",
+      "M. A. K. Azad"
+    ],
+    "year": 2025,
+    "venue": "SSRN working paper",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "section": "informal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "islamic-ethics"
+    ],
+    "themes": [
+      "ihsan-ethics"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [
+      "https://ssrn.com/abstract=5615292"
+    ],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "none-found",
+    "bibtex": "@misc{qadir2025philosophy,\n  title     = {{The Philosophy of Islamic Legislation: Science of the Secrets of Religion in the Light of the Waliullahi School of Thought}},\n  author    = {Qadir, J. and Azad, M. A. K.},\n  howpublished = {SSRN working paper},\n  year      = {2025}\n}"
+  },
+  {
     "slug": "2025-mushtaq-llms-write-faithfully-agent",
     "cv_label": "C97",
     "title": "Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content",
@@ -1504,34 +1642,39 @@
       "J. Qadir"
     ],
     "year": 2025,
-    "venue": "NeurIPS 2025 Workshop MusIML",
+    "venue": "Muslims in ML (MusIML) Workshop at NeurIPS 2025, San Diego, CA, USA",
     "volume": null,
     "issue": null,
     "pages": null,
     "doi": null,
     "section": "conference",
-    "status": "accepted",
+    "status": "final",
     "awards": [],
     "best_paper_award": false,
     "tags": [
       "generative-ai",
+      "machine-learning",
       "islamic-ethics"
     ],
     "themes": [
       "ai",
+      "ml",
       "ihsan-ethics"
     ],
     "featured": false,
     "access_note": null,
     "preprint_url": "https://arxiv.org/abs/2510.24438",
     "preprint_host": "arXiv",
-    "links": [],
+    "links": [
+      "https://arxiv.org/abs/2510.24438",
+      "https://openreview.net/forum?id=9FelOSlLhN"
+    ],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@inproceedings{mushtaq2025llms,\n  title     = {{Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content}},\n  author    = {Mushtaq, A. and Naeem, R. and Elmahjub, E. and Ghaznavi, I. and Al-Maliki, S. M. and Abdallah, M. and Al-Fuqaha, A. and Qadir, J.},\n  booktitle = {NeurIPS 2025 Workshop MusIML},\n  year      = {2025}\n}"
+    "bibtex": "@inproceedings{mushtaq2025llms,\n  title     = {{Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content}},\n  author    = {Mushtaq, A. and Naeem, R. and Elmahjub, E. and Ghaznavi, I. and Al-Maliki, S. M. and Abdallah, M. and Al-Fuqaha, A. and Qadir, J.},\n  booktitle = {Muslims in ML (MusIML) Workshop at NeurIPS 2025, San Diego, CA, USA},\n  year      = {2025}\n}"
   },
   {
     "slug": "2025-abioye-raptor-generative-ai-parsing",
@@ -1669,7 +1812,7 @@
   {
     "slug": "2025-mushtaq-inclusive-educational-ai-auditing",
     "cv_label": "C93",
-    "title": "Toward Inclusive Educational AI: Auditing Frontier LLMs Through a Multiplexity Lens",
+    "title": "Towards Inclusive Educational AI: Auditing Frontier LLMs for Cultural Biases through a Multiplexity Lens",
     "authors": [
       "A. Mushtaq",
       "R. Naeem",
@@ -1708,7 +1851,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@inproceedings{mushtaq2025toward,\n  title     = {{Toward Inclusive Educational AI: Auditing Frontier LLMs Through a Multiplexity Lens}},\n  author    = {Mushtaq, A. and Naeem, R. and Taj, M. I. and Ghaznavi, I. and Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025},\n  doi       = {10.1109/educon62633.2025.11016405}\n}"
+    "bibtex": "@inproceedings{mushtaq2025towards,\n  title     = {{Towards Inclusive Educational AI: Auditing Frontier LLMs for Cultural Biases through a Multiplexity Lens}},\n  author    = {Mushtaq, A. and Naeem, R. and Taj, M. I. and Ghaznavi, I. and Qadir, J.},\n  booktitle = {2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom},\n  year      = {2025},\n  doi       = {10.1109/educon62633.2025.11016405}\n}"
   },
   {
     "slug": "2024-ullah-privacy-preserving-large-language",
@@ -2545,6 +2688,50 @@
     "bibtex": "@article{ali2024consistent,\n  title     = {{Consistent Valid Physically-Realizable Adversarial Attack against Crowd-flow Prediction Models}},\n  author    = {Ali, H. and Butt, M. A. and Filali, F. and Al-Fuqaha, A. and Qadir, J.},\n  journal = {IEEE Transactions on Intelligent Transportation Systems},\n  volume    = {25},\n  number    = {6},\n  pages     = {5567--5582},\n  year      = {2024},\n  doi       = {10.1109/TITS.2023.3343971}\n}"
   },
   {
+    "slug": "2024-ahmad-data-driven-artificial-intelligence",
+    "cv_label": "J133",
+    "title": "Data-Driven Artificial Intelligence in Education: A Comprehensive Review",
+    "authors": [
+      "K. Ahmad",
+      "W. Iqbal",
+      "A. El-Hassan",
+      "J. Qadir",
+      "D. Benhaddou",
+      "M. Ayyash",
+      "A. Al-Fuqaha"
+    ],
+    "year": 2024,
+    "venue": "IEEE Transactions on Learning Technologies",
+    "volume": "17",
+    "issue": null,
+    "pages": "12–31",
+    "doi": "10.1109/tlt.2023.3314610",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "responsible-ai",
+      "education",
+      "survey-review"
+    ],
+    "themes": [
+      "ai",
+      "education"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": null,
+    "oa_status": "oa-flagged-no-pdf-url",
+    "bibtex": "@article{ahmad2024data,\n  title     = {{Data-Driven Artificial Intelligence in Education: A Comprehensive Review}},\n  author    = {Ahmad, K. and Iqbal, W. and El-Hassan, A. and Qadir, J. and Benhaddou, D. and Ayyash, M. and Al-Fuqaha, A.},\n  journal = {IEEE Transactions on Learning Technologies},\n  volume    = {17},\n  pages     = {12--31},\n  year      = {2024},\n  doi       = {10.1109/tlt.2023.3314610}\n}"
+  },
+  {
     "slug": "2024-almaliki-addressing-data-distribution-shifts",
     "cv_label": "J132",
     "title": "Addressing Data Distribution Shifts in Online Machine Learning Powered Smart City Applications Using Augmented Test-Time Adaptation",
@@ -2960,50 +3147,6 @@
     "oa_url": "https://doi.org/10.1038/s41598-023-49296-7",
     "oa_status": "hostable",
     "bibtex": "@article{hameed2023deep,\n  title     = {{Deep Learning Based Multimodal Urban Air Quality Prediction and Traffic Analytics}},\n  author    = {Hameed, S. and Islam, A. and Ahmad, K. and Belhaouari, S. Brahim and Qadir, J. and Al-Fuqaha, A.},\n  journal = {Nature Scientific Reports},\n  volume    = {13},\n  number    = {1},\n  year      = {2023},\n  doi       = {10.1038/s41598-023-49296-7}\n}"
-  },
-  {
-    "slug": "2023-ahmad-data-driven-artificial-intelligence",
-    "cv_label": "J133",
-    "title": "Data-Driven Artificial Intelligence in Education: A Comprehensive Review",
-    "authors": [
-      "K. Ahmad",
-      "W. Iqbal",
-      "A. El-Hassan",
-      "J. Qadir",
-      "D. Benhaddou",
-      "M. Ayyash",
-      "A. Al-Fuqaha"
-    ],
-    "year": 2023,
-    "venue": "IEEE Transactions on Learning Technologies",
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "doi": "10.1109/tlt.2023.3314610",
-    "section": "journal",
-    "status": "accepted",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [
-      "responsible-ai",
-      "education",
-      "survey-review"
-    ],
-    "themes": [
-      "ai",
-      "education"
-    ],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": "https://doi.org/10.35542/osf.io/zvu2n",
-    "preprint_host": "EdArXiv",
-    "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{ahmad2023data,\n  title     = {{Data-Driven Artificial Intelligence in Education: A Comprehensive Review}},\n  author    = {Ahmad, K. and Iqbal, W. and El-Hassan, A. and Qadir, J. and Benhaddou, D. and Ayyash, M. and Al-Fuqaha, A.},\n  journal = {IEEE Transactions on Learning Technologies},\n  year      = {2023},\n  doi       = {10.1109/tlt.2023.3314610}\n}"
   },
   {
     "slug": "2023-ali-systematic-review-federated-learning",
@@ -5762,7 +5905,7 @@
     "preprint_url": null,
     "preprint_host": null,
     "links": [],
-    "pdf": "pdf/2023/2023-qayyum-secure-robust-machine-learning.pdf",
+    "pdf": "pdf/2021/2023-qayyum-secure-robust-machine-learning.pdf",
     "pdf_version": "submittedVersion",
     "pdf_license": null,
     "oa_url": "http://arxiv.org/abs/2001.08103",
@@ -6029,7 +6172,7 @@
   },
   {
     "slug": "2020-qadir-spiritual-excellence-ihsan-professionals",
-    "cv_label": "MI5",
+    "cv_label": "MI4",
     "title": "Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective",
     "authors": [
       "J. Qadir",
@@ -6063,7 +6206,7 @@
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
-    "oa_status": "unchecked",
+    "oa_status": "oa-flagged-no-pdf-url",
     "bibtex": "@misc{qadir2020spiritual,\n  title     = {{Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective}},\n  author    = {Qadir, J. and Raquib, A. and Saeed, H.},\n  howpublished = {Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter},\n  pages     = {217--237},\n  year      = {2020},\n  doi       = {10.1515/9783110593419-012}\n}"
   },
   {
@@ -7006,7 +7149,7 @@
       "B. L. Tan"
     ],
     "year": 2020,
-    "venue": "the 127th American Society of Engineering Education (ASEE) Annual Conference 2020",
+    "venue": "the 127th American Society for Engineering Education (ASEE) Annual Conference 2020",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -7031,7 +7174,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.18260/1-2--35020",
     "oa_status": "free-to-read-link-only",
-    "bibtex": "@inproceedings{qadir2020outcome,\n  title     = {{Outcome-Based Engineering Education: A Global Report of International OBE Accreditation and Assessment Practices}},\n  author    = {Qadir, J. and Shafi, A. and Al-Fuqaha, A. and Taha, A. M. and Yau, K. A. and Ponciano, J. and Hussain, S. and Imran, M. A. and Muhammad, S. S. and Rais, R. N. b. and Rashid, M. and Tan, B. L.},\n  booktitle = {the 127th American Society of Engineering Education (ASEE) Annual Conference 2020},\n  year      = {2020}\n}"
+    "bibtex": "@inproceedings{qadir2020outcome,\n  title     = {{Outcome-Based Engineering Education: A Global Report of International OBE Accreditation and Assessment Practices}},\n  author    = {Qadir, J. and Shafi, A. and Al-Fuqaha, A. and Taha, A. M. and Yau, K. A. and Ponciano, J. and Hussain, S. and Imran, M. A. and Muhammad, S. S. and Rais, R. N. b. and Rashid, M. and Tan, B. L.},\n  booktitle = {the 127th American Society for Engineering Education (ASEE) Annual Conference 2020},\n  year      = {2020}\n}"
   },
   {
     "slug": "2020-qadir-leveraging-force-formative-assessment",
@@ -7047,7 +7190,7 @@
       "M. A. Imran"
     ],
     "year": 2020,
-    "venue": "the 127th American Society of Engineering Education (ASEE) Annual Conference 2020",
+    "venue": "the 127th American Society for Engineering Education (ASEE) Annual Conference 2020",
     "volume": null,
     "issue": null,
     "pages": null,
@@ -7072,7 +7215,7 @@
     "pdf_license": "cc-by-sa",
     "oa_url": "https://eprints.gla.ac.uk/view/author/51837.html>,",
     "oa_status": "hostable",
-    "bibtex": "@inproceedings{qadir2020leveraging,\n  title     = {{Leveraging the Force of Formative Assessment \\& Feedback for Effective Engineering Education}},\n  author    = {Qadir, J. and Taha, A. M. and Yau, K. L. A. and Ponciano, J. and Hussain, S. and Al-Fuqaha, A. and Imran, M. A.},\n  booktitle = {the 127th American Society of Engineering Education (ASEE) Annual Conference 2020},\n  year      = {2020}\n}"
+    "bibtex": "@inproceedings{qadir2020leveraging,\n  title     = {{Leveraging the Force of Formative Assessment \\& Feedback for Effective Engineering Education}},\n  author    = {Qadir, J. and Taha, A. M. and Yau, K. L. A. and Ponciano, J. and Hussain, S. and Al-Fuqaha, A. and Imran, M. A.},\n  booktitle = {the 127th American Society for Engineering Education (ASEE) Annual Conference 2020},\n  year      = {2020}\n}"
   },
   {
     "slug": "2020-qadir-engineering-education-moving-2020s",
@@ -7197,21 +7340,22 @@
   },
   {
     "slug": "2019-zubair-combating-fake-news-misinformation",
-    "cv_label": "MI6",
-    "title": "On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition",
+    "cv_label": "MI5",
+    "title": "Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition",
     "authors": [
       "T. Zubair",
       "A. Raquib",
-      "J. Qadir"
+      "J. Qadir",
+      "Islam"
     ],
     "year": 2019,
-    "venue": "“Islam and Civilization Renewal,” published by IAIS, Malaysia",
-    "volume": null,
-    "issue": null,
-    "pages": null,
+    "venue": "Civilisational Renewal (ICR), published by IAIS Malaysia",
+    "volume": "10",
+    "issue": "2",
+    "pages": "189–212",
     "doi": "10.52282/icr.v10i2.42",
     "section": "misc",
-    "status": "accepted",
+    "status": "final",
     "awards": [],
     "best_paper_award": false,
     "tags": [
@@ -7237,49 +7381,7 @@
     "pdf_license": null,
     "oa_url": "https://doi.org/10.52282/icr.v10i2.42",
     "oa_status": "free-to-read-link-only",
-    "bibtex": "@misc{zubair2019combating,\n  title     = {{On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition}},\n  author    = {Zubair, T. and Raquib, A. and Qadir, J.},\n  howpublished = {“Islam and Civilization Renewal,” published by IAIS, Malaysia},\n  year      = {2019},\n  doi       = {10.52282/icr.v10i2.42}\n}"
-  },
-  {
-    "slug": "2019-qadir-sustainable-development-viewed-lens-b",
-    "cv_label": "MI4",
-    "title": "Sustainable Development Viewed from the Lens of Islam",
-    "authors": [
-      "J. Qadir",
-      "A. Zaman"
-    ],
-    "year": 2019,
-    "venue": "Inderscience International Journal of Pluralism and Economics Education (IJPEE)",
-    "volume": "10",
-    "issue": null,
-    "pages": null,
-    "doi": "10.1504/ijpee.2019.098181",
-    "section": "misc",
-    "status": "final",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [
-      "education",
-      "islamic-ethics",
-      "smart-cities-sustainability",
-      "ict4d"
-    ],
-    "themes": [
-      "education",
-      "ihsan-ethics",
-      "sustainability",
-      "networks-ict4d"
-    ],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@misc{qadir2019sustainableb,\n  title     = {{Sustainable Development Viewed from the Lens of Islam}},\n  author    = {Qadir, J. and Zaman, A.},\n  howpublished = {Inderscience International Journal of Pluralism and Economics Education (IJPEE)},\n  volume    = {10},\n  year      = {2019},\n  doi       = {10.1504/ijpee.2019.098181}\n}"
+    "bibtex": "@misc{zubair2019combating,\n  title     = {{Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition}},\n  author    = {Zubair, T. and Raquib, A. and Qadir, J. and Islam},\n  howpublished = {Civilisational Renewal (ICR), published by IAIS Malaysia},\n  volume    = {10},\n  number    = {2},\n  pages     = {189--212},\n  year      = {2019},\n  doi       = {10.52282/icr.v10i2.42}\n}"
   },
   {
     "slug": "2019-alsarem-deep-learning-rumor-detection",
@@ -8197,13 +8299,13 @@
       "M. A. Imran"
     ],
     "year": 2019,
-    "venue": "12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 Apr 2019",
+    "venue": "12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 April 2019.",
     "volume": null,
     "issue": null,
     "pages": null,
     "doi": null,
     "section": "conference",
-    "status": "accepted",
+    "status": "final",
     "awards": [],
     "best_paper_award": false,
     "tags": [
@@ -8216,13 +8318,15 @@
     "access_note": null,
     "preprint_url": null,
     "preprint_host": null,
-    "links": [],
+    "links": [
+      "https://eprints.gla.ac.uk/179775/"
+    ],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@inproceedings{hussain2019online,\n  title     = {{Online Interactivity Tools to Support Student Centered Learning in Large Classes}},\n  author    = {Hussain, S. and Abbasi, Q. H. and Ansari, S. I. and Qadir, J. and Imran, M. A.},\n  booktitle = {12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 Apr 2019},\n  year      = {2019}\n}"
+    "bibtex": "@inproceedings{hussain2019online,\n  title     = {{Online Interactivity Tools to Support Student Centered Learning in Large Classes}},\n  author    = {Hussain, S. and Abbasi, Q. H. and Ansari, S. I. and Qadir, J. and Imran, M. A.},\n  booktitle = {12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 April 2019.},\n  year      = {2019}\n}"
   },
   {
     "slug": "2019-khalid-fademl-understanding-impact-pre",
@@ -8372,7 +8476,9 @@
     "access_note": null,
     "preprint_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015107",
     "preprint_host": "SSRN",
-    "links": [],
+    "links": [
+      "https://ssrn.com/abstract=3015107"
+    ],
     "pdf": null,
     "pdf_version": null,
     "pdf_license": null,
@@ -8741,9 +8847,9 @@
     "bibtex": "@article{javed2018community,\n  title     = {{Community Detection in Networks: A Multidisciplinary Review}},\n  author    = {Javed, M. A. and Younis, M. S. and Latif, S. and Qadir, J. and Baig, A.},\n  journal = {Elsevier Journal of Network Computer Applications (JNCA)},\n  volume    = {108},\n  pages     = {87--111},\n  year      = {2018},\n  doi       = {10.1016/j.jnca.2018.02.011}\n}"
   },
   {
-    "slug": "2018-editorial-computational-intelligence-mobile-network",
+    "slug": "2018-editorial-computational-intelligence-techniques-mobile",
     "cv_label": "J42",
-    "title": "Computational Intelligence For Mobile Network Optimization",
+    "title": "Computational Intelligence Techniques for Mobile Network Optimization",
     "authors": [
       "Special Issue Editorial",
       "J. Qadir",
@@ -8778,7 +8884,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@article{editorial2018computational,\n  title     = {{Computational Intelligence For Mobile Network Optimization}},\n  author    = {Editorial, Special Issue and Qadir, J. and Hussain, A. and Yau, K. A. and Imran, M. A. and Wolisz, A.},\n  journal = {IEEE Computational Intelligence Magazine},\n  year      = {2018},\n  doi       = {10.1109/mci.2017.2773799}\n}"
+    "bibtex": "@article{editorial2018computational,\n  title     = {{Computational Intelligence Techniques for Mobile Network Optimization}},\n  author    = {Editorial, Special Issue and Qadir, J. and Hussain, A. and Yau, K. A. and Imran, M. A. and Wolisz, A.},\n  journal = {IEEE Computational Intelligence Magazine},\n  year      = {2018},\n  doi       = {10.1109/mci.2017.2773799}\n}"
   },
   {
     "slug": "2018-shafqat-big-data-analytics-enhanced",
@@ -9896,6 +10002,47 @@
     "bibtex": "@article{malik2017measurement,\n  title     = {{A Measurement Study of Open Source SDN Layers in OpenStack under Network Perturbation}},\n  author    = {Malik, A. and Ahmed, J. and Qadir, J. and Ilyas, M. U.},\n  journal = {Elsevier Computer Communications (COMCOM)},\n  volume    = {102},\n  pages     = {139--149},\n  year      = {2017},\n  doi       = {10.1016/j.comcom.2016.12.014}\n}"
   },
   {
+    "slug": "2017-riaz-intrusion-detection-systems-cloud",
+    "cv_label": "J25",
+    "title": "Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions",
+    "authors": [
+      "A. Riaz",
+      "H. F. Ahmad",
+      "A. K. Kiani",
+      "J. Qadir",
+      "R. Rasool",
+      "U. Younis"
+    ],
+    "year": 2017,
+    "venue": "Journal of Information Science and Engineering, Special Issue on Cloud Computing and Security",
+    "volume": "33",
+    "issue": "3",
+    "pages": "611–634",
+    "doi": "10.6688/JISE.2017.33.3.2",
+    "section": "journal",
+    "status": "final",
+    "awards": [],
+    "best_paper_award": false,
+    "tags": [
+      "security-privacy",
+      "survey-review"
+    ],
+    "themes": [
+      "ai-security"
+    ],
+    "featured": false,
+    "access_note": null,
+    "preprint_url": null,
+    "preprint_host": null,
+    "links": [],
+    "pdf": null,
+    "pdf_version": null,
+    "pdf_license": null,
+    "oa_url": "https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf",
+    "oa_status": "hostable",
+    "bibtex": "@article{riaz2017intrusion,\n  title     = {{Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions}},\n  author    = {Riaz, A. and Ahmad, H. F. and Kiani, A. K. and Qadir, J. and Rasool, R. and Younis, U.},\n  journal = {Journal of Information Science and Engineering, Special Issue on Cloud Computing and Security},\n  volume    = {33},\n  number    = {3},\n  pages     = {611--634},\n  year      = {2017},\n  doi       = {10.6688/JISE.2017.33.3.2}\n}"
+  },
+  {
     "slug": "2017-harris-persuasive-technology-development",
     "cv_label": "I3",
     "title": "Persuasive Technology for Development",
@@ -10179,9 +10326,9 @@
     "bibtex": "@inproceedings{khalil2017feasibility,\n  title     = {{Feasibility, Architecture and Cost Considerations of Using TVWS for Rural Internet Access in 5G}},\n  author    = {Khalil, M. and Qadir, J. and Onireti, O. and Imran, M. A. and Younis, M. S.},\n  booktitle = {5G Universal Access workshop in conjunction with the 18th IEEE International Conference on Intelligence in Next Generation Networks (ICIN)},\n  pages     = {23--30},\n  year      = {2017},\n  doi       = {10.1109/icin.2017.7899245}\n}"
   },
   {
-    "slug": "2017-hassan-5g-universal-access-challenges",
+    "slug": "2017-hassan-universal-access-5g-networks",
     "cv_label": "BC1",
-    "title": "5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage",
+    "title": "Universal Access in 5G Networks: Potential Challenges and Opportunities for Urban and Rural Environments",
     "authors": [
       "S. A. Hassan",
       "M. Shahmeer Omar",
@@ -10219,7 +10366,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "oa-flagged-no-pdf-url",
-    "bibtex": "@incollection{hassan2017universal,\n  title     = {{5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage}},\n  author    = {Hassan, S. A. and Omar, M. Shahmeer and Imran, M. A. and Jayakody, N. K.},\n  booktitle = {J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley},\n  year      = {2017},\n  doi       = {10.1002/9781119333142.ch8}\n}"
+    "bibtex": "@incollection{hassan2017universal,\n  title     = {{Universal Access in 5G Networks: Potential Challenges and Opportunities for Urban and Rural Environments}},\n  author    = {Hassan, S. A. and Omar, M. Shahmeer and Imran, M. A. and Jayakody, N. K.},\n  booktitle = {J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley},\n  year      = {2017},\n  doi       = {10.1002/9781119333142.ch8}\n}"
   },
   {
     "slug": "2016-zaman-putting-social-justice-first",
@@ -10340,7 +10487,7 @@
   {
     "slug": "2016-qadir-resource-pooling-wireless-networks",
     "cv_label": "J26",
-    "title": "Resource Pooling for Wireless Networks: Solutions for the Developing World",
+    "title": "‘Resource Pooling’ for Wireless Networks: Solutions for the Developing World",
     "authors": [
       "J. Qadir",
       "A. Sathiaseelan",
@@ -10374,48 +10521,7 @@
     "pdf_license": null,
     "oa_url": null,
     "oa_status": "none-found",
-    "bibtex": "@article{qadir2016resource,\n  title     = {{Resource Pooling for Wireless Networks: Solutions for the Developing World}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Wang, L. and Crowcroft, J.},\n  journal = {Editorial Note published in ACM Computer Communication Review (CCR)},\n  year      = {2016},\n  doi       = {10.1145/3027947.3027953}\n}"
-  },
-  {
-    "slug": "2016-riaz-intrusion-detection-systems-cloud",
-    "cv_label": "J25",
-    "title": "Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions",
-    "authors": [
-      "A. Riaz",
-      "H. F. Ahmad",
-      "A. K. Kiani",
-      "J. Qadir",
-      "R. Rasool",
-      "U. Younis"
-    ],
-    "year": 2016,
-    "venue": "Journal of Information Science and Engineering: Special Issue on Cloud Computing and Security",
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "doi": null,
-    "section": "journal",
-    "status": "accepted",
-    "awards": [],
-    "best_paper_award": false,
-    "tags": [
-      "security-privacy",
-      "survey-review"
-    ],
-    "themes": [
-      "ai-security"
-    ],
-    "featured": false,
-    "access_note": null,
-    "preprint_url": null,
-    "preprint_host": null,
-    "links": [],
-    "pdf": null,
-    "pdf_version": null,
-    "pdf_license": null,
-    "oa_url": null,
-    "oa_status": "none-found",
-    "bibtex": "@article{riaz2016intrusion,\n  title     = {{Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions}},\n  author    = {Riaz, A. and Ahmad, H. F. and Kiani, A. K. and Qadir, J. and Rasool, R. and Younis, U.},\n  journal = {Journal of Information Science and Engineering: Special Issue on Cloud Computing and Security},\n  year      = {2016}\n}"
+    "bibtex": "@article{qadir2016resource,\n  title     = {{‘Resource Pooling’ for Wireless Networks: Solutions for the Developing World}},\n  author    = {Qadir, J. and Sathiaseelan, A. and Wang, L. and Crowcroft, J.},\n  journal = {Editorial Note published in ACM Computer Communication Review (CCR)},\n  year      = {2016},\n  doi       = {10.1145/3027947.3027953}\n}"
   },
   {
     "slug": "2016-amin-comparing-oversampling-techniques-handle",

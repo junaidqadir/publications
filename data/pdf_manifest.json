@@ -390,7 +390,7 @@
     "fetched_at": "2026-10-24"
   },
   "2023-qayyum-secure-robust-machine-learning": {
-    "path": "pdf/2023/2023-qayyum-secure-robust-machine-learning.pdf",
+    "path": "pdf/2021/2023-qayyum-secure-robust-machine-learning.pdf",
     "bytes": 3940816,
     "sha256": "360f7b0caea81320eeb13d78e9eed39a239aac57c7562a99c88a438ca684b13c",
     "source": "openalex",
@@ -1257,6 +1257,19 @@
     "version": "preprint",
     "license": "Author's pre-publication manuscript, posted by the authors; the final chapter will be published by Elsevier (forthcoming). Cite the published version when available.",
     "verified": "author-supplied",
+    "title_match": 1,
+    "fetched_at": "2026-10-24"
+  },
+  "2026-qadir-craft-ed-framework-effective": {
+    "path": "pdf/2026/2026-qadir-craft-ed-framework-effective.pdf",
+    "bytes": 628036,
+    "sha256": "b5e48694b4554a6f53ded832d6481bbdf6b05dfa3568577f50ac17d38114cede",
+    "source": "crossref-link",
+    "url": "http://xplorestaging.ieee.org/ielx8/6287639/6514899/11631842.pdf?arnumber=11631842",
+    "landing": "https://doi.org/10.1109/ACCESS.2026.3718869",
+    "version": "publishedVersion",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "verified": "title",
     "title_match": 1,
     "fetched_at": "2026-10-24"
   }

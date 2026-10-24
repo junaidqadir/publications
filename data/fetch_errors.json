@@ -1,6 +1,6 @@
 {
   "2024-zaidi-enhancing-cross-language-multimodal": {
-    "message": "HTTP 403",
+    "message": "not a PDF (landing page or login wall)",
     "url": "http://qspace.qu.edu.qa/bitstream/10576/66082/1/Enhancing_Cross-Language_Multimodal_Emotion_Recognition_With_Dual_Attention_Transformers.pdf",
     "at": "2026-10-24"
   },
@@ -10,12 +10,12 @@
     "at": "2026-10-24"
   },
   "2024-usman-intelligent-healthcare-system-iomt": {
-    "message": "HTTP 403",
+    "message": "not a PDF (landing page or login wall)",
     "url": "http://qspace.qu.edu.qa/bitstream/10576/65982/1/1-s2.0-S2542660524000076-main.pdf",
     "at": "2026-10-24"
   },
   "2023-ali-systematic-review-federated-learning": {
-    "message": "HTTP 403",
+    "message": "not a PDF (landing page or login wall)",
     "url": "http://qspace.qu.edu.qa/bitstream/10576/65986/1/1-s2.0-S1574013723000606-main.pdf",
     "at": "2026-10-24"
   },
@@ -142,6 +142,16 @@
   "2020-qadir-student-primer-thrive-engineering": {
     "message": "HTTP 403",
     "url": "https://www.mdpi.com/2227-7102/10/9/236/pdf",
+    "at": "2026-10-24"
+  },
+  "2017-riaz-intrusion-detection-systems-cloud": {
+    "message": "fetch failed",
+    "url": "https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf",
+    "at": "2026-10-24"
+  },
+  "2026-rizvi-artificial-intelligence-prediction-progression": {
+    "message": "not a PDF (landing page or login wall)",
+    "url": "https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI260175",
     "at": "2026-10-24"
   }
 }

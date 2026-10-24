@@ -12620,5 +12620,357 @@
     "best": null,
     "candidates": [],
     "checked_at": "2026-10-24"
+  },
+  "2026-jose-innovation-implementation-global-scoping": {
+    "cv_label": "J180",
+    "title": "From innovation to implementation: a global scoping review of artificial intelligence applications, governance, and challenges in humanitarian contexts",
+    "doi": "10.7189/jogh.16.04359",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.7189/jogh.16.04359",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "Journal of Global Health",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13679343/",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "PubMed Central",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/42895268",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-qadir-craft-ed-framework-effective": {
+    "cv_label": "J179",
+    "title": "The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity",
+    "doi": "10.1109/ACCESS.2026.3718869",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "http://xplorestaging.ieee.org/ielx8/6287639/6514899/11631842.pdf?arnumber=11631842",
+      "landing": "https://doi.org/10.1109/ACCESS.2026.3718869",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "http://xplorestaging.ieee.org/ielx8/6287639/6514899/11631842.pdf?arnumber=11631842",
+        "landing": "https://doi.org/10.1109/ACCESS.2026.3718869",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/access.2026.3718869",
+        "version": "publishedVersion",
+        "license": "cc-by",
+        "host": "IEEE Access",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.1109/ACCESS.2026.3718869",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/10576/73203",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2024-ahmad-data-driven-artificial-intelligence": {
+    "cv_label": "J133",
+    "title": "Data-Driven Artificial Intelligence in Education: A Comprehensive Review",
+    "doi": "10.1109/tlt.2023.3314610",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.35542/osf.io/zvu2n",
+        "version": "acceptedVersion",
+        "license": "cc-by-sa",
+        "host": null,
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://osf.io/zvu2n",
+        "version": "submittedVersion",
+        "license": "cc-by-sa",
+        "host": "EdArXiv (OSF Preprints)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/tlt.2023.3314610",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Transactions on Learning Technologies",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://edarxiv.org/zvu2n/",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "EdArXiv (OSF Preprints)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://hdl.handle.net/10576/66057",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2018-editorial-computational-intelligence-techniques-mobile": {
+    "cv_label": "J42",
+    "title": "Computational Intelligence Techniques for Mobile Network Optimization",
+    "doi": "10.1109/mci.2017.2773799",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1109/mci.2017.2773799",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "IEEE Computational Intelligence Magazine",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://researchrepository.napier.ac.uk/Output/1792233",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Research Output (Edinburgh Napier University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2017-riaz-intrusion-detection-systems-cloud": {
+    "cv_label": "J25",
+    "title": "Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions",
+    "doi": "10.6688/JISE.2017.33.3.2",
+    "status": "hostable",
+    "best": {
+      "source": "openalex",
+      "url": "https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf",
+      "landing": "https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf",
+      "version": "submittedVersion",
+      "license": "cc-by",
+      "host": "Research Open (London South Bank University)",
+      "confidence": 0.8
+    },
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": "https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf",
+        "landing": "https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf",
+        "version": "submittedVersion",
+        "license": "cc-by",
+        "host": "Research Open (London South Bank University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": "http://researchopen.lsbu.ac.uk/2874/1/JISE_201703_02.pdf",
+        "landing": "http://researchopen.lsbu.ac.uk/2874/1/JISE_201703_02.pdf",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "Research Open (London South Bank University)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://irep.ntu.ac.uk/id/eprint/49266/",
+        "version": "acceptedVersion",
+        "license": null,
+        "host": "Nottingham Trent University's Institutional Repository (Nottingham Trent Repository)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://dblp.uni-trier.de/db/journals/jise/jise33.html#RiazQYRAK17",
+        "version": "unknown",
+        "license": null,
+        "host": "Journal of information science and engineering",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-rizvi-artificial-intelligence-prediction-progression": {
+    "cv_label": "C102",
+    "title": "Artificial Intelligence–Based Prediction of Progression from Gestational Diabetes to Type 2 Diabetes",
+    "doi": "10.3233/shti260175",
+    "status": "hostable",
+    "best": {
+      "source": "crossref-link",
+      "url": "https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI260175",
+      "landing": "https://doi.org/10.3233/shti260175",
+      "version": "publishedVersion",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "confidence": 0.85
+    },
+    "candidates": [
+      {
+        "source": "crossref-link",
+        "url": "https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI260175",
+        "landing": "https://doi.org/10.3233/shti260175",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "confidence": 0.85
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.3233/shti260175",
+        "version": "publishedVersion",
+        "license": "cc-by-nc",
+        "host": "Studies in health technology and informatics",
+        "confidence": 0.8
+      },
+      {
+        "source": "crossref-license",
+        "url": null,
+        "landing": "https://doi.org/10.3233/shti260175",
+        "version": "publishedVersion",
+        "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "confidence": 0.6,
+        "note": "CC-licensed at the publisher; PDF URL not given by Crossref"
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://pubmed.ncbi.nlm.nih.gov/42174851",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "PubMed",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://hdl.handle.net/10576/73318",
+        "version": "submittedVersion",
+        "license": null,
+        "host": "Qatar University QSpace (Qatar University)",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2017-hassan-universal-access-5g-networks": {
+    "cv_label": "BC1",
+    "title": "Universal Access in 5G Networks: Potential Challenges and Opportunities for Urban and Rural Environments",
+    "doi": "10.1002/9781119333142.ch8",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "http://eprints.gla.ac.uk/view/author/37001.html>",
+        "version": "acceptedVersion",
+        "license": "cc-by-sa",
+        "host": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+        "confidence": 0.8
+      },
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1002/9781119333142.ch8",
+        "version": "publishedVersion",
+        "license": null,
+        "host": "John Wiley & Sons, Inc. eBooks",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2020-qadir-spiritual-excellence-ihsan-professionals": {
+    "cv_label": "MI4",
+    "title": "Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective",
+    "doi": "10.1515/9783110593419-012",
+    "status": "oa-flagged-no-pdf-url",
+    "best": null,
+    "candidates": [
+      {
+        "source": "openalex",
+        "url": null,
+        "landing": "https://doi.org/10.1515/9783110593419-012",
+        "version": "publishedVersion",
+        "license": "public-domain",
+        "host": "De Gruyter eBooks",
+        "confidence": 0.8
+      }
+    ],
+    "checked_at": "2026-10-24"
+  },
+  "2026-qadir-multiplex-framework-responsible-ai": {
+    "cv_label": "I6",
+    "title": "A Multiplex Framework for Responsible AI-Augmented Mental Healthcare: Integrating TIIP with Ethical AI",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
+  },
+  "2025-qadir-philosophy-islamic-legislation-science": {
+    "cv_label": "I5",
+    "title": "The Philosophy of Islamic Legislation: Science of the Secrets of Religion in the Light of the Waliullahi School of Thought",
+    "doi": null,
+    "status": "none-found",
+    "best": null,
+    "candidates": [],
+    "checked_at": "2026-10-24"
   }
 }

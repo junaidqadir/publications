@@ -2,6 +2,33 @@
   {
     "code": "J",
     "section": "journal",
+    "number": 180,
+    "cv_label": "J180",
+    "title": "From innovation to implementation: a global scoping review of artificial intelligence applications, governance, and challenges in humanitarian contexts",
+    "authors": [
+      "M. Jose",
+      "F. Mueen",
+      "J. Qadir",
+      "A. Abd-Alrazaq",
+      "K. Kwalombota",
+      "D. Maddah"
+    ],
+    "venue": "Journal of Global Health",
+    "year": 2026,
+    "volume": "16",
+    "issue": null,
+    "pages": null,
+    "doi": "10.7189/jogh.16.04359",
+    "arxiv": null,
+    "links": [],
+    "status": "published",
+    "awards": [],
+    "plain": "M. Jose, F. Mueen, J. Qadir, A. Abd-Alrazaq, K. Kwalombota, and D. Maddah, “From innovation to implementation: a global scoping review of artificial intelligence applications, governance, and challenges in humanitarian contexts”, Journal of Global Health, vol. 16, article 04359, 2026. .",
+    "slug": "2026-jose-innovation-implementation-global-scoping"
+  },
+  {
+    "code": "J",
+    "section": "journal",
     "number": 179,
     "cv_label": "J179",
     "title": "The CRAFT(-ED) Framework for Effective AI-Augmented Writing: Navigating the Inside-Outside Paradox with Multiplexity",
@@ -142,8 +169,8 @@
     "cv_label": "J174",
     "title": "Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations",
     "authors": [
-      "A. Moustafa",
-      "M. Hamad",
+      "A. H. A. Moustafa",
+      "M. F. Al-Hamad",
       "M. A. Qureshi",
       "J. Qadir"
     ],
@@ -157,7 +184,7 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "A. Moustafa, M. Hamad, M. A. Qureshi, J. Qadir, “Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations”, IEEE Access, vol. 14, pp. 7379–7395, 2026. Impact Factor (2024) 3.6. .",
+    "plain": "A. H. A. Moustafa, M. F. Al-Hamad, M. A. Qureshi, J. Qadir, “Generative AI for Learning and Teaching Arabic: Opportunities, Challenges, and Ethical Considerations”, IEEE Access, vol. 14, pp. 7379–7395, 2026. Impact Factor (2024) 3.6. .",
     "slug": "2026-moustafa-generative-ai-learning-teaching"
   },
   {
@@ -298,7 +325,7 @@
       "J. Qadir",
       "D. Maddah",
       "M. W. Qoronfleh",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "venue": "Frontiers in Psychology, section Consciousness Research, Research Topic: Spirituality and Religion: Implications for Mental Health",
     "year": 2025,
@@ -310,7 +337,7 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Toward Multiplex Health: Integrating Complexity, Normativity, and Open Science”, J. Qadir, D. Maddah, M. W. Qoronfleh, and R. Senturk, Frontiers in Psychology, section Consciousness Research, Research Topic: Spirituality and Religion: Implications for Mental Health, vol. 16, art. 1603474, 2025. Impact Factor (2024) 2.9. .",
+    "plain": "“Toward Multiplex Health: Integrating Complexity, Normativity, and Open Science”, J. Qadir, D. Maddah, M. W. Qoronfleh, and R. Sentürk, Frontiers in Psychology, section Consciousness Research, Research Topic: Spirituality and Religion: Implications for Mental Health, vol. 16, art. 1603474, 2025. Impact Factor (2024) 2.9. .",
     "slug": "2025-qadir-multiplex-health-integrating-complexity"
   },
   {
@@ -1255,17 +1282,17 @@
       "A. Al-Fuqaha"
     ],
     "venue": "IEEE Transactions on Learning Technologies",
-    "year": 2023,
-    "volume": null,
+    "year": 2024,
+    "volume": "17",
     "issue": null,
-    "pages": null,
+    "pages": "12–31",
     "doi": "10.1109/tlt.2023.3314610",
     "arxiv": null,
     "links": [],
-    "status": "accepted",
+    "status": "published",
     "awards": [],
-    "plain": "“Data-Driven Artificial Intelligence in Education: A Comprehensive Review”, K. Ahmad, W. Iqbal, A. El-Hassan, J. Qadir, D. Benhaddou, M. Ayyash, A. Al-Fuqaha, IEEE Transactions on Learning Technologies, accepted in September 2023. Impact Factor (2022) 3.7. .",
-    "slug": "2023-ahmad-data-driven-artificial-intelligence"
+    "plain": "“Data-Driven Artificial Intelligence in Education: A Comprehensive Review”, K. Ahmad, W. Iqbal, A. El-Hassan, J. Qadir, D. Benhaddou, M. Ayyash, A. Al-Fuqaha, IEEE Transactions on Learning Technologies, vol. 17, pp. 12–31, 2024. Impact Factor (2022) 3.7. .",
+    "slug": "2024-ahmad-data-driven-artificial-intelligence"
   },
   {
     "code": "J",
@@ -3656,7 +3683,7 @@
     "section": "journal",
     "number": 42,
     "cv_label": "J42",
-    "title": "Computational Intelligence For Mobile Network Optimization",
+    "title": "Computational Intelligence Techniques for Mobile Network Optimization",
     "authors": [
       "Special Issue Editorial",
       "J. Qadir",
@@ -3675,8 +3702,8 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Computational Intelligence For Mobile Network Optimization”, Special Issue Editorial, J. Qadir, A. Hussain, K. A. Yau, M. A. Imran, A. Wolisz, IEEE Computational Intelligence Magazine, February 2018. Impact Factor (2017) 6.611. .",
-    "slug": "2018-editorial-computational-intelligence-mobile-network"
+    "plain": "“Computational Intelligence Techniques for Mobile Network Optimization”, Special Issue Editorial, J. Qadir, A. Hussain, K. A. Yau, M. A. Imran, A. Wolisz, IEEE Computational Intelligence Magazine, February 2018. Impact Factor (2017) 6.611. .",
+    "slug": "2018-editorial-computational-intelligence-techniques-mobile"
   },
   {
     "code": "J",
@@ -4073,7 +4100,7 @@
     "section": "journal",
     "number": 26,
     "cv_label": "J26",
-    "title": "Resource Pooling for Wireless Networks: Solutions for the Developing World",
+    "title": "‘Resource Pooling’ for Wireless Networks: Solutions for the Developing World",
     "authors": [
       "J. Qadir",
       "A. Sathiaseelan",
@@ -4090,7 +4117,7 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Resource Pooling for Wireless Networks: Solutions for the Developing World”, J. Qadir, A. Sathiaseelan, L. Wang, J. Crowcroft, Editorial Note published in ACM Computer Communication Review (CCR), October, 2016. .",
+    "plain": "“‘Resource Pooling’ for Wireless Networks: Solutions for the Developing World”, J. Qadir, A. Sathiaseelan, L. Wang, J. Crowcroft, Editorial Note published in ACM Computer Communication Review (CCR), October, 2016. .",
     "slug": "2016-qadir-resource-pooling-wireless-networks"
   },
   {
@@ -4107,18 +4134,18 @@
       "R. Rasool",
       "U. Younis"
     ],
-    "venue": "Journal of Information Science and Engineering: Special Issue on Cloud Computing and Security",
-    "year": 2016,
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "doi": null,
+    "venue": "Journal of Information Science and Engineering, Special Issue on Cloud Computing and Security",
+    "year": 2017,
+    "volume": "33",
+    "issue": "3",
+    "pages": "611–634",
+    "doi": "10.6688/JISE.2017.33.3.2",
     "arxiv": null,
     "links": [],
-    "status": "accepted",
+    "status": "published",
     "awards": [],
-    "plain": "“Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions”, A. Riaz, H. F. Ahmad, A. K. Kiani, J. Qadir, R. Rasool, U. Younis, accepted in Journal of Information Science and Engineering: Special Issue on Cloud Computing and Security, October 2016. Impact Factor (2015) 0.61.",
-    "slug": "2016-riaz-intrusion-detection-systems-cloud"
+    "plain": "“Intrusion Detection Systems in Cloud Computing: A Contemporary Review of Techniques and Solutions”, A. Riaz, H. F. Ahmad, A. K. Kiani, J. Qadir, R. Rasool, U. Younis, Journal of Information Science and Engineering, Special Issue on Cloud Computing and Security, vol. 33, no. 3, pp. 611–634, 2017. Impact Factor (2015) 0.61. .",
+    "slug": "2017-riaz-intrusion-detection-systems-cloud"
   },
   {
     "code": "J",
@@ -4773,7 +4800,7 @@
     "section": "conference",
     "number": 102,
     "cv_label": "C102",
-    "title": "Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes",
+    "title": "Artificial Intelligence–Based Prediction of Progression from Gestational Diabetes to Type 2 Diabetes",
     "authors": [
       "S. W. F. Rizvi",
       "M. Alkhateeb",
@@ -4792,8 +4819,8 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Artificial Intelligence for Predicting the Transition from Gestational Diabetes to Type 2 Diabetes”, S. W. F. Rizvi, M. Alkhateeb, F. Mohsen, J. Qadir, A. Ahmed, A. Abd-alrazaq, Medical Informatics Europe (MIE 2026), 2026. .",
-    "slug": "2026-rizvi-artificial-intelligence-predicting-transition"
+    "plain": "“Artificial Intelligence–Based Prediction of Progression from Gestational Diabetes to Type 2 Diabetes”, S. W. F. Rizvi, M. Alkhateeb, F. Mohsen, J. Qadir, A. Ahmed, A. Abd-alrazaq, Medical Informatics Europe (MIE 2026), 2026. .",
+    "slug": "2026-rizvi-artificial-intelligence-prediction-progression"
   },
   {
     "code": "C",
@@ -4907,17 +4934,20 @@
       "A. Al-Fuqaha",
       "J. Qadir"
     ],
-    "venue": "NeurIPS 2025 Workshop MusIML",
+    "venue": "Muslims in ML (MusIML) Workshop at NeurIPS 2025, San Diego, CA, USA",
     "year": 2025,
     "volume": null,
     "issue": null,
     "pages": null,
     "doi": null,
     "arxiv": null,
-    "links": [],
-    "status": "accepted",
+    "links": [
+      "https://arxiv.org/abs/2510.24438",
+      "https://openreview.net/forum?id=9FelOSlLhN"
+    ],
+    "status": "published",
     "awards": [],
-    "plain": "“Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content”, A. Mushtaq, R. Naeem, E. Elmahjub, I. Ghaznavi, S. M. Al-Maliki, M. Abdallah, A. Al-Fuqaha, J. Qadir, accepted at NeurIPS 2025 Workshop MusIML, September 2025.",
+    "plain": "“Can LLMs Write Faithfully? An Agent-Based Evaluation of LLM-generated Islamic Content”, A. Mushtaq, R. Naeem, E. Elmahjub, I. Ghaznavi, S. M. Al-Maliki, M. Abdallah, A. Al-Fuqaha, J. Qadir, Muslims in ML (MusIML) Workshop at NeurIPS 2025, San Diego, CA, USA, December 2025. Preprint available at arXiv: . OpenReview: .",
     "slug": "2025-mushtaq-llms-write-faithfully-agent"
   },
   {
@@ -5009,7 +5039,7 @@
     "section": "conference",
     "number": 93,
     "cv_label": "C93",
-    "title": "Toward Inclusive Educational AI: Auditing Frontier LLMs Through a Multiplexity Lens",
+    "title": "Towards Inclusive Educational AI: Auditing Frontier LLMs for Cultural Biases through a Multiplexity Lens",
     "authors": [
       "A. Mushtaq",
       "R. Naeem",
@@ -5027,7 +5057,7 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Toward Inclusive Educational AI: Auditing Frontier LLMs Through a Multiplexity Lens”, A. Mushtaq, R. Naeem, M. I. Taj, I. Ghaznavi, J. Qadir, 2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom, April 2025. .",
+    "plain": "“Towards Inclusive Educational AI: Auditing Frontier LLMs for Cultural Biases through a Multiplexity Lens”, A. Mushtaq, R. Naeem, M. I. Taj, I. Ghaznavi, J. Qadir, 2025 IEEE Global Engineering Education Conference (EDUCON 2025), London, United Kingdom, April 2025. .",
     "slug": "2025-mushtaq-inclusive-educational-ai-auditing"
   },
   {
@@ -5920,7 +5950,7 @@
       "M. Rashid",
       "B. L. Tan"
     ],
-    "venue": "the 127th American Society of Engineering Education (ASEE) Annual Conference 2020",
+    "venue": "the 127th American Society for Engineering Education (ASEE) Annual Conference 2020",
     "year": 2020,
     "volume": null,
     "issue": null,
@@ -5930,7 +5960,7 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Outcome-Based Engineering Education: A Global Report of International OBE Accreditation and Assessment Practices”, J. Qadir, A. Shafi, A. Al-Fuqaha, A. M. Taha, K. A. Yau, J. Ponciano, S. Hussain, M. A. Imran, S. S. Muhammad, R. N. b. Rais, M. Rashid, and B. L. Tan, the 127th American Society of Engineering Education (ASEE) Annual Conference 2020.",
+    "plain": "“Outcome-Based Engineering Education: A Global Report of International OBE Accreditation and Assessment Practices”, J. Qadir, A. Shafi, A. Al-Fuqaha, A. M. Taha, K. A. Yau, J. Ponciano, S. Hussain, M. A. Imran, S. S. Muhammad, R. N. b. Rais, M. Rashid, and B. L. Tan, the 127th American Society for Engineering Education (ASEE) Annual Conference 2020.",
     "slug": "2020-qadir-outcome-engineering-education-global"
   },
   {
@@ -5948,7 +5978,7 @@
       "A. Al-Fuqaha",
       "M. A. Imran"
     ],
-    "venue": "the 127th American Society of Engineering Education (ASEE) Annual Conference 2020",
+    "venue": "the 127th American Society for Engineering Education (ASEE) Annual Conference 2020",
     "year": 2020,
     "volume": null,
     "issue": null,
@@ -5958,7 +5988,7 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“Leveraging the Force of Formative Assessment & Feedback for Effective Engineering Education”, J. Qadir, A. M. Taha, K. L. A. Yau, J. Ponciano, S. Hussain, A. Al-Fuqaha, M. A. Imran, the 127th American Society of Engineering Education (ASEE) Annual Conference 2020.",
+    "plain": "“Leveraging the Force of Formative Assessment & Feedback for Effective Engineering Education”, J. Qadir, A. M. Taha, K. L. A. Yau, J. Ponciano, S. Hussain, A. Al-Fuqaha, M. A. Imran, the 127th American Society for Engineering Education (ASEE) Annual Conference 2020.",
     "slug": "2020-qadir-leveraging-force-formative-assessment"
   },
   {
@@ -6253,17 +6283,19 @@
       "J. Qadir",
       "M. A. Imran"
     ],
-    "venue": "12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 Apr 2019",
+    "venue": "12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 April 2019.",
     "year": 2019,
     "volume": null,
     "issue": null,
     "pages": null,
     "doi": null,
     "arxiv": null,
-    "links": [],
-    "status": "accepted",
+    "links": [
+      "https://eprints.gla.ac.uk/179775/"
+    ],
+    "status": "published",
     "awards": [],
-    "plain": "“Online Interactivity Tools to Support Student Centered Learning in Large Classes”, S. Hussain, Q. H. Abbasi, S. I. Ansari, J. Qadir, M. A. Imran, 12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 Apr 2019. (Accepted for Publication)",
+    "plain": "“Online Interactivity Tools to Support Student Centered Learning in Large Classes”, S. Hussain, Q. H. Abbasi, S. I. Ansari, J. Qadir, M. A. Imran, 12th Annual University of Glasgow Learning and Teaching Conference, Glasgow, UK, 2-3 April 2019. .",
     "slug": "2019-hussain-online-interactivity-tools-support"
   },
   {
@@ -7439,7 +7471,7 @@
     "title": "An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom",
     "authors": [
       "J. Qadir",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "venue": "Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing",
     "year": 2026,
@@ -7451,7 +7483,7 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom,” J. Qadir and R. Senturk, in Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing, May 2026. ISBN: 9781035335862. .",
+    "plain": "“An Islamically-Inspired Critical Pedagogy in the AI Era: A Multiplex Framework for Fostering Wisdom,” J. Qadir and R. Sentürk, in Handbook of Critical Studies of Artificial Intelligence and Education, Elgar Handbooks in Education (Editor: Wayne Holmes), Edward Elgar Publishing, May 2026. ISBN: 9781035335862. .",
     "slug": "2026-qadir-islamically-inspired-critical-pedagogy"
   },
   {
@@ -7462,7 +7494,7 @@
     "title": "Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology",
     "authors": [
       "J. Qadir",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "venue": "AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier",
     "year": 2027,
@@ -7474,7 +7506,7 @@
     "links": [],
     "status": "forthcoming",
     "awards": [],
-    "plain": "“Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology,” J. Qadir and R. Senturk, in AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier, forthcoming, 2027.",
+    "plain": "“Multiplex Systemics for Wholeness-Making: Toward a More Holistic Philosophy of Educational Technology,” J. Qadir and R. Sentürk, in AI for Inclusive Education: Advancements in Assessment, Diagnosis, and Intervention (Editors: Somaya Al-Maadeed, Moutaz Saleh, and Rajesh Kumar M.), Elsevier, forthcoming, 2027.",
     "slug": "2026-qadir-multiplex-systemics-wholeness-making"
   },
   {
@@ -7485,7 +7517,7 @@
     "title": "Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy",
     "authors": [
       "J. Qadir",
-      "R. Senturk"
+      "R. Sentürk"
     ],
     "venue": "Taylor & Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali)",
     "year": 2026,
@@ -7494,10 +7526,12 @@
     "pages": null,
     "doi": null,
     "arxiv": null,
-    "links": [],
+    "links": [
+      "https://ssrn.com/abstract=5015109"
+    ],
     "status": "forthcoming",
     "awards": [],
-    "plain": "“Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy,” J. Qadir and R. Senturk, Taylor & Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali), forthcoming, 2026.",
+    "plain": "“Educating for the AI Era: Harnessing the Wild GenAI Horse through Multiplex AI Humanities and Critical AI Literacy,” J. Qadir and R. Sentürk, Taylor & Francis, Artificial Intelligence and the Future of Islamic Finance (Editors, Ahmet Faruk Aysan, Hussain Mohi Ud Din Qadri and Hassnian Ali), forthcoming, 2026. Preprint available at SSRN: .",
     "slug": "2026-qadir-educating-ai-era-harnessing"
   },
   {
@@ -7510,17 +7544,19 @@
       "J. Qadir",
       "M. R. Arshad"
     ],
-    "venue": "Ghazali on Education, Islamic Education Book Series (Editor: Recep Senturk), Brill",
+    "venue": "Ghazali on Education, Islamic Education Book Series (Editor: Recep Sentürk), Brill",
     "year": 2026,
     "volume": null,
     "issue": null,
     "pages": null,
     "doi": null,
     "arxiv": null,
-    "links": [],
+    "links": [
+      "https://ssrn.com/abstract=5015111"
+    ],
     "status": "forthcoming",
     "awards": [],
-    "plain": "“Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development,” J. Qadir and M. R. Arshad, in Ghazali on Education, Islamic Education Book Series (Editor: Recep Senturk), Brill, forthcoming, 2026.",
+    "plain": "“Ghazalian Project for the AI Era: Critical Islamic Framework for Guiding AI Development,” J. Qadir and M. R. Arshad, in Ghazali on Education, Islamic Education Book Series (Editor: Recep Sentürk), Brill, forthcoming, 2026. Preprint available at SSRN: .",
     "slug": "2026-qadir-ghazalian-project-ai-era"
   },
   {
@@ -7581,7 +7617,7 @@
     "section": "book-chapter",
     "number": 1,
     "cv_label": "BC1",
-    "title": "5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage",
+    "title": "Universal Access in 5G Networks: Potential Challenges and Opportunities for Urban and Rural Environments",
     "authors": [
       "S. A. Hassan",
       "M. Shahmeer Omar",
@@ -7598,38 +7634,39 @@
     "links": [],
     "status": "published",
     "awards": [],
-    "plain": "“5G For Universal Access: Challenges and Opportunities for Urban/Rural Coverage”, S. A. Hassan, M. Shahmeer Omar, M. A. Imran, N. K. Jayakody, J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley, 2017. .",
-    "slug": "2017-hassan-5g-universal-access-challenges"
-  },
-  {
-    "code": "MI",
-    "section": "misc",
-    "number": 6,
-    "cv_label": "MI6",
-    "title": "On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition",
-    "authors": [
-      "T. Zubair",
-      "A. Raquib",
-      "J. Qadir"
-    ],
-    "venue": "“Islam and Civilization Renewal,” published by IAIS, Malaysia",
-    "year": 2019,
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "doi": "10.52282/icr.v10i2.42",
-    "arxiv": null,
-    "links": [],
-    "status": "accepted",
-    "awards": [],
-    "plain": "“On Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition”, T. Zubair, A. Raquib, J. Qadir, “Islam and Civilization Renewal,” published by IAIS, Malaysia, accepted for publication, October 2019. .",
-    "slug": "2019-zubair-combating-fake-news-misinformation"
+    "plain": "“Universal Access in 5G Networks: Potential Challenges and Opportunities for Urban and Rural Environments”, S. A. Hassan, M. Shahmeer Omar, M. A. Imran, N. K. Jayakody, J. Qadir in 5G Networks: Fundamental Requirements, Enabling Technologies, and Operations Management, IEEE Wiley, 2017. .",
+    "slug": "2017-hassan-universal-access-5g-networks"
   },
   {
     "code": "MI",
     "section": "misc",
     "number": 5,
     "cv_label": "MI5",
+    "title": "Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition",
+    "authors": [
+      "T. Zubair",
+      "A. Raquib",
+      "J. Qadir",
+      "Islam"
+    ],
+    "venue": "Civilisational Renewal (ICR), published by IAIS Malaysia",
+    "year": 2019,
+    "volume": "10",
+    "issue": "2",
+    "pages": "189–212",
+    "doi": "10.52282/icr.v10i2.42",
+    "arxiv": null,
+    "links": [],
+    "status": "published",
+    "awards": [],
+    "plain": "“Combating Fake News, Misinformation, and Machine Learning Generated Fakes: Insights from the Islamic Ethical Tradition”, T. Zubair, A. Raquib, J. Qadir, Islam and Civilisational Renewal (ICR), published by IAIS Malaysia, vol. 10, no. 2, pp. 189–212, December 2019. .",
+    "slug": "2019-zubair-combating-fake-news-misinformation"
+  },
+  {
+    "code": "MI",
+    "section": "misc",
+    "number": 4,
+    "cv_label": "MI4",
     "title": "Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective",
     "authors": [
       "J. Qadir",
@@ -7648,29 +7685,6 @@
     "awards": [],
     "plain": "“Spiritual Excellence (Ihsan) for Professionals: A Hadith-Based Perspective”, J. Qadir, A. Raquib, H. Saeed, in Handbook of Ethics of Islamic Economics and Finance, ed. Zamir Iqbal, Kazem Sadr, and Abbas Mirakhor (Berlin: De Gruyter, 2020), pp. 217–237. .",
     "slug": "2020-qadir-spiritual-excellence-ihsan-professionals"
-  },
-  {
-    "code": "MI",
-    "section": "misc",
-    "number": 4,
-    "cv_label": "MI4",
-    "title": "Sustainable Development Viewed from the Lens of Islam",
-    "authors": [
-      "J. Qadir",
-      "A. Zaman"
-    ],
-    "venue": "Inderscience International Journal of Pluralism and Economics Education (IJPEE)",
-    "year": 2019,
-    "volume": "10",
-    "issue": null,
-    "pages": null,
-    "doi": "10.1504/ijpee.2019.098181",
-    "arxiv": null,
-    "links": [],
-    "status": "published",
-    "awards": [],
-    "plain": "“Sustainable Development Viewed from the Lens of Islam”, J. Qadir and A. Zaman, Inderscience International Journal of Pluralism and Economics Education (IJPEE), Vol. 10, No. 1, 2019. .",
-    "slug": "2019-qadir-sustainable-development-viewed-lens-b"
   },
   {
     "code": "MI",
@@ -7711,10 +7725,12 @@
     "pages": "33–44",
     "doi": null,
     "arxiv": null,
-    "links": [],
+    "links": [
+      "https://ssrn.com/abstract=3015107"
+    ],
     "status": "published",
     "awards": [],
-    "plain": "“The Islamic Worldview and Development Ideals”, J. Qadir, Journal of Islamic Banking and Finance, Volume 35, Number 1, Jan–Mar 2018, pp 33–44.",
+    "plain": "“The Islamic Worldview and Development Ideals”, J. Qadir, Journal of Islamic Banking and Finance, Volume 35, Number 1, Jan–Mar 2018, pp 33–44. Preprint available at SSRN: .",
     "slug": "2018-qadir-islamic-worldview-development-ideals"
   },
   {
@@ -7739,6 +7755,59 @@
     "awards": [],
     "plain": "“Putting Social Justice First: The Case of Islamic Economics”, A. Zaman, J. Qadir, Journal of Islamic Banking & Finance. Oct–Dec 2017, Vol. 34, Issue 4, pp 87–99. 13p; World Economics Association (WEA) Conferences, No. 2 2016, Food and Justice, 5th November to 5th December 2016",
     "slug": "2016-zaman-putting-social-justice-first"
+  },
+  {
+    "code": "I",
+    "section": "informal",
+    "number": 6,
+    "cv_label": "I6",
+    "title": "A Multiplex Framework for Responsible AI-Augmented Mental Healthcare: Integrating TIIP with Ethical AI",
+    "authors": [
+      "J. Qadir",
+      "H. Keshavarzi",
+      "R. Sentürk",
+      "A. Abd-Alrazaq",
+      "I. Ghaznavi"
+    ],
+    "venue": "SSRN working paper",
+    "year": 2026,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "arxiv": null,
+    "links": [
+      "https://ssrn.com/abstract=6747600"
+    ],
+    "status": "published",
+    "awards": [],
+    "plain": "“A Multiplex Framework for Responsible AI-Augmented Mental Healthcare: Integrating TIIP with Ethical AI”, J. Qadir, H. Keshavarzi, R. Sentürk, A. Abd-Alrazaq, I. Ghaznavi, SSRN working paper, May 2026. Preprint available at SSRN: .",
+    "slug": "2026-qadir-multiplex-framework-responsible-ai"
+  },
+  {
+    "code": "I",
+    "section": "informal",
+    "number": 5,
+    "cv_label": "I5",
+    "title": "The Philosophy of Islamic Legislation: Science of the Secrets of Religion in the Light of the Waliullahi School of Thought",
+    "authors": [
+      "J. Qadir",
+      "M. A. K. Azad"
+    ],
+    "venue": "SSRN working paper",
+    "year": 2025,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "arxiv": null,
+    "links": [
+      "https://ssrn.com/abstract=5615292"
+    ],
+    "status": "published",
+    "awards": [],
+    "plain": "“The Philosophy of Islamic Legislation: Science of the Secrets of Religion in the Light of the Waliullahi School of Thought”, J. Qadir and M. A. K. Azad, SSRN working paper, October 2025. Preprint available at SSRN: .",
+    "slug": "2025-qadir-philosophy-islamic-legislation-science"
   },
   {
     "code": "I",

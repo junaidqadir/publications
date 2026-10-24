@@ -138,12 +138,12 @@
         "src": "crossref"
       },
       {
-        "doi": "10.3390/s23042346",
-        "title": "Selective Deeply Supervised Multi-Scale Attention Network for Brain Tumor Segmentation",
-        "year": 2023,
+        "doi": "10.1016/j.ygeno.2015.11.002",
+        "title": "ChromClust: A semi-supervised chromatin clustering toolkit for mining histone modifications interplay",
+        "year": 2015,
         "type": "journal-article",
-        "container": "Sensors",
-        "publisher": "MDPI AG",
+        "container": "Genomics",
+        "publisher": "Elsevier BV",
         "qadir": true,
         "sim": 0.18,
         "src": "crossref"
